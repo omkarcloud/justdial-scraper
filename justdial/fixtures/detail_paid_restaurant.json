@@ -1,0 +1,2324 @@
+{
+ "isVendor": false,
+ "userLocation": {
+  "area": "",
+  "pincode": "",
+  "lat": "",
+  "long": "",
+  "city": "Nashik"
+ },
+ "query": {
+  "city": "Mumbai",
+  "search": "x",
+  "docid": "022PXX22.XX22.140804130028.J6U9"
+ },
+ "pd": "7a23607475696e7368726465233b67606d72642d2365607560233b7a7c7c",
+ "pageConfig": {
+  "pageName": "details",
+  "rewriteLocationCookies": true
+ },
+ "nearmeCity": "Mumbai",
+ "resultsAreaInfo": {
+  "area": "",
+  "areaUpdatedByListing": ""
+ },
+ "akmData": {
+  "Continent": "AS",
+  "Ak_City": "LUDHIANA",
+  "Cntry": "IN"
+ },
+ "referer": "gen",
+ "askLoc": 0,
+ "bot": 0,
+ "results": {
+  "results": {
+   "contactperson": "Mr Janak Chandulal Rathod (Director),Mr Neelofer Yezdan Irani (Director)",
+   "name": "Mao Family Restaurant",
+   "email": "vickymilf@yahoo.co.in",
+   "mobile": "",
+   "tollfree": "",
+   "contact": "",
+   "fax": "",
+   "website": "www.maofamilyrestaurant.com",
+   "address": "Ground Floor. 534/536 Beram Mahal, Dhobitalao, Near Theatre, Lohar Chawl, Kalbadevi, Mumbai-400002, Maharashtra",
+   "landmark": "Near Theatre",
+   "complat": "18.944402",
+   "complong": "72.829283",
+   "mappointer": "1",
+   "startlat": "",
+   "startlong": "",
+   "comprating": "4.2",
+   "rating": "4.2",
+   "HoursOfOperation": "Mon - Sun :- 11:00 am - 1:00 am",
+   "Catalogue": {
+    "dn": [
+     "https://content.jdmagicbox.com"
+    ],
+    "res": [
+     {
+      "imgUrl": "mao-family-restaurant-dhobi-talao-mumbai-north-indian-restaurants-fqj1km1qaf-pc-164722078-sco-43rcw5qc",
+      "pid": "164722078",
+      "upload_by": "",
+      "create_date": "",
+      "user_profile": "",
+      "jduid": "",
+      "f_date": "2020-07-28 20:09:12",
+      "tag_order": 0,
+      "docid": "022Pxx22.Xx22.140804130028.J6U9",
+      "type": "contract",
+      "pid_prefix": "",
+      "sub_tab": "",
+      "pp": "1",
+      "pl1": "2",
+      "pl2": null,
+      "pred": "2",
+      "quality": "13.756",
+      "cat_id": "",
+      "height": "367",
+      "width": "512",
+      "aspect_ratio": "512:367",
+      "score": "13.756",
+      "sharedt_url": "",
+      "photo_type_flag": "0",
+      "catalogue_id": "14713163",
+      "jdmartid": "",
+      "ncid": "",
+      "psv_node_id": "",
+      "image3d": [],
+      "showcase": [],
+      "pavideo": [],
+      "tag_arr": [
+       "food"
+      ],
+      "tag": "food",
+      "sub_tag": "",
+      "altTxt": "",
+      "io": "/v2/comp/mumbai/u9/022pxx22.xx22.140804130028.j6u9/catalogue/mao-family-restaurant-dhobi-talao-mumbai-north-indian-restaurants-fqj1km1qaf.jpg",
+      "do": "33",
+      "it": "/v2/comp/mumbai/u9/022pxx22.xx22.140804130028.j6u9/catalogue/mao-family-restaurant-dhobi-talao-mumbai-north-indian-restaurants-fqj1km1qaf-250.jpg",
+      "in": "",
+      "il": "Food",
+      "id": ""
+     },
+     {
+      "imgUrl": "mao-family-restaurant-kalbadevi-mumbai-north-indian-restaurants-xt6ulyfqlj-pc-477006301-sco-43rcw5qc",
+      "pid": "477006301",
+      "upload_by": "Uploaded By: Business Owner",
+      "create_date": "8 months ago",
+      "user_profile": "https://content1.jdmagicbox.com/lme/1x2sgtn5hcasg/profile-l.jpg?v=1",
+      "jduid": "9092101021500004000",
+      "f_date": "2026-02-27 16:23:17",
+      "tag_order": 0,
+      "docid": "022PXX22.XX22.140804130028.J6U9",
+      "type": "contract",
+      "pid_prefix": "",
+      "sub_tab": "",
+      "pp": "0",
+      "pl1": "0",
+      "pl2": null,
+      "pred": "0",
+      "quality": "60",
+      "cat_id": "",
+      "height": "1113",
+      "width": "1728",
+      "aspect_ratio": "576:371",
+      "score": "60",
+      "sharedt_url": "",
+      "photo_type_flag": "-1",
+      "catalogue_id": "14713163",
+      "jdmartid": "",
+      "ncid": "",
+      "psv_node_id": "",
+      "image3d": [],
+      "showcase": [],
+      "pavideo": [],
+      "tag_arr": [
+       "others",
+       "By Owner"
+      ],
+      "tag": "others",
+      "sub_tag": "",
+      "altTxt": "",
+      "io": "/v2/comp/mumbai/u9/022pxx22.xx22.140804130028.j6u9/catalogue/mao-family-restaurant-kalbadevi-mumbai-north-indian-restaurants-xt6ulyfqlj.jpg",
+      "do": "999",
+      "it": "/v2/comp/mumbai/u9/022pxx22.xx22.140804130028.j6u9/catalogue/mao-family-restaurant-kalbadevi-mumbai-north-indian-restaurants-xt6ulyfqlj-250.jpg",
+      "in": "",
+      "il": "Others",
+      "id": ""
+     },
+     {
+      "imgUrl": "mao-family-restaurant-kalbadevi-mumbai-north-indian-restaurants-ctz0j8wcku-pc-477002950-sco-43rcw5qc",
+      "pid": "477002950",
+      "upload_by": "Uploaded By: Business Owner",
+      "create_date": "8 months ago",
+      "user_profile": "https://content1.jdmagicbox.com/lme/1x2sgtn5hcasg/profile-l.jpg?v=1",
+      "jduid": "9092101021500004000",
+      "f_date": "2026-02-27 16:08:26",
+      "tag_order": 0,
+      "docid": "022PXX22.XX22.140804130028.J6U9",
+      "type": "contract",
+      "pid_prefix": "",
+      "sub_tab": "",
+      "pp": "0",
+      "pl1": "0",
+      "pl2": null,
+      "pred": "0",
+      "quality": "57.232",
+      "cat_id": "",
+      "height": "1296",
+      "width": "1728",
+      "aspect_ratio": "4:3",
+      "score": "57.232",
+      "sharedt_url": "",
+      "photo_type_flag": "1",
+      "catalogue_id": "14713163",
+      "jdmartid": "",
+      "ncid": "",
+      "psv_node_id": "",
+      "image3d": [],
+      "showcase": [],
+      "pavideo": [],
+      "tag_arr": [
+       "others"
+      ],
+      "tag": "others",
+      "sub_tag": "",
+      "altTxt": "",
+      "io": "/v2/comp/mumbai/u9/022pxx22.xx22.140804130028.j6u9/catalogue/mao-family-restaurant-kalbadevi-mumbai-north-indian-restaurants-ctz0j8wcku.jpg",
+      "do": "999",
+      "it": "/v2/comp/mumbai/u9/022pxx22.xx22.140804130028.j6u9/catalogue/mao-family-restaurant-kalbadevi-mumbai-north-indian-restaurants-ctz0j8wcku-250.jpg",
+      "in": "",
+      "il": "Others",
+      "id": ""
+     },
+     {
+      "imgUrl": "mao-family-restaurant-kalbadevi-mumbai-north-indian-restaurants-0t7najk1vm-pc-477003422-sco-43rcw5qc",
+      "pid": "477003422",
+      "upload_by": "Uploaded By: Business Owner",
+      "create_date": "8 months ago",
+      "user_profile": "https://content1.jdmagicbox.com/lme/1x2sgtn5hcasg/profile-l.jpg?v=1",
+      "jduid": "9092101021500004000",
+      "f_date": "2026-02-27 16:10:35",
+      "tag_order": 0,
+      "docid": "022PXX22.XX22.140804130028.J6U9",
+      "type": "contract",
+      "pid_prefix": "",
+      "sub_tab": "",
+      "pp": "0",
+      "pl1": "0",
+      "pl2": null,
+      "pred": "0",
+      "quality": "56.196",
+      "cat_id": "",
+      "height": "896",
+      "width": "1728",
+      "aspect_ratio": "27:14",
+      "score": "56.196",
+      "sharedt_url": "",
+      "photo_type_flag": "-1",
+      "catalogue_id": "14713163",
+      "jdmartid": "",
+      "ncid": "",
+      "psv_node_id": "",
+      "image3d": [],
+      "showcase": [],
+      "pavideo": [],
+      "tag_arr": [
+       "others",
+       "By Owner"
+      ],
+      "tag": "others",
+      "sub_tag": "",
+      "altTxt": "",
+      "io": "/v2/comp/mumbai/u9/022pxx22.xx22.140804130028.j6u9/catalogue/mao-family-restaurant-kalbadevi-mumbai-north-indian-restaurants-0t7najk1vm.jpg",
+      "do": "999",
+      "it": "/v2/comp/mumbai/u9/022pxx22.xx22.140804130028.j6u9/catalogue/mao-family-restaurant-kalbadevi-mumbai-north-indian-restaurants-0t7najk1vm-250.jpg",
+      "in": "",
+      "il": "Others",
+      "id": ""
+     },
+     {
+      "imgUrl": "mao-family-restaurant-dhobi-talao-mumbai-home-delivery-restaurants-2x28r2n-pc-43724189-sco-43rcw5qc",
+      "pid": "43724189",
+      "upload_by": "",
+      "create_date": "",
+      "user_profile": "",
+      "jduid": "",
+      "f_date": "2016-10-07 18:46:36",
+      "tag_order": 0,
+      "docid": "022PXX22.XX22.140804130028.J6U9",
+      "type": "contract",
+      "pid_prefix": "",
+      "sub_tab": "",
+      "pp": "2",
+      "pl1": "2",
+      "pl2": null,
+      "pred": "2",
+      "quality": "54.887",
+      "cat_id": "",
+      "height": "685",
+      "width": "1026",
+      "aspect_ratio": "1026:685",
+      "score": "54.887",
+      "sharedt_url": "",
+      "photo_type_flag": "0",
+      "catalogue_id": "8403025",
+      "jdmartid": "",
+      "ncid": "",
+      "psv_node_id": "",
+      "image3d": [],
+      "showcase": [],
+      "pavideo": [],
+      "tag_arr": [
+       "food"
+      ],
+      "tag": "food",
+      "sub_tag": "",
+      "altTxt": "",
+      "io": "/v2/comp/mumbai/u9/022pxx22.xx22.140804130028.j6u9/catalogue/mao-family-restaurant-dhobi-talao-mumbai-home-delivery-restaurants-2x28r2n.jpg",
+      "do": "49",
+      "it": "/v2/comp/mumbai/u9/022pxx22.xx22.140804130028.j6u9/catalogue/mao-family-restaurant-dhobi-talao-mumbai-home-delivery-restaurants-2x28r2n-250.jpg",
+      "in": "Food Dish",
+      "il": "Food",
+      "id": ""
+     },
+     {
+      "imgUrl": "mao-family-restaurant-dhobi-talao-mumbai-home-delivery-restaurants-214h7l0-pc-43724179-sco-43rcw5qc",
+      "pid": "43724179",
+      "upload_by": "",
+      "create_date": "",
+      "user_profile": "",
+      "jduid": "",
+      "f_date": "2016-10-07 18:45:55",
+      "tag_order": 0,
+      "docid": "022PXX22.XX22.140804130028.J6U9",
+      "type": "contract",
+      "pid_prefix": "",
+      "sub_tab": "",
+      "pp": "2",
+      "pl1": "2",
+      "pl2": null,
+      "pred": "2",
+      "quality": "53.174",
+      "cat_id": "",
+      "height": "685",
+      "width": "1026",
+      "aspect_ratio": "1026:685",
+      "score": "53.174",
+      "sharedt_url": "",
+      "photo_type_flag": "0",
+      "catalogue_id": "8403025",
+      "jdmartid": "",
+      "ncid": "",
+      "psv_node_id": "",
+      "image3d": [],
+      "showcase": [],
+      "pavideo": [],
+      "tag_arr": [
+       "food"
+      ],
+      "tag": "food",
+      "sub_tag": "",
+      "altTxt": "",
+      "io": "/v2/comp/mumbai/u9/022pxx22.xx22.140804130028.j6u9/catalogue/mao-family-restaurant-dhobi-talao-mumbai-home-delivery-restaurants-214h7l0.jpg",
+      "do": "45",
+      "it": "/v2/comp/mumbai/u9/022pxx22.xx22.140804130028.j6u9/catalogue/mao-family-restaurant-dhobi-talao-mumbai-home-delivery-restaurants-214h7l0-250.jpg",
+      "in": "Food Dish",
+      "il": "Food",
+      "id": ""
+     },
+     {
+      "imgUrl": "mao-family-restaurant-dhobi-talao-mumbai-north-indian-restaurants-wap54a8wqd-pc-175092213-sco-43rcw5qc",
+      "pid": "175092213",
+      "upload_by": "",
+      "create_date": "",
+      "user_profile": "",
+      "jduid": "",
+      "f_date": "2020-10-25 16:45:48",
+      "tag_order": 0,
+      "docid": "022PXX22.XX22.140804130028.J6U9",
+      "type": "contract",
+      "pid_prefix": "",
+      "sub_tab": "",
+      "pp": "0",
+      "pl1": "2",
+      "pl2": null,
+      "pred": "2",
+      "quality": "52.494",
+      "cat_id": "",
+      "height": "540",
+      "width": "720",
+      "aspect_ratio": "4:3",
+      "score": "52.494",
+      "sharedt_url": "",
+      "photo_type_flag": "0",
+      "catalogue_id": "14713163",
+      "jdmartid": "",
+      "ncid": "",
+      "psv_node_id": "",
+      "image3d": [],
+      "showcase": [],
+      "pavideo": [],
+      "tag_arr": [
+       "food",
+       "By Owner"
+      ],
+      "tag": "food",
+      "sub_tag": "",
+      "altTxt": "",
+      "io": "/v2/comp/mumbai/u9/022pxx22.xx22.140804130028.j6u9/catalogue/mao-family-restaurant-dhobi-talao-mumbai-north-indian-restaurants-wap54a8wqd.jpg",
+      "do": "11",
+      "it": "/v2/comp/mumbai/u9/022pxx22.xx22.140804130028.j6u9/catalogue/mao-family-restaurant-dhobi-talao-mumbai-north-indian-restaurants-wap54a8wqd-250.jpg",
+      "in": "",
+      "il": "Food",
+      "id": "(Image: Facebook)"
+     }
+    ],
+    "tot": 110
+   },
+   "videoUrl": "",
+   "overallRatingsChart": "",
+   "ratingsOverTimeChart": "",
+   "paymentModes": "Cash",
+   "AlsoListedIn": [
+    {
+     "category": "Restaurants",
+     "categoryln": "Restaurants",
+     "catid": "10408936",
+     "nid": "10408936",
+     "filterflag": 0,
+     "jdmid": "",
+     "url": "/Mumbai/Restaurants-in-Kalbadevi/nct-10408936",
+     "inapp": 1
+    },
+    {
+     "category": "North Indian Restaurants",
+     "categoryln": "North Indian Restaurants",
+     "catid": "10339065",
+     "nid": "10339065",
+     "filterflag": 0,
+     "jdmid": "",
+     "url": "/Mumbai/North-Indian-Restaurants-in-Kalbadevi/nct-10339065",
+     "inapp": 1
+    },
+    {
+     "category": "Chinese Restaurants",
+     "categoryln": "Chinese Restaurants",
+     "catid": "10097618",
+     "nid": "10097618",
+     "filterflag": 0,
+     "jdmid": "",
+     "url": "/Mumbai/Chinese-Restaurants-in-Kalbadevi/nct-10097618",
+     "inapp": 1
+    },
+    {
+     "category": "Home Delivery Restaurants",
+     "categoryln": "Home Delivery Restaurants",
+     "catid": "10250324",
+     "nid": "10250324",
+     "filterflag": 0,
+     "jdmid": "",
+     "url": "/Mumbai/Home-Delivery-Restaurants-in-Kalbadevi/nct-10250324",
+     "inapp": 1
+    },
+    {
+     "category": "Tandoori Restaurants",
+     "categoryln": "Tandoori Restaurants",
+     "catid": "10470790",
+     "nid": "10470790",
+     "filterflag": 0,
+     "jdmid": "",
+     "url": "/Mumbai/Tandoori-Restaurants-in-Kalbadevi/nct-10470790",
+     "inapp": 1
+    },
+    {
+     "category": "Inexpensive Restaurants Below Rs 500",
+     "categoryln": "Inexpensive Restaurants Below Rs 500",
+     "catid": "11400089",
+     "nid": "11400089",
+     "filterflag": 0,
+     "jdmid": "",
+     "url": "/Mumbai/Inexpensive-Restaurants-Below-Rs-500-in-Kalbadevi/nct-11400089",
+     "inapp": 1
+    },
+    {
+     "category": "Moderate Restaurants Rs 500 To Rs 1000",
+     "categoryln": "Moderate Restaurants Rs 500 To Rs 1000",
+     "catid": "11399978",
+     "nid": "11399978",
+     "filterflag": 0,
+     "jdmid": "",
+     "url": "/Mumbai/Moderate-Restaurants-Rs-500-To-Rs-1000-in-Kalbadevi/nct-11399978",
+     "inapp": 1
+    },
+    {
+     "category": "Biryani Restaurants",
+     "categoryln": "Biryani Restaurants",
+     "catid": "10047018",
+     "nid": "10047018",
+     "filterflag": 0,
+     "jdmid": "",
+     "url": "/Mumbai/Biryani-Restaurants-in-Kalbadevi/nct-10047018",
+     "inapp": 1
+    },
+    {
+     "category": "Non Veg Restaurants",
+     "categoryln": "Non Veg Restaurants",
+     "catid": "10338914",
+     "nid": "10338914",
+     "filterflag": 0,
+     "jdmid": "",
+     "url": "/Mumbai/Non-Veg-Restaurants-in-Kalbadevi/nct-10338914",
+     "inapp": 1
+    },
+    {
+     "category": "Sea Food Restaurants",
+     "categoryln": "Sea Food Restaurants",
+     "catid": "10424728",
+     "nid": "10424728",
+     "filterflag": 0,
+     "jdmid": "",
+     "url": "/Mumbai/Sea-Food-Restaurants-in-Kalbadevi/nct-10424728",
+     "inapp": 1
+    }
+   ],
+   "totalReviews": "10,055",
+   "Reviews": [
+    {
+     "reviewer_name": "Mandar Suryavanshi",
+     "review_text": "I visited Mao Family Restaurant for dinner, and it was excellent! The service was great; my food arrived in just 10-20 minutes. The cuisine was very authentic and delicious. I loved the live music, too! There was a little wait for a table, about 10-20 minutes, but it was worth it. They also have valet parking. I will come back again!",
+     "review_rate": "5",
+     "time": "22nd October, 2026",
+     "reviewer_mobile": "Mandar-Suryavanshi-Suryavanshi-y7LDdwjBV2NyvRVRb1YK",
+     "reviewer_email": "",
+     "reviewer_photo": "https://content.jdmagicbox.com/mobile-t/icon/jdsocial/user10.png",
+     "act_time": "3 days"
+    },
+    {
+     "reviewer_name": "Jai",
+     "review_text": "Mao Family Restaurant exceeded my expectations with its delightful blend of flavors and generous portions. The warm ambiance and attentive service created a welcoming atmosphere. Every dish was crafted with care, showcasing authentic cuisine that felt both comforting and innovative. With reasonable prices for the quality, it`s truly worth every penny! Highly recommend!",
+     "review_rate": "5",
+     "time": "29th September, 2026",
+     "reviewer_mobile": "Jai-MVWPe98kll6Z0Y6BdLyw",
+     "reviewer_email": "",
+     "reviewer_photo": "https://content1.jdmagicbox.com/lme/1x2xe4o1srk8k/goog-l.jpg?v=1",
+     "act_time": "26 days"
+    },
+    {
+     "reviewer_name": "rahul",
+     "review_text": "Mao Family Restaurant is truly a gem! The freshness of their food is unmatched; you can taste the quality in every bite. From flavorful curries to perfectly cooked rice, each dish reflects their commitment to authentic flavors. The ambiance is warm and inviting, making it a perfect spot for family gatherings or casual dining. Highly recommend it for anyone seeking delicious and fresh Indian cuisine!",
+     "review_rate": "5",
+     "time": "10th September, 2026",
+     "reviewer_mobile": "rahul-gK4oeElynYAwqwqWd0By",
+     "reviewer_email": "",
+     "reviewer_photo": "https://content.jdmagicbox.com/mobile-t/icon/jdsocial/user68.png",
+     "act_time": "2 months"
+    },
+    {
+     "reviewer_name": "abdul",
+     "review_text": "I recently dined at Mao Family Restaurant, and I must say it was a disappointing experience. The food tasted mediocre at best, lacking any real flavor or creativity. Service was slow, and the ambiance felt dull and uninspired. For a family outing, I expected more. If you`re looking for a memorable meal, I`d recommend looking elsewhere. Save your time and money; this restaurant simply doesn`t deliver on its promises.",
+     "review_rate": "1",
+     "time": "21st June, 2026",
+     "reviewer_mobile": "abdul-qnkEKQe1GBRPLPbJYvV0",
+     "reviewer_email": "",
+     "reviewer_photo": "https://content.jdmagicbox.com/mobile-t/icon/jdsocial/user13.png",
+     "act_time": "4 months"
+    },
+    {
+     "reviewer_name": "RAHUL",
+     "review_text": "Mao Family Restaurant is excellent! The staff is very friendly and trained well. They know the menu and help you pick the best dishes. Service is fast, and they always smile. I felt welcome and happy during my meal. The staff makes a big difference here! I will come back soon to enjoy more great food with their wonderful service.",
+     "review_rate": "5",
+     "time": "1st May, 2026",
+     "reviewer_mobile": "RAHUL-qmQO5xe71YXVOwb7rJX0",
+     "reviewer_email": "",
+     "reviewer_photo": "https://content.jdmagicbox.com/mobile-t/icon/jdsocial/user46.png",
+     "act_time": "6 months"
+    },
+    {
+     "reviewer_name": "debasis sahoo",
+     "review_text": "Mao Family Restaurant is great! Booking a table is very easy. You can call or use their website. The staff is friendly and helps quickly. I booked a table for my family, and it was simple. We had no wait when we arrived. I love how fast and nice it was! If you want to eat good food without stress, go to Mao Family Restaurant! Highly recommend!",
+     "review_rate": "5",
+     "time": "13th April, 2026",
+     "reviewer_mobile": "debasis-sahoo-NJAPdRgzmv8Rl2WqeGyO",
+     "reviewer_email": "",
+     "reviewer_photo": "https://content.jdmagicbox.com/mobile-t/icon/jdsocial/user83.png",
+     "act_time": "7 months"
+    },
+    {
+     "reviewer_name": "Jegadev Bommuraj",
+     "review_text": "I visited Mao Family Restaurant. It is a nice place to eat. The restaurant is child-friendly, which means kids can enjoy their time there. The food portions are good, so you get a lot for your money. The atmosphere is friendly and warm. Overall, I had a great experience at Mao Family Restaurant!",
+     "review_rate": "5",
+     "time": "11th April, 2026",
+     "reviewer_mobile": "Jegadev-Bommuraj-BWJxboYxBJQr6v7NegwO",
+     "reviewer_email": "",
+     "reviewer_photo": "https://content.jdmagicbox.com/lme/1x2wemsc66kpq/profile-l.jpg?v=48",
+     "act_time": "7 months"
+    },
+    {
+     "reviewer_name": "shahnawaz farooqui",
+     "review_text": "I had a great experience at Mao Family Restaurant. The food was very good, and there was a lot to choose from. The staff were friendly and helpful. I enjoyed my meal and felt happy with the service. The restaurant was clean and nice. I would love to visit again!",
+     "review_rate": "5",
+     "time": "1st December, 2025",
+     "reviewer_mobile": "shahnawaz-farooqui-BWJxboYG61LApvD3egwO",
+     "reviewer_email": "",
+     "reviewer_photo": "https://content.jdmagicbox.com/mobile-t/icon/jdsocial/user56.png",
+     "act_time": "11 months"
+    },
+    {
+     "reviewer_name": "Tanmoy chakraborty",
+     "review_text": "Mao Family Restaurant offers a delightful dining experience with exceptional service that stands out. The staff is attentive and friendly, ensuring that every visit feels special. The menu features a variety of dishes, each bursting with flavor. Whether you`re craving classic favorites or trying something new, Mao`s has you covered. The cozy ambiance adds to the overall charm, making it a great spot for family gatherings or casual meals. Highly recommend!",
+     "review_rate": "3",
+     "time": "26th November, 2025",
+     "reviewer_mobile": "Tanmoy-chakraborty-VoBDbDRyKoVQ5NwYel2E",
+     "reviewer_email": "",
+     "reviewer_photo": "https://content.jdmagicbox.com/mobile-t/icon/jdsocial/user98.png",
+     "act_time": "11 months"
+    },
+    {
+     "reviewer_name": "vivek madeshiya",
+     "review_text": "Mao Family Restaurant has very stale food. The bread was hard and old. The vegetables looked bad and tasted funny. I did not enjoy my meal at all. The service was slow, too. I felt disappointed and unhappy after eating there. I do not recommend this restaurant for anyone who wants fresh food. It is a big letdown!",
+     "review_rate": "1",
+     "time": "21st September, 2025",
+     "reviewer_mobile": "vivek-madeshiya-XyMYer0L95AzKNMwbOBQ",
+     "reviewer_email": "",
+     "reviewer_photo": "https://content.jdmagicbox.com/mobile-t/icon/jdsocial/user97.png",
+     "act_time": "1 year"
+    }
+   ],
+   "services": {
+    "Serves": [
+     {
+      "att": "Non Veg",
+      "val": "",
+      "image": "",
+      "avl": "1",
+      "url": "/Mumbai/Non-Veg-Restaurants-in-Kalbadevi/nct-10338914"
+     },
+     {
+      "att": "Halal Meat",
+      "val": "",
+      "image": "",
+      "avl": "1",
+      "url": "/Mumbai/Halal-Restaurants-in-Kalbadevi/nct-11399406"
+     },
+     {
+      "att": "Thali",
+      "val": "",
+      "image": "",
+      "avl": "1",
+      "url": "/Mumbai/Thali-Restaurants-in-Kalbadevi/nct-10477830"
+     },
+     {
+      "att": "Sizzler",
+      "val": "",
+      "image": "",
+      "avl": "1",
+      "url": "/Mumbai/Sizzler-Restaurants-in-Kalbadevi/nct-10438595"
+     },
+     {
+      "att": "Kebab",
+      "val": "",
+      "image": "",
+      "avl": "1",
+      "url": "/Mumbai/Kebab-Restaurants-in-Kalbadevi/nct-12087289"
+     },
+     {
+      "att": "Fried Chicken",
+      "val": "",
+      "image": "",
+      "avl": "1",
+      "url": "/Mumbai/Fried-Chicken-Restaurants-in-Kalbadevi/nct-10217195"
+     },
+     {
+      "att": "Coffee",
+      "val": "",
+      "image": "",
+      "avl": "1",
+      "url": "/Mumbai/Coffee-Shops-in-Kalbadevi/nct-10104727"
+     },
+     {
+      "att": "Biryani",
+      "val": "",
+      "image": "",
+      "avl": "1",
+      "url": "/Mumbai/Biryani-Restaurants-in-Kalbadevi/nct-10047018"
+     },
+     {
+      "att": "Organic Food",
+      "val": "",
+      "image": "",
+      "avl": "1",
+      "url": "/Mumbai/Organic-Restaurants-in-Kalbadevi/nct-10885458"
+     },
+     {
+      "att": "Tandoori Dishes",
+      "val": "",
+      "image": "",
+      "avl": "1",
+      "url": "/Mumbai/Tandoori-Restaurants-in-Kalbadevi/nct-10470790"
+     },
+     {
+      "att": "Fast Food",
+      "val": "",
+      "image": "",
+      "avl": "1",
+      "url": "/Mumbai/Fast-Food-in-Kalbadevi/nct-10200860"
+     },
+     {
+      "att": "Rolls",
+      "val": "",
+      "image": "",
+      "avl": "1",
+      "url": "/Mumbai/Roll-Outlets-in-Kalbadevi/nct-11964122"
+     },
+     {
+      "att": "Desserts",
+      "val": "",
+      "image": "",
+      "avl": "1",
+      "url": "/Mumbai/Desserts-in-Kalbadevi/nct-10157864"
+     }
+    ],
+    "Special Offerings": [
+     {
+      "att": "Veg Options Available",
+      "val": "",
+      "image": "",
+      "avl": "1",
+      "url": "/Mumbai/Mughlai-Restaurants-With-Veg-Options-Available-in-Kalbadevi/nct-10331943-att-rest801"
+     },
+     {
+      "att": "Midnight Buffet",
+      "val": "",
+      "image": "",
+      "avl": "1",
+      "url": "/Mumbai/Midnight-Buffet-Restaurants-in-Kalbadevi/nct-10969996"
+     },
+     {
+      "att": "Barbeque",
+      "val": "",
+      "image": "",
+      "avl": "1",
+      "url": "/Mumbai/Barbeque-Restaurants-in-Kalbadevi/nct-10036463"
+     }
+    ],
+    "Amenities": [
+     {
+      "att": "Drive-Through",
+      "val": "",
+      "image": "https://akam.cdn.jdmagicbox.com/images/icons/iphone/new/drive-through_sc_icn.png",
+      "avl": "1",
+      "url": "/Mumbai/Mughlai-Restaurants-With-Drive-Through-in-Kalbadevi/nct-10331943-att-res40"
+     },
+     {
+      "att": "Wheel Chair Seating",
+      "val": "",
+      "image": "https://akam.cdn.jdmagicbox.com/images/icons/iphone/new/wheel_chair_seating_sc_icn.png",
+      "avl": "1",
+      "url": "/Mumbai/Mughlai-Restaurants-With-Wheel-Chair-Seating-in-Kalbadevi/nct-10331943-att-Rwchr"
+     },
+     {
+      "att": "Wheel Chair Accessible Washroom",
+      "val": "",
+      "image": "https://akam.cdn.jdmagicbox.com/images/icons/iphone/new/wheel_chair_accessible_washroom_sc_icn.png",
+      "avl": "1",
+      "url": "/Mumbai/Mughlai-Restaurants-With-Wheel-Chair-Accessible-Washroom-in-Kalbadevi/nct-10331943-att-pw5"
+     }
+    ],
+    "Dining Options": [
+     {
+      "att": "Breakfast",
+      "val": "",
+      "image": "",
+      "avl": "1",
+      "url": "/Mumbai/Breakfast-Restaurants-in-Kalbadevi/nct-11605361"
+     },
+     {
+      "att": "Lunch",
+      "val": "",
+      "image": "",
+      "avl": "1",
+      "url": "/Mumbai/Lunch-Restaurants-in-Kalbadevi/nct-11605363"
+     },
+     {
+      "att": "Brunch",
+      "val": "",
+      "image": "",
+      "avl": "1",
+      "url": "/Mumbai/Brunch-Restaurants-in-Kalbadevi/nct-10058478"
+     }
+    ],
+    "Crowd": [
+     {
+      "att": "Good Place for Kids",
+      "val": "",
+      "image": "",
+      "avl": "1",
+      "url": "/Mumbai/Kids-Friendly-Restaurants-in-Kalbadevi/nct-12091069"
+     },
+     {
+      "att": "Family Friendly",
+      "val": "",
+      "image": "",
+      "avl": "1",
+      "url": "/Mumbai/Family-Friendly-Mughlai-Restaurants-in-Kalbadevi/nct-10331943-att-res494"
+     },
+     {
+      "att": "Group Friendly",
+      "val": "",
+      "image": "",
+      "avl": "1",
+      "url": "/Mumbai/Group-Friendly-Mughlai-Restaurants-in-Kalbadevi/nct-10331943-att-pg7"
+     }
+    ],
+    "Services": [
+     {
+      "att": "Birthday / Group Parties",
+      "val": "",
+      "image": "",
+      "avl": "1",
+      "url": "/Mumbai/Mughlai-Restaurants-With-Birthday-Group-Parties-in-Kalbadevi/nct-10331943-att-Rbp"
+     },
+     {
+      "att": "Home Delivery",
+      "val": "",
+      "image": "",
+      "avl": "1",
+      "url": "/Mumbai/Home-Delivery-Restaurants-in-Kalbadevi/nct-10250324"
+     }
+    ],
+    "Seating Options": [
+     {
+      "att": "Indoor Seating",
+      "val": "",
+      "image": "",
+      "avl": "1",
+      "url": "/Mumbai/Mughlai-Restaurants-With-Indoor-Seating-in-Kalbadevi/nct-10331943-att-res491"
+     }
+    ],
+    "Atmosphere": [
+     {
+      "att": "Noise Level-Moderate",
+      "val": "",
+      "image": "",
+      "avl": "1"
+     }
+    ],
+    "Reservation": [
+     {
+      "att": "Booking-Not Required",
+      "val": "",
+      "image": "",
+      "avl": "1"
+     }
+    ]
+   },
+   "YOE": "2014",
+   "rateThis": "1",
+   "bd_detailshow": "",
+   "alsolist_counts": "55",
+   "data_city": "Mumbai",
+   "totJdReviews": "10055",
+   "opennow": 1,
+   "guarantee": "",
+   "verified": "1",
+   "building": "Dhobitalao",
+   "street": "Lohar Chawl",
+   "area": "Kalbadevi",
+   "pincode": "400002",
+   "VNumber": "09845262099",
+   "paidstatus": "1",
+   "aka": "",
+   "show_fav": 0,
+   "favactive": 0,
+   "shopfrontFlag": 0,
+   "city": "Mumbai",
+   "price_range": "1",
+   "other_city_num": [],
+   "sharedt_url": "\n Check out this on Justdial! \n https://jsdl.in/DT-43RCW5QC",
+   "Sharerating": "\n https://www.justdial.com/DT-43RCW5QC",
+   "closeddown_flag": 0,
+   "price_tag_d": "0-500",
+   "twitterNode": " \n Mao Family Restaurant \n https://www.justdial.com/DT-43RCW5QC",
+   "extra_info": {
+    "asflg": "",
+    "enflg": "",
+    "enid": "",
+    "shpfilter": "",
+    "shpcatid": "",
+    "price": "",
+    "dummy": "0",
+    "ccode": "",
+    "slat": 0,
+    "slong": 0,
+    "search_id": "691cdcd4ea5d7c3c07490e656feb3eed3f80e98a4f7894b6ab63625b3299c1ae",
+    "search_bdcatid": "",
+    "checkin": "1970-01-01"
+   },
+   "is_theatre": 0,
+   "bookmovieFlag": 0,
+   "website_type_flag": "2269529438683144",
+   "business_tag": "8796227240448",
+   "sub_type_flag": "64",
+   "type_flag_actions": "3",
+   "trd_flg": "0",
+   "shorturl": "43RCW5QC",
+   "d_logo": "https://content.jdmagicbox.com/mumbai/u9/022pxx22.xx22.140804130028.j6u9/logo/bhvougejucfg3cwvjgpnkzjewvkwfddz.jpg|$%$|https://content.jdmagicbox.com/mumbai/u9/022pxx22.xx22.140804130028.j6u9/logo/bhvougejucfg3cwvjgpnkzjewvkwfddz_t.jpg",
+   "attrstr": {
+    "key": [
+     "id",
+     "name",
+     "val"
+    ],
+    "val": [
+     [
+      "res147",
+      "Cuisines",
+      "Chinese,Punjabi,Multicuisine,Mughlai,Sea Food,North Indian,Arabic,Thai,Lebanese,Oriental,Fusion"
+     ],
+     [
+      "rdet01",
+      "Type",
+      "Delivery,Dine-in,Casual Dining,Take Away,Quick Bite Outlet"
+     ],
+     [
+      "res5",
+      "Average Cost",
+      "Price For Two: ₹ 650"
+     ],
+     [
+      "res27",
+      "Must Order",
+      "Caramel Custard"
+     ]
+    ]
+   },
+   "disp_pic": "https://content.jdmagicbox.com/v2/comp/mumbai/u9/022pxx22.xx22.140804130028.j6u9/catalogue/mao-family-restaurant-dhobi-talao-mumbai-north-indian-restaurants-fqj1km1qaf.jpg",
+   "cuisine": "Chinese,Punjabi,Multicuisine,Mughlai,Sea Food,North Indian,Arabic,Thai,Lebanese,Oriental,Fusion",
+   "d_menu": "1",
+   "hot_cat_info": "10331943|10331943|Mughlai Restaurants",
+   "gdocids": "022PXX22.XX22.140804130028.J6U9,022PXX22.XX22.141021182512.K9U6,022PXX22.XX22.190827112229.B6F1,022PXX22.XX22.220316115332.F8H9",
+   "rdocids": "",
+   "seo_title": "",
+   "seo_description": "",
+   "seo_keywords": "",
+   "offer_d": [],
+   "attr_v2": [],
+   "hide_address": "0",
+   "tp_rd_url": "{\"key\":[\"url\",\"tag\",\"dis_d\",\"dis_p\",\"pref\",\"img\",\"dis_n\",\"sdate\",\"edate\"],\"val\":[[\"https:\\/\\/maofamilyrestaurant.werafoods.com\\/\",\"Mao Family Restaurant\",\"GET 15% Flat Discount and Free Home Delivery\",0,1,\"https:\\/\\/akam.cdn.jdmagicbox.com\\/images\\/icons\\/mao-family-restaurant-logo1.png\",\"Offer\",\"0000-00-00\",\"0000-00-00\"],[\"https:\\/\\/www.zomato.com\\/mumbai\\/mao-family-restaurant-kalbadevi\\/order\",\"Zomato\",\"\",0,1,\"https:\\/\\/akam.cdn.jdmagicbox.com\\/images\\/icons\\/zomato.png\",\"\",\"0000-00-00\",\"0000-00-00\"],[\"https:\\/\\/www.swiggy.com\\/restaurants\\/mao-family-restaurant-kalbadevi-chowpatty-mumbai-50967\",\"Swiggy\",\"\",0,2,\"https:\\/\\/akam.cdn.jdmagicbox.com\\/images\\/icons\\/swiggy.png\",\"\",null,null]],\"value\":{\"8\":[[\"https:\\/\\/maofamilyrestaurant.werafoods.com\\/\",\"Mao Family Restaurant\",\"GET 15% Flat Discount and Free Home Delivery\",0,1,\"https:\\/\\/akam.cdn.jdmagicbox.com\\/images\\/icons\\/mao-family-restaurant-logo1.png\",\"Offer\",\"0000-00-00\",\"0000-00-00\"],[\"https:\\/\\/www.zomato.com\\/mumbai\\/mao-family-restaurant-kalbadevi\\/order\",\"Zomato\",\"\",0,1,\"https:\\/\\/akam.cdn.jdmagicbox.com\\/images\\/icons\\/zomato.png\",\"\",\"0000-00-00\",\"0000-00-00\"],[\"https:\\/\\/www.swiggy.com\\/restaurants\\/mao-family-restaurant-kalbadevi-chowpatty-mumbai-50967\",\"Swiggy\",\"\",0,2,\"https:\\/\\/akam.cdn.jdmagicbox.com\\/images\\/icons\\/swiggy.png\",\"\",null,null]]}}",
+   "blockforvirtual": "0",
+   "tag_cname": "Mughlai Restaurants",
+   "vdo": "[{\"url\":\"https:\\/\\/justdialvideos2.akamaized.net\\/delivery\\/f9\\/f3\\/f9f39d9e-2b79-4c90-bf0d-2f14ef0c74c9\\/slideshow-022PXX22.XX22.140804130028.J6U9-final10a15f6d-d41d-336d-92bd-7f952ffc66c3.m3u8\",\"thumb\":\"https:\\/\\/justdialvideos2.akamaized.net\\/images\\/f9\\/f3\\/f9f39d9e-2b79-4c90-bf0d-2f14ef0c74c9\\/slideshow-022PXX22.XX22.140804130028.J6U9-final_400x224_00h.00m.05s.jpg\",\"type\":\"slideshow\",\"asp\":\"16:9\",\"vid\":\"199106\",\"pid_prefix\":\"vdo\",\"sub_tab\":\"\",\"cat_id\":\"\",\"vd\":null,\"pp\":\"0\",\"upload_by\":\"\",\"create_date\":\"\",\"user_profile\":\"\",\"jduid\":\"\",\"f_date\":\"2018-03-13 11:13:51\",\"docid\":\"022PXX22.XX22.140804130028.J6U9\",\"catalogue_id\":\"14713163\",\"tag_arr\":[],\"tag\":\"\",\"dur\":\"01:51\",\"duration\":\"111\"}]",
+   "msg_num": "{\"wup\":[\"9619629860\"]}",
+   "social_medial_url": "www.facebook.com/maothefamilyrestaurant|~||~||~||~||~||~|",
+   "misc_flag": "8590080004",
+   "mid": "false",
+   "omni_data": "{\"dname\":\"demowebsite1695459642387826.yourownwebsite.in\",\"odname\":\"demowebsite1695459642387826.yourownwebsite.in\",\"dflg\":1,\"aflg\":1}",
+   "hop": {
+    "heading": "Business Hours",
+    "status": "<span class=\"font16 fw400 els color339\">Open</span> <span class=\"font16 fw400 color111\"> until 1:00 am</span>",
+    "hop": [
+     {
+      "day": "MON (Today)",
+      "today": 1,
+      "hours": "11:00 am - 1:00 am",
+      "hours_array": [
+       "11:00 am - 1:00 am"
+      ],
+      "holiday": 0,
+      "notes": {}
+     },
+     {
+      "day": "TUE",
+      "today": 0,
+      "hours": "11:00 am - 1:00 am",
+      "hours_array": [
+       "11:00 am - 1:00 am"
+      ],
+      "holiday": 0,
+      "notes": {}
+     },
+     {
+      "day": "WED",
+      "today": 0,
+      "hours": "11:00 am - 1:00 am",
+      "hours_array": [
+       "11:00 am - 1:00 am"
+      ],
+      "holiday": 0,
+      "notes": {}
+     },
+     {
+      "day": "THU",
+      "today": 0,
+      "hours": "11:00 am - 1:00 am",
+      "hours_array": [
+       "11:00 am - 1:00 am"
+      ],
+      "holiday": 0,
+      "notes": {}
+     },
+     {
+      "day": "FRI",
+      "today": 0,
+      "hours": "11:00 am - 1:00 am",
+      "hours_array": [
+       "11:00 am - 1:00 am"
+      ],
+      "holiday": 0,
+      "notes": {}
+     },
+     {
+      "day": "SAT",
+      "today": 0,
+      "hours": "11:00 am - 1:00 am",
+      "hours_array": [
+       "11:00 am - 1:00 am"
+      ],
+      "holiday": 0,
+      "notes": {}
+     },
+     {
+      "day": "SUN",
+      "today": 0,
+      "hours": "11:00 am - 1:00 am",
+      "hours_array": [
+       "11:00 am - 1:00 am"
+      ],
+      "holiday": 0,
+      "notes": {}
+     }
+    ],
+    "icon": "https://akam.cdn.jdmagicbox.com/images/icons/iphone/new/downarrow.png"
+   },
+   "f4_info": "",
+   "master_flag": "0",
+   "parentid": "PXX22.XX22.140804130028.J6U9",
+   "menu_d": [
+    "https://content.jdmagicbox.com/v2/comp/mumbai/u9/022pxx22.xx22.140804130028.j6u9/catalogue/mao-family-restaurant-dhobi-talao-mumbai-north-indian-restaurants-fqj1km1qaf-250.jpg|-|128|-|All",
+    "https://content.jdmagicbox.com/v2/comp/mumbai/u9/022pxx22.xx22.140804130028.j6u9/catalogue/mao-family-restaurant-dhobi-talao-mumbai-home-delivery-restaurants-2x28r2n-250.jpg|-|54|-|Food",
+    "https://content.jdmagicbox.com/v2/comp/mumbai/f1/022pxx22.xx22.190827112229.b6f1/catalogue/mao-family-restaurant-mumbai-tvu5az4cn8-250.jpg|-|15|-|Ambience",
+    "https://content.jdmagicbox.com/v2/comp/mumbai/u9/022pxx22.xx22.140804130028.j6u9/catalogue/mao-family-restaurant-kalbadevi-mumbai-north-indian-restaurants-xt6ulyfqlj-250.jpg|-|9|-|By Owner",
+    "https://content.jdmagicbox.com/v2/comp/mumbai/h9/022pxx22.xx22.220316115332.f8h9/catalogue/mao-family-restaurant-dhobi-talao-mumbai-restaurants-2nu6o5m7hh-250.jpg|-|25|-|By User",
+    "https://content.jdmagicbox.com/v2/comp/mumbai/u9/022pxx22.xx22.140804130028.j6u9/catalogue/mao-family-restaurant-kalbadevi-mumbai-north-indian-restaurants-inu5ws0bj8-250.jpg|-|1|-|With Review",
+    "https://justdialvideos2.akamaized.net/images/f9/f3/f9f39d9e-2b79-4c90-bf0d-2f14ef0c74c9/slideshow-022PXX22.XX22.140804130028.J6U9-final_400x224_00h.00m.05s.jpg|-|1|-|Video",
+    "https://content.jdmagicbox.com/comp/mumbai/u9/022pxx22.xx22.140804130028.j6u9/menu/mao-family-restaurant-dhobi-talao-mumbai-north-indian-restaurants-ntm5elu.jpg|-|18|-|Menu"
+   ],
+   "b2b_flag": "0",
+   "catalog_flag": 0,
+   "flags": "16386",
+   "yr_est_flg": "0",
+   "gst_d": "27AAZFM3961D1ZT",
+   "bc_docid": "",
+   "mkp_info": {
+    "iseligible": 0,
+    "slascore": 96,
+    "status": 3,
+    "jdm_eligible": 0,
+    "suppid": "925977",
+    "isbankdet": 2,
+    "isdigsign": 0,
+    "isjdpay": 1,
+    "iskyc": 1,
+    "is_cont_kyc": 3,
+    "is_own_kyc": 1
+   },
+   "tag_info": [],
+   "unic_info": "",
+   "award": "$#$$#$|~|",
+   "tgcloud": "[{\"name\":\"Mughlai Restaurants\",\"nid\":\"10331943\"},{\"name\":\"Pure Veg Restaurants\",\"nid\":\"10396867\"},{\"name\":\"South Indian Restaurants\",\"nid\":\"10445766\"},{\"name\":\"Non Veg Thali Restaurants\",\"nid\":\"10841738\"},{\"name\":\"Dhaba Restaurants\",\"nid\":\"10158813\"},{\"name\":\"Malwani Restaurants\",\"nid\":\"10310580\"},{\"name\":\"Pure Veg Thali Restaurants\",\"nid\":\"10396872\"},{\"name\":\"Indian Restaurants\",\"nid\":\"10263652\"},{\"name\":\"Gujarati Thali Restaurants\",\"nid\":\"10238624\"},{\"name\":\"Maharashtrian Restaurants\",\"nid\":\"10310019\"},{\"name\":\"Thali Restaurants\",\"nid\":\"10477830\"},{\"name\":\"Multicuisine Restaurants\",\"nid\":\"10332161\"},{\"name\":\"Barbeque Restaurants\",\"nid\":\"10036463\"},{\"name\":\"Breakfast Restaurants\",\"nid\":\"11605361\"},{\"name\":\"Jain Restaurants\",\"nid\":\"10278865\"},{\"name\":\"Kathiyawadi Restaurants\",\"nid\":\"10285188\"},{\"name\":\"Fine Dining Restaurants (Rs 1000 To Rs 2000)\",\"nid\":\"11399649\"},{\"name\":\"Gujarati Restaurants\",\"nid\":\"10238617\"},{\"name\":\"Punjabi Restaurants\",\"nid\":\"10396757\"},{\"name\":\"Kerala Restaurants\",\"nid\":\"10285565\"},{\"name\":\"Udupi Restaurants\",\"nid\":\"10506082\"},{\"name\":\"Inexpensive Pure Veg Restaurants Below Rs 500\",\"nid\":\"11400093\"},{\"name\":\"Halal Restaurants\",\"nid\":\"11399406\"},{\"name\":\"Sizzler Restaurants\",\"nid\":\"10438595\"},{\"name\":\"Moderate Pure Veg Restaurants Rs 500 To Rs 1000\",\"nid\":\"11399982\"},{\"name\":\"Konkani Restaurants\",\"nid\":\"10563700\"},{\"name\":\"Rajasthani Restaurants\",\"nid\":\"10400511\"},{\"name\":\"Kolhapuri Restaurants\",\"nid\":\"10996421\"},{\"name\":\"Bengali Restaurants\",\"nid\":\"10044276\"},{\"name\":\"High End Restaurants Above Rs 2000\",\"nid\":\"11399541\"},{\"name\":\"Parsi Restaurants\",\"nid\":\"10355316\"},{\"name\":\"Pure Veg Buffet Restaurants\",\"nid\":\"12090306\"},{\"name\":\"Sindhi Restaurants\",\"nid\":\"10437685\"},{\"name\":\"Rajasthani Thali Restaurants\",\"nid\":\"10400517\"},{\"name\":\"Maharashtrian Thali Restaurants\",\"nid\":\"10310025\"},{\"name\":\"Goan Restaurants\",\"nid\":\"10234438\"},{\"name\":\"Andhra Restaurants\",\"nid\":\"10017506\"},{\"name\":\"Inexpensive South Indian Restaurants Below Rs 500\",\"nid\":\"11400080\"},{\"name\":\"Diet Food Restaurants\",\"nid\":\"11384653\"},{\"name\":\"Fine Dining Pure Veg Restaurants Rs 1000 To Rs 2000\",\"nid\":\"11399653\"},{\"name\":\"Non Veg Buffet Restaurants\",\"nid\":\"12366416\"},{\"name\":\"South Indian Thali Restaurants\",\"nid\":\"10445773\"}]",
+   "offer_v2": "{\"max_off\":{\"title\":\"Flat 20% Discount (free Home Delivery Service Available)\"},\"total_offers\":1,\"cnt_offer_d\":0,\"offers_data\":{\"jdcash_offer\":{\"discount_type\":\"jdcash offer\",\"c\":0,\"offers\":[]},\"vendor_offer\":{\"discount_type\":\"Offers from listing\",\"c\":1,\"offers\":[{\"heading\":\"Mao Family Restaurant : Flat 20% Discount (free Home Delivery Service Available)\",\"data\":\"\",\"image\":\"https:\\/\\/images.jdmagicbox.com\\/comp\\/mumbai\\/u9\\/022pxx22.xx22.140804130028.j6u9\\/deals\\/1306f34771cfbf4bfccf2a6a1f474f9f-biuds.jpg\",\"image_aspr\":\"1000:750\",\"terms\":\"The information provided about the offers is provisional and subject to change.\\nWe advise to contact the store\\/business's website or get in touch with them directly to acquire the most up-to-date and accurate information, as we are unable to guarantee its accuracy.\\nThe deal may be offered online, offline, or both. Verify and avail the offer exclusively at the official online or offline store. There can be additional terms and conditions.\",\"validity\":\"\",\"discount_percentage\":\"0.00\",\"redirection\":\"\",\"btnTxt\":\"view\",\"offerid\":\"w4e6n2p9l4\",\"tp\":\"0\",\"dispTxt\":\"Mao Family Restaurant : Flat 20% Discount (free Home Delivery Service Available)\",\"total_count\":1,\"source\":77,\"price\":0,\"discounted_price\":0,\"active_flag\":1,\"identifier\":\"1\",\"id\":\"65d33203d4b9ceb47770f229\",\"from_date\":\"2024-02-19 05:30:00\",\"to_date\":\"2027-04-30 05:30:00\",\"period_flag\":\"duration\",\"tag\":\"\",\"coupon_code\":\"\",\"iscoupon\":0,\"cr_module\":\"merchant\"}]},\"dining_offer\":{\"discount_type\":\"\",\"c\":0,\"offers\":[]},\"online_offer\":{\"discount_type\":\"Other Offers\",\"c\":0,\"offers\":[]},\"voucher\":{\"discount_type\":\"\",\"c\":0,\"offers\":[]},\"gift_card\":{\"discount_type\":\"Gift Card\",\"c\":0,\"offers\":[]}}}",
+   "menu_slider": [
+    {
+     "key": "Food",
+     "label": "Food",
+     "img_cnt": 17,
+     "img_thumb": "https://content.jdmagicbox.com/comp/mumbai/u9/022pxx22.xx22.140804130028.j6u9/menu/mao-family-restaurant-dhobi-talao-mumbai-north-indian-restaurants-ntm5elu.jpg",
+     "orig_image": "https://content.jdmagicbox.com/comp/mumbai/u9/022pxx22.xx22.140804130028.j6u9/menu/mao-family-restaurant-dhobi-talao-mumbai-north-indian-restaurants-ntm5elu.jpg",
+     "pid": "2436190",
+     "shareurl": ""
+    },
+    {
+     "key": "Others",
+     "label": "Others",
+     "img_cnt": 1,
+     "img_thumb": "https://content.jdmagicbox.com/comp/mumbai/u9/022pxx22.xx22.140804130028.j6u9/catalogue/mao-family-restaurant-dhobi-talao-mumbai-north-indian-restaurants-i4vc88fvhd.jpg",
+     "orig_image": "https://content.jdmagicbox.com/comp/mumbai/u9/022pxx22.xx22.140804130028.j6u9/catalogue/mao-family-restaurant-dhobi-talao-mumbai-north-indian-restaurants-i4vc88fvhd.jpg",
+     "pid": "7567078",
+     "shareurl": ""
+    }
+   ],
+   "legal_companyname": "Mao Family Restaurant",
+   "tagline": "",
+   "no_employee": "10-100",
+   "turnover": "",
+   "accreditations": "",
+   "certificates": "",
+   "chain_contract": "",
+   "popular_review": "{\"name\":\"Mandar%20Suryavanshi\",\"rating\":\"5.0\",\"review\":\"I visited Mao Family Restaurant for dinner, and it was excellent! The service was great; my food arrived in just 10-20 minutes. The cuisine was very authentic and delicious. I loved the live music, too! There was a little wait for a table, about 10-20 minutes, but it was worth it. They also have valet parking. I will come back again!\",\"review_date\":\"2026-10-22 17:06:35\",\"pop_random\":[{\"isreview\":\"2\",\"hpyreview\":\"1\",\"name_enc\":\"ZtEcMZD0I0MlUHza6w2Z8MQ6sqKEJ\\/KPZLhSAnVxAGo=\",\"review_date\":\"2026-10-22 17:06:35\",\"rating\":\"5.0\",\"review\":\"I visited Mao Family Restaurant for dinner, and it was excellent! The service was great; my food arrived in just 10-20 minutes. The cuisine was very authentic and delicious. I loved the live music, too! There was a little wait for a table, about 10-20 minutes, but it was worth it. They also have valet parking. I will come back again!\",\"docid\":\"022PXX22.XX22.140804130028.J6U9\",\"reviewer_name\":\"Mandar%20Suryavanshi\"},{\"isreview\":\"2\",\"hpyreview\":\"1\",\"name_enc\":\"Ct\\/GVR4dP4sMXrdUcBthDQ==\",\"review_date\":\"2026-09-29 16:47:30\",\"rating\":\"5.0\",\"review\":\"Mao Family Restaurant exceeded my expectations with its delightful blend of flavors and generous portions. The warm ambiance and attentive service created a welcoming atmosphere. Every dish was crafted with care, showcasing authentic cuisine that felt both comforting and innovative. With reasonable prices for the quality, it`s truly worth every penny! Highly recommend!\",\"docid\":\"022PXX22.XX22.140804130028.J6U9\"},{\"isreview\":\"2\",\"hpyreview\":\"1\",\"name_enc\":\"5wB5oeoVrnq4+iCXRwmqag==\",\"review_date\":\"2026-09-10 15:23:11\",\"rating\":\"5.0\",\"review\":\"Mao Family Restaurant is truly a gem! The freshness of their food is unmatched; you can taste the quality in every bite. From flavorful curries to perfectly cooked rice, each dish reflects their commitment to authentic flavors. The ambiance is warm and inviting, making it a perfect spot for family gatherings or casual dining. Highly recommend it for anyone seeking delicious and fresh Indian cuisine!\",\"docid\":\"022PXX22.XX22.140804130028.J6U9\"}],\"poptags\":[{\"name\":\"Fresh food\",\"pop\":12,\"_id\":1670509443361831,\"sentiment\":\"positive\"},{\"name\":\"Tasty food\",\"pop\":10,\"_id\":1670509443357159,\"sentiment\":\"positive\"},{\"name\":\"Quick service\",\"pop\":9,\"_id\":1670509443374751,\"sentiment\":\"positive\"}],\"hpyreview\":\"1\"}",
+   "business_flag_abbr": "EATR,REST,FOS,CSN,FSQB",
+   "chain_outlet_ncatid": "",
+   "master_docid": "",
+   "state": "Maharashtra",
+   "certificate_detail": "",
+   "hotel_p": "",
+   "type_flag": "17729624997896",
+   "catidlineage": [],
+   "fratings": {
+    "total": 0,
+    "ratings": []
+   },
+   "myratings": [],
+   "vertical_data": [
+    {
+     "button_text": "Order Online",
+     "button_url": [
+      {
+       "url": "https://maofamilyrestaurant.werafoods.com/",
+       "text": "Mao Family Restaurant",
+       "img": "https://akam.cdn.jdmagicbox.com/images/icons/mao-family-restaurant-logo1.png",
+       "dsc": "GET 15% Flat Discount and Free Home Delivery"
+      },
+      {
+       "url": "https://www.zomato.com/mumbai/mao-family-restaurant-kalbadevi/order",
+       "text": "Zomato",
+       "img": "https://akam.cdn.jdmagicbox.com/images/icons/zomato.png",
+       "dsc": ""
+      },
+      {
+       "url": "https://www.swiggy.com/restaurants/mao-family-restaurant-kalbadevi-chowpatty-mumbai-50967",
+       "text": "Swiggy",
+       "img": "https://akam.cdn.jdmagicbox.com/images/icons/swiggy.png",
+       "dsc": ""
+      }
+     ],
+     "button_color": [],
+     "flag": "1",
+     "hide_header": "0",
+     "skipVerif": "0",
+     "tp": "1",
+     "li": "Order Online"
+    }
+   ],
+   "odsflow": 0,
+   "rest_flags": null,
+   "vertical_type_flag": [],
+   "enquirymsg": 1,
+   "template": 1,
+   "template_nm": "category",
+   "sot_code": "43RCW5QC",
+   "userimage": "",
+   "Buffet": null,
+   "Buffet_slider": null,
+   "main_amenities": [
+    "Home Delivery",
+    "Noise Level-Moderate",
+    "Good Place for Kids"
+   ],
+   "offerdata": "",
+   "not_rateable": 0,
+   "pop_cat": [
+    {
+     "category": "Mughlai Restaurants",
+     "nid": "10331943",
+     "url": "/Mumbai/Mughlai-Restaurants-in-Kalbadevi/nct-10331943"
+    },
+    {
+     "category": "Restaurants",
+     "nid": "10408936",
+     "url": "/Mumbai/Restaurants-in-Kalbadevi/nct-10408936"
+    }
+   ],
+   "disclaimer": [],
+   "is_lawyer": false,
+   "gstDetails": [],
+   "ask_mobile": 0,
+   "is_blocked": 0,
+   "attr_data": {
+    "node1": "",
+    "node2": "₹ 650 Price for two",
+    "node3": [
+     "12 Years in Business",
+     1,
+     1
+    ],
+    "node1color": []
+   },
+   "default_tab": "Menu",
+   "opstring": {
+    "status": "<span class=\"font14 fw400 els color339\">Open</span> <span class=\"font14 fw400 color111\"> until 1:00 am</span>",
+    "timing": "11:00 am - 1:00 am",
+    "event": null
+   },
+   "qualification": "",
+   "checkin": "2026-10-28",
+   "checkout": "2026-10-29",
+   "def_adult": 2,
+   "max_adults": 3,
+   "video_img_url": "",
+   "checkpos": "2",
+   "claimThis": "1",
+   "pros_cons_data": {
+    "headingTxt": "Key Insights",
+    "pros": {
+     "header": "What users liked",
+     "values": [
+      "Many customers mentioned that the Khepsa rice at Mao Family Restaurant is delicious and of high quality.",
+      "Some reviews praised the generous portion sizes of the food, which are satisfying for a hearty meal.",
+      "The staff at Mao Family Restaurant was described as friendly, attentive, and providing excellent service.",
+      "Customers appreciated the elegant and modern ambiance of the restaurant, making it suitable for special occasions or a nice night out.",
+      "The affordability of the food was mentioned positively, with reasonable prices for good quality and quantity."
+     ]
+    },
+    "cons": {
+     "header": "What can be improved",
+     "values": [
+      "There were no other notable dislikes mentioned in these reviews."
+     ]
+    },
+    "distext": "BETA VERSION - Likes and suggested improvements are based on the reviews across the web"
+   },
+   "NewAddress": "Near Theatre Kalbadevi",
+   "og_tags": {
+    "image": "https://content.jdmagicbox.com/v2/comp/mumbai/u9/022pxx22.xx22.140804130028.j6u9/catalogue/mao-family-restaurant-dhobi-talao-mumbai-north-indian-restaurants-fqj1km1qaf.jpg",
+    "image_secure_url": "https://content.jdmagicbox.com/v2/comp/mumbai/u9/022pxx22.xx22.140804130028.j6u9/catalogue/mao-family-restaurant-dhobi-talao-mumbai-north-indian-restaurants-fqj1km1qaf.jpg",
+    "image_width": "630",
+    "image_height": "473",
+    "type": "restaurant.restaurant",
+    "title": "Mao Family Restaurant, Kalbadevi, Mumbai - Justdial",
+    "url": "https://www.justdial.com/Mumbai/Mao-Family-Restaurant-Near-Theatre-Kalbadevi/022PXX22-XX22-140804130028-J6U9_BZDET",
+    "site_name": "Justdial",
+    "description": "Rated 4.2/5. Located in Kalbadevi, Mumbai. 128 Photos. Known for Chinese,Punjabi,Multicuisine. Price Price For Two: Rs. 650.Check out 10055 Ratings & Reviews on Justdial. ",
+    "iosurl": "justdial://Mumbai/Mao-Family-Restaurant-Near-Theatre-Kalbadevi/022PXX22-XX22-140804130028-J6U9_BZDET",
+    "androidurl": "android-app://com.justdial.search/http/t.justdial.com/Mumbai/Mao-Family-Restaurant-Near-Theatre-Kalbadevi/022PXX22-XX22-140804130028-J6U9_BZDET"
+   },
+   "seo_dt": {
+    "title": "Mao Family Restaurant in Kalbadevi,Mumbai - Order Food Online - Best Mughlai Restaurants near me in Mumbai - Justdial",
+    "desc": "Order Food Online from Mao Family Restaurant in Kalbadevi,Mumbai well known for Mughlai Restaurants in Mumbai . Rated 4.2 based on 10055 Customer Reviews and Ratings with 128 Photos. Check Menu, Offers, Prices, Timings, Address, Contact Number, Reviews & Ratings, Photos, Maps of Mao Family Restaurant, Kalbadevi, Mumbai.",
+    "key": "Mao Family Restaurant in Kalbadevi, Mao Family Restaurant in Mumbai, Chinese, Punjabi, Multicuisine, Mughlai, Sea Food, North Indian, Arabic, Thai, Lebanese, Oriental, Fusion Cuisine Restaurant, Menu, Reviews, Order Food, Book a Table, Contact Number, Phone Number, Address, Map, Ratings, Directions, Official Website Link, Working Hours, Services",
+    "link": "https://www.justdial.com/Mumbai/Mao-Family-Restaurant-Near-Theatre-Kalbadevi/022PXX22-XX22-140804130028-J6U9_BZDET"
+   },
+   "ldJson": {
+    "default": "{\"@context\": \"https://schema.org\",\"@type\": \"WebSite\",\"name\": \"Justdial\",\"url\": \"https://www.justdial.com/\"}",
+    "detail": "{\"@context\": \"https://schema.org\",\n    \"@type\": \"Restaurant\", \n    \"name\": \"Mao Family Restaurant\",\n    \"url\": \"https://www.justdial.com/Mumbai/Mao-Family-Restaurant-Near-Theatre-Kalbadevi/022PXX22-XX22-140804130028-J6U9_BZDET\",\n    \"image\": [ \"https://content3.jdmagicbox.com/v2/comp/mumbai/u9/022pxx22.xx22.140804130028.j6u9/catalogue/mao-family-restaurant-dhobi-talao-mumbai-north-indian-restaurants-fqj1km1qaf.jpg\",\"https://content3.jdmagicbox.com/v2/comp/mumbai/u9/022pxx22.xx22.140804130028.j6u9/catalogue/mao-family-restaurant-kalbadevi-mumbai-north-indian-restaurants-xt6ulyfqlj.jpg\",\"https://content3.jdmagicbox.com/v2/comp/mumbai/u9/022pxx22.xx22.140804130028.j6u9/catalogue/mao-family-restaurant-kalbadevi-mumbai-north-indian-restaurants-ctz0j8wcku.jpg\",\"https://content3.jdmagicbox.com/v2/comp/mumbai/u9/022pxx22.xx22.140804130028.j6u9/catalogue/mao-family-restaurant-kalbadevi-mumbai-north-indian-restaurants-0t7najk1vm.jpg\",\"https://content3.jdmagicbox.com/v2/comp/mumbai/u9/022pxx22.xx22.140804130028.j6u9/catalogue/mao-family-restaurant-dhobi-talao-mumbai-home-delivery-restaurants-2x28r2n.jpg\"],\n    \"address\": {\n        \"@type\": \"PostalAddress\",\n        \"streetAddress\": \"Dhobitalao, Lohar Chawl, Near Theatre\",\n        \"addressLocality\": \"Kalbadevi\",\n        \"postalCode\": \"400002\",\n        \"addressRegion\": \"Mumbai\",\n        \"addressCountry\": \"IN\"\n    },\n    \"areaServed\": {\n      \"@type\": \"AdministrativeArea\",\n      \"name\": \"Mumbai\"\n    },\"telephone\":\"+919845262099\",\n      \"menu\": \"https://www.justdial.com/Mumbai/Mao-Family-Restaurant-Near-Theatre-Kalbadevi/022PXX22-XX22-140804130028-J6U9_BZDET/menu\",\n      \"hasMenu\": {\n          \"@type\": \"Menu\",\n          \"id\": \"https://www.justdial.com/Mumbai/Mao-Family-Restaurant-Near-Theatre-Kalbadevi/022PXX22-XX22-140804130028-J6U9_BZDET/menu\"\n      },\"geo\": {\n\t\t\"@type\": \"GeoCoordinates\",\n\t\t\"latitude\": \"18.944402\",\n\t\t\"longitude\": \"72.829283\"\n\t\t},\n        \"aggregateRating\": {\n            \"@type\": \"AggregateRating\",\n            \"ratingValue\": \"4.2\",\n            \"ratingCount\": \"10055\",\n            \"bestRating\" : \"5\",\n            \"worstRating\" : \"0\"\n            },\n    \"review\": [\n                    {\n                        \"@type\": \"Review\",\n                        \"datePublished\": \"22nd October, 2026\",\n                        \"reviewBody\": \"I visited Mao Family Restaurant for dinner, and it was excellent! The service was great; my food arrived in just 10-20 minutes. The cuisine was very authentic and delicious. I loved the live music, too! There was a little wait for a table, about 10-20 minutes, but it was worth it. They also have valet parking. I will come back again!\",\n                        \"author\": {\n                            \"@type\": \"Person\",\n                            \"name\": \"Mandar Suryavanshi\"\n                        }\n                    },\n                    {\n                        \"@type\": \"Review\",\n                        \"datePublished\": \"29th September, 2026\",\n                        \"reviewBody\": \"Mao Family Restaurant exceeded my expectations with its delightful blend of flavors and generous portions. The warm ambiance and attentive service created a welcoming atmosphere. Every dish was crafted with care, showcasing authentic cuisine that felt both comforting and innovative. With reasonable prices for the quality, it`s truly worth every penny! Highly recommend!\",\n                        \"author\": {\n                            \"@type\": \"Person\",\n                            \"name\": \"Jai\"\n                        }\n                    },\n                    {\n                        \"@type\": \"Review\",\n                        \"datePublished\": \"10th September, 2026\",\n                        \"reviewBody\": \"Mao Family Restaurant is truly a gem! The freshness of their food is unmatched; you can taste the quality in every bite. From flavorful curries to perfectly cooked rice, each dish reflects their commitment to authentic flavors. The ambiance is warm and inviting, making it a perfect spot for family gatherings or casual dining. Highly recommend it for anyone seeking delicious and fresh Indian cuisine!\",\n                        \"author\": {\n                            \"@type\": \"Person\",\n                            \"name\": \"rahul\"\n                        }\n                    },\n                    {\n                        \"@type\": \"Review\",\n                        \"datePublished\": \"21st June, 2026\",\n                        \"reviewBody\": \"I recently dined at Mao Family Restaurant, and I must say it was a disappointing experience. The food tasted mediocre at best, lacking any real flavor or creativity. Service was slow, and the ambiance felt dull and uninspired. For a family outing, I expected more. If you`re looking for a memorable meal, I`d recommend looking elsewhere. Save your time and money; this restaurant simply doesn`t deliver on its promises.\",\n                        \"author\": {\n                            \"@type\": \"Person\",\n                            \"name\": \"abdul\"\n                        }\n                    },\n                    {\n                        \"@type\": \"Review\",\n                        \"datePublished\": \"1st May, 2026\",\n                        \"reviewBody\": \"Mao Family Restaurant is excellent! The staff is very friendly and trained well. They know the menu and help you pick the best dishes. Service is fast, and they always smile. I felt welcome and happy during my meal. The staff makes a big difference here! I will come back soon to enjoy more great food with their wonderful service.\",\n                        \"author\": {\n                            \"@type\": \"Person\",\n                            \"name\": \"RAHUL\"\n                        }\n                    },\n                    {\n                        \"@type\": \"Review\",\n                        \"datePublished\": \"13th April, 2026\",\n                        \"reviewBody\": \"Mao Family Restaurant is great! Booking a table is very easy. You can call or use their website. The staff is friendly and helps quickly. I booked a table for my family, and it was simple. We had no wait when we arrived. I love how fast and nice it was! If you want to eat good food without stress, go to Mao Family Restaurant! Highly recommend!\",\n                        \"author\": {\n                            \"@type\": \"Person\",\n                            \"name\": \"debasis sahoo\"\n                        }\n                    },\n                    {\n                        \"@type\": \"Review\",\n                        \"datePublished\": \"11th April, 2026\",\n                        \"reviewBody\": \"I visited Mao Family Restaurant. It is a nice place to eat. The restaurant is child-friendly, which means kids can enjoy their time there. The food portions are good, so you get a lot for your money. The atmosphere is friendly and warm. Overall, I had a great experience at Mao Family Restaurant!\",\n                        \"author\": {\n                            \"@type\": \"Person\",\n                            \"name\": \"Jegadev Bommuraj\"\n                        }\n                    },\n                    {\n                        \"@type\": \"Review\",\n                        \"datePublished\": \"1st December, 2025\",\n                        \"reviewBody\": \"I had a great experience at Mao Family Restaurant. The food was very good, and there was a lot to choose from. The staff were friendly and helpful. I enjoyed my meal and felt happy with the service. The restaurant was clean and nice. I would love to visit again!\",\n                        \"author\": {\n                            \"@type\": \"Person\",\n                            \"name\": \"shahnawaz farooqui\"\n                        }\n                    },\n                    {\n                        \"@type\": \"Review\",\n                        \"datePublished\": \"26th November, 2025\",\n                        \"reviewBody\": \"Mao Family Restaurant offers a delightful dining experience with exceptional service that stands out. The staff is attentive and friendly, ensuring that every visit feels special. The menu features a variety of dishes, each bursting with flavor. Whether you`re craving classic favorites or trying something new, Mao`s has you covered. The cozy ambiance adds to the overall charm, making it a great spot for family gatherings or casual meals. Highly recommend!\",\n                        \"author\": {\n                            \"@type\": \"Person\",\n                            \"name\": \"Tanmoy chakraborty\"\n                        }\n                    },\n                    {\n                        \"@type\": \"Review\",\n                        \"datePublished\": \"21st September, 2025\",\n                        \"reviewBody\": \"Mao Family Restaurant has very stale food. The bread was hard and old. The vegetables looked bad and tasted funny. I did not enjoy my meal at all. The service was slow, too. I felt disappointed and unhappy after eating there. I do not recommend this restaurant for anyone who wants fresh food. It is a big letdown!\",\n                        \"author\": {\n                            \"@type\": \"Person\",\n                            \"name\": \"vivek madeshiya\"\n                        }\n                    }\n    ]\n    ,\"servesCuisine\": [\"Chinese,Punjabi,Multicuisine,Mughlai,Sea Food,North Indian,Arabic,Thai,Lebanese,Oriental,Fusion\"],\"paymentAccepted\": [\"Cash\"],\"openingHoursSpecification\": [ {\n                      \"@type\": \"OpeningHoursSpecification\",\n                      \"dayOfWeek\": \"https://schema.org/Monday \",\n                      \"opens\": [\" 11:00 am \"],\n                      \"closes\": [\" 01:00 am\"] },{\n                      \"@type\": \"OpeningHoursSpecification\",\n                      \"dayOfWeek\": \"https://schema.org/Tuesday \",\n                      \"opens\": [\" 11:00 am \"],\n                      \"closes\": [\" 01:00 am\"] },{\n                      \"@type\": \"OpeningHoursSpecification\",\n                      \"dayOfWeek\": \"https://schema.org/Wednesday \",\n                      \"opens\": [\" 11:00 am \"],\n                      \"closes\": [\" 01:00 am\"] },{\n                      \"@type\": \"OpeningHoursSpecification\",\n                      \"dayOfWeek\": \"https://schema.org/Thursday \",\n                      \"opens\": [\" 11:00 am \"],\n                      \"closes\": [\" 01:00 am\"] },{\n                      \"@type\": \"OpeningHoursSpecification\",\n                      \"dayOfWeek\": \"https://schema.org/Friday \",\n                      \"opens\": [\" 11:00 am \"],\n                      \"closes\": [\" 01:00 am\"] },{\n                      \"@type\": \"OpeningHoursSpecification\",\n                      \"dayOfWeek\": \"https://schema.org/Saturday \",\n                      \"opens\": [\" 11:00 am \"],\n                      \"closes\": [\" 01:00 am\"] },{\n                      \"@type\": \"OpeningHoursSpecification\",\n                      \"dayOfWeek\": \"https://schema.org/Sunday \",\n                      \"opens\": [\" 11:00 am \"],\n                      \"closes\": [\" 01:00 am\"] }]}",
+    "social": "{\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"Organization\",\"name\":\"justdial.com\",\"url\":\"https:\\/\\/www.justdial.com\\/\",\"logo\":\"https:\\/\\/akam.cdn.jdmagicbox.com\\/images\\/wap\\/logo\\/jd_144.png\",\"sameAs\":[\"https:\\/\\/www.facebook.com\\/JustDial\",\"https:\\/\\/www.linkedin.com\\/company\\/justdial\",\"https:\\/\\/www.instagram.com\\/jd_justdial\",\"https:\\/\\/play.google.com\\/store\\/apps\\/details?id=com.justdial.search\",\"https:\\/\\/itunes.apple.com\\/app\\/jd-justdial\\/id624946027?uo=5\",\"https:\\/\\/www.youtube.com\\/user\\/justdialind\"]}",
+    "review": "{\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"Review\",\"name\":\"Mao Family Restaurant Review\",\"itemReviewed\":{\"@type\":\"Restaurant\",\"name\":\"Mao Family Restaurant\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Dhobitalao, Lohar Chawl, Near Theatre\",\"addressLocality\":\"Kalbadevi\",\"addressRegion\":\"400002\",\"postalCode\":\"Mumbai\"}},\"author\":{\"@type\":\"Person\",\"name\":\"Anonymous\"},\"positiveNotes\":{\"@type\":\"ItemList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Many customers mentioned that the Khepsa rice at Mao Family Restaurant is delicious and of high quality.\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Some reviews praised the generous portion sizes of the food, which are satisfying for a hearty meal.\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"The staff at Mao Family Restaurant was described as friendly, attentive, and providing excellent service.\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Customers appreciated the elegant and modern ambiance of the restaurant, making it suitable for special occasions or a nice night out.\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"The affordability of the food was mentioned positively, with reasonable prices for good quality and quantity.\"}]},\"negativeNotes\":{\"@type\":\"ItemList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"There were no other notable dislikes mentioned in these reviews.\"}]}}",
+    "bcrum": "{\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"item\":{\"@id\":\"https:\\/\\/www.justdial.com\\/Mumbai\",\"name\":\"Mumbai\"}},{\"@type\":\"ListItem\",\"position\":2,\"item\":{\"@id\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/Mughlai-Restaurants\\/nct-10331943\",\"name\":\"Mughlai Restaurants In Mumbai\"}},{\"@type\":\"ListItem\",\"position\":3,\"item\":{\"@id\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/Mughlai-Restaurants-in-Kalbadevi\\/nct-10331943\",\"name\":\"Mughlai Restaurants in Kalbadevi\"}},{\"@type\":\"ListItem\",\"position\":4,\"item\":{\"@id\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/Mao-Family-Restaurant-Near-Theatre-Kalbadevi\\/022PXX22-XX22-140804130028-J6U9_BZDET\",\"name\":\"Mao Family Restaurant\"}}]}",
+    "b2bbcrum": ""
+   },
+   "bi_lang_arr": [
+    "hi",
+    "bn",
+    "ta",
+    "mr",
+    "gu",
+    "kn"
+   ],
+   "bi_lang_urls": {
+    "en": "https:/www.justdial.com/Mumbai/Mao-Family-Restaurant-Near-Theatre-Kalbadevi/022PXX22-XX22-140804130028-J6U9_BZDET",
+    "hi": "https://www.justdial.com/hi/Mumbai/Mao-Family-Restaurant-Near-Theatre-Kalbadevi/022PXX22-XX22-140804130028-J6U9_BZDET",
+    "bn": "https://www.justdial.com/bn/Mumbai/Mao-Family-Restaurant-Near-Theatre-Kalbadevi/022PXX22-XX22-140804130028-J6U9_BZDET",
+    "ta": "https://www.justdial.com/ta/Mumbai/Mao-Family-Restaurant-Near-Theatre-Kalbadevi/022PXX22-XX22-140804130028-J6U9_BZDET",
+    "mr": "https://www.justdial.com/mr/Mumbai/Mao-Family-Restaurant-Near-Theatre-Kalbadevi/022PXX22-XX22-140804130028-J6U9_BZDET",
+    "gu": "https://www.justdial.com/gu/Mumbai/Mao-Family-Restaurant-Near-Theatre-Kalbadevi/022PXX22-XX22-140804130028-J6U9_BZDET",
+    "kn": "https://www.justdial.com/kn/Mumbai/Mao-Family-Restaurant-Near-Theatre-Kalbadevi/022PXX22-XX22-140804130028-J6U9_BZDET"
+   },
+   "applink": [],
+   "amp": "1",
+   "scoreslider": [],
+   "quickinfo": [
+    {
+     "name": "Business summary",
+     "value": "Restaurant offering a diverse menu of North Indian, Chinese, Mughlai, and seafood dishes.",
+     "type": "sentence",
+     "url": ""
+    },
+    {
+     "name": "Cuisines",
+     "value": "Chinese, Punjabi, Multicuisine, Mughlai, Sea Food, North Indian, Arabic, Thai, Lebanese, Oriental, Fusion",
+     "type": "",
+     "url": "",
+     "data": [
+      {
+       "name": "Chinese",
+       "icon": "",
+       "url": "/Mumbai/Chinese-Restaurants-in-Kalbadevi/nct-10097618"
+      },
+      {
+       "name": "Punjabi",
+       "icon": "",
+       "url": "/Mumbai/Punjabi-Restaurants-in-Kalbadevi/nct-10396757"
+      },
+      {
+       "name": "Multicuisine",
+       "icon": "",
+       "url": "/Mumbai/Multicuisine-Restaurants-in-Kalbadevi/nct-10332161"
+      },
+      {
+       "name": "Mughlai",
+       "icon": "",
+       "url": "/Mumbai/Mughlai-Restaurants-in-Kalbadevi/nct-10331943"
+      },
+      {
+       "name": "Sea Food",
+       "icon": "",
+       "url": "/Mumbai/Sea-Food-Restaurants-in-Kalbadevi/nct-10424728"
+      },
+      {
+       "name": "North Indian",
+       "icon": "",
+       "url": "/Mumbai/North-Indian-Restaurants-in-Kalbadevi/nct-10339065"
+      },
+      {
+       "name": "Arabic",
+       "icon": "",
+       "url": "/Mumbai/Arabic-Restaurants-in-Kalbadevi/nct-10019794"
+      },
+      {
+       "name": "Thai",
+       "icon": "",
+       "url": "/Mumbai/Thai-Restaurants-in-Kalbadevi/nct-10477799"
+      },
+      {
+       "name": "Lebanese",
+       "icon": "",
+       "url": "/Mumbai/Lebanese-Restaurants-in-Kalbadevi/nct-10298314"
+      },
+      {
+       "name": "Oriental",
+       "icon": "",
+       "url": "/Mumbai/Oriental-Restaurants-in-Kalbadevi/nct-10344695"
+      },
+      {
+       "name": "Fusion",
+       "icon": "",
+       "url": "/Mumbai/Fusion-Restaurants-in-Kalbadevi/nct-10221813"
+      }
+     ]
+    },
+    {
+     "name": "Type",
+     "value": "Delivery, Dine-in, Casual Dining, Take Away, Quick Bite Outlet",
+     "type": "",
+     "url": ""
+    },
+    {
+     "name": "Average Cost",
+     "value": "Price For Two: ₹ 650",
+     "type": "",
+     "url": ""
+    },
+    {
+     "name": "Must Order",
+     "value": "Caramel Custard",
+     "type": "",
+     "url": ""
+    },
+    {
+     "name": "Year of Establishment",
+     "value": "2014",
+     "type": "",
+     "url": ""
+    }
+   ],
+   "catalog_rurl": "0",
+   "servicescount": 30,
+   "callalocate": "",
+   "alocatedicid": "tfJbTArHpfBM9DNHXxHaRNXQx3u7iWMjgOUSb2zMAnc%3D",
+   "offerarr": [],
+   "pplsrch": [
+    {
+     "nm": "Mughlai Restaurants",
+     "id": "10331943"
+    },
+    {
+     "nm": "North Indian Restaurants",
+     "id": "10339065"
+    },
+    {
+     "id": "10408936",
+     "nm": "Restaurants"
+    },
+    {
+     "id": "10250324",
+     "nm": "Home Delivery Restaurants"
+    },
+    {
+     "id": "10047018",
+     "nm": "Biryani Restaurants"
+    }
+   ],
+   "isClaim": 1,
+   "resp_rate": {
+    "lead": "3802",
+    "lead_resp": "157",
+    "avg_resp_time_sec": "",
+    "tformat": "",
+    "color": "#058A07"
+   },
+   "jdcash": [],
+   "vendor_offers": [
+    {
+     "img": "https://images.jdmagicbox.com/comp/mumbai/u9/022pxx22.xx22.140804130028.j6u9/deals/1306f34771cfbf4bfccf2a6a1f474f9f-biuds.jpg",
+     "heading": "Mao Family Restaurant : Flat 20% Discount (free Home Delivery Service Available)",
+     "desc": "",
+     "imgtext": "",
+     "date": "Last Date: 30 Apr 2027",
+     "source": "",
+     "status": "Live",
+     "status_color": "#79b142",
+     "inapp": 1,
+     "offerid": "w4e6n2p9l4",
+     "image_aspr": "1000:750",
+     "redirection_url": "",
+     "img_array": [
+      "https://images.jdmagicbox.com/comp/mumbai/u9/022pxx22.xx22.140804130028.j6u9/deals/1306f34771cfbf4bfccf2a6a1f474f9f-biuds.jpg"
+     ],
+     "desc_array": [
+      ""
+     ],
+     "terms": [
+      "The information provided about the offers is provisional and subject to change.",
+      "We advise to contact the store/business's website or get in touch with them directly to acquire the most up-to-date and accurate information  as we are unable to guarantee its accuracy.",
+      "The deal may be offered online  offline  or both. Verify and avail the offer exclusively at the official online or offline store. There can be additional terms and conditions."
+     ],
+     "tncType": "",
+     "aspr": "375:360",
+     "price": "",
+     "discounted_price": "",
+     "discount_percentage": "",
+     "event_data": {
+      "type": "vendor_offer",
+      "position": 1,
+      "sub_position": 1,
+      "ctid": "w4e6n2p9l4",
+      "ctname": "Mao Family Restaurant : Flat 20% Discount (free Home Delivery Service Available)",
+      "li": "banner_impression",
+      "jde": 0,
+      "jdtracker": "",
+      "utm_campaign": null
+     }
+    }
+   ],
+   "online_offers": [],
+   "voucher": [],
+   "dining_offer": [],
+   "pageType": "",
+   "b2beligible": 0,
+   "award_certificate": [],
+   "jdtrust": [
+    1,
+    1
+   ],
+   "feature_video": [],
+   "profile": [],
+   "price_tagline": [],
+   "rateColor": "#007A0C",
+   "showgptads": 0,
+   "askAI": 2,
+   "floating_askany": 1,
+   "header_tabs": {
+    "Overview": {
+     "name": "Overview",
+     "nameln": "Overview",
+     "seo_name": "",
+     "path": "",
+     "redirect": 0,
+     "sel": "1",
+     "baseapi": "",
+     "servicecatalog": 0,
+     "event_data": {
+      "li": "overview_tab",
+      "tab_name": "overview_tab"
+     }
+    },
+    "Offers": {
+     "name": "Offers",
+     "nameln": "Offers",
+     "seo_name": "offers",
+     "path": "",
+     "redirect": 0,
+     "sel": "0",
+     "baseapi": "",
+     "servicecatalog": 0,
+     "event_data": {
+      "li": "offers_tab",
+      "tab_name": "offers_tab"
+     }
+    },
+    "Menu": {
+     "name": "Menu",
+     "nameln": "Menu",
+     "seo_name": "menu",
+     "path": "",
+     "redirect": 1,
+     "sel": "0",
+     "baseapi": "",
+     "servicecatalog": 0,
+     "event_data": {
+      "li": "menu_tab",
+      "tab_name": "menu_tab"
+     }
+    },
+    "Quick Info": {
+     "name": "Quick Info",
+     "nameln": "Quick Info",
+     "seo_name": "",
+     "path": "",
+     "redirect": 0,
+     "sel": "0",
+     "baseapi": "",
+     "servicecatalog": 0,
+     "event_data": {
+      "li": "_tab",
+      "tab_name": "_tab"
+     }
+    },
+    "Services": {
+     "name": "Services",
+     "nameln": "Services",
+     "seo_name": "services",
+     "path": "",
+     "redirect": 0,
+     "sel": "0",
+     "baseapi": "",
+     "servicecatalog": 0,
+     "event_data": {
+      "li": "services_tab",
+      "tab_name": "services_tab"
+     }
+    },
+    "Photos": {
+     "name": "Photos",
+     "nameln": "Photos",
+     "seo_name": "photos",
+     "path": "",
+     "redirect": 0,
+     "sel": "0",
+     "baseapi": "",
+     "servicecatalog": 0,
+     "event_data": {
+      "li": "photos_tab",
+      "tab_name": "photos_tab"
+     }
+    },
+    "Reviews": {
+     "name": "Reviews",
+     "nameln": "Reviews",
+     "seo_name": "reviews",
+     "path": "",
+     "redirect": 0,
+     "sel": "0",
+     "baseapi": "",
+     "servicecatalog": 0,
+     "event_data": {
+      "li": "reviews_tab",
+      "tab_name": "reviews_tab"
+     }
+    }
+   },
+   "tab_enabled": 1,
+   "sectiontab": {
+    "lhs": [
+     [
+      {
+       "tabname": "Offers",
+       "usenode": "vendor_offers",
+       "apicall": "",
+       "verticalattr": "",
+       "redirection_url": "",
+       "img": "",
+       "disable": "1",
+       "active": false,
+       "typeView": "voffersimage",
+       "typeView_action": "voffersimage",
+       "socia_img": "",
+       "social_url": "",
+       "b_txt": "",
+       "compname": "voffersimage",
+       "type": "",
+       "header_tab": "Offers"
+      }
+     ],
+     [
+      {
+       "tabname": "Menu",
+       "usenode": "",
+       "apicall": "/01sep2022/dmenu.php?&docid=022PXX22.XX22.140804130028.J6U9&wap=77&version=3.1&detailsection=1",
+       "verticalattr": "",
+       "redirection_url": "",
+       "img": "",
+       "disable": "1",
+       "active": false,
+       "typeView": "horizontalscroll",
+       "typeView_action": "Categories",
+       "social_img": "",
+       "social_url": "",
+       "b_txt": "",
+       "compname": "ServiceCatalogue",
+       "type": "moreoption",
+       "viewall": 1,
+       "header_tab": "Menu",
+       "seo_name": "menu"
+      }
+     ],
+     [
+      {
+       "tabname": "",
+       "usenode": "menu_slider",
+       "apicall": "",
+       "verticalattr": "",
+       "redirection_url": "",
+       "img": "",
+       "disable": "1",
+       "active": false,
+       "typeView": "Catalogue_slider",
+       "typeView_action": "Catalogue_slider",
+       "socia_img": "",
+       "social_url": "",
+       "b_txt": "",
+       "compname": "Catalogue_slider",
+       "type": "attributes",
+       "menuslider": 1,
+       "viewall": 0,
+       "service_header": "Menu"
+      }
+     ],
+     [
+      {
+       "tabname": "",
+       "usenode": "",
+       "apicall": "",
+       "verticalattr": "",
+       "redirection_url": "",
+       "img": "",
+       "disable": "1",
+       "active": false,
+       "typeView": "askAI",
+       "typeView_action": "askAI",
+       "social_img": "",
+       "social_url": "",
+       "b_txt": "",
+       "compname": "askAI",
+       "type": ""
+      }
+     ],
+     [
+      {
+       "tabname": "Quick Information",
+       "usenode": "quickinfo",
+       "apicall": "",
+       "verticalattr": "",
+       "redirection_url": "",
+       "img": "pricon",
+       "disable": "1",
+       "active": false,
+       "typeView": "tab",
+       "typeView_action": "Quick info",
+       "social_img": "",
+       "social_url": "",
+       "b_txt": "",
+       "compname": "aboutcomp",
+       "type": "attributes",
+       "header_tab": "Quick Info"
+      }
+     ],
+     [
+      {
+       "tabname": "Services",
+       "usenode": "services",
+       "apicall": "",
+       "verticalattr": "",
+       "redirection_url": "",
+       "img": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/newprot/doctorservices.svg",
+       "disable": "1",
+       "active": false,
+       "typeView": "tab",
+       "typeView_action": "Quick info services",
+       "social_img": "",
+       "social_url": "",
+       "b_txt": "",
+       "compname": "AmenitiesServices",
+       "type": "attributes",
+       "header_tab": "Services"
+      }
+     ],
+     [
+      {
+       "tabname": "Photos",
+       "usenode": "catalog_slider",
+       "apicall": "",
+       "verticalattr": "",
+       "redirection_url": "",
+       "img": "pricon",
+       "disable": "1",
+       "active": false,
+       "typeView": "tab",
+       "typeView_action": "Catalogue_slider",
+       "social_img": "",
+       "social_url": "",
+       "b_txt": "",
+       "compname": "Catalogue_slider",
+       "type": "",
+       "header_tab": "Photos"
+      }
+     ],
+     [
+      {
+       "tabname": "Our Happy Customers",
+       "usenode": "",
+       "apicall": "/01sep2022/ghc.php?docid=tfJbTArHpfBM9DNHXxHaRNXQx3u7iWMjgOUSb2zMAnc%3D&gdocids=tfJbTArHpfBM9DNHXxHaRMchUtrdu2H8eoAMNzBiiYi18ltMCsel8Ez0M0dfEdpE3qgd5lpocFz5WuHkyXUByyZ6jV%2FSZCJIUXczSad2gcbrAaa7KFf%2FcUdhRgOlZt67qFGZSGSdaythoLP4%2B3TuaOP%2F42WEJbZJmCvjYnu7rv4%3D",
+       "verticalattr": "",
+       "redirection_url": "",
+       "img": "",
+       "disable": "1",
+       "active": false,
+       "typeView": "OurHappyCustomers",
+       "typeView_action": "OurHappyCustomers",
+       "social_img": "",
+       "social_url": "",
+       "b_txt": "",
+       "compname": "OurHappyCustomers",
+       "type": ""
+      }
+     ],
+     [
+      {
+       "tabname": "Key Insights",
+       "usenode": "pros_cons_data",
+       "apicall": "",
+       "verticalattr": "",
+       "redirection_url": "",
+       "img": "",
+       "disable": "1",
+       "active": false,
+       "typeView": "pros_cons_section",
+       "typeView_action": "pros_cons_section",
+       "socia_img": "",
+       "social_url": "",
+       "b_txt": "",
+       "compname": "qnasection",
+       "type": "",
+       "header_tab": ""
+      }
+     ],
+     [
+      {
+       "tabname": "Reviews & Ratings",
+       "usenode": "",
+       "apicall": "",
+       "verticalattr": "",
+       "redirection_url": "",
+       "img": "pricon",
+       "disable": "1",
+       "active": false,
+       "typeView": "Review section",
+       "typeView_action": "Review and rate",
+       "social_img": "",
+       "social_url": "",
+       "b_txt": "",
+       "compname": "ReviewsRatings",
+       "type": "",
+       "header_tab": "Reviews"
+      }
+     ]
+    ],
+    "rhs": [
+     [
+      {
+       "tabname": "",
+       "usenode": "vertical_data",
+       "apicall": "",
+       "verticalattr": "",
+       "redirection_url": "",
+       "img": "pricon",
+       "disable": "1",
+       "active": false,
+       "typeView": "button section",
+       "typeView_action": "buttons",
+       "social_img": "",
+       "social_url": "",
+       "b_txt": "",
+       "compname": "buttons",
+       "type": ""
+      }
+     ],
+     [
+      {
+       "tabname": "Ground Floor. 534/536 Beram Mahal, Dhobitalao, Near Theatre, Lohar Chawl, Kalbadevi, Mumbai-400002, Maharashtra",
+       "tab_header": "",
+       "usenode": "",
+       "apicall": "",
+       "verticalattr": "",
+       "redirection_url": "",
+       "img": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/newprot/dtladdressicn.svg",
+       "disable": "1",
+       "active": false,
+       "typeView": "address",
+       "typeView_action": "Address",
+       "social_img": "",
+       "social_url": "",
+       "b_txt": "",
+       "compname": "address",
+       "type": "",
+       "direction": "Get Directions",
+       "directionurl": "https://www.google.com/maps/search/?api=1&query=18.944402,72.829283"
+      },
+      {
+       "tabname": "Business Hours",
+       "tab_header": "",
+       "usenode": "hop",
+       "apicall": "",
+       "verticalattr": "",
+       "redirection_url": "",
+       "disable": "1",
+       "biz_hrs": 0,
+       "active": false,
+       "typeView": "tab",
+       "typeView_action": "exact",
+       "social_img": "",
+       "social_url": "",
+       "b_txt": "",
+       "compname": "hop",
+       "type": ""
+      },
+      {
+       "tabname": "Send Enquiry by Email",
+       "tab_header": "",
+       "usenode": "",
+       "apicall": "",
+       "verticalattr": "",
+       "redirection_url": "",
+       "img": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/det_enquiry_icon.svg",
+       "disable": "1",
+       "active": false,
+       "typeView": "tab",
+       "typeView_action": "exact",
+       "social_img": "",
+       "social_url": "",
+       "b_txt": "",
+       "compname": "enq",
+       "type": ""
+      },
+      {
+       "tabname": "Get info via SMS/Email",
+       "tab_header": "",
+       "usenode": "",
+       "apicall": "",
+       "verticalattr": "",
+       "redirection_url": "",
+       "img": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/det_enquiry_icon.svg",
+       "disable": "1",
+       "active": false,
+       "typeView": "tab",
+       "typeView_action": "exact",
+       "social_img": "",
+       "social_url": "",
+       "b_txt": "",
+       "compname": "sms",
+       "type": ""
+      },
+      {
+       "tabname": "Share",
+       "usenode": "sharedt_url",
+       "apicall": "",
+       "verticalattr": "",
+       "redirection_url": "",
+       "img": "pricon",
+       "disable": "1",
+       "active": false,
+       "typeView": "exact section",
+       "typeView_action": "exact",
+       "social_img": "",
+       "social_url": "",
+       "b_txt": "",
+       "compname": "exact",
+       "type": ""
+      },
+      {
+       "tabname": "Tap to rate",
+       "usenode": "",
+       "apicall": "",
+       "verticalattr": "",
+       "redirection_url": "",
+       "img": "",
+       "disable": "1",
+       "active": false,
+       "typeView": "Rates",
+       "typeView_action": "Ratings",
+       "social_img": "",
+       "social_url": "",
+       "b_txt": "",
+       "compname": "Taptorate",
+       "type": ""
+      },
+      {
+       "tabname": "Edit this Listing",
+       "usenode": "",
+       "apicall": "",
+       "verticalattr": "",
+       "redirection_url": "",
+       "img": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/det-edit2_blue.svg",
+       "disable": "1",
+       "active": false,
+       "typeView": "tab",
+       "typeView_action": "Editthislisting",
+       "social_img": "",
+       "social_url": "",
+       "b_txt": "",
+       "compname": "Editthislisting",
+       "type": ""
+      },
+      {
+       "tabname": "Visit our Website",
+       "tab_header": "",
+       "usenode": "website",
+       "apicall": "",
+       "verticalattr": "",
+       "redirection_url": "",
+       "img": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/det-web_blue.svg",
+       "disable": "1",
+       "active": false,
+       "typeView": "tab",
+       "typeView_action": "Website",
+       "social_img": "",
+       "social_url": "",
+       "b_txt": "",
+       "compname": "Website",
+       "type": ""
+      },
+      {
+       "tabname": "",
+       "tab_header": "",
+       "usenode": "website",
+       "apicall": "",
+       "verticalattr": "",
+       "redirection_url": "",
+       "img": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/newprot/dtlsocialicn.svg",
+       "disable": "1",
+       "active": false,
+       "typeView": "tab",
+       "typeView_action": "Media",
+       "social_img": "",
+       "social_url": "",
+       "social_text": "",
+       "b_txt": "",
+       "compname": "SocialMedia",
+       "type": "",
+       "data": {
+        "Facebook": {
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/follow_facebook.svg",
+         "name": "Facebook",
+         "url": [
+          "www.facebook.com/maothefamilyrestaurant"
+         ],
+         "url_arr": [
+          {
+           "url": "https://www.facebook.com/maothefamilyrestaurant",
+           "disp": "/maothefamilyrestaurant"
+          }
+         ]
+        }
+       }
+      },
+      {
+       "tabname": "GSTIN : 27**********1ZT",
+       "tab_header": "",
+       "usenode": "",
+       "apicall": "",
+       "verticalattr": "",
+       "redirection_url": "",
+       "img": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/gst_icon.svg",
+       "disable": "1",
+       "active": false,
+       "typeView": "tab",
+       "typeView_action": "exact",
+       "social_img": "",
+       "social_url": "",
+       "b_txt": "",
+       "compname": "gst",
+       "type": ""
+      }
+     ],
+     [
+      {
+       "tabname": "Also listed in",
+       "usenode": "AlsoListedIn",
+       "apicall": "",
+       "verticalattr": "",
+       "redirection_url": "",
+       "img": "",
+       "disable": "1",
+       "active": false,
+       "typeView": "listed in",
+       "typeView_action": "Also listed in",
+       "social_img": "",
+       "social_url": "",
+       "b_txt": "",
+       "compname": "Alsolistedin",
+       "type": ""
+      }
+     ]
+    ]
+   },
+   "b2bcatdisplay": "",
+   "jdpay": {},
+   "has_review_images": true,
+   "has_review_classification": "With Review",
+   "jdPayDisplay": 0,
+   "ds": "0",
+   "wpnumber": [
+    "xxxxxxx"
+   ],
+   "catalog_slider": [
+    {
+     "key": "All",
+     "label": "All",
+     "img_cnt": 110,
+     "img_thumb": "https://content.jdmagicbox.com/v2/comp/mumbai/u9/022pxx22.xx22.140804130028.j6u9/catalogue/mao-family-restaurant-dhobi-talao-mumbai-north-indian-restaurants-fqj1km1qaf-250.jpg",
+     "pid": "164722078"
+    },
+    {
+     "key": "Food",
+     "label": "Food",
+     "img_cnt": 54,
+     "img_thumb": "https://content.jdmagicbox.com/v2/comp/mumbai/u9/022pxx22.xx22.140804130028.j6u9/catalogue/mao-family-restaurant-dhobi-talao-mumbai-home-delivery-restaurants-2x28r2n-250.jpg",
+     "pid": "43724189",
+     "sub_tabs": []
+    },
+    {
+     "key": "Ambience",
+     "label": "Ambience",
+     "img_cnt": 15,
+     "img_thumb": "https://content.jdmagicbox.com/v2/comp/mumbai/f1/022pxx22.xx22.190827112229.b6f1/catalogue/mao-family-restaurant-mumbai-tvu5az4cn8-250.jpg",
+     "pid": "130550943",
+     "sub_tabs": []
+    },
+    {
+     "key": "By Owner",
+     "label": "By Owner",
+     "img_cnt": 9,
+     "img_thumb": "https://content.jdmagicbox.com/v2/comp/mumbai/u9/022pxx22.xx22.140804130028.j6u9/catalogue/mao-family-restaurant-kalbadevi-mumbai-north-indian-restaurants-xt6ulyfqlj-250.jpg",
+     "pid": "477006301"
+    },
+    {
+     "key": "By User",
+     "label": "By User",
+     "img_cnt": 25,
+     "img_thumb": "https://content.jdmagicbox.com/v2/comp/mumbai/h9/022pxx22.xx22.220316115332.f8h9/catalogue/mao-family-restaurant-dhobi-talao-mumbai-restaurants-2nu6o5m7hh-250.jpg",
+     "pid": "218623076"
+    },
+    {
+     "key": "With Review",
+     "label": "With Review",
+     "img_cnt": 1,
+     "img_thumb": "https://content.jdmagicbox.com/v2/comp/mumbai/u9/022pxx22.xx22.140804130028.j6u9/catalogue/mao-family-restaurant-kalbadevi-mumbai-north-indian-restaurants-inu5ws0bj8-250.jpg",
+     "pid": "470514968"
+    },
+    {
+     "key": "Video",
+     "label": "Video",
+     "img_cnt": 1,
+     "img_thumb": "https://justdialvideos2.akamaized.net/images/f9/f3/f9f39d9e-2b79-4c90-bf0d-2f14ef0c74c9/slideshow-022PXX22.XX22.140804130028.J6U9-final_400x224_00h.00m.05s.jpg",
+     "vid": "199106"
+    }
+   ],
+   "newcatalog": 1,
+   "hcatarr": {
+    "id": "10331943",
+    "nid": "10331943",
+    "name": "Mughlai Restaurants"
+   },
+   "msge": 0,
+   "msgpop": [
+    {
+     "chat": "What's app",
+     "text": "Hi, I found your business on Justdial",
+     "wpurl": "https://api.whatsapp.com/send?phone=&XXXXXX&text=Hi, I found your business on Justdial",
+     "number": ""
+    }
+   ],
+   "distance": null,
+   "top_card": [
+    [
+     {
+      "tag_key": "address",
+      "tagText": "Kalbadevi, Mumbai",
+      "desc": "",
+      "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/results_locat_icon.svg",
+      "link": "/Mumbai/Mughlai-Restaurants-in-Kalbadevi/nct-10331943",
+      "html": 0,
+      "role": "button",
+      "label": "Kalbadevi, Mumbai",
+      "tooltip": "Ground Floor. 534/536 Beram Mahal, Dhobitalao, Near Theatre, Lohar Chawl, Kalbadevi, Mumbai-400002, Maharashtra"
+     },
+     {
+      "tag_key": "timings",
+      "tagText": "",
+      "desc": "<span class=\"font14 fw400 els color339\">Open</span> <span class=\"font14 fw400 color111\"> until 1:00 am</span>",
+      "icon": "",
+      "html": 1,
+      "role": "presentation",
+      "label": "",
+      "tooltip": ""
+     },
+     {
+      "tag_key": "experience",
+      "tagText": "",
+      "desc": "12 Years in Business",
+      "icon": "",
+      "html": 0,
+      "role": "presentation",
+      "label": "",
+      "tooltip": ""
+     }
+    ],
+    [
+     {
+      "tag_key": "price",
+      "tagText": "",
+      "desc": "<div role=\"presentation\" tabindex=\"-1\" class=\"font15 fw400 color111 rupicon\">Price for two <span class=\"dtcmrupicon\">₹</span> 650</div>",
+      "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/pricetag.svg",
+      "html": 1,
+      "role": "presentation",
+      "tooltip": ""
+     },
+     {
+      "tag_key": "ratingtag",
+      "tagText": "\"Fresh food\"",
+      "desc": " 12 Suggestions",
+      "icon": "https://akam.cdn.jdmagicbox.com/images/icons/iphone/nd-Like-comments.png",
+      "html": 0,
+      "role": "presentation",
+      "label": "",
+      "tooltip": ""
+     }
+    ]
+   ],
+   "jadoopic": "https://content2.jdmagicbox.com/checkin/mumbai/022PXX22.XX22.140804130028.J6U9.jpg",
+   "ratingnew": [],
+   "hotcategory": "Mao Family Restaurant",
+   "reviewtextdata": "Jd rating index based on 10055 ratings across the web",
+   "bddisplayText1": " for ",
+   "bddisplayText2": "Mao Family Restaurant",
+   "visit_trends": "0",
+   "visit_trends_url": "https://win.justdial.com/charts/hotel_chart_v3.html?docid=022PXX22.XX22.140804130028.J6U9",
+   "isrestaurant": "1",
+   "bookcab": "1",
+   "MESSAGE": null,
+   "messmenu": [
+    "Menu",
+    "https://www.justdial.com/Mumbai/Mao-Family-Restaurant-Kalbadevi/022PXX22-XX22-140804130028-J6U9_BZDET/menu?source=77&cdata=%7B%22img%22%3A%22https%3A%5C%2F%5C%2Fcontent.jdmagicbox.com%5C%2Fv2%5C%2Fcomp%5C%2Fmumbai%5C%2Fu9%5C%2F022pxx22.xx22.140804130028.j6u9%5C%2Fcatalogue%5C%2Fmao-family-restaurant-dhobi-talao-mumbai-north-indian-restaurants-fqj1km1qaf.jpg%22%2C%22cn%22%3A%22Mao+Family+Restaurant%22%2C%22ar%22%3A%22Kalbadevi%22%2C%22dcty%22%3A%22Mumbai%22%2C%22cty%22%3A%22Mumbai%22%2C%22rt%22%3A%224.2%22%2C%22mn%22%3Anull%2C%22op%22%3Anull%2C%22sod%22%3Anull%2C%22cod%22%3Anull%2C%22totrt%22%3A%2210055%22%2C%22cpno%22%3A%2209845262099%22%7D&native=&version=3.1&hide_header=1&sid=",
+    "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/newprot_w/dtl-menu-icn.svg"
+   ],
+   "canCall": 1,
+   "nameln": "Mao Family Restaurant",
+   "addressln": "Ground Floor. 534/536 Beram Mahal, Dhobitalao, Near Theatre, Lohar Chawl, Kalbadevi, Mumbai-400002, Maharashtra",
+   "arealn": "Kalbadevi",
+   "compratingln": "4.2",
+   "bd_params": {
+    "bd": "2",
+    "city": "Mumbai",
+    "area": "",
+    "bcity": "Mumbai",
+    "barea": "Kalbadevi",
+    "pncdbd": "",
+    "bpncdbd": "400002",
+    "paidstatus": "1",
+    "misc": "8590080004",
+    "hncatid": "10331943",
+    "search": "x",
+    "did": "022PXX22.XX22.140804130028.J6U9",
+    "ask_mobile": 0,
+    "case": "sms_email",
+    "frmpg": "dtlpg",
+    "hncatid_name": "Mao Family Restaurant"
+   },
+   "bookApptAvail": [],
+   "isDotCom": "0",
+   "restrict_upload": 0,
+   "ratingtag": {
+    "tagText": "Fresh food",
+    "desc": " 12 Suggestions",
+    "icon": "https://akam.cdn.jdmagicbox.com/images/icons/iphone/nd-Like-comments.png",
+    "tagTextColor": "#111111"
+   },
+   "cinebanner": [],
+   "common_event_data": {
+    "cname": "Mao Family Restaurant",
+    "docid": "022PXX22.XX22.140804130028.J6U9",
+    "rating": "4.2",
+    "rating_cnt": "10055",
+    "city": "Mumbai",
+    "dcity": "Mumbai",
+    "area": "Kalbadevi",
+    "ucity": "Mumbai",
+    "uarea": "",
+    "pin": "400002",
+    "ds": "0",
+    "pdg": "",
+    "paid": "1",
+    "jd_verified": "1",
+    "guarantee": "",
+    "trust": "1",
+    "verified": "1",
+    "tab": "",
+    "pos": "0",
+    "tag": "",
+    "search_type": "D",
+    "jde": 0,
+    "type": "",
+    "call_cta": 3,
+    "jdtracker": null,
+    "bd": "",
+    "ncatid": "10331943",
+    "price": 0,
+    "hotcategory": "Mao Family Restaurant",
+    "hotcategory_id": "10331943",
+    "photo_tot": 128,
+    "isb2b": "0"
+   },
+   "event_data": {
+    "cname": "Mao Family Restaurant",
+    "docid": "022PXX22.XX22.140804130028.J6U9",
+    "rating": "4.2",
+    "rating_cnt": "10055",
+    "city": "Mumbai",
+    "dcity": "Mumbai",
+    "area": "Kalbadevi",
+    "ucity": "Mumbai",
+    "uarea": "",
+    "pin": "400002",
+    "ds": "0",
+    "pdg": "",
+    "paid": "1",
+    "jd_verified": "1",
+    "guarantee": "",
+    "trust": "1",
+    "verified": "1",
+    "tab": "",
+    "pos": "0",
+    "tag": "",
+    "search_type": "D",
+    "jde": 0,
+    "type": "landing",
+    "call_cta": 3,
+    "jdtracker": null,
+    "bd": "",
+    "ncatid": "10331943",
+    "price": 0,
+    "hotcategory": "Mao Family Restaurant",
+    "hotcategory_id": "10331943",
+    "photo_tot": 128,
+    "isb2b": "0",
+    "li": "landing",
+    "cta_name": "Order Online TP",
+    "deals": "1",
+    "jd_cash": "",
+    "chat": 1,
+    "message": 0,
+    "directions": 0,
+    "write_review": 0,
+    "website": 0,
+    "share": 1,
+    "add_photo": 0,
+    "tab_name": "",
+    "abbr": "EATR,REST,FOS,CSN,FSQB",
+    "tabs": [
+     "Overview",
+     "Offers",
+     "Menu",
+     "Quick Info",
+     "Services",
+     "Photos",
+     "Reviews"
+    ],
+    "has_catalogue": 0
+   },
+   "cache": 1,
+   "lng_arr": {
+    "clmd": "Claimed",
+    "clm": "Claim this business",
+    "clrate": "Click to Rate",
+    "shnum": "Show Number",
+    "cont": "Contact",
+    "gd": "Get Directions",
+    "cp": "Copy",
+    "adp": "Add More Photo",
+    "mr": "More",
+    "up": "Upload Photos",
+    "snt": "Suggest New Timings",
+    "va": "View all",
+    "vm": "View More",
+    "syr": "Start your Review",
+    "rrt": "Recent rating trend",
+    "rat": "Rating",
+    "rats": "Ratings",
+    "rae": "Report An Error",
+    "hptxt": "Help us to make Justdial more updated and more relevant for you.",
+    "rn": "Report Now",
+    "ctr": "Click to review",
+    "vl": "View Less",
+    "atc": "Add to Compare",
+    "ph": "Photo",
+    "phs": "Photos",
+    "vd": "Video",
+    "vdt": "View Details",
+    "fu": "Follow us",
+    "wptx": "Or connect with seller instantly",
+    "ac": "Add Contact",
+    "sh": "Share",
+    "adr": "Address"
+   },
+   "IsDeal": 0,
+   "stringdetail": "Based on,others have rated this,other have rated this,view all,call,message,share,direction,have rated this,your friend,be first among your friends to rate,more,report an issue,view all ratings,add photo",
+   "stringdetaileng": "Based on,others have rated this,other have rated this,view all,call,message,share,direction,have rated this,your friend,be first among your friends to rate,more,report an issue,view all ratings,add photo"
+  },
+  "data_i_track": [],
+  "other": 0,
+  "noarea": null,
+  "error": {
+   "status": 1,
+   "fallbacksearch": "x",
+   "rstatus": 200,
+   "rurl": "",
+   "inapp": 1
+  },
+  "search_id": "691cdcd4ea5d7c3c07490e656feb3eed3f80e98a4f7894b6ab63625b3299c1ae",
+  "GPREFETCH": "FALSE"
+ },
+ "faqresp": "",
+ "search": "x",
+ "lat": "",
+ "long": "",
+ "ct": "Mumbai",
+ "webLang": "en",
+ "hotky": {},
+ "isServer": 1,
+ "mapContrctData": {},
+ "smBusData": {},
+ "showTimingsData": null,
+ "showTimingsAdditionalData": null,
+ "doctorsLocationsData": {},
+ "servicesData": {},
+ "outletsData": {},
+ "viaGoogle": 0,
+ "useTabsView": true,
+ "menuslideData": {},
+ "serviceCatalogData": {},
+ "exploreData": {},
+ "similarSectionData": {},
+ "waBot": 0,
+ "srvcPage": "",
+ "menuSliderTabViewSSRData": {},
+ "productsPageData": {
+  "catList": [],
+  "gridData": {}
+ },
+ "videosPageData": {},
+ "b2cProductsData": {
+  "products": [],
+  "filters": []
+ },
+ "stocksData": {}
+}

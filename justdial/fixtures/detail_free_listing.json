@@ -1,0 +1,1222 @@
+{
+ "isVendor": false,
+ "userLocation": {
+  "area": "",
+  "pincode": "",
+  "lat": "",
+  "long": "",
+  "city": "Nashik"
+ },
+ "query": {
+  "city": "Mumbai",
+  "search": "x",
+  "docid": "022PXX22.XX22.260604114558.W5C1"
+ },
+ "pd": "7a23607475696e7368726465233b67606d72642d2365607560233b7a7c7c",
+ "pageConfig": {
+  "pageName": "details",
+  "rewriteLocationCookies": true
+ },
+ "nearmeCity": "Mumbai",
+ "resultsAreaInfo": {
+  "area": "",
+  "areaUpdatedByListing": ""
+ },
+ "akmData": {
+  "Continent": "AS",
+  "Ak_City": "LUDHIANA",
+  "Cntry": "IN"
+ },
+ "referer": "gen",
+ "askLoc": 0,
+ "bot": 0,
+ "results": {
+  "results": {
+   "contactperson": "",
+   "name": "Bademiya - Colaba",
+   "email": "",
+   "mobile": "",
+   "tollfree": "",
+   "contact": "",
+   "fax": "",
+   "website": "https://bademiya.org/,www.bademiya.org",
+   "address": "Bademiya,  Mumbai,  Maharashtra, Tulloch Road, Dr Shyama Prasad Mukherjee Chowk, Mumbai-400001, Maharashtra",
+   "landmark": "",
+   "complat": "18.9232359",
+   "complong": "72.8325226",
+   "mappointer": "1",
+   "startlat": "",
+   "startlong": "",
+   "comprating": "3.7",
+   "rating": "3.7",
+   "HoursOfOperation": "Mon - Sun :- 12:00 pm - 3:30 am",
+   "Catalogue": {
+    "dn": [
+     "https://content.jdmagicbox.com"
+    ],
+    "res": [
+     {
+      "imgUrl": "kabab-veg3-kabab-veg-3-fqt12-pc-8888348007-sco-43uyrxlvc87",
+      "pid": "8888348007",
+      "upload_by": "",
+      "create_date": "",
+      "user_profile": "",
+      "jduid": "",
+      "f_date": "",
+      "tag_order": 0,
+      "docid": "022PXX22.XX22.260604114558.W5C1",
+      "tag": "",
+      "tag_arr": [],
+      "type": "default",
+      "pid_prefix": "pde",
+      "sub_tab": "",
+      "pp": "",
+      "pl1": "",
+      "pl2": "",
+      "pred": "",
+      "quality": "",
+      "cat_id": "",
+      "height": "",
+      "width": "",
+      "aspect_ratio": "1000:667",
+      "sharedt_url": "",
+      "jdmartid": "",
+      "ncid": "",
+      "psv_node_id": "",
+      "image3d": [],
+      "showcase": [],
+      "pavideo": [],
+      "is_digest": 1,
+      "altTxt": "",
+      "io": "/comp/def_content/kabab-veg/kabab-veg3-kabab-veg-3-fqt12.jpg",
+      "do": "",
+      "it": "/comp/def_content/kabab-veg/kabab-veg3-kabab-veg-3-fqt12-250.jpg",
+      "in": "",
+      "il": "Others",
+      "id": ""
+     }
+    ],
+    "tot": 1
+   },
+   "videoUrl": "",
+   "overallRatingsChart": "",
+   "ratingsOverTimeChart": "",
+   "paymentModes": "",
+   "AlsoListedIn": [
+    {
+     "category": "Kabab Centres",
+     "categoryln": "Kabab Centres",
+     "catid": "10284339",
+     "nid": "10284339",
+     "filterflag": 0,
+     "jdmid": "",
+     "url": "/Mumbai/Kabab-Centres-in-Dr-Shyama-Prasad-Mukherjee-Chowk/nct-10284339",
+     "inapp": 1
+    }
+   ],
+   "totalReviews": "24,828",
+   "Reviews": [],
+   "services": [],
+   "YOE": "",
+   "rateThis": "1",
+   "bd_detailshow": "",
+   "alsolist_counts": "1",
+   "data_city": "Mumbai",
+   "totJdReviews": "24828",
+   "opennow": 0,
+   "guarantee": "",
+   "verified": "",
+   "building": "Bademiya, Mumbai, Maharashtra",
+   "street": "Tulloch Road",
+   "area": "Dr Shyama Prasad Mukherjee Chowk",
+   "pincode": "400001",
+   "VNumber": "",
+   "paidstatus": "0",
+   "aka": "",
+   "show_fav": 0,
+   "favactive": 0,
+   "shopfrontFlag": 0,
+   "city": "Mumbai",
+   "price_range": "0",
+   "other_city_num": [],
+   "sharedt_url": "\n Check out this on Justdial! \n https://jsdl.in/DT-43UYRXLVC87",
+   "Sharerating": "\n https://www.justdial.com/DT-43UYRXLVC87",
+   "closeddown_flag": 0,
+   "price_tag_d": "",
+   "twitterNode": " \n Bademiya - Colaba \n https://www.justdial.com/DT-43UYRXLVC87",
+   "extra_info": {
+    "asflg": "",
+    "enflg": "",
+    "enid": "",
+    "shpfilter": "",
+    "shpcatid": "",
+    "price": "",
+    "dummy": "0",
+    "ccode": "",
+    "slat": 0,
+    "slong": 0,
+    "search_id": "8bb7164a76a40083b134de118040a2f15a81fdb746a9999d22926de9841749cd",
+    "search_bdcatid": "",
+    "checkin": "1970-01-01"
+   },
+   "is_theatre": 0,
+   "bookmovieFlag": 0,
+   "website_type_flag": "0",
+   "business_tag": "8796227239936",
+   "sub_type_flag": "0",
+   "type_flag_actions": "0",
+   "trd_flg": "0",
+   "shorturl": "43UYRXLVC87",
+   "d_logo": "",
+   "attrstr": [],
+   "disp_pic": "https://content.jdmagicbox.com/comp/def_content/kabab-veg/kabab-veg3-kabab-veg-3-fqt12.jpg",
+   "cuisine": "",
+   "d_menu": "0",
+   "hot_cat_info": "10284339|10284339|Kabab Centres",
+   "gdocids": "",
+   "rdocids": "",
+   "seo_title": "",
+   "seo_description": "",
+   "seo_keywords": "",
+   "offer_d": [],
+   "attr_v2": [],
+   "hide_address": "0",
+   "tp_rd_url": "[]",
+   "blockforvirtual": "0",
+   "tag_cname": "",
+   "vdo": "",
+   "msg_num": "{\"wup\":[]}",
+   "social_medial_url": "",
+   "misc_flag": "0",
+   "mid": "false",
+   "omni_data": "[]",
+   "hop": {
+    "heading": "Business Hours",
+    "status": "<span class=\"font16 fw400 els color339\">Opens in </span><span class=\"font16 fw400 color111\">9 mins</span>",
+    "hop": [
+     {
+      "day": "MON (Today)",
+      "today": 1,
+      "hours": "12:00 pm - 3:30 am",
+      "hours_array": [
+       "12:00 pm - 3:30 am"
+      ],
+      "holiday": 0,
+      "notes": {}
+     },
+     {
+      "day": "TUE",
+      "today": 0,
+      "hours": "12:00 pm - 3:30 am",
+      "hours_array": [
+       "12:00 pm - 3:30 am"
+      ],
+      "holiday": 0,
+      "notes": {}
+     },
+     {
+      "day": "WED",
+      "today": 0,
+      "hours": "12:00 pm - 3:30 am",
+      "hours_array": [
+       "12:00 pm - 3:30 am"
+      ],
+      "holiday": 0,
+      "notes": {}
+     },
+     {
+      "day": "THU",
+      "today": 0,
+      "hours": "12:00 pm - 3:30 am",
+      "hours_array": [
+       "12:00 pm - 3:30 am"
+      ],
+      "holiday": 0,
+      "notes": {}
+     },
+     {
+      "day": "FRI",
+      "today": 0,
+      "hours": "12:00 pm - 3:30 am",
+      "hours_array": [
+       "12:00 pm - 3:30 am"
+      ],
+      "holiday": 0,
+      "notes": {}
+     },
+     {
+      "day": "SAT",
+      "today": 0,
+      "hours": "12:00 pm - 3:30 am",
+      "hours_array": [
+       "12:00 pm - 3:30 am"
+      ],
+      "holiday": 0,
+      "notes": {}
+     },
+     {
+      "day": "SUN",
+      "today": 0,
+      "hours": "12:00 pm - 3:30 am",
+      "hours_array": [
+       "12:00 pm - 3:30 am"
+      ],
+      "holiday": 0,
+      "notes": {}
+     }
+    ],
+    "icon": "https://akam.cdn.jdmagicbox.com/images/icons/iphone/new/downarrow.png"
+   },
+   "f4_info": "",
+   "master_flag": "0",
+   "parentid": "PXX22.XX22.260604114558.W5C1",
+   "menu_d": [
+    "https://content.jdmagicbox.com/comp/def_content/kabab-veg/kabab-veg3-kabab-veg-3-fqt12-250.jpg|-|1|-|All"
+   ],
+   "b2b_flag": "0",
+   "catalog_flag": 0,
+   "flags": "1048578",
+   "yr_est_flg": "0",
+   "gst_d": "",
+   "bc_docid": "",
+   "mkp_info": {
+    "ctlg": {
+     "jdm_prod": 0,
+     "jdm_serv": 0,
+     "mkp_prod": 0,
+     "mkp_serv": 0
+    },
+    "deactive": 0,
+    "delv_tim": [],
+    "delvflag": 0,
+    "delvpercnt": 0,
+    "hol": [],
+    "is_cont_kyc": 0,
+    "is_own_kyc": 0,
+    "isbankdet": 0,
+    "isdigsign": 0,
+    "iseligible": 0,
+    "iseligibledate": null,
+    "isjdpay": 0,
+    "iskyc": 0,
+    "islivedate": null,
+    "ispause": 0,
+    "ispayment": 0,
+    "issameaddr": 0,
+    "jdm_eligible": 0,
+    "merchid": "",
+    "onb": 0,
+    "onbdate": null,
+    "puaddr": {
+     "a": "",
+     "bnm": "",
+     "ct": "",
+     "lat": 0,
+     "lmrk": "",
+     "long": 0,
+     "pin": "",
+     "st": "",
+     "strt": ""
+    },
+    "slascore": 0,
+    "status": 3,
+    "suppid": "",
+    "type": 0
+   },
+   "tag_info": [],
+   "unic_info": "{\"doc\":null,\"doi\":null,\"nob\":\"\",\"ot\":\"\",\"rous\":null,\"sc\":\"\",\"strdet\":[],\"strid\":\"\",\"toe\":\"\",\"ura\":\"\",\"urc\":\"\",\"urn\":\"\"}",
+   "award": "",
+   "tgcloud": "[{\"name\":\"Madras Cafe\",\"nid\":\"11985167\"},{\"name\":\"Burma Burma\",\"nid\":\"12139913\"},{\"name\":\"Salad Days\",\"nid\":\"12141138\"},{\"name\":\"Morbiwala Sweet Mart\",\"nid\":\"12138998\"},{\"name\":\"Falooda\",\"nid\":\"10198911\"},{\"name\":\"Nirvana\",\"nid\":\"11982221\"},{\"name\":\"Family Night Clubs\",\"nid\":\"12150937\"},{\"name\":\"Home Chefs\",\"nid\":\"12127111\"},{\"name\":\"Bubble Tea Outlets\",\"nid\":\"12089850\"},{\"name\":\"Pasta Outlets\",\"nid\":\"11993265\"},{\"name\":\"Saiba Amruttulya\",\"nid\":\"12287220\"},{\"name\":\"TGI Fridays\",\"nid\":\"11231444\"},{\"name\":\"Eat Fit\",\"nid\":\"11995012\"},{\"name\":\"Biryani Corner\",\"nid\":\"11979678\"},{\"name\":\"Desi Tadka\",\"nid\":\"11123649\"},{\"name\":\"Delhi Darbar Restaurants\",\"nid\":\"11966324\"},{\"name\":\"Paratha Corner\",\"nid\":\"12162268\"},{\"name\":\"Mehfil Restaurants\",\"nid\":\"11966493\"},{\"name\":\"Khana Khazana\",\"nid\":\"11979401\"},{\"name\":\"Cafe Noir\",\"nid\":\"12087363\"},{\"name\":\"Taste Of Punjab\",\"nid\":\"12088334\"},{\"name\":\"Baker Street\",\"nid\":\"11988269\"},{\"name\":\"Shake Outlets\",\"nid\":\"11993263\"},{\"name\":\"Bismillah Catering\",\"nid\":\"12138794\"},{\"name\":\"Chinese Hut\",\"nid\":\"11985191\"},{\"name\":\"The Kitchen\",\"nid\":\"11985174\"},{\"name\":\"Rasoi\",\"nid\":\"12998440\"},{\"name\":\"Gopalas\",\"nid\":\"12139074\"},{\"name\":\"Santosh Dhaba\",\"nid\":\"11988214\"},{\"name\":\"Gupta Brothers Sweets\",\"nid\":\"11984701\"},{\"name\":\"Nescafe\",\"nid\":\"11979215\"},{\"name\":\"Cake & Celebration\",\"nid\":\"11985240\"},{\"name\":\"Chinese Food Corner\",\"nid\":\"12140374\"},{\"name\":\"The Hub\",\"nid\":\"12142194\"},{\"name\":\"Juice Lounge\",\"nid\":\"11979405\"},{\"name\":\"Food Factory\",\"nid\":\"12141849\"},{\"name\":\"Town Hall Restaurants\",\"nid\":\"12144473\"},{\"name\":\"Bread & More\",\"nid\":\"11984833\"},{\"name\":\"The Sandwich Shop\",\"nid\":\"11988270\"},{\"name\":\"Ripple Coffee Shops\",\"nid\":\"12090653\"},{\"name\":\"The Bakery Shop\",\"nid\":\"16059581\"},{\"name\":\"Tikka Masala\",\"nid\":\"12147538\"},{\"name\":\"Taste Of India\",\"nid\":\"10950394\"},{\"name\":\"Bake My Day\",\"nid\":\"11978779\"},{\"name\":\"Burger Hut\",\"nid\":\"11979655\"},{\"name\":\"Pet Pooja\",\"nid\":\"12149381\"},{\"name\":\"Cake House\",\"nid\":\"12138828\"},{\"name\":\"Hyderabadi Biryani\",\"nid\":\"12161812\"},{\"name\":\"Snackbar\",\"nid\":\"12975643\"}]",
+   "offer_v2": "",
+   "menu_slider": [],
+   "legal_companyname": "",
+   "tagline": "",
+   "no_employee": "",
+   "turnover": "",
+   "accreditations": "",
+   "certificates": "",
+   "chain_contract": "",
+   "popular_review": "",
+   "business_flag_abbr": "FSQB,REST,FOS",
+   "chain_outlet_ncatid": "",
+   "master_docid": "",
+   "state": "Maharashtra",
+   "certificate_detail": "",
+   "hotel_p": "",
+   "type_flag": "0",
+   "catidlineage": [],
+   "fratings": {
+    "total": 0,
+    "ratings": []
+   },
+   "myratings": [],
+   "vertical_data": [],
+   "odsflow": 0,
+   "rest_flags": null,
+   "vertical_type_flag": [],
+   "enquirymsg": 1,
+   "template": 1,
+   "template_nm": "category",
+   "sot_code": "43UYRXLVC87",
+   "userimage": "",
+   "Buffet": null,
+   "Buffet_slider": null,
+   "main_amenities": null,
+   "offerdata": "",
+   "not_rateable": 0,
+   "pop_cat": [
+    {
+     "category": "Kabab Centres",
+     "nid": "10284339",
+     "url": "/Mumbai/Kabab-Centres-in-Dr-Shyama-Prasad-Mukherjee-Chowk/nct-10284339"
+    }
+   ],
+   "disclaimer": [],
+   "is_lawyer": false,
+   "gstDetails": [],
+   "ask_mobile": 1,
+   "is_blocked": 0,
+   "attr_data": {
+    "node1": "",
+    "node2": "",
+    "node3": [
+     "",
+     0,
+     0
+    ],
+    "node1color": []
+   },
+   "opstring": {
+    "status": "<span class=\"font14 fw400 els color339\">Opens in </span><span class=\"font14 fw400 color111\">9 mins</span>",
+    "timing": "",
+    "event": null
+   },
+   "qualification": "",
+   "checkin": "2026-10-28",
+   "checkout": "2026-10-29",
+   "def_adult": 2,
+   "max_adults": 3,
+   "video_img_url": "",
+   "checkpos": "2",
+   "claimThis": "1",
+   "pros_cons_data": [],
+   "NewAddress": "Dr Shyama Prasad Mukherjee Chowk",
+   "og_tags": {
+    "image": "https://content.jdmagicbox.com/comp/def_content/kabab-veg/kabab-veg3-kabab-veg-3-fqt12.jpg",
+    "image_secure_url": "https://content.jdmagicbox.com/comp/def_content/kabab-veg/kabab-veg3-kabab-veg-3-fqt12.jpg",
+    "image_width": "630",
+    "image_height": "473",
+    "type": "restaurant.restaurant",
+    "title": "Bademiya - Colaba, Dr Shyama Prasad Mukherjee Chowk, Mumbai - Justdial",
+    "url": "https://www.justdial.com/Mumbai/Bademiya-Colaba-Dr-Shyama-Prasad-Mukherjee-Chowk/022PXX22-XX22-260604114558-W5C1_BZDET",
+    "site_name": "Justdial",
+    "description": "Rated 3.7/5. Located in Dr Shyama Prasad Mukherjee Chowk, Mumbai. Check out 24828 Ratings & Reviews on Justdial. ",
+    "iosurl": "justdial://Mumbai/Bademiya-Colaba-Dr-Shyama-Prasad-Mukherjee-Chowk/022PXX22-XX22-260604114558-W5C1_BZDET",
+    "androidurl": "android-app://com.justdial.search/http/t.justdial.com/Mumbai/Bademiya-Colaba-Dr-Shyama-Prasad-Mukherjee-Chowk/022PXX22-XX22-260604114558-W5C1_BZDET"
+   },
+   "seo_dt": {
+    "title": "Bademiya - Colaba in Dr Shyama Prasad Mukherjee Chowk,Mumbai - Best Kabab Centres near me in Mumbai - Justdial",
+    "desc": "Bademiya - Colaba in Dr Shyama Prasad Mukherjee Chowk,Mumbai well known for Kabab Centres in Mumbai . Rated 3.7 based on 24828 Customer Reviews and Ratings with 1 Photos. Check Menu, Offers, Prices, Timings, Address, Contact Number, Reviews & Ratings, Photos, Maps of Bademiya - Colaba, Dr Shyama Prasad Mukherjee Chowk, Mumbai.",
+    "key": "Bademiya - Colaba in Dr Shyama Prasad Mukherjee Chowk, Bademiya - Colaba in Mumbai, Kabab Centres, Menu, Reviews, Order Food, Book a Table, Contact Number, Phone Number, Address, Map, Ratings, Directions, Official Website Link, Working Hours, Services",
+    "link": "https://www.justdial.com/Mumbai/Bademiya-Colaba-Dr-Shyama-Prasad-Mukherjee-Chowk/022PXX22-XX22-260604114558-W5C1_BZDET"
+   },
+   "ldJson": {
+    "default": "{\"@context\": \"https://schema.org\",\"@type\": \"WebSite\",\"name\": \"Justdial\",\"url\": \"https://www.justdial.com/\"}",
+    "detail": "{\"@context\": \"https://schema.org\",\n    \"@type\": \"Restaurant\", \n    \"name\": \"Bademiya - Colaba\",\n    \"url\": \"https://www.justdial.com/Mumbai/Bademiya-Colaba-Dr-Shyama-Prasad-Mukherjee-Chowk/022PXX22-XX22-260604114558-W5C1_BZDET\",\n    \"image\": [ \"https://content3.jdmagicbox.com/comp/def_content/kabab-veg/kabab-veg3-kabab-veg-3-fqt12.jpg\"],\n    \"address\": {\n        \"@type\": \"PostalAddress\",\n        \"streetAddress\": \"Bademiya, Mumbai, Maharashtra, Tulloch Road\",\n        \"addressLocality\": \"Dr Shyama Prasad Mukherjee Chowk\",\n        \"postalCode\": \"400001\",\n        \"addressRegion\": \"Mumbai\",\n        \"addressCountry\": \"IN\"\n    },\n    \"areaServed\": {\n      \"@type\": \"AdministrativeArea\",\n      \"name\": \"Mumbai\"\n    },\"geo\": {\n\t\t\"@type\": \"GeoCoordinates\",\n\t\t\"latitude\": \"18.9232359\",\n\t\t\"longitude\": \"72.8325226\"\n\t\t},\n        \"aggregateRating\": {\n            \"@type\": \"AggregateRating\",\n            \"ratingValue\": \"3.7\",\n            \"ratingCount\": \"24828\",\n            \"bestRating\" : \"5\",\n            \"worstRating\" : \"0\"\n            },\"openingHoursSpecification\": [ {\n                      \"@type\": \"OpeningHoursSpecification\",\n                      \"dayOfWeek\": \"https://schema.org/Monday \",\n                      \"opens\": [\" 12:00 pm \"],\n                      \"closes\": [\" 03:30 am\"] },{\n                      \"@type\": \"OpeningHoursSpecification\",\n                      \"dayOfWeek\": \"https://schema.org/Tuesday \",\n                      \"opens\": [\" 12:00 pm \"],\n                      \"closes\": [\" 03:30 am\"] },{\n                      \"@type\": \"OpeningHoursSpecification\",\n                      \"dayOfWeek\": \"https://schema.org/Wednesday \",\n                      \"opens\": [\" 12:00 pm \"],\n                      \"closes\": [\" 03:30 am\"] },{\n                      \"@type\": \"OpeningHoursSpecification\",\n                      \"dayOfWeek\": \"https://schema.org/Thursday \",\n                      \"opens\": [\" 12:00 pm \"],\n                      \"closes\": [\" 03:30 am\"] },{\n                      \"@type\": \"OpeningHoursSpecification\",\n                      \"dayOfWeek\": \"https://schema.org/Friday \",\n                      \"opens\": [\" 12:00 pm \"],\n                      \"closes\": [\" 03:30 am\"] },{\n                      \"@type\": \"OpeningHoursSpecification\",\n                      \"dayOfWeek\": \"https://schema.org/Saturday \",\n                      \"opens\": [\" 12:00 pm \"],\n                      \"closes\": [\" 03:30 am\"] },{\n                      \"@type\": \"OpeningHoursSpecification\",\n                      \"dayOfWeek\": \"https://schema.org/Sunday \",\n                      \"opens\": [\" 12:00 pm \"],\n                      \"closes\": [\" 03:30 am\"] }]}",
+    "social": "{\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"Organization\",\"name\":\"justdial.com\",\"url\":\"https:\\/\\/www.justdial.com\\/\",\"logo\":\"https:\\/\\/akam.cdn.jdmagicbox.com\\/images\\/wap\\/logo\\/jd_144.png\",\"sameAs\":[\"https:\\/\\/www.facebook.com\\/JustDial\",\"https:\\/\\/www.linkedin.com\\/company\\/justdial\",\"https:\\/\\/www.instagram.com\\/jd_justdial\",\"https:\\/\\/play.google.com\\/store\\/apps\\/details?id=com.justdial.search\",\"https:\\/\\/itunes.apple.com\\/app\\/jd-justdial\\/id624946027?uo=5\",\"https:\\/\\/www.youtube.com\\/user\\/justdialind\"]}",
+    "review": "",
+    "bcrum": "{\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"item\":{\"@id\":\"https:\\/\\/www.justdial.com\\/Mumbai\",\"name\":\"Mumbai\"}},{\"@type\":\"ListItem\",\"position\":2,\"item\":{\"@id\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/Kabab-Centres\\/nct-10284339\",\"name\":\"Kabab Centres In Mumbai\"}},{\"@type\":\"ListItem\",\"position\":3,\"item\":{\"@id\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/Kabab-Centres-in-Dr-Shyama-Prasad-Mukherjee-Chowk\\/nct-10284339\",\"name\":\"Kabab Centres in Dr Shyama Prasad Mukherjee Chowk\"}},{\"@type\":\"ListItem\",\"position\":4,\"item\":{\"@id\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/Bademiya-Colaba-Dr-Shyama-Prasad-Mukherjee-Chowk\\/022PXX22-XX22-260604114558-W5C1_BZDET\",\"name\":\"Bademiya   Colaba\"}}]}",
+    "b2bbcrum": ""
+   },
+   "bi_lang_arr": [
+    "hi",
+    "bn",
+    "ta",
+    "mr",
+    "gu",
+    "kn"
+   ],
+   "bi_lang_urls": {
+    "en": "https:/www.justdial.com/Mumbai/Bademiya-Colaba-Dr-Shyama-Prasad-Mukherjee-Chowk/022PXX22-XX22-260604114558-W5C1_BZDET",
+    "hi": "https://www.justdial.com/hi/Mumbai/Bademiya-Colaba-Dr-Shyama-Prasad-Mukherjee-Chowk/022PXX22-XX22-260604114558-W5C1_BZDET",
+    "bn": "https://www.justdial.com/bn/Mumbai/Bademiya-Colaba-Dr-Shyama-Prasad-Mukherjee-Chowk/022PXX22-XX22-260604114558-W5C1_BZDET",
+    "ta": "https://www.justdial.com/ta/Mumbai/Bademiya-Colaba-Dr-Shyama-Prasad-Mukherjee-Chowk/022PXX22-XX22-260604114558-W5C1_BZDET",
+    "mr": "https://www.justdial.com/mr/Mumbai/Bademiya-Colaba-Dr-Shyama-Prasad-Mukherjee-Chowk/022PXX22-XX22-260604114558-W5C1_BZDET",
+    "gu": "https://www.justdial.com/gu/Mumbai/Bademiya-Colaba-Dr-Shyama-Prasad-Mukherjee-Chowk/022PXX22-XX22-260604114558-W5C1_BZDET",
+    "kn": "https://www.justdial.com/kn/Mumbai/Bademiya-Colaba-Dr-Shyama-Prasad-Mukherjee-Chowk/022PXX22-XX22-260604114558-W5C1_BZDET"
+   },
+   "applink": [],
+   "amp": "1",
+   "scoreslider": [],
+   "quickinfo": [
+    {
+     "name": "Business summary",
+     "value": "Kabab centre specializing in a variety of grilled kebabs and skewered meats.",
+     "type": "sentence",
+     "url": ""
+    }
+   ],
+   "catalog_rurl": "0",
+   "callalocate": "LGLuodp87s0qqQrnHGuOtswX%2FKtCz5pHRnkDQc7ISG8%3D",
+   "alocatedicid": "LGLuodp87s0qqQrnHGuOtswX%2FKtCz5pHRnkDQc7ISG8%3D",
+   "offerarr": [],
+   "pplsrch": [],
+   "isClaim": 0,
+   "resp_rate": [],
+   "jdcash": [],
+   "vendor_offers": [],
+   "online_offers": [],
+   "voucher": [],
+   "dining_offer": [],
+   "pageType": "",
+   "b2beligible": 0,
+   "award_certificate": [],
+   "jdtrust": [
+    0,
+    0
+   ],
+   "feature_video": [],
+   "profile": [],
+   "price_tagline": [],
+   "rateColor": "#108723",
+   "showgptads": 1,
+   "askAI": 2,
+   "floating_askany": 0,
+   "header_tabs": {
+    "Overview": {
+     "name": "Overview",
+     "nameln": "Overview",
+     "seo_name": "",
+     "path": "",
+     "redirect": 0,
+     "sel": "1",
+     "baseapi": "",
+     "servicecatalog": 0,
+     "event_data": {
+      "li": "overview_tab",
+      "tab_name": "overview_tab"
+     }
+    },
+    "Quick Info": {
+     "name": "Quick Info",
+     "nameln": "Quick Info",
+     "seo_name": "",
+     "path": "",
+     "redirect": 0,
+     "sel": "0",
+     "baseapi": "",
+     "servicecatalog": 0,
+     "event_data": {
+      "li": "_tab",
+      "tab_name": "_tab"
+     }
+    },
+    "Photos": {
+     "name": "Photos",
+     "nameln": "Photos",
+     "seo_name": "photos",
+     "path": "",
+     "redirect": 0,
+     "sel": "0",
+     "baseapi": "",
+     "servicecatalog": 0,
+     "event_data": {
+      "li": "photos_tab",
+      "tab_name": "photos_tab"
+     }
+    },
+    "Reviews": {
+     "name": "Reviews",
+     "nameln": "Reviews",
+     "seo_name": "reviews",
+     "path": "",
+     "redirect": 0,
+     "sel": "0",
+     "baseapi": "",
+     "servicecatalog": 0,
+     "event_data": {
+      "li": "reviews_tab",
+      "tab_name": "reviews_tab"
+     }
+    }
+   },
+   "tab_enabled": 1,
+   "sectiontab": {
+    "lhs": [
+     [
+      {
+       "tabname": "",
+       "tab_header": "",
+       "usenode": "",
+       "apicall": "",
+       "verticalattr": "",
+       "redirection_url": "",
+       "img": "",
+       "disable": "1",
+       "active": false,
+       "typeView": "gptads",
+       "typeView_action": "gptads",
+       "social_img": "",
+       "social_url": "",
+       "b_txt": "",
+       "compname": "gptads",
+       "type": "",
+       "data": {
+        "unit": "/23016204567/Desktop_Dtlspg",
+        "divId": "div-gpt-ad-1739165918509-0",
+        "size": [
+         [
+          970,
+          90
+         ],
+         [
+          750,
+          100
+         ],
+         [
+          980,
+          90
+         ],
+         [
+          980,
+          112
+         ],
+         [
+          960,
+          112
+         ],
+         [
+          1024,
+          90
+         ],
+         [
+          970,
+          112
+         ],
+         [
+          1000,
+          112
+         ],
+         [
+          950,
+          90
+         ],
+         [
+          960,
+          90
+         ],
+         [
+          950,
+          112
+         ],
+         [
+          728,
+          90
+         ]
+        ]
+       }
+      }
+     ],
+     [
+      {
+       "tabname": "",
+       "usenode": "",
+       "apicall": "",
+       "verticalattr": "",
+       "redirection_url": "",
+       "img": "",
+       "disable": "1",
+       "active": false,
+       "typeView": "askAI",
+       "typeView_action": "askAI",
+       "social_img": "",
+       "social_url": "",
+       "b_txt": "",
+       "compname": "askAI",
+       "type": ""
+      }
+     ],
+     [
+      {
+       "tabname": "Quick Information",
+       "usenode": "quickinfo",
+       "apicall": "",
+       "verticalattr": "",
+       "redirection_url": "",
+       "img": "pricon",
+       "disable": "1",
+       "active": false,
+       "typeView": "tab",
+       "typeView_action": "Quick info",
+       "social_img": "",
+       "social_url": "",
+       "b_txt": "",
+       "compname": "aboutcomp",
+       "type": "attributes",
+       "header_tab": "Quick Info"
+      }
+     ],
+     [
+      {
+       "tabname": "Photos",
+       "usenode": "Catalogue",
+       "apicall": "",
+       "verticalattr": "",
+       "redirection_url": "",
+       "img": "pricon",
+       "disable": "1",
+       "active": false,
+       "typeView": "tab",
+       "typeView_action": "Catalogue",
+       "social_img": "",
+       "social_url": "",
+       "b_txt": "",
+       "compname": "Catalogue",
+       "type": "",
+       "header_tab": "Photos"
+      }
+     ],
+     [
+      {
+       "tabname": "Similar Businesses",
+       "usenode": "",
+       "apicall": "/01sep2022/slider.php?case=competitors&entity=022PXX22.XX22.260604114558.W5C1&city=Mumbai&p_list=1&hot_catid=10284339&ln=",
+       "verticalattr": "",
+       "redirection_url": "",
+       "img": "",
+       "disable": "1",
+       "active": false,
+       "typeView": "horizontalscroll",
+       "typeView_action": "Categories",
+       "social_img": "",
+       "social_url": "",
+       "b_txt": "",
+       "compname": "slider",
+       "type": "outlet"
+      }
+     ],
+     [
+      {
+       "tabname": "",
+       "tab_header": "",
+       "usenode": "",
+       "apicall": "",
+       "verticalattr": "",
+       "redirection_url": "",
+       "img": "",
+       "disable": "1",
+       "active": false,
+       "typeView": "gptads",
+       "typeView_action": "gptads",
+       "social_img": "",
+       "social_url": "",
+       "b_txt": "",
+       "compname": "gptads",
+       "type": "",
+       "data": {
+        "unit": "/23016204567/website_dtlpg_scrollad",
+        "divId": "div-gpt-ad-1739166249291-0",
+        "size": [
+         [
+          728,
+          90
+         ],
+         [
+          750,
+          100
+         ],
+         [
+          950,
+          90
+         ],
+         [
+          950,
+          112
+         ],
+         [
+          960,
+          90
+         ],
+         [
+          960,
+          112
+         ],
+         [
+          970,
+          90
+         ],
+         [
+          970,
+          112
+         ],
+         [
+          980,
+          90
+         ],
+         [
+          980,
+          112
+         ],
+         [
+          980,
+          120
+         ],
+         [
+          1000,
+          112
+         ]
+        ]
+       }
+      }
+     ],
+     [
+      {
+       "tabname": "Related Articles",
+       "usenode": "JD Collections",
+       "apicall": "https://win.justdial.com/01sep2022/ads.php?case=all_articals&ncatid=10284339&city=Mumbai&area=&entity=022PXX22.XX22.260604114558.W5C1",
+       "verticalattr": "",
+       "redirection_url": "",
+       "img": "",
+       "disable": "1",
+       "active": false,
+       "typeView": "jd collections",
+       "typeView_action": "JD Collections",
+       "social_img": "",
+       "social_url": "",
+       "b_txt": "",
+       "compname": "Listicles",
+       "type": ""
+      }
+     ],
+     [
+      {
+       "tabname": "Reviews & Ratings",
+       "usenode": "",
+       "apicall": "",
+       "verticalattr": "",
+       "redirection_url": "",
+       "img": "pricon",
+       "disable": "1",
+       "active": false,
+       "typeView": "Review section",
+       "typeView_action": "Review and rate",
+       "social_img": "",
+       "social_url": "",
+       "b_txt": "",
+       "compname": "ReviewsRatings",
+       "type": "",
+       "header_tab": "Reviews"
+      }
+     ]
+    ],
+    "rhs": [
+     [
+      {
+       "tabname": "Bademiya,  Mumbai,  Maharashtra, Tulloch Road, Dr Shyama Prasad Mukherjee Chowk, Mumbai-400001, Maharashtra",
+       "tab_header": "",
+       "usenode": "",
+       "apicall": "",
+       "verticalattr": "",
+       "redirection_url": "",
+       "img": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/newprot/dtladdressicn.svg",
+       "disable": "1",
+       "active": false,
+       "typeView": "address",
+       "typeView_action": "Address",
+       "social_img": "",
+       "social_url": "",
+       "b_txt": "",
+       "compname": "address",
+       "type": "",
+       "direction": "Get Directions",
+       "directionurl": "https://www.google.com/maps/search/?api=1&query=18.9232359,72.8325226"
+      },
+      {
+       "tabname": "Business Hours",
+       "tab_header": "",
+       "usenode": "hop",
+       "apicall": "",
+       "verticalattr": "",
+       "redirection_url": "",
+       "disable": "1",
+       "biz_hrs": 0,
+       "active": false,
+       "typeView": "tab",
+       "typeView_action": "exact",
+       "social_img": "",
+       "social_url": "",
+       "b_txt": "",
+       "compname": "hop",
+       "type": ""
+      },
+      {
+       "tabname": "Get info via SMS/Email",
+       "tab_header": "",
+       "usenode": "",
+       "apicall": "",
+       "verticalattr": "",
+       "redirection_url": "",
+       "img": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/det_enquiry_icon.svg",
+       "disable": "1",
+       "active": false,
+       "typeView": "tab",
+       "typeView_action": "exact",
+       "social_img": "",
+       "social_url": "",
+       "b_txt": "",
+       "compname": "sms",
+       "type": ""
+      },
+      {
+       "tabname": "Share",
+       "usenode": "sharedt_url",
+       "apicall": "",
+       "verticalattr": "",
+       "redirection_url": "",
+       "img": "pricon",
+       "disable": "1",
+       "active": false,
+       "typeView": "exact section",
+       "typeView_action": "exact",
+       "social_img": "",
+       "social_url": "",
+       "b_txt": "",
+       "compname": "exact",
+       "type": ""
+      },
+      {
+       "tabname": "Tap to rate",
+       "usenode": "",
+       "apicall": "",
+       "verticalattr": "",
+       "redirection_url": "",
+       "img": "",
+       "disable": "1",
+       "active": false,
+       "typeView": "Rates",
+       "typeView_action": "Ratings",
+       "social_img": "",
+       "social_url": "",
+       "b_txt": "",
+       "compname": "Taptorate",
+       "type": ""
+      },
+      {
+       "tabname": "Edit this Listing",
+       "usenode": "",
+       "apicall": "",
+       "verticalattr": "",
+       "redirection_url": "",
+       "img": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/det-edit2_blue.svg",
+       "disable": "1",
+       "active": false,
+       "typeView": "tab",
+       "typeView_action": "Editthislisting",
+       "social_img": "",
+       "social_url": "",
+       "b_txt": "",
+       "compname": "Editthislisting",
+       "type": ""
+      },
+      {
+       "tabname": "Visit our Website",
+       "tab_header": "",
+       "usenode": "website",
+       "apicall": "",
+       "verticalattr": "",
+       "redirection_url": "",
+       "img": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/det-web_blue.svg",
+       "disable": "1",
+       "active": false,
+       "typeView": "tab",
+       "typeView_action": "Website",
+       "social_img": "",
+       "social_url": "",
+       "b_txt": "",
+       "compname": "Website",
+       "type": ""
+      }
+     ],
+     [
+      {
+       "tabname": "Also listed in",
+       "usenode": "AlsoListedIn",
+       "apicall": "",
+       "verticalattr": "",
+       "redirection_url": "",
+       "img": "",
+       "disable": "1",
+       "active": false,
+       "typeView": "listed in",
+       "typeView_action": "Also listed in",
+       "social_img": "",
+       "social_url": "",
+       "b_txt": "",
+       "compname": "Alsolistedin",
+       "type": ""
+      }
+     ]
+    ]
+   },
+   "b2bcatdisplay": "",
+   "jdpay": {},
+   "jdPayDisplay": 0,
+   "ds": "0",
+   "wpnumber": [
+    "xxxxxxx"
+   ],
+   "catalog_slider": [],
+   "newcatalog": 0,
+   "hcatarr": {
+    "id": "10284339",
+    "nid": "10284339",
+    "name": "Kabab Centres"
+   },
+   "msge": 0,
+   "msgpop": [
+    {
+     "chat": "What's app",
+     "text": "Hi, I found your business on Justdial",
+     "wpurl": "https://api.whatsapp.com/send?phone=&XXXXXX&text=Hi, I found your business on Justdial",
+     "number": ""
+    }
+   ],
+   "distance": null,
+   "top_card": [
+    [
+     {
+      "tag_key": "address",
+      "tagText": "Dr Shyama Prasad Mukherjee Chowk, Mumbai",
+      "desc": "",
+      "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/results_locat_icon.svg",
+      "link": "/Mumbai/Kabab-Centres-in-Dr-Shyama-Prasad-Mukherjee-Chowk/nct-10284339",
+      "html": 0,
+      "role": "button",
+      "label": "Dr Shyama Prasad Mukherjee Chowk, Mumbai",
+      "tooltip": "Bademiya,  Mumbai,  Maharashtra, Tulloch Road, Dr Shyama Prasad Mukherjee Chowk, Mumbai-400001, Maharashtra"
+     },
+     {
+      "tag_key": "timings",
+      "tagText": "",
+      "desc": "<span class=\"font14 fw400 els color339\">Opens in </span><span class=\"font14 fw400 color111\">9 mins</span>",
+      "icon": "",
+      "html": 1,
+      "role": "presentation",
+      "label": "",
+      "tooltip": ""
+     }
+    ]
+   ],
+   "jadoopic": "https://content2.jdmagicbox.com/checkin/mumbai/022PXX22.XX22.260604114558.W5C1.jpg",
+   "ratingnew": [],
+   "hotcategory": "Kabab Centres",
+   "reviewtextdata": "Jd rating index based on 24828 ratings across the web",
+   "bddisplayText1": " for ",
+   "bddisplayText2": "Kabab Centres",
+   "visit_trends": "0",
+   "visit_trends_url": "https://win.justdial.com/charts/hotel_chart_v3.html?docid=022PXX22.XX22.260604114558.W5C1",
+   "isrestaurant": "1",
+   "bookcab": "1",
+   "MESSAGE": null,
+   "canCall": 0,
+   "nameln": "Bademiya - Colaba",
+   "addressln": "Bademiya,  Mumbai,  Maharashtra, Tulloch Road, Dr Shyama Prasad Mukherjee Chowk, Mumbai-400001, Maharashtra",
+   "arealn": "Dr Shyama Prasad Mukherjee Chowk",
+   "compratingln": "3.7",
+   "bd_params": {
+    "bd": "2",
+    "city": "Mumbai",
+    "area": "",
+    "bcity": "Mumbai",
+    "barea": "Dr Shyama Prasad Mukherjee Chowk",
+    "pncdbd": "",
+    "bpncdbd": "400001",
+    "paidstatus": "0",
+    "misc": "0",
+    "hncatid": "10284339",
+    "search": "x",
+    "did": "022PXX22.XX22.260604114558.W5C1",
+    "ask_mobile": 1,
+    "case": "sms_email",
+    "frmpg": "dtlpg",
+    "hncatid_name": "Kabab Centres"
+   },
+   "bookApptAvail": [],
+   "isDotCom": "0",
+   "restrict_upload": 0,
+   "cinebanner": [],
+   "common_event_data": {
+    "cname": "Bademiya - Colaba",
+    "docid": "022PXX22.XX22.260604114558.W5C1",
+    "rating": "3.7",
+    "rating_cnt": "24828",
+    "city": "Mumbai",
+    "dcity": "Mumbai",
+    "area": "Dr Shyama Prasad Mukherjee Chowk",
+    "ucity": "Mumbai",
+    "uarea": "",
+    "pin": "400001",
+    "ds": "0",
+    "pdg": "",
+    "paid": "0",
+    "jd_verified": "",
+    "guarantee": "",
+    "trust": "0",
+    "verified": "0",
+    "tab": "",
+    "pos": "0",
+    "tag": "",
+    "search_type": "D",
+    "jde": 0,
+    "type": "",
+    "call_cta": 2,
+    "jdtracker": null,
+    "bd": "",
+    "ncatid": "10284339",
+    "price": 0,
+    "hotcategory": "Kabab Centres",
+    "hotcategory_id": "10284339",
+    "photo_tot": 1,
+    "isb2b": "0"
+   },
+   "event_data": {
+    "cname": "Bademiya - Colaba",
+    "docid": "022PXX22.XX22.260604114558.W5C1",
+    "rating": "3.7",
+    "rating_cnt": "24828",
+    "city": "Mumbai",
+    "dcity": "Mumbai",
+    "area": "Dr Shyama Prasad Mukherjee Chowk",
+    "ucity": "Mumbai",
+    "uarea": "",
+    "pin": "400001",
+    "ds": "0",
+    "pdg": "",
+    "paid": "0",
+    "jd_verified": "",
+    "guarantee": "",
+    "trust": "0",
+    "verified": "0",
+    "tab": "",
+    "pos": "0",
+    "tag": "",
+    "search_type": "D",
+    "jde": 0,
+    "type": "landing",
+    "call_cta": 2,
+    "jdtracker": null,
+    "bd": "",
+    "ncatid": "10284339",
+    "price": 0,
+    "hotcategory": "Kabab Centres",
+    "hotcategory_id": "10284339",
+    "photo_tot": 1,
+    "isb2b": "0",
+    "li": "landing",
+    "cta_name": "",
+    "deals": "",
+    "jd_cash": "",
+    "chat": 1,
+    "message": 0,
+    "directions": 0,
+    "write_review": 0,
+    "website": 0,
+    "share": 1,
+    "add_photo": 0,
+    "tab_name": "",
+    "abbr": "FSQB,REST,FOS",
+    "tabs": [
+     "Overview",
+     "Quick Info",
+     "Photos",
+     "Reviews"
+    ],
+    "has_catalogue": 0
+   },
+   "cache": 1,
+   "lng_arr": {
+    "clmd": "Claimed",
+    "clm": "Claim this business",
+    "clrate": "Click to Rate",
+    "shnum": "Show Number",
+    "cont": "Contact",
+    "gd": "Get Directions",
+    "cp": "Copy",
+    "adp": "Add More Photo",
+    "mr": "More",
+    "up": "Upload Photos",
+    "snt": "Suggest New Timings",
+    "va": "View all",
+    "vm": "View More",
+    "syr": "Start your Review",
+    "rrt": "Recent rating trend",
+    "rat": "Rating",
+    "rats": "Ratings",
+    "rae": "Report An Error",
+    "hptxt": "Help us to make Justdial more updated and more relevant for you.",
+    "rn": "Report Now",
+    "ctr": "Click to review",
+    "vl": "View Less",
+    "atc": "Add to Compare",
+    "ph": "Photo",
+    "phs": "Photos",
+    "vd": "Video",
+    "vdt": "View Details",
+    "fu": "Follow us",
+    "wptx": "Or connect with seller instantly",
+    "ac": "Add Contact",
+    "sh": "Share",
+    "adr": "Address"
+   },
+   "IsDeal": 0,
+   "stringdetail": "Based on,others have rated this,other have rated this,view all,call,message,share,direction,have rated this,your friend,be first among your friends to rate,more,report an issue,view all ratings,add photo",
+   "stringdetaileng": "Based on,others have rated this,other have rated this,view all,call,message,share,direction,have rated this,your friend,be first among your friends to rate,more,report an issue,view all ratings,add photo"
+  },
+  "data_i_track": [],
+  "other": 0,
+  "noarea": null,
+  "error": {
+   "status": 1,
+   "fallbacksearch": "x",
+   "rstatus": 200,
+   "rurl": "",
+   "inapp": 1
+  },
+  "search_id": "8bb7164a76a40083b134de118040a2f15a81fdb746a9999d22926de9841749cd",
+  "GPREFETCH": "FALSE"
+ },
+ "faqresp": "",
+ "search": "x",
+ "lat": "",
+ "long": "",
+ "ct": "Mumbai",
+ "webLang": "en",
+ "hotky": {},
+ "isServer": 1,
+ "mapContrctData": {},
+ "smBusData": {},
+ "showTimingsData": null,
+ "showTimingsAdditionalData": null,
+ "doctorsLocationsData": {},
+ "servicesData": {},
+ "outletsData": {},
+ "viaGoogle": 0,
+ "useTabsView": true,
+ "menuslideData": {},
+ "serviceCatalogData": {},
+ "exploreData": {},
+ "similarSectionData": {},
+ "waBot": 0,
+ "srvcPage": "",
+ "menuSliderTabViewSSRData": {},
+ "productsPageData": {
+  "catList": [],
+  "gridData": {}
+ },
+ "videosPageData": {},
+ "b2cProductsData": {
+  "products": [],
+  "filters": []
+ },
+ "stocksData": {}
+}

@@ -1,0 +1,4153 @@
+{
+ "isVendor": false,
+ "userLocation": {
+  "area": "",
+  "pincode": "",
+  "lat": "",
+  "long": "",
+  "city": "Mumbai"
+ },
+ "query": {
+  "city": "Mumbai",
+  "search": "Restaurants",
+  "ncatid": "nct-10408936"
+ },
+ "pd": "7a23607475696e7368726465233b67606d72642d2365607560233b7a7c7c",
+ "pageConfig": {
+  "pageName": "results",
+  "rewriteLocationCookies": true
+ },
+ "nearmeCity": "Mumbai",
+ "resultsAreaInfo": {
+  "area": "",
+  "areaUpdatedByListing": ""
+ },
+ "akmData": {
+  "Continent": "AS",
+  "Ak_City": "LUDHIANA",
+  "Cntry": "IN"
+ },
+ "referer": "gen",
+ "askLoc": 0,
+ "ct": "Mumbai",
+ "lat": "",
+ "long": "",
+ "search": "Restaurants",
+ "ncatid": "10408936",
+ "bot": 0,
+ "llmBot": 0,
+ "listData": {
+  "results": {
+   "columns": [
+    "docid",
+    "name",
+    "distance",
+    "NewAddress",
+    "lat",
+    "lon",
+    "paidStatus",
+    "compRating",
+    "verified",
+    "rateThis",
+    "mappointer",
+    "opstring",
+    "area",
+    "opennow",
+    "type",
+    "VNumber",
+    "totalReviews",
+    "video",
+    "city",
+    "thumbnail",
+    "totJdReviews",
+    "favflag",
+    "attr_data",
+    "an",
+    "shopfront",
+    "ishotel",
+    "vertical",
+    "vertical_name",
+    "discount_Offer",
+    "vertical_data",
+    "position_flag",
+    "Jadoopic",
+    "sharedt_url",
+    "cancall",
+    "wpnumber",
+    "action_node",
+    "idxno",
+    "linefive",
+    "newadd",
+    "newaddcolor",
+    "dimages",
+    "viewchange",
+    "photocnt",
+    "pdg",
+    "nameln",
+    "NewAddressln",
+    "address_flg",
+    "ask_mobile",
+    "hcatarr",
+    "callalocation",
+    "compRatingln",
+    "catalog_flag",
+    "jdpay",
+    "ratecard",
+    "ds",
+    "inapp",
+    "bd_params",
+    "jtkr",
+    "useshare",
+    "weburl",
+    "rev",
+    "nwtaglin",
+    "tag",
+    "starhotel",
+    "revarr",
+    "offertag",
+    "ratingtag",
+    "resp_rate",
+    "pincode",
+    "guarantee",
+    "event_data",
+    "msg_pop",
+    "scd",
+    "loccity",
+    "docatt",
+    "catarray",
+    "arealn",
+    "service_catalog",
+    "is_lawyer",
+    "price_tagline",
+    "rateColor",
+    "seo_info",
+    "logo",
+    "ad_listing",
+    "card_info",
+    "dimages_tag",
+    "apiprm",
+    "extra_field"
+   ],
+   "data": [
+    [
+     "022PXX22.XX22.140725163254.J1I3",
+     "Ashapura Snacks",
+     "",
+     " Dhokali Thane West",
+     "19.226207722222",
+     "72.980033861111",
+     "5",
+     "4",
+     "1",
+     1,
+     "1",
+     {
+      "status": "<span class=\"font14 fw500 cs1 color339\">Open</span> <span class=\"font14 fw500 color111\"> until 10:00 pm</span>",
+      "timing": "7:00 am - 1:00 pm , 4:30 pm - 10:00 pm"
+     },
+     "Dhokali-Thane West",
+     1,
+     "Restaurants, Fast Food",
+     "07405552263",
+     "1,639 Ratings",
+     "",
+     "Mumbai",
+     "https://content.jdmagicbox.com/comp/service_catalogue/restaurants-attr-restaurants-res299-1-250.jpg",
+     "1,639",
+     0,
+     {
+      "node1": "",
+      "node2": "<span class=\"font14 fw400 color111\">₹ 200 Price for two</span>",
+      "node3": [
+       "<span class=\"font14 fw400 color111\">13 Years in Business</span>",
+       0,
+       0
+      ],
+      "node1color": []
+     },
+     {},
+     0,
+     0,
+     [],
+     "restaurant",
+     "",
+     [
+      {
+       "button_text": "Order online",
+       "button_url": [
+        {
+         "url": "https://www.zomato.com/mumbai/ashapura-snacks-manpada-thane-west-thane/order",
+         "text": "Zomato",
+         "img": "https://akam.cdn.jdmagicbox.com/images/icons/zomato.png",
+         "dsc": ""
+        },
+        {
+         "url": "https://www.swiggy.com/restaurants/ashapura-snacks-majiwada-west-thane-mumbai-47251",
+         "text": "Swiggy",
+         "img": "https://akam.cdn.jdmagicbox.com/images/icons/swiggy.png",
+         "dsc": ""
+        }
+       ],
+       "button_color": [],
+       "flag": "1",
+       "hide_header": "0",
+       "skipVerif": "0",
+       "tp": "1",
+       "li": "Order online"
+      },
+      {
+       "button_text": "Menu",
+       "button_url": [
+        {
+         "url": "https://www.justdial.com/Thane/Ashapura-Snacks-Dhokali-Thane-West/022PXX22-XX22-140725163254-J1I3_BZDET/menu?source=77&cdata=&native=&version=&hide_header=1&sid=",
+         "text": "",
+         "img": "",
+         "dsc": ""
+        }
+       ],
+       "button_color": [],
+       "flag": "1",
+       "hide_header": "0",
+       "skipVerif": "0",
+       "tp": "0",
+       "li": "Menu"
+      }
+     ],
+     "",
+     "https://content2.jdmagicbox.com/checkin/mumbai/022PXX22.XX22.140725163254.J1I3.jpg",
+     "https://www.justdial.com/DT-43BZIPZ1",
+     1,
+     [],
+     "",
+     1,
+     "",
+     "",
+     "",
+     [
+      "https://content.jdmagicbox.com/comp/service_catalogue/restaurants-attr-restaurants-res299-1.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/i3/022pxx22.xx22.140725163254.j1i3/catalogue/ashapura-snacks-dhokali-thane-west-thane-south-indian-fast-food-joints-emf7r14p89.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/i3/022pxx22.xx22.140725163254.j1i3/catalogue/ashapura-snacks-dhokali-thane-west-thane-south-indian-fast-food-joints-xrtq85esd1.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/i3/022pxx22.xx22.140725163254.j1i3/catalogue/ashapura-snacks-dhokali-thane-west-thane-south-indian-fast-food-joints-huxlc1qikw.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/i3/022pxx22.xx22.140725163254.j1i3/catalogue/ashapura-snacks-dhokali-thane-west-thane-south-indian-fast-food-joints-ngiwycz668.jpg"
+     ],
+     [
+      0,
+      2,
+      0
+     ],
+     "12",
+     "",
+     "Ashapura Snacks",
+     " Dhokali Thane West",
+     1,
+     0,
+     {
+      "id": 10200860,
+      "nid": 10200860,
+      "name": "Fast Food",
+      "lin": ""
+     },
+     "tfJbTArHpfBM9DNHXxHaRDCQT0%2F6AL%2FM5Ne%2FDma6QZk%3D",
+     "4",
+     0,
+     {
+      "img": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/newprot/ctlgjdpay2x.png",
+      "redirection_url": ""
+     },
+     {},
+     "0",
+     1,
+     {
+      "did": "022PXX22.XX22.140725163254.J1I3",
+      "cmp_params": {
+       "bcity": "Thane",
+       "barea": "Dhokali-Thane West",
+       "bpncdbd": "400607",
+       "paidstatus": "5",
+       "misc": "8589934592",
+       "ask_mobile": 0
+      },
+      "bilang": ""
+     },
+     "fFJwxwWyAEPM7ZhCNWyjZy0JJP6%2BzF5C0bpGS17PKzw%3D",
+     0,
+     "Thane/Ashapura-Snacks-Dhokali-Thane-West/022PXX22-XX22-140725163254-J1I3_BZDET",
+     "",
+     [
+      "Pure Veg"
+     ],
+     [
+      {
+       "tag_name": "Quick Response",
+       "bg_colour": "#5271dd",
+       "txt_colour": "#FFFFFF",
+       "tag_image": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/responsive.svg"
+      }
+     ],
+     "",
+     [],
+     {},
+     [
+      {
+       "lnKey": "",
+       "tagText": "",
+       "desc": "Pure Veg",
+       "icon": "https://akam.cdn.jdmagicbox.com/images/icons/iphone/new/icd-hi-tg-pure-veg.png",
+       "tagTextColor": "#111111"
+      }
+     ],
+     {
+      "lead": "122",
+      "lead_resp": "25",
+      "avg_resp_time_sec": "",
+      "tformat": "",
+      "color": "#339D3A",
+      "lead_txt": "122 people recently enquired",
+      "resp_txt": ""
+     },
+     "400607",
+     "",
+     {
+      "cname": "Ashapura Snacks",
+      "docid": "022PXX22.XX22.140725163254.J1I3",
+      "rating": "4",
+      "rating_cnt": "1639",
+      "city": "Thane",
+      "dcity": "Mumbai",
+      "area": "Dhokali-Thane West",
+      "pin": "400607",
+      "ds": "0",
+      "pdg": "",
+      "paid": "5",
+      "jd_verified": "1",
+      "guarantee": "",
+      "trust": "0",
+      "verified": "0",
+      "pos": 1,
+      "tag": "Quick Response",
+      "cta_name": "Order online TP",
+      "call_cta": "3",
+      "deals": "",
+      "jd_cash": "",
+      "isb2b": "0",
+      "miscellaneous_flag": "18875656",
+      "distance": "",
+      "core_distance": "18.62",
+      "search_type": "P",
+      "services": 0,
+      "jdm_eligible": 0,
+      "b2b_flag": "0",
+      "opt": null,
+      "price_count": 0,
+      "catalog_flag": "1024",
+      "state": "Maharashtra",
+      "abbr": "EATR,REST,FOS,CSN",
+      "ntp": 0,
+      "high_call": 1,
+      "total_listing_count": 100
+     },
+     1,
+     "43BZIPZ1",
+     "Thane",
+     [
+      {
+       "h": "1",
+       "d": "<span class=\"font14 fw500 cs1 color339\">Open</span> <span class=\"font14 fw500 color111\"> until 10:00 pm</span>"
+      },
+      {
+       "h": 1,
+       "d": "<span class=\"font14 fw400 color111\">₹ 200 Price for two</span>"
+      }
+     ],
+     [],
+     "Dhokali-Thane West",
+     [],
+     0,
+     [],
+     "#108723",
+     [],
+     "",
+     0,
+     [
+      {
+       "t": "rating",
+       "d": [
+        {
+         "tag_key": "rating",
+         "tagText": "4",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0,
+         "bg": "#108723"
+        },
+        {
+         "tag_key": "reviews",
+         "tagText": "1,639 Rating",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0
+        },
+        {
+         "tag_key": "tag",
+         "tagText": "",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/responsive.svg",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "address",
+       "d": [
+        {
+         "tag_key": "address",
+         "tagText": "Dhokali-Thane West, Thane",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/results_locat_icon.svg",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "oth",
+       "d": [
+        {
+         "tag_key": "timings",
+         "tagText": "<span class=\"font14 fw500 cs1 color339 ml-5\">Open</span> <span class=\"font14 fw500 color111\"> until 10:00 pm</span>",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 1
+        },
+        {
+         "tag_key": "price",
+         "tagText": "",
+         "desc": "<div role=\"presentation\" tabindex=\"-1\" class=\"font15 fw400 color111 rupicon\"><span class=\"font14 fw400 color111\"><span class=\"dtcmrupicon\">₹</span> 200 Price for two</span></div>",
+         "icon": "",
+         "link": "",
+         "html": 1
+        },
+        {
+         "tag_key": "highlight",
+         "tagText": "",
+         "desc": "Pure Veg",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icons/iphone/new/icd-hi-tg-pure-veg.png",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "highcall",
+       "d": [
+        {
+         "tag_key": "highpk",
+         "tagText": "High call pick up rate",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/icon/library2024/HighCallpickuprate.png",
+         "link": "",
+         "html": 0,
+         "li": "high_call"
+        }
+       ]
+      },
+      {
+       "t": "ctlg",
+       "d": [
+        {
+         "tag_key": "ctlg",
+         "ctlg_type": 1,
+         "display_type": 4,
+         "tagText": "",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0,
+         "data": []
+        }
+       ]
+      }
+     ],
+     [
+      "1",
+      "emf7r14p89",
+      "xrtq85esd1",
+      "huxlc1qikw",
+      "ngiwycz668"
+     ],
+     "",
+     []
+    ],
+    [
+     "022PXX22.XX22.170628141002.N3G4",
+     "Ave Maria Kitchen and Caterers",
+     "",
+     "Near Poisar Kandivali East",
+     "19.2142033",
+     "72.8526152",
+     "5",
+     "4.3",
+     "1",
+     1,
+     "1",
+     {
+      "status": "<span class=\"font14 fw500 els color339\">Open</span> <span class=\"font14 fw500 color111\"> until 12:00 am</span>",
+      "timing": "10:00 am - 12:00 am"
+     },
+     "Bihari Tekri Road Kandivali East",
+     1,
+     "Restaurants, Chinese Restaurants",
+     "09980233929",
+     "4 Ratings",
+     "",
+     "mumbai",
+     "https://content.jdmagicbox.com/v2/comp/mumbai/g4/022pxx22.xx22.170628141002.n3g4/catalogue/taste-of-china-kandivali-east-mumbai-home-delivery-restaurants-3wjt4wfr2k-250.jpg",
+     "4",
+     0,
+     {
+      "node1": "",
+      "node2": "",
+      "node3": [
+       "<span class=\"font14 fw400 color111\">15 Years in Business</span>",
+       0,
+       0
+      ],
+      "node1color": []
+     },
+     {},
+     0,
+     0,
+     [],
+     "restaurant",
+     "",
+     [],
+     "",
+     "https://content2.jdmagicbox.com/checkin/mumbai/022PXX22.XX22.170628141002.N3G4.jpg",
+     "https://www.justdial.com/DT-432MIEMUM6I",
+     1,
+     [],
+     "",
+     2,
+     "",
+     "",
+     "",
+     [
+      "https://content.jdmagicbox.com/v2/comp/mumbai/g4/022pxx22.xx22.170628141002.n3g4/catalogue/taste-of-china-kandivali-east-mumbai-home-delivery-restaurants-3wjt4wfr2k.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/g4/022pxx22.xx22.170628141002.n3g4/catalogue/taste-of-china-kandivali-east-mumbai-fast-food-x0mmtp5c7v.jpg",
+      "https://content.jdmagicbox.com/comp/def_content_category/chinese-restaurants/chinese-4--chinese-restaurants-1-akcx8.jpg",
+      "https://content.jdmagicbox.com/comp/def_content_category/chinese-restaurants/chinese-7--chinese-restaurants-1-p4idy.jpg",
+      "https://content.jdmagicbox.com/comp/def_content_category/chinese-restaurants/chinese-1--chinese-restaurants-2-so2uk.jpg"
+     ],
+     [
+      0,
+      2,
+      0
+     ],
+     "7",
+     "",
+     "Ave Maria Kitchen and Caterers",
+     "Near Poisar Kandivali East",
+     1,
+     0,
+     {
+      "id": 10097618,
+      "nid": 10097618,
+      "name": "Chinese Restaurants",
+      "lin": ""
+     },
+     "b1ZO5PAGVULJ53h20TiwjmfCqyvt8PcwW6IkOy%2B%2F5tk%3D",
+     "4.3",
+     0,
+     {
+      "img": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/newprot/ctlgjdpay2x.png",
+      "redirection_url": ""
+     },
+     {},
+     "0",
+     1,
+     {
+      "did": "022PXX22.XX22.170628141002.N3G4",
+      "cmp_params": {
+       "bcity": "Mumbai",
+       "barea": "Kandivali East",
+       "bpncdbd": "400101",
+       "paidstatus": "5",
+       "misc": "8589934592",
+       "ask_mobile": 0
+      },
+      "bilang": ""
+     },
+     "tsxiSkysOYebR4NGyGeENkMfoSdgGOaGvFK%2Biv1pF0A%3D",
+     0,
+     "Mumbai/Ave-Maria-Kitchen-and-Caterers-Near-Poisar-Kandivali-East/022PXX22-XX22-170628141002-N3G4_BZDET",
+     "",
+     [
+      "Chinese"
+     ],
+     [],
+     "",
+     [],
+     {},
+     [],
+     {
+      "lead": "205",
+      "lead_resp": "1",
+      "avg_resp_time_sec": "",
+      "tformat": "",
+      "color": "#339D3A",
+      "lead_txt": "205 people recently enquired",
+      "resp_txt": ""
+     },
+     "400101",
+     "",
+     {
+      "cname": "Ave Maria Kitchen and Caterers",
+      "docid": "022PXX22.XX22.170628141002.N3G4",
+      "rating": "4.3",
+      "rating_cnt": "4",
+      "city": "Mumbai",
+      "dcity": "mumbai",
+      "area": "Kandivali East",
+      "pin": "400101",
+      "ds": "0",
+      "pdg": "",
+      "paid": "5",
+      "jd_verified": "1",
+      "guarantee": "",
+      "trust": "0",
+      "verified": "0",
+      "pos": 2,
+      "tag": "",
+      "cta_name": "",
+      "call_cta": "3",
+      "deals": "",
+      "jd_cash": "",
+      "isb2b": "0",
+      "miscellaneous_flag": "18875656",
+      "distance": "",
+      "core_distance": "13.96",
+      "search_type": "P",
+      "services": 0,
+      "jdm_eligible": 0,
+      "b2b_flag": "0",
+      "opt": null,
+      "price_count": 0,
+      "catalog_flag": "1024",
+      "state": "Maharashtra",
+      "abbr": "EATR,REST,FOS,CSN",
+      "ntp": 0,
+      "high_call": 0
+     },
+     1,
+     "432MIEMUM6I",
+     "Mumbai",
+     [
+      {
+       "h": "1",
+       "d": "<span class=\"font14 fw500 els color339\">Open</span> <span class=\"font14 fw500 color111\"> until 12:00 am</span>"
+      },
+      {
+       "h": 1,
+       "d": 0
+      }
+     ],
+     [],
+     "Kandivali East",
+     [],
+     0,
+     [],
+     "#007A0C",
+     [],
+     "",
+     0,
+     [
+      {
+       "t": "rating",
+       "d": [
+        {
+         "tag_key": "rating",
+         "tagText": "4.3",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0,
+         "bg": "#007A0C"
+        },
+        {
+         "tag_key": "reviews",
+         "tagText": "4 Ratings",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "address",
+       "d": [
+        {
+         "tag_key": "address",
+         "tagText": "Bihari Tekri Road Kandivali East, Mumbai",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/results_locat_icon.svg",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "oth",
+       "d": [
+        {
+         "tag_key": "timings",
+         "tagText": "<span class=\"font14 fw500 els color339 ml-5\">Open</span> <span class=\"font14 fw500 color111\"> until 12:00 am</span>",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 1
+        }
+       ]
+      }
+     ],
+     [
+      "3wjt4wfr2k",
+      "x0mmtp5c7v",
+      "akcx8",
+      "p4idy",
+      "so2uk"
+     ],
+     "",
+     []
+    ],
+    [
+     "022PXX22.XX22.211211160449.H9Y1",
+     "Hotel Jyoti Family Restaurant",
+     "",
+     "Ekta Nagar Kandivali West",
+     "19.199312194444",
+     "72.827980027778",
+     "2",
+     "4.2",
+     "1",
+     1,
+     "1",
+     {
+      "status": "<span class=\"font14 fw500 els color339\">Open</span> <span class=\"font14 fw500 color111\"> until 12:30 am</span>",
+      "timing": "10:00 am - 12:30 am"
+     },
+     "Old Link Road Kandivali West",
+     1,
+     "Restaurants, Chinese Restaurants",
+     "08971390396",
+     "164 Ratings",
+     "1",
+     "mumbai",
+     "https://content.jdmagicbox.com/v2/comp/mumbai/y1/022pxx22.xx22.211211160449.h9y1/catalogue/hotel-jyoti-family-restaurant-kandivali-west-mumbai-restaurants-32sxeptlj3-250.jpg",
+     "164",
+     0,
+     {
+      "node1": "",
+      "node2": "",
+      "node3": [
+       "<span class=\"font14 fw400 color111\">26 Years in Business</span>",
+       1,
+       0
+      ],
+      "node1color": []
+     },
+     {},
+     0,
+     0,
+     [],
+     "restaurant",
+     "",
+     [],
+     "",
+     "https://content2.jdmagicbox.com/checkin/mumbai/022PXX22.XX22.211211160449.H9Y1.jpg",
+     "https://www.justdial.com/DT-43HI8PFZZYB",
+     1,
+     [],
+     "",
+     3,
+     "",
+     "",
+     "",
+     [
+      "https://content.jdmagicbox.com/v2/comp/mumbai/y1/022pxx22.xx22.211211160449.h9y1/catalogue/hotel-jyoti-family-restaurant-kandivali-west-mumbai-restaurants-32sxeptlj3.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/y1/022pxx22.xx22.211211160449.h9y1/catalogue/hotel-jyoti-family-restaurant-kandivali-west-mumbai-restaurants-39m7f0hp2t.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/y1/022pxx22.xx22.211211160449.h9y1/catalogue/hotel-jyoti-family-restaurant-kandivali-west-mumbai-restaurants-9r2oejiyuz.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/y1/022pxx22.xx22.211211160449.h9y1/catalogue/hotel-jyoti-family-restaurant-kandivali-west-mumbai-restaurants-tdzl72zphl.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/y1/022pxx22.xx22.211211160449.h9y1/catalogue/hotel-jyoti-family-restaurant-kandivali-west-mumbai-restaurants-of5i1kt4ot.jpg"
+     ],
+     [
+      0,
+      2,
+      0
+     ],
+     "99",
+     "",
+     "Hotel Jyoti Family Restaurant",
+     "Ekta Nagar Kandivali West",
+     1,
+     0,
+     {
+      "id": 10047018,
+      "nid": 10047018,
+      "name": "Biryani Restaurants",
+      "lin": ""
+     },
+     "omizO%2Bc91UhDDCelo6h%2BzMnOJ4TnvcM6eHOO6OoBkQo%3D",
+     "4.2",
+     0,
+     {
+      "img": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/newprot/ctlgjdpay2x.png",
+      "redirection_url": ""
+     },
+     {},
+     "0",
+     1,
+     {
+      "did": "022PXX22.XX22.211211160449.H9Y1",
+      "cmp_params": {
+       "bcity": "Mumbai",
+       "barea": "Kandivali West",
+       "bpncdbd": "400067",
+       "paidstatus": "2",
+       "misc": "8589942784",
+       "ask_mobile": 0
+      },
+      "bilang": ""
+     },
+     "YNWPf%2FrNb9F1GUYzEHGaM%2Bn6zzxHtf0eO9X5WoKt44Q%3D",
+     0,
+     "Mumbai/Hotel-Jyoti-Family-Restaurant-Ekta-Nagar-Kandivali-West/022PXX22-XX22-211211160449-H9Y1_BZDET",
+     "",
+     [
+      "Chinese",
+      "Punjabi",
+      "Mughlai"
+     ],
+     [
+      {
+       "tag_name": "Most searched",
+       "bg_colour": "#5271dd",
+       "txt_colour": "#FFFFFF",
+       "tag_image": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/topsearch.svg"
+      }
+     ],
+     "",
+     [],
+     {},
+     [
+      {
+       "lnKey": -99,
+       "tagText": "Tasty food",
+       "desc": " 17 Suggestions",
+       "icon": "https://akam.cdn.jdmagicbox.com/images/icons/iphone/nd-Like-comments.png",
+       "tagTextColor": "#111111"
+      }
+     ],
+     {
+      "lead": "163",
+      "lead_resp": "47",
+      "avg_resp_time_sec": "",
+      "tformat": "",
+      "color": "#339D3A",
+      "lead_txt": "163 people recently enquired",
+      "resp_txt": ""
+     },
+     "400067",
+     "",
+     {
+      "cname": "Hotel Jyoti Family Restaurant",
+      "docid": "022PXX22.XX22.211211160449.H9Y1",
+      "rating": "4.2",
+      "rating_cnt": "164",
+      "city": "Mumbai",
+      "dcity": "mumbai",
+      "area": "Kandivali West",
+      "pin": "400067",
+      "ds": "0",
+      "pdg": "",
+      "paid": "2",
+      "jd_verified": "1",
+      "guarantee": "",
+      "trust": "0",
+      "verified": "1",
+      "pos": 3,
+      "tag": "Most searched",
+      "cta_name": "",
+      "call_cta": "3",
+      "deals": "",
+      "jd_cash": "",
+      "isb2b": "0",
+      "miscellaneous_flag": "18875656",
+      "distance": "",
+      "core_distance": "13.10",
+      "search_type": "P",
+      "services": 0,
+      "jdm_eligible": 0,
+      "b2b_flag": "0",
+      "opt": null,
+      "price_count": 0,
+      "catalog_flag": "1024",
+      "state": "Maharashtra",
+      "abbr": "EATR,REST,FOS,CSN",
+      "ntp": 0,
+      "high_call": 0
+     },
+     1,
+     "43HI8PFZZYB",
+     "Mumbai",
+     [
+      {
+       "h": "1",
+       "d": "<span class=\"font14 fw500 els color339\">Open</span> <span class=\"font14 fw500 color111\"> until 12:30 am</span>"
+      },
+      {
+       "h": 1,
+       "d": 0
+      }
+     ],
+     [],
+     "Kandivali West",
+     [],
+     0,
+     [],
+     "#007A0C",
+     [],
+     "",
+     0,
+     [
+      {
+       "t": "rating",
+       "d": [
+        {
+         "tag_key": "rating",
+         "tagText": "4.2",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0,
+         "bg": "#007A0C"
+        },
+        {
+         "tag_key": "reviews",
+         "tagText": "164 Ratings",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0
+        },
+        {
+         "tag_key": "verified",
+         "tagText": "",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/verified_2x.gif",
+         "link": "",
+         "html": 0
+        },
+        {
+         "tag_key": "tag",
+         "tagText": "",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/topsearch.svg",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "address",
+       "d": [
+        {
+         "tag_key": "address",
+         "tagText": "Old Link Road Kandivali West, Mumbai",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/results_locat_icon.svg",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "oth",
+       "d": [
+        {
+         "tag_key": "timings",
+         "tagText": "<span class=\"font14 fw500 els color339 ml-5\">Open</span> <span class=\"font14 fw500 color111\"> until 12:30 am</span>",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 1
+        },
+        {
+         "tag_key": "ratingtag",
+         "tagText": "Tasty food",
+         "desc": "17 Suggestions",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icons/iphone/nd-Like-comments.png",
+         "link": "",
+         "html": 0
+        }
+       ]
+      }
+     ],
+     [
+      "32sxeptlj3",
+      "39m7f0hp2t",
+      "9r2oejiyuz",
+      "tdzl72zphl",
+      "of5i1kt4ot"
+     ],
+     "",
+     []
+    ],
+    [
+     "022PXX22.XX22.211009095005.D1J9",
+     "Flora Dates and Nuts",
+     "",
+     "Near Haware Mall Nerul",
+     "19.0256434",
+     "73.0216152",
+     "5",
+     "4.7",
+     "1",
+     1,
+     "1",
+     {
+      "status": "<span class=\"font14 fw500 els color339\">Open</span> <span class=\"font14 fw500 color111\"> until 10:00 pm</span>",
+      "timing": "9:00 am - 10:00 pm"
+     },
+     "Sector 21 Nerul",
+     1,
+     "Restaurants, Dry Fruit Retailers",
+     "09725425917",
+     "218 Ratings",
+     "",
+     "mumbai",
+     "https://content.jdmagicbox.com/v2/comp/mumbai/j9/022pxx22.xx22.211009095005.d1j9/catalogue/flora-dry-fruits-and-chocolates-nerul-navi-mumbai-dry-fruit-retailers-95j9g0y7q9-250.jpg",
+     "218",
+     0,
+     {
+      "node1": "",
+      "node2": "",
+      "node3": [
+       "<span class=\"font14 fw400 color111\">1 Year in Business</span>",
+       0,
+       0
+      ],
+      "node1color": []
+     },
+     {},
+     0,
+     0,
+     [],
+     "restaurant",
+     "",
+     [],
+     "",
+     "https://content2.jdmagicbox.com/checkin/mumbai/022PXX22.XX22.211009095005.D1J9.jpg",
+     "https://www.justdial.com/DT-43URRENT5UD",
+     1,
+     [],
+     "",
+     4,
+     "",
+     "",
+     "",
+     [
+      "https://content.jdmagicbox.com/v2/comp/mumbai/j9/022pxx22.xx22.211009095005.d1j9/catalogue/flora-dry-fruits-and-chocolates-nerul-navi-mumbai-dry-fruit-retailers-95j9g0y7q9.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/j9/022pxx22.xx22.211009095005.d1j9/catalogue/flora-dry-fruits-and-chocolates-nerul-navi-mumbai-dry-fruit-retailers-5m17y41jnp.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/j9/022pxx22.xx22.211009095005.d1j9/catalogue/flora-dry-fruits-and-chocolates-nerul-navi-mumbai-dry-fruit-retailers-s9h7t3q2ei.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/j9/022pxx22.xx22.211009095005.d1j9/catalogue/flora-dry-fruits-and-chocolates-nerul-navi-mumbai-dry-fruit-retailers-78fb3698qt.jpg",
+      "https://content.jdmagicbox.com/comp/service_catalogue/grocery-stores-attr-pulses-and-cereals-or-spices-gro7-2.jpg"
+     ],
+     [
+      0,
+      2,
+      0
+     ],
+     "11",
+     "",
+     "Flora Dates and Nuts",
+     "Near Haware Mall Nerul",
+     1,
+     0,
+     {
+      "id": 10173840,
+      "nid": 10173840,
+      "name": "Dry Fruit Retailers",
+      "lin": ""
+     },
+     "omizO%2Bc91UhDDCelo6h%2BzIjjku%2FURWDk42FIjJpbqYc%3D",
+     "4.7",
+     0,
+     {
+      "img": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/newprot/ctlgjdpay2x.png",
+      "redirection_url": ""
+     },
+     {},
+     "0",
+     1,
+     {
+      "did": "022PXX22.XX22.211009095005.D1J9",
+      "cmp_params": {
+       "bcity": "Navi Mumbai",
+       "barea": "Nerul",
+       "bpncdbd": "400706",
+       "paidstatus": "5",
+       "misc": "8589934592",
+       "ask_mobile": 0
+      },
+      "bilang": ""
+     },
+     "P067sKFGMtngizmSYSRLtGbMmmpzoW57ZK%2FyPXuWqo4%3D",
+     0,
+     "Navi-Mumbai/Flora-Dates-and-Nuts-Near-Haware-Mall-Nerul/022PXX22-XX22-211009095005-D1J9_BZDET",
+     "",
+     [
+      "Restaurants",
+      "Dry Fruit Retailers"
+     ],
+     [
+      {
+       "tag_name": "Quick Response",
+       "bg_colour": "#5271dd",
+       "txt_colour": "#FFFFFF",
+       "tag_image": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/responsive.svg"
+      }
+     ],
+     "",
+     [],
+     {},
+     [],
+     {
+      "lead": "107",
+      "lead_resp": "1",
+      "avg_resp_time_sec": "",
+      "tformat": "",
+      "color": "#339D3A",
+      "lead_txt": "107 people recently enquired",
+      "resp_txt": ""
+     },
+     "400706",
+     "",
+     {
+      "cname": "Flora Dates and Nuts",
+      "docid": "022PXX22.XX22.211009095005.D1J9",
+      "rating": "4.7",
+      "rating_cnt": "218",
+      "city": "Navi Mumbai",
+      "dcity": "mumbai",
+      "area": "Nerul",
+      "pin": "400706",
+      "ds": "0",
+      "pdg": "",
+      "paid": "5",
+      "jd_verified": "1",
+      "guarantee": "",
+      "trust": "0",
+      "verified": "0",
+      "pos": 4,
+      "tag": "Quick Response",
+      "cta_name": "",
+      "call_cta": "3",
+      "deals": "",
+      "jd_cash": "",
+      "isb2b": "0",
+      "miscellaneous_flag": "18875656",
+      "distance": "",
+      "core_distance": "16.94",
+      "search_type": "P",
+      "services": 0,
+      "jdm_eligible": -4,
+      "b2b_flag": "0",
+      "opt": null,
+      "price_count": 0,
+      "catalog_flag": "5128",
+      "state": "Maharashtra",
+      "abbr": "EATR,REST,FOS,CSN",
+      "ntp": 0,
+      "high_call": 1
+     },
+     1,
+     "43URRENT5UD",
+     "Navi Mumbai",
+     [
+      {
+       "h": "1",
+       "d": "<span class=\"font14 fw500 els color339\">Open</span> <span class=\"font14 fw500 color111\"> until 10:00 pm</span>"
+      },
+      {
+       "h": 1,
+       "d": 0
+      }
+     ],
+     [],
+     "Nerul",
+     [],
+     0,
+     [],
+     "#007A0C",
+     [],
+     "",
+     0,
+     [
+      {
+       "t": "rating",
+       "d": [
+        {
+         "tag_key": "rating",
+         "tagText": "4.7",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0,
+         "bg": "#007A0C"
+        },
+        {
+         "tag_key": "reviews",
+         "tagText": "218 Ratings",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0
+        },
+        {
+         "tag_key": "tag",
+         "tagText": "",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/responsive.svg",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "address",
+       "d": [
+        {
+         "tag_key": "address",
+         "tagText": "Sector 21 Nerul, Navi Mumbai",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/results_locat_icon.svg",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "oth",
+       "d": [
+        {
+         "tag_key": "highpk",
+         "tagText": "High call pick up rate",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/icon/library2024/HighCallpickuprate.png",
+         "link": "",
+         "html": 0,
+         "li": "high_call"
+        },
+        {
+         "tag_key": "timings",
+         "tagText": "<span class=\"font14 fw500 els color339 ml-5\">Open</span> <span class=\"font14 fw500 color111\"> until 10:00 pm</span>",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 1
+        }
+       ]
+      }
+     ],
+     [
+      "95j9g0y7q9",
+      "5m17y41jnp",
+      "s9h7t3q2ei",
+      "78fb3698qt",
+      "2"
+     ],
+     "",
+     []
+    ],
+    [
+     "022PXX22.XX22.190227125521.G1I1",
+     "Food Way Inn Family Restaurant",
+     "",
+     "Near Nerul Railway Station Nerul Sector 29",
+     "19.0369333",
+     "73.0200499",
+     "5",
+     "4.1",
+     "1",
+     1,
+     "1",
+     {
+      "status": "<span class=\"font14 fw500 els color339\">Open</span> <span class=\"font14 fw500 color111\"> until 11:45 pm</span>",
+      "timing": "8:00 am - 11:45 pm"
+     },
+     "Sector No 29 Nerul Sector 29",
+     1,
+     "Restaurants, North Indian Restaurants",
+     "07048368043",
+     "3,606 Ratings",
+     "",
+     "Mumbai",
+     "https://content.jdmagicbox.com/v2/comp/navi-mumbai/i1/022pxx22.xx22.190227125521.g1i1/catalogue/food-way-inn-family-restaurant-nerul-navi-mumbai-north-indian-restaurants-5461kz2toh-250.jpg",
+     "3,606",
+     0,
+     {
+      "node1": "",
+      "node2": "<span class=\"font14 fw400 color111\">₹ 1050 Price for two</span>",
+      "node3": [
+       "<span class=\"font14 fw400 color111\">8 Years in Business</span>",
+       1,
+       1
+      ],
+      "node1color": []
+     },
+     {},
+     0,
+     0,
+     [],
+     "restaurant",
+     "",
+     [
+      {
+       "button_text": "Order online",
+       "button_url": [
+        {
+         "url": "https://www.zomato.com/mumbai/foodway-inn-nerul-navi-mumbai/order",
+         "text": "Zomato",
+         "img": "https://akam.cdn.jdmagicbox.com/images/icons/zomato.png",
+         "dsc": null
+        }
+       ],
+       "button_color": [],
+       "flag": "1",
+       "hide_header": "0",
+       "skipVerif": "0",
+       "tp": "1",
+       "li": "Order online"
+      },
+      {
+       "button_text": "Menu",
+       "button_url": [
+        {
+         "url": "https://www.justdial.com/Navi-Mumbai/Food-Way-Inn-Family-Restaurant-Near-Nerul-Railway-Station-Nerul-Sector-29/022PXX22-XX22-190227125521-G1I1_BZDET/menu?source=77&cdata=&native=&version=&hide_header=1&sid=",
+         "text": "",
+         "img": "",
+         "dsc": ""
+        }
+       ],
+       "button_color": [],
+       "flag": "1",
+       "hide_header": "0",
+       "skipVerif": "0",
+       "tp": "0",
+       "li": "Menu"
+      }
+     ],
+     "",
+     "https://content2.jdmagicbox.com/checkin/mumbai/022PXX22.XX22.190227125521.G1I1.jpg",
+     "https://www.justdial.com/DT-43A6YE2YE66",
+     1,
+     [],
+     "",
+     5,
+     "",
+     "",
+     "",
+     [
+      "https://content.jdmagicbox.com/v2/comp/navi-mumbai/i1/022pxx22.xx22.190227125521.g1i1/catalogue/food-way-inn-family-restaurant-nerul-navi-mumbai-north-indian-restaurants-5461kz2toh.jpg",
+      "https://content.jdmagicbox.com/v2/comp/navi_mumbai/i1/022pxx22.xx22.190227125521.g1i1/catalogue/food-way-inn-family-restaurant-nerul-navi-mumbai-restaurants-q89l49dhzn.jpg",
+      "https://content.jdmagicbox.com/v2/comp/navi_mumbai/i1/022pxx22.xx22.190227125521.g1i1/catalogue/food-way-inn-family-restaurant-nerul-navi-mumbai-restaurants-e2dskcfi1s.jpg",
+      "https://content.jdmagicbox.com/v2/comp/navi_mumbai/i1/022pxx22.xx22.190227125521.g1i1/catalogue/food-way-inn-family-restaurant-nerul-navi-mumbai-restaurants-w5q0p2t27k.jpg",
+      "https://content.jdmagicbox.com/v2/comp/navi_mumbai/i1/022pxx22.xx22.190227125521.g1i1/catalogue/food-way-inn-family-restaurant-nerul-navi-mumbai-restaurants-dju17jvv0r.jpg"
+     ],
+     [
+      0,
+      2,
+      0
+     ],
+     "72",
+     "",
+     "Food Way Inn Family Restaurant",
+     "Near Nerul Railway Station Nerul Sector 29",
+     1,
+     0,
+     {
+      "id": 10339065,
+      "nid": 10339065,
+      "name": "North Indian Restaurants",
+      "lin": ""
+     },
+     "JnqNX9JkIkhRdzNJp3aBxjTFtltBYNMD6FTlH3lRNN8%3D",
+     "4.1",
+     0,
+     {
+      "img": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/newprot/ctlgjdpay2x.png",
+      "redirection_url": ""
+     },
+     {},
+     "0",
+     1,
+     {
+      "did": "022PXX22.XX22.190227125521.G1I1",
+      "cmp_params": {
+       "bcity": "Navi Mumbai",
+       "barea": "Nerul Sector 29",
+       "bpncdbd": "400706",
+       "paidstatus": "5",
+       "misc": "8589946880",
+       "ask_mobile": 0
+      },
+      "bilang": ""
+     },
+     "ZH3RLvBPCkCFJCL8DWpXY5rjsGQHU7FL6qmrxOLQFao%3D",
+     0,
+     "Navi-Mumbai/Food-Way-Inn-Family-Restaurant-Near-Nerul-Railway-Station-Nerul-Sector-29/022PXX22-XX22-190227125521-G1I1_BZDET",
+     "",
+     [
+      "Delivery",
+      "Casual Dining",
+      "Chinese"
+     ],
+     [
+      {
+       "tag_name": "Popular",
+       "bg_colour": "#5271dd",
+       "txt_colour": "#FFFFFF",
+       "tag_image": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/popular.svg"
+      }
+     ],
+     "",
+     [],
+     {},
+     [],
+     {
+      "lead": "217",
+      "lead_resp": "36",
+      "avg_resp_time_sec": "",
+      "tformat": "",
+      "color": "#339D3A",
+      "lead_txt": "217 people recently enquired",
+      "resp_txt": ""
+     },
+     "400706",
+     "",
+     {
+      "cname": "Food Way Inn Family Restaurant",
+      "docid": "022PXX22.XX22.190227125521.G1I1",
+      "rating": "4.1",
+      "rating_cnt": "3606",
+      "city": "Navi Mumbai",
+      "dcity": "Mumbai",
+      "area": "Nerul Sector 29",
+      "pin": "400706",
+      "ds": "0",
+      "pdg": "",
+      "paid": "5",
+      "jd_verified": "1",
+      "guarantee": "",
+      "trust": "1",
+      "verified": "1",
+      "pos": 5,
+      "tag": "Popular",
+      "cta_name": "Order online TP",
+      "call_cta": "3",
+      "deals": "",
+      "jd_cash": "",
+      "isb2b": "0",
+      "miscellaneous_flag": "18875656",
+      "distance": "",
+      "core_distance": "16.29",
+      "search_type": "P",
+      "services": 0,
+      "jdm_eligible": 0,
+      "b2b_flag": "0",
+      "opt": null,
+      "price_count": 0,
+      "catalog_flag": "1024",
+      "state": "Maharashtra",
+      "abbr": "EATR,REST,FOS,CSN",
+      "ntp": 0,
+      "high_call": 0
+     },
+     1,
+     "43A6YE2YE66",
+     "Navi Mumbai",
+     [
+      {
+       "h": "1",
+       "d": "<span class=\"font14 fw500 els color339\">Open</span> <span class=\"font14 fw500 color111\"> until 11:45 pm</span>"
+      },
+      {
+       "h": 1,
+       "d": "<span class=\"font14 fw400 color111\">₹ 1050 Price for two</span>"
+      }
+     ],
+     [],
+     "Nerul Sector 29",
+     [],
+     0,
+     [],
+     "#007A0C",
+     [],
+     "",
+     0,
+     [
+      {
+       "t": "rating",
+       "d": [
+        {
+         "tag_key": "rating",
+         "tagText": "4.1",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0,
+         "bg": "#007A0C"
+        },
+        {
+         "tag_key": "reviews",
+         "tagText": "3,606 Ratings",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0
+        },
+        {
+         "tag_key": "trust",
+         "tagText": "",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/trust_2x.gif",
+         "link": "",
+         "html": 0
+        },
+        {
+         "tag_key": "verified",
+         "tagText": "",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/verified_2x.gif",
+         "link": "",
+         "html": 0
+        },
+        {
+         "tag_key": "tag",
+         "tagText": "",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/popular.svg",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "address",
+       "d": [
+        {
+         "tag_key": "address",
+         "tagText": "Sector No 29 Nerul Sector 29, Navi Mumbai",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/results_locat_icon.svg",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "oth",
+       "d": [
+        {
+         "tag_key": "timings",
+         "tagText": "<span class=\"font14 fw500 els color339 ml-5\">Open</span> <span class=\"font14 fw500 color111\"> until 11:45 pm</span>",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 1
+        },
+        {
+         "tag_key": "price",
+         "tagText": "",
+         "desc": "<div role=\"presentation\" tabindex=\"-1\" class=\"font15 fw400 color111 rupicon\"><span class=\"font14 fw400 color111\"><span class=\"dtcmrupicon\">₹</span> 1050 Price for two</span></div>",
+         "icon": "",
+         "link": "",
+         "html": 1
+        }
+       ]
+      },
+      {
+       "t": "ctlg",
+       "d": [
+        {
+         "tag_key": "ctlg",
+         "ctlg_type": 1,
+         "display_type": 4,
+         "tagText": "",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0,
+         "data": []
+        }
+       ]
+      }
+     ],
+     [
+      "5461kz2toh",
+      "q89l49dhzn",
+      "e2dskcfi1s",
+      "w5q0p2t27k",
+      "dju17jvv0r"
+     ],
+     "",
+     []
+    ],
+    [
+     "022PXX22.XX22.221227110609.W1D5",
+     "Tuba Restaurant",
+     "",
+     "Opposite Sugara Park Humera Park Near Pearl Oasis Bluiding Pathan Wadi Malad East",
+     "19.179154",
+     "72.8640209722",
+     "5",
+     "4",
+     "1",
+     1,
+     "1",
+     {
+      "status": "<span class=\"font14 fw500 els color339\">Open</span> <span class=\"font14 fw500 color111\"> until 12:30 am</span>",
+      "timing": "9:00 am - 12:30 am"
+     },
+     "Rani Sati Marg Malad East",
+     1,
+     "Restaurants, North Indian Restaurants",
+     "09972851094",
+     "662 Ratings",
+     "1",
+     "mumbai",
+     "https://content.jdmagicbox.com/v2/comp/mumbai/d5/022pxx22.xx22.221227110609.w1d5/catalogue/tuba-restaurant-malad-east-mumbai-restaurants-nujr49o8o0-250.jpg",
+     "662",
+     0,
+     {
+      "node1": "",
+      "node2": "<span class=\"font14 fw400 color111\">₹ 750 Price for two</span>",
+      "node3": [
+       "<span class=\"font14 fw400 color111\">5 Years in Business</span>",
+       1,
+       0
+      ],
+      "node1color": []
+     },
+     {},
+     0,
+     0,
+     [],
+     "restaurant",
+     "",
+     [
+      {
+       "button_text": "Order online",
+       "button_url": [
+        {
+         "url": "https://www.zomato.com/mumbai/tuba-restaurant-malad-east/order",
+         "text": "Zomato",
+         "img": "https://akam.cdn.jdmagicbox.com/images/icons/zomato.png",
+         "dsc": ""
+        }
+       ],
+       "button_color": [],
+       "flag": "1",
+       "hide_header": "0",
+       "skipVerif": "0",
+       "tp": "1",
+       "li": "Order online"
+      },
+      {
+       "button_text": "Menu",
+       "button_url": [
+        {
+         "url": "https://www.justdial.com/Mumbai/Tuba-Restaurant-Opposite-Sugara-Park-Humera-Park-Near-Pearl-Oasis-Bluiding-Pathan-Wadi-Malad-East/022PXX22-XX22-221227110609-W1D5_BZDET/menu?source=77&cdata=&native=&version=&hide_header=1&sid=",
+         "text": "",
+         "img": "",
+         "dsc": ""
+        }
+       ],
+       "button_color": [],
+       "flag": "1",
+       "hide_header": "0",
+       "skipVerif": "0",
+       "tp": "0",
+       "li": "Menu"
+      }
+     ],
+     "",
+     "https://content2.jdmagicbox.com/checkin/mumbai/022PXX22.XX22.221227110609.W1D5.jpg",
+     "https://www.justdial.com/DT-43LSXM8AX7M",
+     1,
+     [],
+     "",
+     6,
+     "",
+     "",
+     "",
+     [
+      "https://content.jdmagicbox.com/v2/comp/mumbai/d5/022pxx22.xx22.221227110609.w1d5/catalogue/tuba-restaurant-malad-east-mumbai-restaurants-nujr49o8o0.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/d5/022pxx22.xx22.221227110609.w1d5/catalogue/tuba-restaurant-malad-east-mumbai-restaurants-eyl7vr0ftl.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/d5/022pxx22.xx22.221227110609.w1d5/catalogue/tuba-restaurant-malad-east-mumbai-restaurants-6cx4dn57o8.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/d5/022pxx22.xx22.221227110609.w1d5/catalogue/tuba-restaurant-malad-east-mumbai-restaurants-wu5mm7shn1.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/d5/022pxx22.xx22.221227110609.w1d5/catalogue/tuba-restaurant-malad-east-mumbai-restaurants-95skzhl5me.jpg"
+     ],
+     [
+      0,
+      2,
+      0
+     ],
+     "41",
+     "",
+     "Tuba Restaurant",
+     "Opposite Sugara Park Humera Park Near Pearl Oasis Bluiding Pathan Wadi Malad East",
+     1,
+     0,
+     {
+      "id": 11399994,
+      "nid": 11399994,
+      "name": "Moderate North Indian Restaurants Rs 500 To Rs 1000",
+      "lin": ""
+     },
+     "qFGZSGSdaythoLP4%2B3TuaPDW0GOmDI3XWmS0aGsFepk%3D",
+     "4",
+     0,
+     {
+      "img": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/newprot/ctlgjdpay2x.png",
+      "redirection_url": ""
+     },
+     {},
+     "0",
+     1,
+     {
+      "did": "022PXX22.XX22.221227110609.W1D5",
+      "cmp_params": {
+       "bcity": "Mumbai",
+       "barea": "Malad East",
+       "bpncdbd": "400097",
+       "paidstatus": "5",
+       "misc": "8196",
+       "ask_mobile": 0
+      },
+      "bilang": ""
+     },
+     "lbxQJdNR9EUrtUR6GSAmkJyyVMQOFOmN6V6ssBDuRM4%3D",
+     0,
+     "Mumbai/Tuba-Restaurant-Opposite-Sugara-Park-Humera-Park-Near-Pearl-Oasis-Bluiding-Pathan-Wadi-Malad-East/022PXX22-XX22-221227110609-W1D5_BZDET",
+     "",
+     [
+      "Live Music"
+     ],
+     [
+      {
+       "tag_name": "Quick Response",
+       "bg_colour": "#5271dd",
+       "txt_colour": "#FFFFFF",
+       "tag_image": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/responsive.svg"
+      }
+     ],
+     "",
+     [],
+     {},
+     [
+      {
+       "lnKey": "",
+       "tagText": "",
+       "desc": "Live Music",
+       "icon": "https://akam.cdn.jdmagicbox.com/images/icons/iphone/new/icd-hi-tg-live-music.png",
+       "tagTextColor": "#111111"
+      },
+      {
+       "lnKey": -99,
+       "tagText": "Clean place",
+       "desc": " 38 Suggestions",
+       "icon": "https://akam.cdn.jdmagicbox.com/images/icons/iphone/nd-Like-comments.png",
+       "tagTextColor": "#111111"
+      }
+     ],
+     {
+      "lead": "219",
+      "lead_resp": "64",
+      "avg_resp_time_sec": "",
+      "tformat": "",
+      "color": "#339D3A",
+      "lead_txt": "219 people recently enquired",
+      "resp_txt": ""
+     },
+     "400097",
+     "",
+     {
+      "cname": "Tuba Restaurant",
+      "docid": "022PXX22.XX22.221227110609.W1D5",
+      "rating": "4",
+      "rating_cnt": "662",
+      "city": "Mumbai",
+      "dcity": "mumbai",
+      "area": "Malad East",
+      "pin": "400097",
+      "ds": "0",
+      "pdg": "",
+      "paid": "5",
+      "jd_verified": "1",
+      "guarantee": "",
+      "trust": "0",
+      "verified": "1",
+      "pos": 6,
+      "tag": "Quick Response",
+      "cta_name": "Order online TP",
+      "call_cta": "3",
+      "deals": "",
+      "jd_cash": "",
+      "isb2b": "0",
+      "miscellaneous_flag": "18875656",
+      "distance": "",
+      "core_distance": "9.92",
+      "search_type": "P",
+      "services": 0,
+      "jdm_eligible": 0,
+      "b2b_flag": "0",
+      "opt": null,
+      "price_count": 0,
+      "catalog_flag": "1024",
+      "state": "Maharashtra",
+      "abbr": "EATR,REST,FOS,CSN",
+      "ntp": 0,
+      "high_call": 1
+     },
+     1,
+     "43LSXM8AX7M",
+     "Mumbai",
+     [
+      {
+       "h": "1",
+       "d": "<span class=\"font14 fw500 els color339\">Open</span> <span class=\"font14 fw500 color111\"> until 12:30 am</span>"
+      },
+      {
+       "h": 1,
+       "d": "<span class=\"font14 fw400 color111\">₹ 750 Price for two</span>"
+      }
+     ],
+     [],
+     "Malad East",
+     [],
+     0,
+     [],
+     "#108723",
+     [],
+     "",
+     0,
+     [
+      {
+       "t": "rating",
+       "d": [
+        {
+         "tag_key": "rating",
+         "tagText": "4",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0,
+         "bg": "#108723"
+        },
+        {
+         "tag_key": "reviews",
+         "tagText": "662 Ratings",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0
+        },
+        {
+         "tag_key": "verified",
+         "tagText": "",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/verified_2x.gif",
+         "link": "",
+         "html": 0
+        },
+        {
+         "tag_key": "tag",
+         "tagText": "",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/responsive.svg",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "address",
+       "d": [
+        {
+         "tag_key": "address",
+         "tagText": "Rani Sati Marg Malad East, Mumbai",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/results_locat_icon.svg",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "oth",
+       "d": [
+        {
+         "tag_key": "timings",
+         "tagText": "<span class=\"font14 fw500 els color339 ml-5\">Open</span> <span class=\"font14 fw500 color111\"> until 12:30 am</span>",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 1
+        },
+        {
+         "tag_key": "price",
+         "tagText": "",
+         "desc": "<div role=\"presentation\" tabindex=\"-1\" class=\"font15 fw400 color111 rupicon\"><span class=\"font14 fw400 color111\"><span class=\"dtcmrupicon\">₹</span> 750 Price for two</span></div>",
+         "icon": "",
+         "link": "",
+         "html": 1
+        },
+        {
+         "tag_key": "highlight",
+         "tagText": "",
+         "desc": "Live Music",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icons/iphone/new/icd-hi-tg-live-music.png",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "highcall",
+       "d": [
+        {
+         "tag_key": "highpk",
+         "tagText": "High call pick up rate",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/icon/library2024/HighCallpickuprate.png",
+         "link": "",
+         "html": 0,
+         "li": "high_call"
+        }
+       ]
+      },
+      {
+       "t": "ctlg",
+       "d": [
+        {
+         "tag_key": "ctlg",
+         "ctlg_type": 1,
+         "display_type": 4,
+         "tagText": "",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0,
+         "data": []
+        }
+       ]
+      }
+     ],
+     [
+      "nujr49o8o0",
+      "eyl7vr0ftl",
+      "6cx4dn57o8",
+      "wu5mm7shn1",
+      "95skzhl5me"
+     ],
+     "",
+     []
+    ],
+    [
+     "022PXX22.XX22.250704200828.I6J8",
+     "Oota Thindi",
+     "",
+     "Opposite Netural Ice Cream Prem Nagar Borivali West",
+     "19.223413",
+     "72.855181",
+     "5",
+     "4.1",
+     "1",
+     1,
+     "1",
+     {
+      "status": "<span class=\"font14 fw500 els color339\">Open</span> <span class=\"font14 fw500 color111\"> until 12:00 am</span>",
+      "timing": "8:00 am - 12:00 am"
+     },
+     "MCF Road Borivali West",
+     1,
+     "Restaurants, Home Delivery Restaurants",
+     "08460231230",
+     "861 Ratings",
+     "",
+     "mumbai",
+     "https://content.jdmagicbox.com/v2/comp/mumbai/j8/022pxx22.xx22.250704200828.i6j8/catalogue/oota-thindi-borivali-west-mumbai-south-indian-restaurants-1by9wbmis2-250.jpg",
+     "861",
+     0,
+     {
+      "node1": "",
+      "node2": "<span class=\"font14 fw400 color111\">₹ 1000 Price for two</span>",
+      "node3": [
+       "<span class=\"font14 fw400 color111\">1 Year in Business</span>",
+       0,
+       0
+      ],
+      "node1color": []
+     },
+     {},
+     0,
+     0,
+     [],
+     "restaurant",
+     "",
+     [
+      {
+       "button_text": "Menu",
+       "button_url": [
+        {
+         "url": "https://www.justdial.com/Mumbai/Oota-Thindi-Opposite-Netural-Ice-Cream-Prem-Nagar-Borivali-West/022PXX22-XX22-250704200828-I6J8_BZDET/menu?source=77&cdata=&native=&version=&hide_header=1&sid=",
+         "text": "",
+         "img": "",
+         "dsc": ""
+        }
+       ],
+       "button_color": [],
+       "flag": "0",
+       "hide_header": "0",
+       "skipVerif": "0",
+       "tp": "0",
+       "li": "Menu"
+      },
+      {
+       "button_text": "Book a table",
+       "button_url": [
+        {
+         "url": "https://www.zomato.com/mumbai/oota-thindi-borivali-west/book",
+         "text": "Zomato",
+         "img": "https://akam.cdn.jdmagicbox.com/images/icons/zomato.png",
+         "dsc": ""
+        },
+        {
+         "url": "https://www.swiggy.com/restaurants/oota-thindi-borivali-west-koramangala-mumbai-1222977/dineout",
+         "text": "Swiggy",
+         "img": "https://akam.cdn.jdmagicbox.com/images/icons/swiggy.png",
+         "dsc": ""
+        },
+        {
+         "url": "https://www.eazydiner.com/mumbai/oota-thindi-borivali-west-western-suburbs-707725",
+         "text": "EazyDiner",
+         "img": "http://akam.cdn.jdmagicbox.com/images/icons/ED.png",
+         "dsc": ""
+        },
+        {
+         "url": "https://district.in/dining/mumbai/oota-thindi-borivali-west",
+         "text": "District",
+         "img": "http://akam.cdn.jdmagicbox.com/images/icons/District_Logo2.png",
+         "dsc": ""
+        }
+       ],
+       "tp": "1",
+       "button_color": [],
+       "flag": "1",
+       "hide_header": "1",
+       "skipVerif": "0",
+       "li": "Book a table"
+      }
+     ],
+     "",
+     "https://content2.jdmagicbox.com/checkin/mumbai/022PXX22.XX22.250704200828.I6J8.jpg",
+     "https://www.justdial.com/DT-431JE8KNCIF",
+     1,
+     [],
+     "",
+     7,
+     "",
+     "",
+     "",
+     [
+      "https://content.jdmagicbox.com/v2/comp/mumbai/j8/022pxx22.xx22.250704200828.i6j8/catalogue/oota-thindi-borivali-west-mumbai-south-indian-restaurants-1by9wbmis2.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/j8/022pxx22.xx22.250704200828.i6j8/catalogue/oota-thindi-borivali-west-mumbai-south-indian-restaurants-iiyzb25dba.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/j8/022pxx22.xx22.250704200828.i6j8/catalogue/oota-thindi-borivali-west-mumbai-south-indian-restaurants-n1r1eo7x9x.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/j8/022pxx22.xx22.250704200828.i6j8/catalogue/oota-thindi-borivali-west-mumbai-south-indian-restaurants-ej7n16cv7r.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/j8/022pxx22.xx22.250704200828.i6j8/catalogue/oota-thindi-borivali-west-mumbai-south-indian-restaurants-odyia30nxz.jpg"
+     ],
+     [
+      0,
+      2,
+      0
+     ],
+     "55",
+     "",
+     "Oota Thindi",
+     "Opposite Netural Ice Cream Prem Nagar Borivali West",
+     1,
+     0,
+     {
+      "id": 10445766,
+      "nid": 10445766,
+      "name": "South Indian Restaurants",
+      "lin": ""
+     },
+     "iV%2B8OjLTP4rU0Ry4kMaNbWsgVFiyy%2FC8OBtUlLCSjnE%3D",
+     "4.1",
+     0,
+     {
+      "img": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/newprot/ctlgjdpay2x.png",
+      "redirection_url": ""
+     },
+     {},
+     "0",
+     1,
+     {
+      "did": "022PXX22.XX22.250704200828.I6J8",
+      "cmp_params": {
+       "bcity": "Mumbai",
+       "barea": "Borivali West",
+       "bpncdbd": "400092",
+       "paidstatus": "5",
+       "misc": "68719476736",
+       "ask_mobile": 0
+      },
+      "bilang": ""
+     },
+     "S9riahsOKY9Kq93h5tOmVV4%2B4l3G8Y33HL%2BIv2dLCNk%3D",
+     0,
+     "Mumbai/Oota-Thindi-Opposite-Netural-Ice-Cream-Prem-Nagar-Borivali-West/022PXX22-XX22-250704200828-I6J8_BZDET",
+     "",
+     [
+      "Delivery",
+      "Coffee Shops",
+      "South Indian"
+     ],
+     [
+      {
+       "tag_name": "Trending",
+       "bg_colour": "#5271dd",
+       "txt_colour": "#FFFFFF",
+       "tag_image": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/trending.svg"
+      }
+     ],
+     "",
+     [],
+     {},
+     [],
+     {
+      "lead": "520",
+      "lead_resp": "3",
+      "avg_resp_time_sec": "",
+      "tformat": "",
+      "color": "#339D3A",
+      "lead_txt": "520 people recently enquired",
+      "resp_txt": ""
+     },
+     "400092",
+     "",
+     {
+      "cname": "Oota Thindi",
+      "docid": "022PXX22.XX22.250704200828.I6J8",
+      "rating": "4.1",
+      "rating_cnt": "861",
+      "city": "Mumbai",
+      "dcity": "mumbai",
+      "area": "Borivali West",
+      "pin": "400092",
+      "ds": "0",
+      "pdg": "",
+      "paid": "5",
+      "jd_verified": "1",
+      "guarantee": "",
+      "trust": "0",
+      "verified": "0",
+      "pos": 7,
+      "tag": "Trending",
+      "cta_name": "Menu",
+      "call_cta": "3",
+      "deals": "",
+      "jd_cash": "",
+      "isb2b": "0",
+      "miscellaneous_flag": "18875656",
+      "distance": "",
+      "core_distance": "14.93",
+      "search_type": "P",
+      "services": 0,
+      "jdm_eligible": 0,
+      "b2b_flag": "0",
+      "opt": null,
+      "price_count": 0,
+      "catalog_flag": "1024",
+      "state": "Maharashtra",
+      "abbr": "EATR,REST,FOS,CSN",
+      "ntp": 0,
+      "high_call": 0
+     },
+     1,
+     "431JE8KNCIF",
+     "Mumbai",
+     [
+      {
+       "h": "1",
+       "d": "<span class=\"font14 fw500 els color339\">Open</span> <span class=\"font14 fw500 color111\"> until 12:00 am</span>"
+      },
+      {
+       "h": 1,
+       "d": "<span class=\"font14 fw400 color111\">₹ 1000 Price for two</span>"
+      }
+     ],
+     [],
+     "Borivali West",
+     [],
+     0,
+     [],
+     "#007A0C",
+     [],
+     "",
+     0,
+     [
+      {
+       "t": "rating",
+       "d": [
+        {
+         "tag_key": "rating",
+         "tagText": "4.1",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0,
+         "bg": "#007A0C"
+        },
+        {
+         "tag_key": "reviews",
+         "tagText": "861 Ratings",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0
+        },
+        {
+         "tag_key": "tag",
+         "tagText": "",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/trending.svg",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "address",
+       "d": [
+        {
+         "tag_key": "address",
+         "tagText": "MCF Road Borivali West, Mumbai",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/results_locat_icon.svg",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "oth",
+       "d": [
+        {
+         "tag_key": "timings",
+         "tagText": "<span class=\"font14 fw500 els color339 ml-5\">Open</span> <span class=\"font14 fw500 color111\"> until 12:00 am</span>",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 1
+        },
+        {
+         "tag_key": "price",
+         "tagText": "",
+         "desc": "<div role=\"presentation\" tabindex=\"-1\" class=\"font15 fw400 color111 rupicon\"><span class=\"font14 fw400 color111\"><span class=\"dtcmrupicon\">₹</span> 1000 Price for two</span></div>",
+         "icon": "",
+         "link": "",
+         "html": 1
+        }
+       ]
+      },
+      {
+       "t": "ctlg",
+       "d": [
+        {
+         "tag_key": "ctlg",
+         "ctlg_type": 1,
+         "display_type": 4,
+         "tagText": "",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0,
+         "data": []
+        }
+       ]
+      }
+     ],
+     [
+      "1by9wbmis2",
+      "iiyzb25dba",
+      "n1r1eo7x9x",
+      "ej7n16cv7r",
+      "odyia30nxz"
+     ],
+     "",
+     []
+    ],
+    [
+     "022P5347535",
+     "Gokul Refreshment",
+     "",
+     "Near Bandra Police Station Bandra West",
+     "19.0562019",
+     "72.8351195",
+     "5",
+     "4.2",
+     "1",
+     1,
+     "1",
+     {
+      "status": "<span class=\"font14 fw500 els color339\">Open</span> <span class=\"font14 fw500 color111\"> until 11:00 pm</span>",
+      "timing": "11:30 am - 11:00 pm"
+     },
+     "Hill Road Bandra West",
+     1,
+     "Restaurants, North Indian Restaurants",
+     "08123172636",
+     "1,761 Ratings",
+     "",
+     "Mumbai",
+     "https://content.jdmagicbox.com/v2/comp/mumbai/35/022p5347535/catalogue/gokul-refreshment-bandra-west-mumbai-home-delivery-restaurants-26gnib08lb-250.jpg",
+     "1,761",
+     0,
+     {
+      "node1": "",
+      "node2": "<span class=\"font14 fw400 color111\">₹ 500 Price for two</span>",
+      "node3": [
+       "<span class=\"font14 fw400 color111\">42 Years in Business</span>",
+       1,
+       1
+      ],
+      "node1color": []
+     },
+     {},
+     0,
+     0,
+     [],
+     "restaurant",
+     "",
+     [
+      {
+       "button_text": "Order online",
+       "button_url": [
+        {
+         "url": "https://www.swiggy.com/restaurants/gokul-refreshments-hill-road-bandra-west-mumbai-5957",
+         "text": "Swiggy",
+         "img": "https://akam.cdn.jdmagicbox.com/images/icons/swiggy.png",
+         "dsc": ""
+        },
+        {
+         "url": "https://www.zomato.com/mumbai/gokul-refreshment-hill-road-bandra-west/order",
+         "text": "Zomato",
+         "img": "https://akam.cdn.jdmagicbox.com/images/icons/zomato.png",
+         "dsc": ""
+        }
+       ],
+       "button_color": [],
+       "flag": "1",
+       "hide_header": "0",
+       "skipVerif": "0",
+       "tp": "1",
+       "li": "Order online"
+      },
+      {
+       "button_text": "Menu",
+       "button_url": [
+        {
+         "url": "https://www.justdial.com/Mumbai/Gokul-Refreshment-Near-Bandra-Police-Station-Bandra-West/022P5347535_BZDET/menu?source=77&cdata=&native=&version=&hide_header=1&sid=",
+         "text": "",
+         "img": "",
+         "dsc": ""
+        }
+       ],
+       "button_color": [],
+       "flag": "1",
+       "hide_header": "0",
+       "skipVerif": "0",
+       "tp": "0",
+       "li": "Menu"
+      }
+     ],
+     "",
+     "https://content2.jdmagicbox.com/checkin/mumbai/022P5347535.jpg",
+     "https://www.justdial.com/DT-437S8AGK",
+     1,
+     [],
+     "",
+     8,
+     "",
+     "",
+     "",
+     [
+      "https://content.jdmagicbox.com/v2/comp/mumbai/35/022p5347535/catalogue/gokul-refreshment-bandra-west-mumbai-home-delivery-restaurants-26gnib08lb.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/35/022p5347535/catalogue/gokul-refreshment-bandra-west-mumbai-home-delivery-restaurants-fr86kiok22.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/35/022p5347535/catalogue/gokul-refreshment-bandra-west-mumbai-home-delivery-restaurants-0kl1bfps8a.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/35/022p5347535/catalogue/gokul-refreshment-bandra-west-mumbai-home-delivery-restaurants-bcxc6zu6h7.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/35/022p5347535/catalogue/gokul-refreshment-bandra-west-mumbai-home-delivery-restaurants-u2vat5l470.jpg"
+     ],
+     [
+      0,
+      2,
+      0
+     ],
+     "160",
+     "",
+     "Gokul Refreshment",
+     "Near Bandra Police Station Bandra West",
+     1,
+     0,
+     {
+      "id": 10339065,
+      "nid": 10339065,
+      "name": "North Indian Restaurants",
+      "lin": ""
+     },
+     "KVYEM7bT1kWF7cD4rci9GA%3D%3D",
+     "4.2",
+     0,
+     {
+      "img": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/newprot/ctlgjdpay2x.png",
+      "redirection_url": ""
+     },
+     {},
+     "0",
+     1,
+     {
+      "did": "022P5347535",
+      "cmp_params": {
+       "bcity": "Mumbai",
+       "barea": "Bandra West",
+       "bpncdbd": "400050",
+       "paidstatus": "5",
+       "misc": "8589948928",
+       "ask_mobile": 0
+      },
+      "bilang": ""
+     },
+     "Epq7S%2Ffgnn3XW3rkedTwuWbipgDmhBNpGHTu47Z1W20%3D",
+     0,
+     "Mumbai/Gokul-Refreshment-Near-Bandra-Police-Station-Bandra-West/022P5347535_BZDET",
+     "",
+     [
+      "Pure Veg"
+     ],
+     [
+      {
+       "tag_name": "Trending",
+       "bg_colour": "#5271dd",
+       "txt_colour": "#FFFFFF",
+       "tag_image": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/trending.svg"
+      }
+     ],
+     "",
+     [],
+     {},
+     [
+      {
+       "lnKey": "",
+       "tagText": "",
+       "desc": "Pure Veg",
+       "icon": "https://akam.cdn.jdmagicbox.com/images/icons/iphone/new/icd-hi-tg-pure-veg.png",
+       "tagTextColor": "#111111"
+      }
+     ],
+     {
+      "lead": "190",
+      "lead_resp": "8",
+      "avg_resp_time_sec": "",
+      "tformat": "",
+      "color": "#339D3A",
+      "lead_txt": "190 people recently enquired",
+      "resp_txt": ""
+     },
+     "400050",
+     "",
+     {
+      "cname": "Gokul Refreshment",
+      "docid": "022P5347535",
+      "rating": "4.2",
+      "rating_cnt": "1761",
+      "city": "Mumbai",
+      "dcity": "Mumbai",
+      "area": "Bandra West",
+      "pin": "400050",
+      "ds": "0",
+      "pdg": "",
+      "paid": "5",
+      "jd_verified": "1",
+      "guarantee": "",
+      "trust": "1",
+      "verified": "1",
+      "pos": 8,
+      "tag": "Trending",
+      "cta_name": "Order online TP",
+      "call_cta": "3",
+      "deals": "",
+      "jd_cash": "",
+      "isb2b": "0",
+      "miscellaneous_flag": "18875656",
+      "distance": "",
+      "core_distance": "5.78",
+      "search_type": "P",
+      "services": 0,
+      "jdm_eligible": 0,
+      "b2b_flag": "0",
+      "opt": null,
+      "price_count": 0,
+      "catalog_flag": "1024",
+      "state": "Maharashtra",
+      "abbr": "EATR,REST,FOS,CSN",
+      "ntp": 0,
+      "high_call": 0
+     },
+     1,
+     "437S8AGK",
+     "Mumbai",
+     [
+      {
+       "h": "1",
+       "d": "<span class=\"font14 fw500 els color339\">Open</span> <span class=\"font14 fw500 color111\"> until 11:00 pm</span>"
+      },
+      {
+       "h": 1,
+       "d": "<span class=\"font14 fw400 color111\">₹ 500 Price for two</span>"
+      }
+     ],
+     [],
+     "Bandra West",
+     [],
+     0,
+     [],
+     "#007A0C",
+     [],
+     "",
+     0,
+     [
+      {
+       "t": "rating",
+       "d": [
+        {
+         "tag_key": "rating",
+         "tagText": "4.2",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0,
+         "bg": "#007A0C"
+        },
+        {
+         "tag_key": "reviews",
+         "tagText": "1,761 Rating",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0
+        },
+        {
+         "tag_key": "trust",
+         "tagText": "",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/trust_2x.gif",
+         "link": "",
+         "html": 0
+        },
+        {
+         "tag_key": "verified",
+         "tagText": "",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/verified_2x.gif",
+         "link": "",
+         "html": 0
+        },
+        {
+         "tag_key": "tag",
+         "tagText": "",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/trending.svg",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "address",
+       "d": [
+        {
+         "tag_key": "address",
+         "tagText": "Hill Road Bandra West, Mumbai",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/results_locat_icon.svg",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "oth",
+       "d": [
+        {
+         "tag_key": "timings",
+         "tagText": "<span class=\"font14 fw500 els color339 ml-5\">Open</span> <span class=\"font14 fw500 color111\"> until 11:00 pm</span>",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 1
+        },
+        {
+         "tag_key": "price",
+         "tagText": "",
+         "desc": "<div role=\"presentation\" tabindex=\"-1\" class=\"font15 fw400 color111 rupicon\"><span class=\"font14 fw400 color111\"><span class=\"dtcmrupicon\">₹</span> 500 Price for two</span></div>",
+         "icon": "",
+         "link": "",
+         "html": 1
+        },
+        {
+         "tag_key": "highlight",
+         "tagText": "",
+         "desc": "Pure Veg",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icons/iphone/new/icd-hi-tg-pure-veg.png",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "ctlg",
+       "d": [
+        {
+         "tag_key": "ctlg",
+         "ctlg_type": 1,
+         "display_type": 4,
+         "tagText": "",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0,
+         "data": []
+        }
+       ]
+      }
+     ],
+     [
+      "26gnib08lb",
+      "fr86kiok22",
+      "0kl1bfps8a",
+      "bcxc6zu6h7",
+      "u2vat5l470"
+     ],
+     "",
+     []
+    ],
+    [
+     "022PXX22.XX22.260819185724.S1T9",
+     "Rolls & Rasoi",
+     "",
+     "Next to Juben Wines Andheri West",
+     "19.1454622",
+     "72.8321964",
+     "5",
+     "5",
+     "1",
+     1,
+     "1",
+     {
+      "status": "<span class=\"font14 fw400 els color339\">Opens at </span><span class=\"font14 fw400 color111\">02:00 PM</span>",
+      "timing": "2:00 pm - 2:00 am"
+     },
+     "New Link Road Andheri West",
+     0,
+     "Restaurants, North Indian Restaurants",
+     "09725132662",
+     "22 Ratings",
+     "",
+     "mumbai",
+     "https://content.jdmagicbox.com/v2/comp/mumbai/t9/022pxx22.xx22.260819185724.s1t9/catalogue/rolls-and-rasoi-andheri-west-mumbai-north-indian-restaurants-kvwbyrk1ag-250.jpg",
+     "22",
+     0,
+     {
+      "node1": "",
+      "node2": "",
+      "node3": [
+       "<span class=\"font14 fw400 color111\">1 Year in Business</span>",
+       0,
+       0
+      ],
+      "node1color": []
+     },
+     {},
+     0,
+     0,
+     [],
+     "restaurant",
+     "",
+     [],
+     "",
+     "https://content2.jdmagicbox.com/checkin/mumbai/022PXX22.XX22.260819185724.S1T9.jpg",
+     "https://www.justdial.com/DT-43RXTGSGXCF",
+     1,
+     [],
+     "",
+     9,
+     "",
+     "",
+     "",
+     [
+      "https://content.jdmagicbox.com/v2/comp/mumbai/t9/022pxx22.xx22.260819185724.s1t9/catalogue/rolls-and-rasoi-andheri-west-mumbai-north-indian-restaurants-kvwbyrk1ag.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/t9/022pxx22.xx22.260819185724.s1t9/catalogue/rolls-and-rasoi-andheri-west-mumbai-north-indian-restaurants-ya6l1tnp8v.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/t9/022pxx22.xx22.260819185724.s1t9/catalogue/rolls-and-rasoi-andheri-west-mumbai-north-indian-restaurants-u76s00skyp.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/t9/022pxx22.xx22.260819185724.s1t9/catalogue/rolls-and-rasoi-andheri-west-mumbai-north-indian-restaurants-85fqusdc87.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/t9/022pxx22.xx22.260819185724.s1t9/catalogue/rolls-and-rasoi-andheri-west-mumbai-north-indian-restaurants-m2y72zwseq.jpg"
+     ],
+     [
+      0,
+      2,
+      0
+     ],
+     "21",
+     "",
+     "Rolls & Rasoi",
+     "Next to Juben Wines Andheri West",
+     1,
+     0,
+     {
+      "id": 10339065,
+      "nid": 10339065,
+      "name": "North Indian Restaurants",
+      "lin": ""
+     },
+     "LGLuodp87s0qqQrnHGuOtkz1IfKsRcfQpLwabtKJoY0%3D",
+     "5",
+     0,
+     {
+      "img": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/newprot/ctlgjdpay2x.png",
+      "redirection_url": ""
+     },
+     {},
+     "0",
+     1,
+     {
+      "did": "022PXX22.XX22.260819185724.S1T9",
+      "cmp_params": {
+       "bcity": "Mumbai",
+       "barea": "Andheri West",
+       "bpncdbd": "400053",
+       "paidstatus": "5",
+       "misc": "8589934592",
+       "ask_mobile": 0
+      },
+      "bilang": ""
+     },
+     "v6v2wn5fYkJtwGJfzV5IH4zdU8iEqxyML2BOqY7hYw4%3D",
+     0,
+     "Mumbai/Rolls-Rasoi-Next-To-Juben-Wines-Andheri-West/022PXX22-XX22-260819185724-S1T9_BZDET",
+     "",
+     [
+      "Chinese",
+      "Multicuisine",
+      "Mughlai"
+     ],
+     [],
+     "",
+     [],
+     {},
+     [
+      {
+       "lnKey": -99,
+       "tagText": "Good quantity",
+       "desc": " 5 Suggestions",
+       "icon": "https://akam.cdn.jdmagicbox.com/images/icons/iphone/nd-Like-comments.png",
+       "tagTextColor": "#111111"
+      }
+     ],
+     {
+      "lead": "509",
+      "lead_resp": "9",
+      "avg_resp_time_sec": "",
+      "tformat": "",
+      "color": "#339D3A",
+      "lead_txt": "509 people recently enquired",
+      "resp_txt": ""
+     },
+     "400053",
+     "",
+     {
+      "cname": "Rolls & Rasoi",
+      "docid": "022PXX22.XX22.260819185724.S1T9",
+      "rating": "5",
+      "rating_cnt": "22",
+      "city": "Mumbai",
+      "dcity": "mumbai",
+      "area": "Andheri West",
+      "pin": "400053",
+      "ds": "0",
+      "pdg": "",
+      "paid": "5",
+      "jd_verified": "1",
+      "guarantee": "",
+      "trust": "0",
+      "verified": "0",
+      "pos": 9,
+      "tag": "",
+      "cta_name": "",
+      "call_cta": "3",
+      "deals": "",
+      "jd_cash": "",
+      "isb2b": "0",
+      "miscellaneous_flag": "18875656",
+      "distance": "",
+      "core_distance": "7.64",
+      "search_type": "P",
+      "services": 0,
+      "jdm_eligible": 0,
+      "b2b_flag": "0",
+      "opt": null,
+      "price_count": 0,
+      "catalog_flag": "1024",
+      "state": "Maharashtra",
+      "abbr": "EATR,REST,FOS,CSN",
+      "ntp": 0,
+      "high_call": 0
+     },
+     1,
+     "43RXTGSGXCF",
+     "Mumbai",
+     [
+      {
+       "h": "1",
+       "d": "<span class=\"font14 fw400 els color339\">Opens at </span><span class=\"font14 fw400 color111\">02:00 PM</span>"
+      },
+      {
+       "h": 1,
+       "d": 0
+      }
+     ],
+     [],
+     "Andheri West",
+     [],
+     0,
+     [],
+     "#007A0C",
+     [],
+     "",
+     0,
+     [
+      {
+       "t": "rating",
+       "d": [
+        {
+         "tag_key": "rating",
+         "tagText": "5",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0,
+         "bg": "#007A0C"
+        },
+        {
+         "tag_key": "reviews",
+         "tagText": "22 Ratings",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "address",
+       "d": [
+        {
+         "tag_key": "address",
+         "tagText": "New Link Road Andheri West, Mumbai",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/results_locat_icon.svg",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "oth",
+       "d": [
+        {
+         "tag_key": "timings",
+         "tagText": "<span class=\"font14 fw400 els color339 ml-5\">Opens at </span><span class=\"font14 fw400 color111\">02:00 PM</span>",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 1
+        },
+        {
+         "tag_key": "ratingtag",
+         "tagText": "Good quantity",
+         "desc": "5 Suggestions",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icons/iphone/nd-Like-comments.png",
+         "link": "",
+         "html": 0
+        }
+       ]
+      }
+     ],
+     [
+      "kvwbyrk1ag",
+      "ya6l1tnp8v",
+      "u76s00skyp",
+      "85fqusdc87",
+      "m2y72zwseq"
+     ],
+     "",
+     []
+    ],
+    [
+     "022PXX22.XX22.250127190114.N4J1",
+     "Mimi Cafe & Bistro",
+     "",
+     "Opposite Birla College Kalyan West",
+     "19.246516",
+     "73.1463544",
+     "5",
+     "4.4",
+     "1",
+     1,
+     "1",
+     {
+      "status": "<span class=\"font14 fw400 els color339\">Opens in </span><span class=\"font14 fw400 color111\">9 mins</span>",
+      "timing": "12:00 pm - 12:00 am"
+     },
+     "Birla College Road Kalyan West",
+     0,
+     "Restaurants, Chinese Restaurants",
+     "08460412979",
+     "1,699 Ratings",
+     "",
+     "mumbai",
+     "https://content.jdmagicbox.com/comp/kalyan/j1/022pxx22.xx22.250127190114.n4j1/catalogue/mimi-cafe-and-bistro-kalyan-west-kalyan-restaurants-n3hm6v1nat-250.jpg",
+     "1,699",
+     0,
+     {
+      "node1": "",
+      "node2": "<span class=\"font14 fw400 color111\">₹ 1200 Price for two</span>",
+      "node3": [
+       "<span class=\"font14 fw400 color111\">3 Years in Business</span>",
+       0,
+       0
+      ],
+      "node1color": []
+     },
+     {},
+     0,
+     0,
+     [],
+     "restaurant",
+     "",
+     [
+      {
+       "button_text": "Menu",
+       "button_url": [
+        {
+         "url": "https://www.justdial.com/Kalyan/Mimi-Cafe-Bistro-Opposite-Birla-College-Kalyan-West/022PXX22-XX22-250127190114-N4J1_BZDET/menu?source=77&cdata=&native=&version=&hide_header=1&sid=",
+         "text": "",
+         "img": "",
+         "dsc": ""
+        }
+       ],
+       "button_color": [],
+       "flag": "0",
+       "hide_header": "0",
+       "skipVerif": "0",
+       "tp": "0",
+       "li": "Menu"
+      },
+      {
+       "button_text": "Book a table",
+       "button_url": [
+        {
+         "url": "https://www.eazydiner.com/mumbai/mimi-cafe-bistro-kalyan-thane-region-712808",
+         "text": "EazyDiner",
+         "img": "http://akam.cdn.jdmagicbox.com/images/icons/ED.png",
+         "dsc": ""
+        },
+        {
+         "url": "https://district.in/dining/mumbai/mimi-cafe-bistro-kalyan-thane",
+         "text": "District",
+         "img": "http://akam.cdn.jdmagicbox.com/images/icons/District_Logo2.png",
+         "dsc": ""
+        }
+       ],
+       "tp": "1",
+       "button_color": [],
+       "flag": "1",
+       "hide_header": "1",
+       "skipVerif": "0",
+       "li": "Book a table"
+      }
+     ],
+     "",
+     "https://content2.jdmagicbox.com/checkin/mumbai/022PXX22.XX22.250127190114.N4J1.jpg",
+     "https://www.justdial.com/DT-43LEUJIY1EG",
+     1,
+     [],
+     "",
+     10,
+     "",
+     "",
+     "",
+     [
+      "https://content.jdmagicbox.com/comp/kalyan/j1/022pxx22.xx22.250127190114.n4j1/catalogue/mimi-cafe-and-bistro-kalyan-west-kalyan-restaurants-n3hm6v1nat.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/j1/022pxx22.xx22.250127190114.n4j1/catalogue/mimi-cafe-and-bistro-kalyan-west-kalyan-restaurants-cqnphdn64v.jpg",
+      "https://content.jdmagicbox.com/comp/kalyan/j1/022pxx22.xx22.250127190114.n4j1/catalogue/mimi-cafe-and-bistro-kalyan-west-kalyan-restaurants-g8e7hh1yhp.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/j1/022pxx22.xx22.250127190114.n4j1/catalogue/mimi-cafe-and-bistro-kalyan-west-kalyan-restaurants-obpmffeege.jpg",
+      "https://content.jdmagicbox.com/comp/kalyan/j1/022pxx22.xx22.250127190114.n4j1/catalogue/mimi-cafe-and-bistro-kalyan-west-kalyan-restaurants-u1j5znhkml.jpg"
+     ],
+     [
+      0,
+      2,
+      0
+     ],
+     "23",
+     "",
+     "Mimi Cafe & Bistro",
+     "Opposite Birla College Kalyan West",
+     1,
+     0,
+     {
+      "id": 11399718,
+      "nid": 11399718,
+      "name": "Fine Dining Chinese Restaurants Rs 1000 To Rs 2000",
+      "lin": ""
+     },
+     "iV%2B8OjLTP4rU0Ry4kMaNbYBDwGnzhaZVu4u2jim3yFU%3D",
+     "4.4",
+     0,
+     {
+      "img": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/newprot/ctlgjdpay2x.png",
+      "redirection_url": ""
+     },
+     {},
+     "0",
+     1,
+     {
+      "did": "022PXX22.XX22.250127190114.N4J1",
+      "cmp_params": {
+       "bcity": "Kalyan",
+       "barea": "Kalyan West",
+       "bpncdbd": "421301",
+       "paidstatus": "5",
+       "misc": "0",
+       "ask_mobile": 0
+      },
+      "bilang": ""
+     },
+     "t%2BUBP45WniQeJ8W6l%2F%2FDB69iCFItU9cGBv931kHlMvA%3D",
+     0,
+     "Kalyan/Mimi-Cafe-Bistro-Opposite-Birla-College-Kalyan-West/022PXX22-XX22-250127190114-N4J1_BZDET",
+     "",
+     [
+      "Pure Veg"
+     ],
+     [
+      {
+       "tag_name": "Trending",
+       "bg_colour": "#5271dd",
+       "txt_colour": "#FFFFFF",
+       "tag_image": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/trending.svg"
+      }
+     ],
+     "",
+     [],
+     {},
+     [
+      {
+       "lnKey": "",
+       "tagText": "",
+       "desc": "Pure Veg",
+       "icon": "https://akam.cdn.jdmagicbox.com/images/icons/iphone/new/icd-hi-tg-pure-veg.png",
+       "tagTextColor": "#111111"
+      }
+     ],
+     {
+      "lead": "103",
+      "lead_resp": "2",
+      "avg_resp_time_sec": "",
+      "tformat": "",
+      "color": "#339D3A",
+      "lead_txt": "103 people recently enquired",
+      "resp_txt": ""
+     },
+     "421301",
+     "",
+     {
+      "cname": "Mimi Cafe & Bistro",
+      "docid": "022PXX22.XX22.250127190114.N4J1",
+      "rating": "4.4",
+      "rating_cnt": "1699",
+      "city": "Kalyan",
+      "dcity": "mumbai",
+      "area": "Kalyan West",
+      "pin": "421301",
+      "ds": "0",
+      "pdg": "",
+      "paid": "5",
+      "jd_verified": "1",
+      "guarantee": "",
+      "trust": "0",
+      "verified": "0",
+      "pos": 10,
+      "tag": "Trending",
+      "cta_name": "Menu",
+      "call_cta": "3",
+      "deals": "",
+      "jd_cash": "",
+      "isb2b": "0",
+      "miscellaneous_flag": "18875656",
+      "distance": "",
+      "core_distance": "33.29",
+      "search_type": "P",
+      "services": 0,
+      "jdm_eligible": 0,
+      "b2b_flag": "0",
+      "opt": null,
+      "price_count": 0,
+      "catalog_flag": "1024",
+      "state": "Maharashtra",
+      "abbr": "EATR,REST,FOS,CSN",
+      "ntp": 0,
+      "high_call": 0
+     },
+     1,
+     "43LEUJIY1EG",
+     "Kalyan",
+     [
+      {
+       "h": "1",
+       "d": "<span class=\"font14 fw400 els color339\">Opens in </span><span class=\"font14 fw400 color111\">9 mins</span>"
+      },
+      {
+       "h": 1,
+       "d": "<span class=\"font14 fw400 color111\">₹ 1200 Price for two</span>"
+      }
+     ],
+     [],
+     "Kalyan West",
+     [],
+     0,
+     [],
+     "#007A0C",
+     [],
+     "",
+     0,
+     [
+      {
+       "t": "rating",
+       "d": [
+        {
+         "tag_key": "rating",
+         "tagText": "4.4",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0,
+         "bg": "#007A0C"
+        },
+        {
+         "tag_key": "reviews",
+         "tagText": "1,699 Rating",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0
+        },
+        {
+         "tag_key": "tag",
+         "tagText": "",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/trending.svg",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "address",
+       "d": [
+        {
+         "tag_key": "address",
+         "tagText": "Birla College Road Kalyan West, Kalyan",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/results_locat_icon.svg",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "oth",
+       "d": [
+        {
+         "tag_key": "timings",
+         "tagText": "<span class=\"font14 fw400 els color339 ml-5\">Opens in </span><span class=\"font14 fw400 color111\">9 mins</span>",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 1
+        },
+        {
+         "tag_key": "price",
+         "tagText": "",
+         "desc": "<div role=\"presentation\" tabindex=\"-1\" class=\"font15 fw400 color111 rupicon\"><span class=\"font14 fw400 color111\"><span class=\"dtcmrupicon\">₹</span> 1200 Price for two</span></div>",
+         "icon": "",
+         "link": "",
+         "html": 1
+        },
+        {
+         "tag_key": "highlight",
+         "tagText": "",
+         "desc": "Pure Veg",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icons/iphone/new/icd-hi-tg-pure-veg.png",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "ctlg",
+       "d": [
+        {
+         "tag_key": "ctlg",
+         "ctlg_type": 1,
+         "display_type": 4,
+         "tagText": "",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0,
+         "data": []
+        }
+       ]
+      }
+     ],
+     [
+      "n3hm6v1nat",
+      "cqnphdn64v",
+      "g8e7hh1yhp",
+      "obpmffeege",
+      "u1j5znhkml"
+     ],
+     "",
+     []
+    ]
+   ],
+   "rvs": [],
+   "area_card": 1,
+   "bd_route": [],
+   "job_card": []
+  },
+  "nearmeDetails": "",
+  "catid": "",
+  "trending_flag": 0,
+  "trending_nid": "",
+  "keyword": " Restaurants",
+  "keywordln": " Restaurants",
+  "ishotel": 0,
+  "keywordResults": [],
+  "moreKeywords": "0",
+  "totalNumberofResults": "100",
+  "sortingOption": {
+   "basedon": [
+    "distance",
+    "rating",
+    "popular"
+   ],
+   "sort": "",
+   "char": "",
+   "morefilter": {
+    "mv": "1102",
+    "mh": "Quick Filters",
+    "md": "",
+    "ms": 1,
+    "d": [
+     {
+      "v": "HR",
+      "d": "Rated 3.5+",
+      "f": 1,
+      "s": 0,
+      "nc": null,
+      "n": null,
+      "e": "6"
+     },
+     {
+      "v": "OPEN",
+      "d": "Open Now",
+      "f": 1,
+      "s": 0,
+      "nc": null,
+      "n": null,
+      "e": "10"
+     }
+    ]
+   },
+   "pricefilter": ""
+  },
+  "ratingsTab": 0,
+  "pncdbd": "401209",
+  "ismovie": "0",
+  "sort_price_tag": null,
+  "advanced_bd_flag": "0",
+  "sort_price": null,
+  "filter_flag": 1,
+  "image_path": "https://akam.cdn.jdmagicbox.com/images/jdcategories/10408936.jpg",
+  "view": "0",
+  "national_catid": "10408936",
+  "median_latitude": 19.09075,
+  "median_longitude": 72.87611,
+  "seo_dt": {
+   "title": "Restaurants in Mumbai - Best Restaurants near me | Justdial",
+   "desc": "Restaurants, Mumbai. Book A Table, Order Online from 100354 Restaurants in Mumbai. Get Menu, Photos, Prices, Cuisines, Phone Numbers, Address, Reviews, Ratings for Top Mumbai Restaurants Nearby on Justdial.",
+   "key": "List of Restaurants in Mumbai, Reviews, Map, Address, Phone Number, Contact Number, local, popular Restaurants, Restaurants",
+   "isfreetext": 0,
+   "hot_cat_arr": {
+    "id": 10200860,
+    "nid": 10200860,
+    "name": "Fast Food",
+    "lin": ""
+   },
+   "area": null,
+   "link": "https://www.justdial.com/Mumbai/Restaurants/nct-10408936",
+   "no_index": 0,
+   "no_follow": 0,
+   "bi_lang_enable": 1,
+   "bi_lang_arr": [
+    "en",
+    "hi",
+    "bn",
+    "ta",
+    "mr",
+    "gu",
+    "kn"
+   ]
+  },
+  "vpfs": "8-100",
+  "msgpos": "",
+  "areadocids": "",
+  "area_docids_cnt": "",
+  "nofriends": "",
+  "nextdocid": "022PXX22.XX22.140725163254.J1I3,022PXX22.XX22.170628141002.N3G4,022PXX22.XX22.211211160449.H9Y1,022PXX22.XX22.211009095005.D1J9,022PXX22.XX22.190227125521.G1I1,022PXX22.XX22.221227110609.W1D5,022PXX22.XX22.250704200828.I6J8,022P5347535,022PXX22.XX22.260819185724.S1T9,022PXX22.XX22.250127190114.N4J1,022PXX22.XX22.190508181932.F9A2,022PXX22.XX22.260513151205.N6Q9,022PXX22.XX22.100721173720.G5E3,022PXX22.XX22.210924125756.Q4W6,022PXX22.XX22.140610161826.M3A8,022PXX22.XX22.241204131600.H4A2,022PXX22.XX22.251107162716.M2W6,022PF003128,022PXX22.XX22.100920123006.Z8S5,022PXX22.XX22.130423155808.Q2K1,022PXX22.XX22.131115135604.E6N2,022PXX22.XX22.200127190243.J1K2,022PXX22.XX22.251210183255.A1W4,022PXX22.XX22.200828092318.I6R4,022P5480060,022PXX22.XX22.211124153301.M2D1,022PXX22.XX22.140804130028.J6U9,022PXX22.XX22.231117114636.J8H4,022PXX22.XX22.260227124729.M5J5,022PXX22.XX22.160601131045.M5V5,022PXX22.XX22.260204194633.L9U8,022PXX22.XX22.120228001101.D4U3,022PXX22.XX22.130927111239.F8G5,022PXX22.XX22.120313035007.E1D8,022PXX22.XX22.140124172404.P2W5,022PXX22.XX22.210220182715.B6U3,022PXX22.XX22.140609185737.C6A1,022PXX22.XX22.240712120836.M3H1,022PXX22.XX22.251108154709.I6E4,022PXX22.XX22.260210132010.I1U4,022PXX22.XX22.250908174132.C5F5,022PXX22.XX22.150223133340.M9X3,022PXX22.XX22.170524150103.U2F7,022PXX22.XX22.130227094518.V3Z7,022PXX22.XX22.220527132411.R6H4,022PXX22.XX22.140825190243.K9L1,022PXX22.XX22.260427202846.G6C5,022PXX22.XX22.150504122126.J7J5,022PXX22.XX22.220226191707.B9R3,022PXX22.XX22.161118182553.J6U4,022P8010682,022PXX22.XX22.181024213711.E7B3,022PXX22.XX22.250528193529.V4K7,022PXX22.XX22.130810162148.J6F8,022PXX22.XX22.131122224633.G4T5,022PXX22.XX22.240715145608.D2M7,022PXX22.XX22.171013213406.Q5Z4,022PXX22.XX22.160129151741.O0P7,022PXX22.XX22.200312190526.B7L1,022PXX22.XX22.260618142316.X5H6,022PXX22.XX22.220419094557.X7V7,022PXX22.XX22.241203183432.I3P9,022PXX22.XX22.140429152358.X4P2,022PXX22.XX22.260817152850.I7J1,022PXX22.XX22.180906125954.V2P2,022PXX22.XX22.131029142425.V1S3,022PXX22.XX22.190121184519.M7D7,022PXX22.XX22.131129151136.W1L4,022PB016052,022PXX22.XX22.160107210005.Z2A3,022PXX22.XX22.260612155214.J3G5,022PXX22.XX22.180321160027.H7Z2,022PXX22.XX22.221107012005.A5M7,022PXX22.XX22.190318214002.X9I8,022PXX22.XX22.240731124248.N5X9,022PK000002,022PXX22.XX22.190715211119.U2B8,022PXX22.XX22.260318203926.D9X4,022PXX22.XX22.110802151206.I3E2,022PXX22.XX22.160812221645.Q4I6,022PXX22.XX22.140424201526.F7Q6,022PXX22.XX22.100419161134.R2J7,022PXX22.XX22.230403165833.S9G6,022PXX22.XX22.240424184152.B1W8,022PXX22.XX22.210430151004.W3W3,022PXX22.XX22.120304164359.U5K8,022PXX22.XX22.210216124347.M6Z7,022PXX22.XX22.130924120042.Y5S2,022PXX22.XX22.100216205537.L8S7,022PXX22.XX22.260825001400.N5W3,022P9830068,022PXX22.XX22.121218150628.L1R8,022PXX22.XX22.260303093803.R8X7,022PXX22.XX22.250325133657.X7H8,022PXX22.XX22.121102013607.W6M6,022PXX22.XX22.190227210337.P9D6,022PXX22.XX22.091103114726.Z2C8,022PXX22.XX22.260109191222.E1Y4,022PXX22.XX22.240105001003.N5W8,022PXX22.XX22.120227200721.S7F9",
+  "nextdocidcount": "10",
+  "scity": "Mumbai",
+  "pcity": "Mumbai",
+  "spincode": "401209",
+  "amp": 0,
+  "cat_search_type": "A",
+  "area_docid_count_hotel": "",
+  "area_last_docid_hotel": "",
+  "adword_pos": {
+   "7": "filter"
+  },
+  "adword_snippet": {
+   "filter": {
+    "tab_display": "Explore More",
+    "entity": "89|15234",
+    "apiname": "Filterapi",
+    "action_url": "/01sep2022/ads.php?case=filter&entity=89|15234&city=mumbai&area=&search=Restaurants&apiname=Filterapi&dpf=8796227240448&wap=77&version=3.0&ln=&is_rsltpg=1",
+    "active_flag": 1,
+    "attrib": ""
+   }
+  },
+  "footer": 0,
+  "adword_docids": "",
+  "newadd": "Ad",
+  "newaddcolor": "#ffffff",
+  "newaddtextcolor": "#000000",
+  "viewchange": 0,
+  "view_flag": "2",
+  "dsmap": 1,
+  "vertical_banner": {},
+  "srf": "11",
+  "is_lawyer": 0,
+  "grid": 0,
+  "cat_b2b_flag": "0",
+  "google_audience": "",
+  "related_cat": 0,
+  "product_carousal": 0,
+  "service_guide": [],
+  "askAstro": 0,
+  "disclaimer": [],
+  "miscellaneous_flag_abbr": "|SV|IMF|SBPA|IGSC|CRFP|UBLOC|AANY|LPD|",
+  "addtbl": {
+   "title": "Top Restaurants in Mumbai",
+   "headers": [
+    "Name",
+    "Address",
+    "Listed Categories",
+    "Year of Establishment",
+    "No. of Reviews",
+    "Rating"
+   ],
+   "dt": [
+    [
+     {
+      "d": "Ashapura Snacks",
+      "u": "Thane/Ashapura-Snacks-Dhokali-Thane-West/022PXX22-XX22-140725163254-J1I3_BZDET"
+     },
+     "Nandi Baba Chowk Ganesh Nagar, Kolshet Road, Dhokali-Thane West, Thane - 400607",
+     [
+      {
+       "d": "Restaurants",
+       "u": "/Mumbai/Restaurants/nct-10408936"
+      },
+      {
+       "d": "Fast Food",
+       "u": "/Mumbai/Fast-Food/nct-10200860"
+      },
+      {
+       "d": "Tea Stalls",
+       "u": "/Mumbai/Tea-Stalls/nct-10853304"
+      }
+     ],
+     "2013",
+     "1,639",
+     4
+    ],
+    [
+     {
+      "d": "Ave Maria Kitchen and Caterers",
+      "u": "Mumbai/Ave-Maria-Kitchen-and-Caterers-Near-Poisar-Kandivali-East/022PXX22-XX22-170628141002-N3G4_BZDET"
+     },
+     "Ave Maria Kitchen and Caterers, Near D.v.m. High School, Bihari Tekri Road, Kandivali East, Mumbai - 400101 (Near-Poisar)",
+     [
+      {
+       "d": "Restaurants",
+       "u": "/Mumbai/Restaurants/nct-10408936"
+      },
+      {
+       "d": "Chinese Restaurants",
+       "u": "/Mumbai/Chinese-Restaurants/nct-10097618"
+      },
+      {
+       "d": "Taste Of China",
+       "u": "/Mumbai/Taste-Of-China/nct-12141839"
+      }
+     ],
+     "2011",
+     "4",
+     4.3
+    ],
+    [
+     {
+      "d": "Hotel Jyoti Family Restaurant",
+      "u": "Mumbai/Hotel-Jyoti-Family-Restaurant-Ekta-Nagar-Kandivali-West/022PXX22-XX22-211211160449-H9Y1_BZDET"
+     },
+     "Opp Hp Petrol Pump Near It Adharv College, Old Link Road, Kandivali West, Mumbai - 400067 (Ekta Nagar)",
+     [
+      {
+       "d": "Restaurants",
+       "u": "/Mumbai/Restaurants/nct-10408936"
+      },
+      {
+       "d": "Chinese Restaurants",
+       "u": "/Mumbai/Chinese-Restaurants/nct-10097618"
+      },
+      {
+       "d": "Home Delivery Restaurants",
+       "u": "/Mumbai/Home-Delivery-Restaurants/nct-10250324"
+      }
+     ],
+     "2000",
+     "164",
+     4.2
+    ],
+    [
+     {
+      "d": "Flora Dates and Nuts",
+      "u": "Navi-Mumbai/Flora-Dates-and-Nuts-Near-Haware-Mall-Nerul/022PXX22-XX22-211009095005-D1J9_BZDET"
+     },
+     "Nirmala Building, Sector 21, Nerul, Navi Mumbai - 400706 (Near Haware Mall)",
+     [
+      {
+       "d": "Restaurants",
+       "u": "/Mumbai/Restaurants/nct-10408936"
+      },
+      {
+       "d": "Dry Fruit Retailers",
+       "u": "/Mumbai/Dry-Fruit-Retailers/nct-10173840"
+      },
+      {
+       "d": "Chocolate Retailers",
+       "u": "/Mumbai/Chocolate-Retailers/nct-10098304"
+      }
+     ],
+     "2026",
+     "218",
+     4.7
+    ],
+    [
+     {
+      "d": "Food Way Inn Family Restaurant",
+      "u": "Navi-Mumbai/Food-Way-Inn-Family-Restaurant-Near-Nerul-Railway-Station-Nerul-Sector-29/022PXX22-XX22-190227125521-G1I1_BZDET"
+     },
+     "Platinum Venecia, Sector No 29, Nerul Sector 29, Navi Mumbai - 400706 (Near Nerul Railway Station)",
+     [
+      {
+       "d": "Restaurants",
+       "u": "/Mumbai/Restaurants/nct-10408936"
+      },
+      {
+       "d": "North Indian Restaurants",
+       "u": "/Mumbai/North-Indian-Restaurants/nct-10339065"
+      },
+      {
+       "d": "Chinese Restaurants",
+       "u": "/Mumbai/Chinese-Restaurants/nct-10097618"
+      }
+     ],
+     "2019",
+     "3,606",
+     4.1
+    ],
+    [
+     {
+      "d": "Tuba Restaurant",
+      "u": "Mumbai/Tuba-Restaurant-Opposite-Sugara-Park-Humera-Park-Near-Pearl-Oasis-Bluiding-Pathan-Wadi-Malad-East/022PXX22-XX22-221227110609-W1D5_BZDET"
+     },
+     "Rani Sati Marg, Malad East, Mumbai - 400097 (Opposite Sugara Park & Humera Park, Near Pearl Oasis Bluiding, Pathan Wadi)",
+     [
+      {
+       "d": "Restaurants",
+       "u": "/Mumbai/Restaurants/nct-10408936"
+      },
+      {
+       "d": "North Indian Restaurants",
+       "u": "/Mumbai/North-Indian-Restaurants/nct-10339065"
+      },
+      {
+       "d": "Home Delivery Restaurants",
+       "u": "/Mumbai/Home-Delivery-Restaurants/nct-10250324"
+      }
+     ],
+     "2021",
+     "662",
+     4
+    ],
+    [
+     {
+      "d": "Oota Thindi",
+      "u": "Mumbai/Oota-Thindi-Opposite-Netural-Ice-Cream-Prem-Nagar-Borivali-West/022PXX22-XX22-250704200828-I6J8_BZDET"
+     },
+     "Prem Ratan Building, Ward R/C, MCF Road, Borivali West, Mumbai - 400092 (Opposite Netural Ice Cream, Prem Nagar)",
+     [
+      {
+       "d": "Restaurants",
+       "u": "/Mumbai/Restaurants/nct-10408936"
+      },
+      {
+       "d": "Home Delivery Restaurants",
+       "u": "/Mumbai/Home-Delivery-Restaurants/nct-10250324"
+      },
+      {
+       "d": "Coffee Shops",
+       "u": "/Mumbai/Coffee-Shops/nct-10104727"
+      }
+     ],
+     "2025",
+     "861",
+     4.1
+    ],
+    [
+     {
+      "d": "Gokul Refreshment",
+      "u": "Mumbai/Gokul-Refreshment-Near-Bandra-Police-Station-Bandra-West/022P5347535_BZDET"
+     },
+     "Rizvi House, Hill Road, Bandra West, Mumbai - 400050 (Near Bandra Police Station)",
+     [
+      {
+       "d": "Restaurants",
+       "u": "/Mumbai/Restaurants/nct-10408936"
+      },
+      {
+       "d": "North Indian Restaurants",
+       "u": "/Mumbai/North-Indian-Restaurants/nct-10339065"
+      },
+      {
+       "d": "Pure Veg Restaurants",
+       "u": "/Mumbai/Pure-Veg-Restaurants/nct-10396867"
+      }
+     ],
+     "1984",
+     "1,761",
+     4.2
+    ],
+    [
+     {
+      "d": "Rolls & Rasoi",
+      "u": "Mumbai/Rolls-Rasoi-Next-To-Juben-Wines-Andheri-West/022PXX22-XX22-260819185724-S1T9_BZDET"
+     },
+     "Adarsh Nagar, New Link Road, Andheri West, Mumbai - 400053 (Next to Juben Wines)",
+     [
+      {
+       "d": "Restaurants",
+       "u": "/Mumbai/Restaurants/nct-10408936"
+      },
+      {
+       "d": "North Indian Restaurants",
+       "u": "/Mumbai/North-Indian-Restaurants/nct-10339065"
+      },
+      {
+       "d": "Chinese Restaurants",
+       "u": "/Mumbai/Chinese-Restaurants/nct-10097618"
+      }
+     ],
+     "2026",
+     "22",
+     5
+    ],
+    [
+     {
+      "d": "Mimi Cafe & Bistro",
+      "u": "Kalyan/Mimi-Cafe-Bistro-Opposite-Birla-College-Kalyan-West/022PXX22-XX22-250127190114-N4J1_BZDET"
+     },
+     "Biulding 7, Vishwananda Society, High Colony, Birla College Road, Kalyan West, Kalyan - 421301 (Opposite Birla College)",
+     [
+      {
+       "d": "Restaurants",
+       "u": "/Mumbai/Restaurants/nct-10408936"
+      },
+      {
+       "d": "Chinese Restaurants",
+       "u": "/Mumbai/Chinese-Restaurants/nct-10097618"
+      },
+      {
+       "d": "Coffee Shops",
+       "u": "/Mumbai/Coffee-Shops/nct-10104727"
+      }
+     ],
+     "2023",
+     "1,699",
+     4.4
+    ]
+   ]
+  },
+  "no_friends_rating": 0,
+  "pharmacy_data": {},
+  "not_rateable": 0,
+  "showgptads": 1,
+  "gptadintrvl": 4,
+  "brndname": "Restaurants",
+  "mncatnm": "Restaurants",
+  "comp_avg_starjd": "4.0|$|21335944",
+  "avg_rate": "4.0",
+  "avg_txt": "(21335944 Ratings & Reviews as on 26/10/2026)",
+  "lng": "",
+  "h1": "Best Restaurants in Mumbai - Food Restaurants Nearby",
+  "nrin": " in ",
+  "microdata": "",
+  "ldJson": {
+   "default": "{\"@context\": \"https://schema.org\",\"@type\": \"WebSite\",\"name\": \"Justdial\",\"url\": \"https://www.justdial.com/\"}",
+   "rating": "{\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"Restaurant\",\"name\":\"Restaurants in Mumbai\",\"image\":\"https:\\/\\/content.jdmagicbox.com\\/v2\\/comp\\/mumbai\\/i3\\/022pxx22.xx22.140725163254.j1i3\\/catalogue\\/ashapura-snacks-dhokali-thane-west-thane-south-indian-fast-food-joints-emf7r14p89.jpg\",\"url\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/Restaurants\\/nct-10408936\",\"address\":{\"@type\":\"PostalAddress\",\"addressRegion\":\"Mumbai\",\"addressCountry\":\"IN\"}}",
+   "social": "[{\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"Organization\",\"name\":\"justdial.com\",\"url\":\"https:\\/\\/www.justdial.com\\/\",\"logo\":\"https:\\/\\/akam.cdn.jdmagicbox.com\\/images\\/wap\\/logo\\/jd_144.png\",\"sameAs\":[\"https:\\/\\/www.facebook.com\\/JustDial\",\"https:\\/\\/plus.google.com\\/+justdial\",\"https:\\/\\/www.linkedin.com\\/company\\/justdial\",\"https:\\/\\/www.instagram.com\\/jd_justdial\",\"https:\\/\\/play.google.com\\/store\\/apps\\/details?id=com.justdial.search\",\"https:\\/\\/itunes.apple.com\\/app\\/jd-justdial\\/id624946027?uo=5\",\"https:\\/\\/www.youtube.com\\/user\\/justdialind\"]}]",
+   "listing": "{\"@context\": \"https://schema.org\",\"@type\": \"ItemList\",\"name\": \"Restaurants in Mumbai\",\"numberOfItems\": \"100354\",\"itemListElement\" :[{\"@type\":\"ListItem\",\"position\":1,\"item\":{\"@type\":\"Restaurant\",\"name\":\"Ashapura Snacks\",\"image\":\"https:\\/\\/content.jdmagicbox.com\\/v2\\/comp\\/mumbai\\/i3\\/022pxx22.xx22.140725163254.j1i3\\/catalogue\\/ashapura-snacks-dhokali-thane-west-thane-south-indian-fast-food-joints-emf7r14p89.jpg\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Kolshet Road\",\"addressLocality\":\"Dhokali-Thane West\",\"addressRegion\":\"Thane\",\"postalCode\":\"400607\",\"addressCountry\":\"IN\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":\"19.226207722222\",\"longitude\":\"72.980033861111\"},\"telephone\":\"+(91)-9323668666,9082345583\",\"priceRange\":\"\\u20b9\",\"servesCuisine\":[\"South Indian\"],\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"4.0\",\"ratingCount\":1639},\"url\":\"https:\\/\\/www.justdial.com\\/Thane\\/Ashapura-Snacks-Dhokali-Thane-West\\/022PXX22-XX22-140725163254-J1I3_BZDET\"}},{\"@type\":\"ListItem\",\"position\":2,\"item\":{\"@type\":\"Restaurant\",\"name\":\"Ave Maria Kitchen and Caterers\",\"image\":\"https:\\/\\/content.jdmagicbox.com\\/v2\\/comp\\/mumbai\\/g4\\/022pxx22.xx22.170628141002.n3g4\\/catalogue\\/taste-of-china-kandivali-east-mumbai-home-delivery-restaurants-3wjt4wfr2k.jpg\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Bihari Tekri Road\",\"addressLocality\":\"Kandivali East\",\"addressRegion\":\"Mumbai\",\"postalCode\":\"400101\",\"addressCountry\":\"IN\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":\"19.2142033\",\"longitude\":\"72.8526152\"},\"telephone\":\"+(91)-8655569598\",\"servesCuisine\":[\"Chinese\"],\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"4.3\",\"ratingCount\":4},\"url\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/Ave-Maria-Kitchen-And-Caterers-Near-Poisar-Kandivali-East\\/022PXX22-XX22-170628141002-N3G4_BZDET\"}},{\"@type\":\"ListItem\",\"position\":3,\"item\":{\"@type\":\"Restaurant\",\"name\":\"Hotel Jyoti Family Restaurant\",\"image\":\"https:\\/\\/content.jdmagicbox.com\\/v2\\/comp\\/mumbai\\/y1\\/022pxx22.xx22.211211160449.h9y1\\/catalogue\\/hotel-jyoti-family-restaurant-kandivali-west-mumbai-restaurants-if160buauc.jpg\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Old Link Road\",\"addressLocality\":\"Kandivali West\",\"addressRegion\":\"Mumbai\",\"postalCode\":\"400067\",\"addressCountry\":\"IN\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":\"19.199312194444\",\"longitude\":\"72.827980027778\"},\"telephone\":\"+(91)-9987387318\",\"servesCuisine\":[\"Chinese\",\"Punjabi\",\"Mughlai\",\"Sea Food\",\"North Indian\",\"Malwani\",\"Maharashtrian\"],\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"4.2\",\"ratingCount\":164},\"url\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/Hotel-Jyoti-Family-Restaurant-Ekta-Nagar-Kandivali-West\\/022PXX22-XX22-211211160449-H9Y1_BZDET\"}},{\"@type\":\"ListItem\",\"position\":4,\"item\":{\"@type\":\"Restaurant\",\"name\":\"Flora Dates and Nuts\",\"image\":\"https:\\/\\/content.jdmagicbox.com\\/v2\\/comp\\/mumbai\\/j9\\/022pxx22.xx22.211009095005.d1j9\\/catalogue\\/flora-dry-fruits-and-chocolates-nerul-navi-mumbai-dry-fruit-retailers-95j9g0y7q9.jpg\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Sector 21\",\"addressLocality\":\"Nerul\",\"addressRegion\":\"Navi Mumbai\",\"postalCode\":\"400706\",\"addressCountry\":\"IN\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":\"19.0256434\",\"longitude\":\"73.0216152\"},\"telephone\":\"+(91)-9548770590\",\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"4.7\",\"ratingCount\":218},\"url\":\"https:\\/\\/www.justdial.com\\/Navi-Mumbai\\/Flora-Dates-And-Nuts-Near-Haware-Mall-Nerul\\/022PXX22-XX22-211009095005-D1J9_BZDET\"}},{\"@type\":\"ListItem\",\"position\":5,\"item\":{\"@type\":\"Restaurant\",\"name\":\"Food Way Inn Family Restaurant\",\"image\":\"https:\\/\\/content.jdmagicbox.com\\/v2\\/comp\\/navi-mumbai\\/i1\\/022pxx22.xx22.190227125521.g1i1\\/catalogue\\/food-way-inn-family-restaurant-nerul-navi-mumbai-north-indian-restaurants-5y2ojpuspd.jpg\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Sector No 29\",\"addressLocality\":\"Nerul Sector 29\",\"addressRegion\":\"Navi Mumbai\",\"postalCode\":\"400706\",\"addressCountry\":\"IN\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":\"19.0369333\",\"longitude\":\"73.0200499\"},\"telephone\":\"+(91)-7039999240,7039999340\",\"priceRange\":\"\\u20b9\\u20b9\\u20b9\",\"servesCuisine\":[\"Chinese\",\"Mughlai\",\"Sea Food\",\"North Indian\"],\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"4.1\",\"ratingCount\":3606},\"url\":\"https:\\/\\/www.justdial.com\\/Navi-Mumbai\\/Food-Way-Inn-Family-Restaurant-Near-Nerul-Railway-Station-Nerul-Sector-29\\/022PXX22-XX22-190227125521-G1I1_BZDET\"}},{\"@type\":\"ListItem\",\"position\":6,\"item\":{\"@type\":\"Restaurant\",\"name\":\"Tuba Restaurant\",\"image\":\"https:\\/\\/content.jdmagicbox.com\\/v2\\/comp\\/mumbai\\/d5\\/022pxx22.xx22.221227110609.w1d5\\/catalogue\\/tuba-restaurant-malad-east-mumbai-restaurants-nujr49o8o0.jpg\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Rani Sati Marg\",\"addressLocality\":\"Malad East\",\"addressRegion\":\"Mumbai\",\"postalCode\":\"400097\",\"addressCountry\":\"IN\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":\"19.179154\",\"longitude\":\"72.8640209722\"},\"telephone\":\"+(91)-8828832270\",\"priceRange\":\"\\u20b9\\u20b9\",\"servesCuisine\":[\"Chinese\",\"Punjabi\",\"Mughlai\",\"Sea Food\",\"North Indian\"],\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"4.0\",\"ratingCount\":662},\"url\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/Tuba-Restaurant-Opposite-Sugara-Park-Humera-Park-Near-Pearl-Oasis-Bluiding-Pathan-Wadi-Malad-East\\/022PXX22-XX22-221227110609-W1D5_BZDET\"}},{\"@type\":\"ListItem\",\"position\":7,\"item\":{\"@type\":\"Restaurant\",\"name\":\"Oota Thindi\",\"image\":\"https:\\/\\/content.jdmagicbox.com\\/v2\\/comp\\/mumbai\\/j8\\/022pxx22.xx22.250704200828.i6j8\\/catalogue\\/oota-thindi-mumbai-restaurants-rv1f5tdvv0.jpg\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"MCF Road\",\"addressLocality\":\"Borivali West\",\"addressRegion\":\"Mumbai\",\"postalCode\":\"400092\",\"addressCountry\":\"IN\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":\"19.223413\",\"longitude\":\"72.855181\"},\"telephone\":\"+(91)-8291533533\",\"priceRange\":\"\\u20b9\\u20b9\\u20b9\",\"servesCuisine\":[\"South Indian\",\"North Indian\"],\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"4.1\",\"ratingCount\":861},\"url\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/Oota-Thindi-Opposite-Netural-Ice-Cream-Prem-Nagar-Borivali-West\\/022PXX22-XX22-250704200828-I6J8_BZDET\"}},{\"@type\":\"ListItem\",\"position\":8,\"item\":{\"@type\":\"Restaurant\",\"name\":\"Gokul Refreshment\",\"image\":\"https:\\/\\/content.jdmagicbox.com\\/v2\\/comp\\/mumbai\\/35\\/022p5347535\\/catalogue\\/gokul-refreshments-bandra-west-mumbai-restaurants-wn3p0.jpg\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Hill Road\",\"addressLocality\":\"Bandra West\",\"addressRegion\":\"Mumbai\",\"postalCode\":\"400050\",\"addressCountry\":\"IN\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":\"19.0562019\",\"longitude\":\"72.8351195\"},\"telephone\":\"+(91)-8108844274\",\"priceRange\":\"\\u20b9\\u20b9\",\"servesCuisine\":[\"Chinese\",\"South Indian\",\"North Indian\",\"Italian\"],\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"4.2\",\"ratingCount\":1761},\"url\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/Gokul-Refreshment-Near-Bandra-Police-Station-Bandra-West\\/022P5347535_BZDET\"}},{\"@type\":\"ListItem\",\"position\":9,\"item\":{\"@type\":\"Restaurant\",\"name\":\"Rolls & Rasoi\",\"image\":\"https:\\/\\/content.jdmagicbox.com\\/v2\\/comp\\/mumbai\\/t9\\/022pxx22.xx22.260819185724.s1t9\\/catalogue\\/rolls-and-rasoi-andheri-west-mumbai-north-indian-restaurants-w1k84bqy71.jpg\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"New Link Road\",\"addressLocality\":\"Andheri West\",\"addressRegion\":\"Mumbai\",\"postalCode\":\"400053\",\"addressCountry\":\"IN\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":\"19.1454622\",\"longitude\":\"72.8321964\"},\"telephone\":\"+(91)-7208044686\",\"servesCuisine\":[\"Chinese\",\"Multicuisine\",\"Mughlai\",\"North Indian\",\"Bihari\"],\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"5.0\",\"ratingCount\":22},\"url\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/Rolls-Rasoi-Next-to-Juben-Wines-Andheri-West\\/022PXX22-XX22-260819185724-S1T9_BZDET\"}},{\"@type\":\"ListItem\",\"position\":10,\"item\":{\"@type\":\"Restaurant\",\"name\":\"Mimi Cafe & Bistro\",\"image\":\"https:\\/\\/content.jdmagicbox.com\\/v2\\/comp\\/mumbai\\/j1\\/022pxx22.xx22.250127190114.n4j1\\/catalogue\\/mimi-cafe-and-bistro-kalyan-west-kalyan-restaurants-obpmffeege.jpg\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Birla College Road\",\"addressLocality\":\"Kalyan West\",\"addressRegion\":\"Kalyan\",\"postalCode\":\"421301\",\"addressCountry\":\"IN\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":\"19.246516\",\"longitude\":\"73.1463544\"},\"priceRange\":\"\\u20b9\\u20b9\\u20b9\",\"servesCuisine\":[\"Chinese\",\"Italian\",\"Continental\",\"Mexican\"],\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"4.4\",\"ratingCount\":1699},\"url\":\"https:\\/\\/www.justdial.com\\/Kalyan\\/Mimi-Cafe-Bistro-Opposite-Birla-College-Kalyan-West\\/022PXX22-XX22-250127190114-N4J1_BZDET\"}}]}",
+   "brcrum": "{\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"item\":{\"@id\":\"https:\\/\\/www.justdial.com\\/Mumbai\",\"name\":\"Mumbai\"}},{\"@type\":\"ListItem\",\"position\":2,\"item\":{\"@id\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/Restaurants\\/nct-10408936\",\"name\":\"Restaurants in Mumbai\"}},{\"@type\":\"ListItem\",\"position\":3,\"item\":{\"name\":\"100354+ Listings\",\"@id\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/Restaurants\\/nct-10408936?#listings\"}}]}"
+  },
+  "ttlist": 100354,
+  "footertab": [
+   {
+    "heading": "213.4 Lakh +",
+    "desc": "Reviews & Ratings"
+   },
+   {
+    "heading": "1.0 Lakh +",
+    "desc": "Verified listings"
+   }
+  ],
+  "catessy": {},
+  "og_tags": {
+   "type": "company",
+   "site_name": "Justdial",
+   "title": "Restaurants in Mumbai - Best Restaurants near me | Justdial",
+   "url": "https://www.justdial.com/Mumbai/Restaurants/nct-10408936",
+   "description": "Restaurants, Mumbai. Book A Table, Order Online from 100354 Restaurants in Mumbai. Get Menu, Photos, Prices, Cuisines, Phone Numbers, Address, Reviews, Ratings for Top Mumbai Restaurants Nearby on Justdial.",
+   "image": "https://akam.cdn.jdmagicbox.com/images/icontent/jd-logo_nw.png",
+   "iosurl": "justdial://Mumbai/Restaurants/nct-10408936",
+   "androidurl": "android-app://com.justdial.search/http/t.justdial.com/Mumbai/Restaurants/nct-10408936"
+  },
+  "canonic": "https://www.justdial.com/Mumbai/Restaurants/nct-10408936",
+  "chainoutlet": 0,
+  "applink": [],
+  "number_mask": 0,
+  "jdgenie_strip": 0,
+  "bddisplayText1": "Get the list of best",
+  "bddisplayText2": "Restaurants",
+  "open_abd": 0,
+  "digital_catalog": "/01sep2022/vcatalogue.php?searchType=get_custom_services&docid=022PXX22.XX22.140725163254.J1I3,022PXX22.XX22.190227125521.G1I1,022PXX22.XX22.221227110609.W1D5,022PXX22.XX22.250704200828.I6J8,022P5347535,022PXX22.XX22.250127190114.N4J1&ncid=10408936&city=Mumbai&catalogueType=4,4,4,4,4,4&menutxt=Restaurants",
+  "enable_filter": 1,
+  "dpa": "|EATR|REST|FOS|CSN|",
+  "bd_data": {},
+  "abd_data": {},
+  "bestDeal": null,
+  "bd_text": "",
+  "bd_text_orig": "",
+  "resultString": "in Mumbai",
+  "bd_msgtype": "",
+  "bd_captiontype": "",
+  "aka": "",
+  "newbddesign": "1",
+  "calltext": "",
+  "bdtextdata": "",
+  "bdtextdatali": "",
+  "paramsText": "&bd7=&magicname=bdgbp",
+  "deal_pos": "",
+  "checkin": "2026-10-28",
+  "checkout": "2026-10-29",
+  "checkpos": "2",
+  "dt_params": {
+   "fromres": "1",
+   "city": "Mumbai",
+   "area": "",
+   "pincode": "401209",
+   "catid": "10408936",
+   "national_catid": "10408936",
+   "catname": " Restaurants"
+  },
+  "bd_params": {
+   "bd": "1",
+   "city": "Mumbai",
+   "area": "",
+   "pncdbd": "401209",
+   "ncatid": "10408936",
+   "search": "Restaurants",
+   "case": "sms_email",
+   "frmpg": "lspg"
+  },
+  "cat_pop_revs": {
+   "022PXX22.XX22.140725163254.J1I3": {
+    "name": "RAGHUNATH",
+    "rating": "5.0",
+    "review": "This shop is literally very nice and the taste is very good. The quality of food is nice . This shop is very famous in Dhokali .👍I like this shop",
+    "review_date": "2026-03-07 23:16:01",
+    "pop_random": [
+     {
+      "isreview": "2",
+      "hpyreview": "1",
+      "name_enc": "wLy3laRY5w9963VJxUVNvA==",
+      "review_date": "2026-03-07 23:16:01",
+      "rating": "5.0",
+      "review": "This shop is literally very nice and the taste is very good. The quality of food is nice . This shop is very famous in Dhokali .👍I like this shop",
+      "docid": "022PXX22.XX22.140725163254.J1I3",
+      "reviewer_name": "RAGHUNATH"
+     },
+     {
+      "isreview": "2",
+      "hpyreview": "0",
+      "name_enc": "m4l1tBgvu4eUR14yy83CtQ==",
+      "review_date": "2023-12-10 01:23:13",
+      "rating": "5.0",
+      "review": "Ashapura Snacks offers a delightful range of snacks that are worth every penny. The prices are reasonable and the quality is top-notch. From crispy namkeens to delectable sweets, this place has it all! Definitely worth a visit for some authentic Indian snacks.",
+      "docid": "022PXX22.XX22.140725163254.J1I3"
+     }
+    ],
+    "hpyreview": "1",
+    "res_idx": 0
+   },
+   "022PXX22.XX22.170628141002.N3G4": {
+    "name": "Suraj Jha",
+    "rating": "5.0",
+    "review": "Ave Maria Kitchen and Caterers offers an excellent dining experience with generous portions at reasonable prices. The ambiance is inviting, complemented by great music that enhances the atmosphere. The food is not only tasty but also showcases authentic cuisine. Perfect for groups, the service is quick, and there`s hardly any wait time. Truly worth every penny!",
+    "review_date": "2026-07-24 15:40:38",
+    "pop_random": [
+     {
+      "isreview": "2",
+      "hpyreview": "1",
+      "name_enc": "y4Yc5pbPxuRdbjnzKclWTw==",
+      "review_date": "2026-07-24 15:40:38",
+      "rating": "5.0",
+      "review": "Ave Maria Kitchen and Caterers offers an excellent dining experience with generous portions at reasonable prices. The ambiance is inviting, complemented by great music that enhances the atmosphere. The food is not only tasty but also showcases authentic cuisine. Perfect for groups, the service is quick, and there`s hardly any wait time. Truly worth every penny!",
+      "docid": "022PXX22.XX22.170628141002.N3G4",
+      "reviewer_name": "Suraj Jha"
+     }
+    ],
+    "hpyreview": "1",
+    "res_idx": 1
+   },
+   "022PXX22.XX22.211211160449.H9Y1": {
+    "name": "manisha",
+    "rating": "5.0",
+    "review": "I recently visited Hotel Jyoti Family Restaurant and had a great experience! The food portion sizes are really good. I felt full and satisfied after my meal. The variety on the menu is impressive, too. The staff was friendly and helpful, making sure we had everything we needed. Overall, I highly recommend this place if you want tasty food with generous servings!",
+    "review_date": "2026-05-11 14:57:58",
+    "pop_random": [
+     {
+      "isreview": "2",
+      "hpyreview": "1",
+      "name_enc": "zl/Td1XkFiF7eWHKwx6BgA==",
+      "review_date": "2026-05-11 14:57:58",
+      "rating": "5.0",
+      "review": "I visited Hotel Jyoti Family Restaurant. The restaurant has tasty food. The service was friendly and helpful. I enjoyed my meal very much. The place was clean and nice to sit in. I liked the menu choices, and the prices were good too. Overall, my experience at Hotel Jyoti Family Restaurant was excellent!",
+      "docid": "022PXX22.XX22.211211160449.H9Y1",
+      "reviewer_name": "manisha"
+     },
+     {
+      "isreview": "2",
+      "hpyreview": "1",
+      "name_enc": "g9ebpXUQyt9RFPjx2uc9Zl+hVnYEkJPw4oC0BPeUEXM=",
+      "review_date": "2026-03-07 18:08:53",
+      "rating": "5.0",
+      "review": "I recently visited Hotel Jyoti Family Restaurant and had a great experience! The food portion sizes are really good. I felt full and satisfied after my meal. The variety on the menu is impressive, too. The staff was friendly and helpful, making sure we had everything we needed. Overall, I highly recommend this place if you want tasty food with generous servings!",
+      "docid": "022PXX22.XX22.211211160449.H9Y1"
+     },
+     {
+      "isreview": "2",
+      "hpyreview": "1",
+      "name_enc": "mxGHkjnN3gd+CZG9HjQn/l+xVpW/dAtvQ81A+3Pn/aU=",
+      "review_date": "2025-08-08 17:24:35",
+      "rating": "5.0",
+      "review": "At Hotel Jyoti Family Restaurant, I was delighted by the rich flavors and aromatic dishes. Each bite of their signature biryani was a culinary delight, bursting with spices. The warm ambiance complemented the tasty food, making it a perfect family dining spot. The staff`s attentive service added to the experience, ensuring we enjoyed every moment of our meal!",
+      "docid": "022PXX22.XX22.211211160449.H9Y1"
+     }
+    ],
+    "hpyreview": "1",
+    "res_idx": 2
+   },
+   "022PXX22.XX22.190227125521.G1I1": {
+    "name": "Abbas Mirza",
+    "rating": "3.0",
+    "review": "Had ordered Crispy Chicken and I regret to get it from Mumbai Masala. The crispy chicken was tasteless and very hard. It just looked like the chicken was fried with no proper blend of sauces and the quantity also was less. The chicken didn`t have any sweet and sour taste it was just like normal fried chicken without salt. I have eaten Crispy Chicken from other food joints in Mira road with better quality and quantity unlike this place. Not recommending this restaurant.",
+    "review_date": "2023-02-28 21:44:27",
+    "pop_random": [
+     {
+      "isreview": "2",
+      "hpyreview": "0",
+      "name_enc": "qxphT+fZrF2sbFDw8sRn9w==",
+      "review_date": "2023-02-28 21:44:27",
+      "rating": "3.0",
+      "review": "Had ordered Crispy Chicken and I regret to get it from Mumbai Masala. The crispy chicken was tasteless and very hard. It just looked like the chicken was fried with no proper blend of sauces and the quantity also was less. The chicken didn`t have any sweet and sour taste it was just like normal fried chicken without salt. I have eaten Crispy Chicken from other food joints in Mira road with better quality and quantity unlike this place. Not recommending this restaurant.",
+      "docid": "022PXX22.XX22.190227125521.G1I1",
+      "reviewer_name": "Abbas Mirza"
+     },
+     {
+      "isreview": "2",
+      "hpyreview": "0",
+      "name_enc": "JUSMcyXDy+1LhVL0ri9pYQ==",
+      "review_date": "2019-09-12 12:55:53",
+      "rating": "5.0",
+      "review": "Amazing hotel, the staff is very friendly and the food is amazing. I prefer others to please visit this, it is the best hotel I can find in Nerul. ",
+      "docid": "022PXX22.XX22.190227125521.G1I1"
+     },
+     {
+      "isreview": "1",
+      "hpyreview": "0",
+      "name_enc": "MPFcKdKKdfpJ3KyBucDTCg==",
+      "review_date": "2024-11-22 21:43:52",
+      "rating": "5.0",
+      "review": "Delicious,owsome, nice food ,👍👍👍",
+      "docid": "022PXX22.XX22.190227125521.G1I1"
+     }
+    ],
+    "res_idx": 4
+   },
+   "022PXX22.XX22.221227110609.W1D5": {
+    "name": "Manisha Maruti dalvi",
+    "rating": "4.0",
+    "review": "My experience at Tuba Restaurant was disappointing. The ambiance was lacking, with outdated decor and dim lighting that felt uninviting. The service was slow, and the staff seemed overwhelmed. The food, while presented nicely, tasted bland and undercooked. Overall, it didn`t live up to expectations and left me wishing for a more enjoyable dining experience.",
+    "review_date": "2026-09-30 16:42:23",
+    "pop_random": [
+     {
+      "isreview": "2",
+      "hpyreview": "1",
+      "name_enc": "joly1I0HL9iVZwIRSyBgzh5TOwuKOmynVjsohRnCgrw=",
+      "review_date": "2026-09-30 16:42:23",
+      "rating": "4.0",
+      "review": "My experience at Tuba Restaurant was disappointing. The ambiance was lacking, with outdated decor and dim lighting that felt uninviting. The service was slow, and the staff seemed overwhelmed. The food, while presented nicely, tasted bland and undercooked. Overall, it didn`t live up to expectations and left me wishing for a more enjoyable dining experience.",
+      "docid": "022PXX22.XX22.221227110609.W1D5",
+      "reviewer_name": "Manisha%20Maruti%20dalvi"
+     },
+     {
+      "isreview": "2",
+      "hpyreview": "1",
+      "name_enc": "DG6fHxmEyyUTDyKkpkJ/YF7J3qFyS4mEe6uaz7wV+F0=",
+      "review_date": "2025-05-21 17:16:16",
+      "rating": "5.0",
+      "review": "Tuba Restaurant is a delightful spot that never fails to impress. The quick service here is commendable; your order arrives promptly, ensuring you don`t have to wait long to satisfy your cravings. The presentation of the dishes is truly artful, making each meal a feast for the eyes as well as the palate. Overall, Tuba offers a wonderful dining experience that I highly recommend!",
+      "docid": "022PXX22.XX22.221227110609.W1D5"
+     },
+     {
+      "isreview": "2",
+      "hpyreview": "0",
+      "name_enc": "E/YLneUtc4gAoBTe3gs5zQ==",
+      "review_date": "2024-01-15 00:53:31",
+      "rating": "5.0",
+      "review": "I went to Tuba Restaurant with a big group and it was excellent! The staff was so friendly and accommodating. The food portions were huge and everyone left full and happy. The ingredients tasted really fresh and the place was very clean. I would definitely recommend Tuba to anyone looking for a great group-friendly restaurant with delicious food.",
+      "docid": "022PXX22.XX22.221227110609.W1D5"
+     }
+    ],
+    "hpyreview": "1",
+    "res_idx": 5
+   },
+   "022PXX22.XX22.250704200828.I6J8": {
+    "name": "Manav",
+    "rating": "4.0",
+    "review": "Oota Thindi offers a vibrant brunch experience, perfect for groups looking to enjoy delicious food while soaking in live music. Although the staff can be uncooperative at times, the food arrives promptly within 10-20 minutes, ensuring you won`t be left waiting long. The lively atmosphere on weekends adds to the charm, making it a great spot for friends to gather and unwind. Overall, a solid choice for brunch lovers!",
+    "review_date": "2026-09-17 18:01:41",
+    "pop_random": [
+     {
+      "isreview": "2",
+      "hpyreview": "1",
+      "name_enc": "Tbl9+UhElZkhWKyAV60tPg==",
+      "review_date": "2026-09-17 18:01:41",
+      "rating": "4.0",
+      "review": "Oota Thindi offers a vibrant brunch experience, perfect for groups looking to enjoy delicious food while soaking in live music. Although the staff can be uncooperative at times, the food arrives promptly within 10-20 minutes, ensuring you won`t be left waiting long. The lively atmosphere on weekends adds to the charm, making it a great spot for friends to gather and unwind. Overall, a solid choice for brunch lovers!",
+      "docid": "022PXX22.XX22.250704200828.I6J8",
+      "reviewer_name": "Manav"
+     },
+     {
+      "isreview": "2",
+      "hpyreview": "1",
+      "name_enc": "CcWKw1c3uTzNnWauPDG4ig==",
+      "review_date": "2026-08-04 22:03:25",
+      "rating": "5.0",
+      "review": "Oota Thindi is a great place! The food is served quickly, in just 10-20 minutes. The portions are big and worth the money. It`s very child-friendly, with good seating for families. The presentation of the food looks nice too! The service is excellent and friendly. I loved the outdoor area and enjoyed live music while I ate. Highly recommend visiting for lunch!",
+      "docid": "022PXX22.XX22.250704200828.I6J8"
+     },
+     {
+      "isreview": "2",
+      "hpyreview": "0",
+      "name_enc": "La+lKv41d571sPfbyVFe3Q==",
+      "review_date": "2026-07-26 18:00:10",
+      "rating": "3.0",
+      "review": "Rasam and payaam was tasty..but. only drawback was that ...they served very cold food.  Papadam also very oily. Price wise expensive... ambiance was good .",
+      "docid": "022PXX22.XX22.250704200828.I6J8"
+     }
+    ],
+    "hpyreview": "1",
+    "res_idx": 6
+   },
+   "022P5347535": {
+    "name": "Pankaj",
+    "rating": "5.0",
+    "review": "One of the oldest and most famous biryani restaurants in Bandra. If you are in and around this place then be sure to stop by and have a taste of the biryani and kabab they are some of the best that you get in Mumbai. They have AC as well as non AC seating. Located right at the junction of Hill road and Bandra railway station.",
+    "review_date": "2025-11-19 18:18:07",
+    "pop_random": [
+     {
+      "isreview": "2",
+      "hpyreview": "1",
+      "name_enc": "ZBy3PU8krQ8YfaNyZPMPbA==",
+      "review_date": "2025-11-19 18:18:07",
+      "rating": "5.0",
+      "review": "I recently visited Gokul Refreshment and had an excellent experience! The ambience is really nice, making it a great place to relax. It`s very clean, which adds to the overall comfort. The prices are reasonable, so you don`t have to worry about overspending. Plus, the food portions are generous. I highly recommend this restaurant for anyone looking for a lovely dining experience!",
+      "docid": "022P5347535",
+      "reviewer_name": "Pankaj"
+     },
+     {
+      "isreview": "2",
+      "hpyreview": "0",
+      "name_enc": "rNobG+Z4TI6tMeo5c/7lcQ==",
+      "review_date": "2024-03-14 12:04:21",
+      "rating": "5.0",
+      "review": "Gokul Refreshment is an excellent restaurant with great quantity. I visited for brunch on a weekday and the food arrived in 10-20 minutes after placing the order. The table wait time was also minimal, around 10-20 minutes. I would highly recommend this place for a satisfying and quick meal.",
+      "docid": "022P5347535"
+     },
+     {
+      "isreview": "2",
+      "hpyreview": "0",
+      "name_enc": "222dheJ6P+0MDw8LMvX4sHG/ImO47GrQM/xNPtxYx1Y=",
+      "review_date": "2023-02-26 14:19:01",
+      "rating": "5.0",
+      "review": "One of the oldest and most famous biryani restaurants in Bandra. If you are in and around this place then be sure to stop by and have a taste of the biryani and kabab they are some of the best that you get in Mumbai. They have AC as well as non AC seating. Located right at the junction of Hill road and Bandra railway station.",
+      "docid": "022P5347535"
+     }
+    ],
+    "hpyreview": "1",
+    "res_idx": 7
+   },
+   "022PXX22.XX22.260819185724.S1T9": {
+    "name": "Rohit",
+    "rating": "5.0",
+    "review": "Delicious and fresh food with great presentation and generous portions. Loved the ambience, friendly staff, and excellent service. Definitely worth the money and a great place to visit!” ❤️✨ Try tikka Rolls and chilly chicken and laccha paratha, loved it",
+    "review_date": "2026-09-27 22:39:36",
+    "pop_random": [
+     {
+      "isreview": "2",
+      "hpyreview": "1",
+      "name_enc": "zLdF/L0+ib6AkKyX6f9x4g==",
+      "review_date": "2026-09-27 22:39:36",
+      "rating": "5.0",
+      "review": "Its was my frist time and i genuinely like the experience of the store, i love it and i will recommend it to my friends and family...",
+      "docid": "022PXX22.XX22.260819185724.S1T9",
+      "reviewer_name": "Rohit"
+     },
+     {
+      "isreview": "2",
+      "hpyreview": "1",
+      "name_enc": "CfZSyE7KwO6IzHevQgS6gg==",
+      "review_date": "2026-09-18 22:24:58",
+      "rating": "5.0",
+      "review": "Delicious and fresh food with great presentation and generous portions. Loved the ambience, friendly staff, and excellent service. Definitely worth the money and a great place to visit!” ❤️✨ Try tikka Rolls and chilly chicken and laccha paratha, loved it",
+      "docid": "022PXX22.XX22.260819185724.S1T9"
+     },
+     {
+      "isreview": "2",
+      "hpyreview": "1",
+      "name_enc": "/Keag2HT3FmmMDPHspmVDA==",
+      "review_date": "2026-09-01 16:38:53",
+      "rating": "5.0",
+      "review": "Rolls & Rasoi is a hidden gem for food lovers seeking authentic cuisine! Their mouthwatering rolls and diverse menu offer a delightful blend of flavors that transport you straight to the heart of India. The quality of ingredients shines through in every bite, making it a must-visit spot. Friendly service and a cozy ambiance enhance the experience. If you`re craving tasty, authentic dishes, Rolls & Rasoi should be at the top of your list!",
+      "docid": "022PXX22.XX22.260819185724.S1T9"
+     }
+    ],
+    "hpyreview": "1",
+    "res_idx": 8
+   },
+   "022PXX22.XX22.250127190114.N4J1": {
+    "name": "Upadhyay",
+    "rating": "5.0",
+    "review": "Mimi Cafe & Bistro is a delightful dining experience! The presentation of the dishes is truly impressive, making each meal a feast for the eyes. The service is quick, ensuring you don`t have to wait long to satisfy your cravings. Portions are generous and definitely worth the money spent. It`s also child-friendly with a cozy atmosphere, making it great for families and groups alike. Highly recommended!",
+    "review_date": "2025-06-20 19:55:51",
+    "pop_random": [
+     {
+      "isreview": "2",
+      "hpyreview": "1",
+      "name_enc": "tQRYhLri3zBXClAyvaNd6Q==",
+      "review_date": "2025-06-20 19:55:51",
+      "rating": "5.0",
+      "review": "Mimi Cafe & Bistro is a delightful dining experience! The presentation of the dishes is truly impressive, making each meal a feast for the eyes. The service is quick, ensuring you don`t have to wait long to satisfy your cravings. Portions are generous and definitely worth the money spent. It`s also child-friendly with a cozy atmosphere, making it great for families and groups alike. Highly recommended!",
+      "docid": "022PXX22.XX22.250127190114.N4J1",
+      "reviewer_name": "Upadhyay"
+     },
+     {
+      "isreview": "2",
+      "hpyreview": "1",
+      "name_enc": "guXKUW9R55xmJ9LZ1WrX6w==",
+      "review_date": "2025-06-08 18:28:00",
+      "rating": "5.0",
+      "review": "I recently visited Mimi Cafe & Bistro and had an excellent experience! The food was delicious and very reasonably priced, making it worth every penny. The portion sizes were generous, so I left feeling satisfied. The service was great too; the staff were friendly and attentive. Overall, I highly recommend this place for a tasty meal without breaking the bank!",
+      "docid": "022PXX22.XX22.250127190114.N4J1"
+     }
+    ],
+    "hpyreview": "1",
+    "res_idx": 9
+   }
+  },
+  "data_i_track": [],
+  "common_event_data": {
+   "type": "",
+   "catid": "10408936",
+   "city": "Mumbai",
+   "nct": "10408936",
+   "vid": "",
+   "wap": true,
+   "pin": "f",
+   "search_type": "P",
+   "isB2B": "0",
+   "bi_lang": ""
+  },
+  "pop_city": {
+   "heading": "Show Results Near You",
+   "heading_subtxt": "Show Results Near You",
+   "pos": 9,
+   "data": [
+    {
+     "city": "Ahmedabad"
+    },
+    {
+     "city": "Bangalore"
+    },
+    {
+     "city": "Chennai"
+    },
+    {
+     "city": "Delhi"
+    },
+    {
+     "city": "Hyderabad"
+    },
+    {
+     "city": "Kolkata"
+    },
+    {
+     "city": "Mumbai"
+    },
+    {
+     "city": "Pune"
+    },
+    {
+     "city": "Jaipur"
+    }
+   ]
+  },
+  "override_bd": 0,
+  "override_bd_arr": [],
+  "lng_arr": {
+   "helpful_txt": "Were our search results helpful?",
+   "yes": "Yes",
+   "no": "No",
+   "rslt_near": "Find Results near you",
+   "dt_loc": "Use Precise Location",
+   "ad_lst": "Additional Listing Information",
+   "lst_rev": "Latest Customer Reviews",
+   "rcd_prod": "Recommended Products For You",
+   "view_prd": "View All Products",
+   "also_srch": "People Also Search For",
+   "job_txt": "Are you looking for job?"
+  },
+  "tbl_hdr": {
+   "cn": "Name",
+   "ad": "Address",
+   "yr": "Year of Establishment",
+   "web": "Website",
+   "am": "Ameneties",
+   "sr": "Services",
+   "rt": "Rating",
+   "rv": "No. of Reviews",
+   "tc": "Listed Categories"
+  },
+  "other": 0,
+  "noarea": null,
+  "tabs": null,
+  "stringdetail": "Based on,others have rated this,other have rated this,view all,call,message,share,direction,have rated this,your friend,be first among your friends to rate",
+  "stringdetaileng": "Based on,others have rated this,other have rated this,view all,call,message,share,direction,have rated this,your friend,be first among your friends to rate",
+  "core": "&corecat=1",
+  "rhs": 1,
+  "error": {
+   "status": 1,
+   "fallbacksearch": "Restaurants",
+   "rstatus": 200,
+   "rurl": "",
+   "inapp": 1
+  },
+  "phpRestime": 218.421875,
+  "search_id": "0dd6a26f8bd44faf91a360cf9cadc8fe91fae6486dcf2c11bf96aa4aacc89bb5",
+  "GPREFETCH": "FALSE"
+ },
+ "bannerData": [],
+ "webLang": "en",
+ "hotky": {},
+ "isFreeTxt": 0,
+ "viaGoogle": 0,
+ "issr": true,
+ "useTabsView": true,
+ "isServerSide": true,
+ "nearmeUrl": 0,
+ "isTablet": false,
+ "viaRfr": "",
+ "query_language": "",
+ "digitalCatalogData": {},
+ "rhsCurated": {}
+}

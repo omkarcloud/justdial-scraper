@@ -1,0 +1,3965 @@
+{
+ "results": {
+  "columns": [
+   "docid",
+   "name",
+   "distance",
+   "NewAddress",
+   "lat",
+   "lon",
+   "paidStatus",
+   "compRating",
+   "verified",
+   "rateThis",
+   "mappointer",
+   "opstring",
+   "area",
+   "opennow",
+   "type",
+   "VNumber",
+   "totalReviews",
+   "video",
+   "city",
+   "thumbnail",
+   "totJdReviews",
+   "favflag",
+   "attr_data",
+   "an",
+   "shopfront",
+   "ishotel",
+   "vertical",
+   "vertical_name",
+   "discount_Offer",
+   "vertical_data",
+   "position_flag",
+   "Jadoopic",
+   "sharedt_url",
+   "cancall",
+   "wpnumber",
+   "action_node",
+   "idxno",
+   "linefive",
+   "newadd",
+   "newaddcolor",
+   "dimages",
+   "viewchange",
+   "photocnt",
+   "pdg",
+   "nameln",
+   "NewAddressln",
+   "address_flg",
+   "ask_mobile",
+   "hcatarr",
+   "callalocation",
+   "compRatingln",
+   "catalog_flag",
+   "jdpay",
+   "ratecard",
+   "ds",
+   "inapp",
+   "bd_params",
+   "jtkr",
+   "useshare",
+   "weburl",
+   "rev",
+   "nwtaglin",
+   "tag",
+   "starhotel",
+   "revarr",
+   "offertag",
+   "ratingtag",
+   "resp_rate",
+   "pincode",
+   "guarantee",
+   "event_data",
+   "msg_pop",
+   "scd",
+   "loccity",
+   "docatt",
+   "catarray",
+   "arealn",
+   "service_catalog",
+   "is_lawyer",
+   "price_tagline",
+   "rateColor",
+   "seo_info",
+   "logo",
+   "ad_listing",
+   "card_info",
+   "dimages_tag",
+   "apiprm",
+   "extra_field"
+  ],
+  "data": [
+   [
+    "022PXX22.XX22.190508181932.F9A2",
+    "Mao Family Restaurant",
+    "",
+    "Near Mahim Dargah Mahim",
+    "19.0421132",
+    "72.8397733",
+    "1",
+    "3.8",
+    "1",
+    1,
+    "1",
+    {
+     "status": "<span class=\"font14 fw500 color339\">Open 24 Hrs</span>",
+     "timing": "<span class=\"font14 fw500 color339\">Open 24 Hrs</span>"
+    },
+    "Haji Ismail Building Shop Mahim",
+    1,
+    "Restaurants, North Indian Restaurants",
+    "09972263960",
+    "1,554 Ratings",
+    "",
+    "Mumbai",
+    "https://content.jdmagicbox.com/v2/comp/mumbai/a2/022pxx22.xx22.190508181932.f9a2/catalogue/mao-family-restaurant-mahim-mumbai-restaurants-wazgbjmnmx-250.jpg",
+    "1,554",
+    0,
+    {
+     "node1": "",
+     "node2": "<span class=\"font14 fw400 color111\">₹ 650 Price for two</span>",
+     "node3": [
+      "",
+      1,
+      1
+     ],
+     "node1color": []
+    },
+    {},
+    0,
+    0,
+    [],
+    "restaurant",
+    "",
+    [
+     {
+      "button_text": "Order online",
+      "button_url": [
+       {
+        "url": "https://maofamilyrestaurant.werafoods.com/",
+        "text": "Mao Family Restaurant",
+        "img": "https://akam.cdn.jdmagicbox.com/images/icons/mao-family-restaurant-logo1.png",
+        "dsc": "GET 15% Flat Discount and Free Home Delivery"
+       },
+       {
+        "url": "https://www.zomato.com/mumbai/mao-family-restaurant-mahim/order",
+        "text": "Zomato",
+        "img": "https://akam.cdn.jdmagicbox.com/images/icons/zomato.png",
+        "dsc": ""
+       },
+       {
+        "url": "https://www.swiggy.com/restaurants/mao-restaurant-mahim-dadar-mumbai-139387",
+        "text": "Swiggy",
+        "img": "https://akam.cdn.jdmagicbox.com/images/icons/swiggy.png",
+        "dsc": ""
+       }
+      ],
+      "button_color": [],
+      "flag": "1",
+      "hide_header": "0",
+      "skipVerif": "0",
+      "tp": "1",
+      "li": "Order online"
+     },
+     {
+      "button_text": "Menu",
+      "button_url": [
+       {
+        "url": "https://www.justdial.com/Mumbai/Mao-Family-Restaurant-Near-Mahim-Dargah-Mahim/022PXX22-XX22-190508181932-F9A2_BZDET/menu?source=77&cdata=&native=&version=&hide_header=1&sid=",
+        "text": "",
+        "img": "",
+        "dsc": ""
+       }
+      ],
+      "button_color": [],
+      "flag": "1",
+      "hide_header": "0",
+      "skipVerif": "0",
+      "tp": "0",
+      "li": "Menu"
+     }
+    ],
+    "",
+    "https://content2.jdmagicbox.com/checkin/mumbai/022PXX22.XX22.190508181932.F9A2.jpg",
+    "https://www.justdial.com/DT-43QY26I2UME",
+    1,
+    [],
+    "",
+    11,
+    "",
+    "",
+    "",
+    [
+     "https://content.jdmagicbox.com/v2/comp/mumbai/a2/022pxx22.xx22.190508181932.f9a2/catalogue/mao-family-restaurant-mahim-mumbai-restaurants-wazgbjmnmx.jpg",
+     "https://content.jdmagicbox.com/v2/comp/mumbai/a2/022pxx22.xx22.190508181932.f9a2/catalogue/mao-family-restaurant-mahim-mumbai-restaurants-0jrtgtqhl7.jpg",
+     "https://content.jdmagicbox.com/v2/comp/mumbai/a2/022pxx22.xx22.190508181932.f9a2/catalogue/mao-family-restaurant-mahim-mumbai-restaurants-tnh6vhhi2z.jpg",
+     "https://content.jdmagicbox.com/v2/comp/mumbai/a2/022pxx22.xx22.190508181932.f9a2/catalogue/mao-family-restaurant-mahim-mumbai-restaurants-1pwcwglspg.jpg",
+     "https://content.jdmagicbox.com/v2/comp/mumbai/a2/022pxx22.xx22.190508181932.f9a2/catalogue/mao-family-restaurant-mahim-mumbai-home-delivery-restaurants-gzy18c4xpp.jpg"
+    ],
+    [
+     0,
+     0,
+     0
+    ],
+    "18",
+    "",
+    "Mao Family Restaurant",
+    "Near Mahim Dargah Mahim",
+    1,
+    0,
+    {
+     "id": 11399978,
+     "nid": 11399978,
+     "name": "Moderate Restaurants Rs 500 To Rs 1000",
+     "lin": ""
+    },
+    "JnqNX9JkIkhRdzNJp3aBxtPCKyZJg5MkgEG3cLQohkQ%3D",
+    "3.8",
+    0,
+    {
+     "img": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/newprot/ctlgjdpay2x.png",
+     "redirection_url": ""
+    },
+    {},
+    "0",
+    1,
+    {
+     "did": "022PXX22.XX22.190508181932.F9A2",
+     "cmp_params": {
+      "bcity": "Mumbai",
+      "barea": "Mahim",
+      "bpncdbd": "400016",
+      "paidstatus": "1",
+      "misc": "8589946884",
+      "ask_mobile": 0
+     },
+     "bilang": ""
+    },
+    "2AMz4v0w2TGXla8sUhMbwoMshF4IL%2B7Ef5qxlHdxTL4%3D",
+    0,
+    "Mumbai/Mao-Family-Restaurant-Near-Mahim-Dargah-Mahim/022PXX22-XX22-190508181932-F9A2_BZDET",
+    "",
+    [
+     "Delivery",
+     "Dine-in",
+     "Chinese"
+    ],
+    [],
+    "",
+    [],
+    {},
+    [],
+    {
+     "lead": "473",
+     "lead_resp": "347",
+     "avg_resp_time_sec": "",
+     "tformat": "",
+     "color": "#339D3A",
+     "lead_txt": "473 people recently enquired",
+     "resp_txt": ""
+    },
+    "400016",
+    "",
+    {
+     "cname": "Mao Family Restaurant",
+     "docid": "022PXX22.XX22.190508181932.F9A2",
+     "rating": "3.8",
+     "rating_cnt": "1554",
+     "city": "Mumbai",
+     "dcity": "Mumbai",
+     "area": "Mahim",
+     "pin": "400016",
+     "ds": "0",
+     "pdg": "",
+     "paid": "1",
+     "jd_verified": "1",
+     "guarantee": "",
+     "trust": "1",
+     "verified": "1",
+     "pos": 11,
+     "tag": "",
+     "cta_name": "Order online TP",
+     "call_cta": "3",
+     "deals": "",
+     "jd_cash": "",
+     "isb2b": "0",
+     "miscellaneous_flag": "18875656",
+     "distance": "",
+     "core_distance": 8215.99,
+     "search_type": "P",
+     "services": 0,
+     "jdm_eligible": 0,
+     "b2b_flag": "0",
+     "opt": null,
+     "price_count": 0,
+     "catalog_flag": "1024",
+     "state": null,
+     "abbr": "EATR,REST,FOS,CSN",
+     "ntp": 0,
+     "high_call": 0
+    },
+    1,
+    "43QY26I2UME",
+    "Mumbai",
+    [
+     {
+      "h": "1",
+      "d": "<span class=\"font14 fw500 color339\">Open 24 Hrs</span>"
+     },
+     {
+      "h": 1,
+      "d": "<span class=\"font14 fw400 color111\">₹ 650 Price for two</span>"
+     }
+    ],
+    [],
+    "Mahim",
+    [],
+    0,
+    [],
+    "#108723",
+    [],
+    "",
+    0,
+    [
+     {
+      "t": "rating",
+      "d": [
+       {
+        "tag_key": "rating",
+        "tagText": "3.8",
+        "desc": "",
+        "icon": "",
+        "link": "",
+        "html": 0,
+        "bg": "#108723"
+       },
+       {
+        "tag_key": "reviews",
+        "tagText": "1,554 Rating",
+        "desc": "",
+        "icon": "",
+        "link": "",
+        "html": 0
+       },
+       {
+        "tag_key": "trust",
+        "tagText": "",
+        "desc": "",
+        "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/trust_2x.gif",
+        "link": "",
+        "html": 0
+       },
+       {
+        "tag_key": "verified",
+        "tagText": "",
+        "desc": "",
+        "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/verified_2x.gif",
+        "link": "",
+        "html": 0
+       }
+      ]
+     },
+     {
+      "t": "address",
+      "d": [
+       {
+        "tag_key": "address",
+        "tagText": "Haji Ismail Building Shop Mahim, Mumbai",
+        "desc": "",
+        "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/results_locat_icon.svg",
+        "link": "",
+        "html": 0
+       }
+      ]
+     },
+     {
+      "t": "oth",
+      "d": [
+       {
+        "tag_key": "timings",
+        "tagText": "<span class=\"font14 fw500 color339 ml-5\">Open 24 Hrs</span>",
+        "desc": "",
+        "icon": "",
+        "link": "",
+        "html": 1
+       },
+       {
+        "tag_key": "price",
+        "tagText": "",
+        "desc": "<div role=\"presentation\" tabindex=\"-1\" class=\"font15 fw400 color111 rupicon\"><span class=\"font14 fw400 color111\"><span class=\"dtcmrupicon\">₹</span> 650 Price for two</span></div>",
+        "icon": "",
+        "link": "",
+        "html": 1
+       }
+      ]
+     },
+     {
+      "t": "ctlg",
+      "d": [
+       {
+        "tag_key": "ctlg",
+        "ctlg_type": 1,
+        "display_type": 4,
+        "tagText": "",
+        "desc": "",
+        "icon": "",
+        "link": "",
+        "html": 0,
+        "data": []
+       }
+      ]
+     }
+    ],
+    [
+     "wazgbjmnmx",
+     "0jrtgtqhl7",
+     "tnh6vhhi2z",
+     "1pwcwglspg",
+     "gzy18c4xpp"
+    ],
+    "",
+    []
+   ],
+   [
+    "022PXX22.XX22.260513151205.N6Q9",
+    "UDUPI 2 MUMBAI BKC",
+    "",
+    " Bandra East",
+    "19.0655332",
+    "72.8613923",
+    "1",
+    "4.1",
+    "1",
+    1,
+    "1",
+    {
+     "status": "<span class=\"font14 fw500 els color339\">Open</span> <span class=\"font14 fw500 color111\"> until 1:00 am</span>",
+     "timing": "7:00 am - 1:00 am"
+    },
+    "Urban Plaza GN Block Bkc Plot No C_ 5 Bandra East",
+    1,
+    "Restaurants, South Indian Restaurants",
+    "07411652460",
+    "410 Ratings",
+    "",
+    "mumbai",
+    "https://content.jdmagicbox.com/v2/comp/mumbai/q9/022pxx22.xx22.260513151205.n6q9/catalogue/udupi-2-mumbai-bkc-bandra-east-mumbai-south-indian-restaurants-81z7s1dnh7-250.jpg",
+    "410",
+    0,
+    {
+     "node1": "",
+     "node2": "",
+     "node3": [
+      "<span class=\"font14 fw400 color111\">21 Years in Business</span>",
+      0,
+      0
+     ],
+     "node1color": []
+    },
+    {},
+    0,
+    0,
+    [],
+    "restaurant",
+    "",
+    [],
+    "",
+    "https://content2.jdmagicbox.com/checkin/mumbai/022PXX22.XX22.260513151205.N6Q9.jpg",
+    "https://www.justdial.com/DT-43P5PE1QHW5",
+    1,
+    [],
+    "",
+    12,
+    "",
+    "",
+    "",
+    [
+     "https://content.jdmagicbox.com/v2/comp/mumbai/q9/022pxx22.xx22.260513151205.n6q9/catalogue/udupi-2-mumbai-bkc-bandra-east-mumbai-south-indian-restaurants-81z7s1dnh7.jpg",
+     "https://content.jdmagicbox.com/v2/comp/mumbai/q9/022pxx22.xx22.260513151205.n6q9/catalogue/udupi-2-mumbai-bkc-bandra-east-mumbai-south-indian-restaurants-ca19dfmd4b.jpg",
+     "https://content.jdmagicbox.com/v2/comp/mumbai/q9/022pxx22.xx22.260513151205.n6q9/catalogue/udupi-2-mumbai-bkc-bandra-east-mumbai-south-indian-restaurants-ohevmr3wez.jpg",
+     "https://content.jdmagicbox.com/v2/comp/mumbai/q9/022pxx22.xx22.260513151205.n6q9/catalogue/udupi-2-mumbai-bkc-bandra-east-mumbai-south-indian-restaurants-ss0kul5fxc.jpg",
+     "https://content.jdmagicbox.com/v2/comp/mumbai/q9/022pxx22.xx22.260513151205.n6q9/catalogue/e7u6ge6igvax85c-z538o7skja.jpg"
+    ],
+    [
+     0,
+     0,
+     0
+    ],
+    "5",
+    "",
+    "UDUPI 2 MUMBAI BKC",
+    " Bandra East",
+    1,
+    0,
+    {
+     "id": 10445766,
+     "nid": 10445766,
+     "name": "South Indian Restaurants",
+     "lin": ""
+    },
+    "LGLuodp87s0qqQrnHGuOtgwmYGMbg%2FWJieOcC4hHfp8%3D",
+    "4.1",
+    0,
+    {
+     "img": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/newprot/ctlgjdpay2x.png",
+     "redirection_url": ""
+    },
+    {},
+    "0",
+    1,
+    {
+     "did": "022PXX22.XX22.260513151205.N6Q9",
+     "cmp_params": {
+      "bcity": "Mumbai",
+      "barea": "Bandra East",
+      "bpncdbd": "400051",
+      "paidstatus": "1",
+      "misc": "8589934592",
+      "ask_mobile": 0
+     },
+     "bilang": ""
+    },
+    "w9TUrs1PNch%2Brp70ze%2FdtdyrDpjxZy9oTRCS2yecpKQ%3D",
+    0,
+    "Mumbai/UDUPI-2-MUMBAI-BKC-Bandra-East/022PXX22-XX22-260513151205-N6Q9_BZDET",
+    "",
+    [
+     "South Indian",
+     "North Indian",
+     "Takeaway Available"
+    ],
+    [
+     {
+      "tag_name": "Trending",
+      "bg_colour": "#5271dd",
+      "txt_colour": "#FFFFFF",
+      "tag_image": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/trending.svg"
+     }
+    ],
+    "",
+    [],
+    {},
+    [],
+    {
+     "lead": "105",
+     "lead_resp": "46",
+     "avg_resp_time_sec": 5,
+     "tformat": "Mins",
+     "color": "#339D3A",
+     "lead_txt": "105 people recently enquired",
+     "resp_txt": "Responds in 5 Mins"
+    },
+    "400051",
+    "",
+    {
+     "cname": "UDUPI 2 MUMBAI BKC",
+     "docid": "022PXX22.XX22.260513151205.N6Q9",
+     "rating": "4.1",
+     "rating_cnt": "410",
+     "city": "Mumbai",
+     "dcity": "mumbai",
+     "area": "Bandra East",
+     "pin": "400051",
+     "ds": "0",
+     "pdg": "",
+     "paid": "1",
+     "jd_verified": "1",
+     "guarantee": "",
+     "trust": "0",
+     "verified": "0",
+     "pos": 12,
+     "tag": "Trending",
+     "cta_name": "",
+     "call_cta": "3",
+     "deals": "",
+     "jd_cash": "",
+     "isb2b": "0",
+     "miscellaneous_flag": "18875656",
+     "distance": "",
+     "core_distance": 8218.51,
+     "search_type": "P",
+     "services": 0,
+     "jdm_eligible": 0,
+     "b2b_flag": "0",
+     "opt": null,
+     "price_count": 0,
+     "catalog_flag": "1024",
+     "state": null,
+     "abbr": "EATR,REST,FOS,CSN",
+     "ntp": 0,
+     "high_call": 0
+    },
+    1,
+    "43P5PE1QHW5",
+    "Mumbai",
+    [
+     {
+      "h": "1",
+      "d": "<span class=\"font14 fw500 els color339\">Open</span> <span class=\"font14 fw500 color111\"> until 1:00 am</span>"
+     },
+     {
+      "h": 1,
+      "d": 0
+     }
+    ],
+    [],
+    "Bandra East",
+    [],
+    0,
+    [],
+    "#007A0C",
+    [],
+    "",
+    0,
+    [
+     {
+      "t": "rating",
+      "d": [
+       {
+        "tag_key": "rating",
+        "tagText": "4.1",
+        "desc": "",
+        "icon": "",
+        "link": "",
+        "html": 0,
+        "bg": "#007A0C"
+       },
+       {
+        "tag_key": "reviews",
+        "tagText": "410 Ratings",
+        "desc": "",
+        "icon": "",
+        "link": "",
+        "html": 0
+       },
+       {
+        "tag_key": "tag",
+        "tagText": "",
+        "desc": "",
+        "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/trending.svg",
+        "link": "",
+        "html": 0
+       }
+      ]
+     },
+     {
+      "t": "address",
+      "d": [
+       {
+        "tag_key": "address",
+        "tagText": "Urban Plaza GN Block Bkc Plot No C_ 5 Bandra East, Mumbai",
+        "desc": "",
+        "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/results_locat_icon.svg",
+        "link": "",
+        "html": 0
+       }
+      ]
+     },
+     {
+      "t": "oth",
+      "d": [
+       {
+        "tag_key": "timings",
+        "tagText": "<span class=\"font14 fw500 els color339 ml-5\">Open</span> <span class=\"font14 fw500 color111\"> until 1:00 am</span>",
+        "desc": "",
+        "icon": "",
+        "link": "",
+        "html": 1
+       }
+      ]
+     }
+    ],
+    [
+     "81z7s1dnh7",
+     "ca19dfmd4b",
+     "ohevmr3wez",
+     "ss0kul5fxc",
+     "z538o7skja"
+    ],
+    "",
+    []
+   ],
+   [
+    "022PXX22.XX22.100721173720.G5E3",
+    "7 Spice Restaurant",
+    "",
+    "Near Piramal Chambers Lal Baug",
+    "18.995462",
+    "72.8391925",
+    "1",
+    "3.9",
+    "1",
+    1,
+    "1",
+    {
+     "status": "<span class=\"font14 fw500 cs1 color339\">Open</span> <span class=\"font14 fw500 color111\"> until 11:00 pm</span>",
+     "timing": "11:30 am - 3:00 pm , 6:30 pm - 11:00 pm"
+    },
+    "Dr S S Rao Road Lal Baug",
+    1,
+    "Restaurants, Chinese Restaurants",
+    "09845200305",
+    "1,302 Ratings",
+    "",
+    "Mumbai",
+    "https://content.jdmagicbox.com/v2/comp/mumbai/e3/022pxx22.xx22.100721173720.g5e3/catalogue/7-spice-restaurant-lal-baug-mumbai-restaurants-46u7hs8-250.jpg",
+    "1,302",
+    0,
+    {
+     "node1": "",
+     "node2": "<span class=\"font14 fw400 color111\">₹ 1050 Price for two</span>",
+     "node3": [
+      "<span class=\"font14 fw400 color111\">16 Years in Business</span>",
+      1,
+      1
+     ],
+     "node1color": []
+    },
+    {},
+    0,
+    0,
+    [],
+    "restaurant",
+    "",
+    [
+     {
+      "button_text": "Order online",
+      "button_url": [
+       {
+        "url": "https://www.swiggy.com/restaurants/7-spice-pennisula-centre-parel-mumbai-26033",
+        "text": "Swiggy",
+        "img": "https://akam.cdn.jdmagicbox.com/images/icons/swiggy.png",
+        "dsc": ""
+       },
+       {
+        "url": "https://www.zomato.com/mumbai/7-spice-parel/order",
+        "text": "Zomato",
+        "img": "https://akam.cdn.jdmagicbox.com/images/icons/zomato.png",
+        "dsc": ""
+       }
+      ],
+      "button_color": [],
+      "flag": "1",
+      "hide_header": "0",
+      "skipVerif": "0",
+      "tp": "1",
+      "li": "Order online"
+     },
+     {
+      "button_text": "Menu",
+      "button_url": [
+       {
+        "url": "https://www.justdial.com/Mumbai/7-Spice-Restaurant-Near-Piramal-Chambers-Lal-Baug/022PXX22-XX22-100721173720-G5E3_BZDET/menu?source=77&cdata=&native=&version=&hide_header=1&sid=",
+        "text": "",
+        "img": "",
+        "dsc": ""
+       }
+      ],
+      "button_color": [],
+      "flag": "1",
+      "hide_header": "0",
+      "skipVerif": "0",
+      "tp": "0",
+      "li": "Menu"
+     }
+    ],
+    "",
+    "https://content2.jdmagicbox.com/checkin/mumbai/022PXX22.XX22.100721173720.G5E3.jpg",
+    "https://www.justdial.com/DT-43EH5UHF",
+    1,
+    [],
+    "",
+    13,
+    "",
+    "",
+    "",
+    [
+     "https://content.jdmagicbox.com/v2/comp/mumbai/e3/022pxx22.xx22.100721173720.g5e3/catalogue/7-spice-restaurant-lal-baug-mumbai-restaurants-46u7hs8.jpg",
+     "https://content.jdmagicbox.com/v2/comp/mumbai/e3/022pxx22.xx22.100721173720.g5e3/catalogue/7-spice-restaurant-lal-baug-mumbai-restaurants-ucgner.jpg",
+     "https://content.jdmagicbox.com/v2/comp/mumbai/e3/022pxx22.xx22.100721173720.g5e3/catalogue/7-spice-restaurant-lal-baug-mumbai-restaurants-3kpmrfu.jpg",
+     "https://content.jdmagicbox.com/v2/comp/mumbai/e3/022pxx22.xx22.100721173720.g5e3/catalogue/7-spice-restaurant-lal-baug-mumbai-restaurants-3a9yu9x.jpg",
+     "https://content.jdmagicbox.com/v2/comp/mumbai/e3/022pxx22.xx22.100721173720.g5e3/catalogue/7-spice-restaurant-lal-baug-mumbai-restaurants-438gsyd.jpg"
+    ],
+    [
+     0,
+     0,
+     0
+    ],
+    "306",
+    "",
+    "7 Spice Restaurant",
+    "Near Piramal Chambers Lal Baug",
+    1,
+    0,
+    {
+     "id": 10097618,
+     "nid": 10097618,
+     "name": "Chinese Restaurants",
+     "lin": ""
+    },
+    "pNSdDPAHxy%2BRyR2Nb1XlGbjmbtJLjsgBnwr31HpVe8s%3D",
+    "3.9",
+    0,
+    {
+     "img": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/newprot/ctlgjdpay2x.png",
+     "redirection_url": ""
+    },
+    {},
+    "0",
+    1,
+    {
+     "did": "022PXX22.XX22.100721173720.G5E3",
+     "cmp_params": {
+      "bcity": "Mumbai",
+      "barea": "Lal Baug",
+      "bpncdbd": "400012",
+      "paidstatus": "1",
+      "misc": "12288",
+      "ask_mobile": 0
+     },
+     "bilang": ""
+    },
+    "u1mufhSuGalsdsp%2FWSpBCgSTiEz7tIbGbPaSa4nU%2Fr0%3D",
+    0,
+    "Mumbai/7-Spice-Restaurant-Near-Piramal-Chambers-Lal-Baug/022PXX22-XX22-100721173720-G5E3_BZDET",
+    "",
+    [
+     "Delivery",
+     "Dine-in",
+     "Chinese"
+    ],
+    [],
+    "",
+    [],
+    {},
+    [],
+    {
+     "lead": "59",
+     "lead_resp": "13",
+     "avg_resp_time_sec": "",
+     "tformat": "",
+     "color": "#339D3A",
+     "lead_txt": "59 people recently enquired",
+     "resp_txt": ""
+    },
+    "400012",
+    "",
+    {
+     "cname": "7 Spice Restaurant",
+     "docid": "022PXX22.XX22.100721173720.G5E3",
+     "rating": "3.9",
+     "rating_cnt": "1302",
+     "city": "Mumbai",
+     "dcity": "Mumbai",
+     "area": "Lal Baug",
+     "pin": "400012",
+     "ds": "0",
+     "pdg": "",
+     "paid": "1",
+     "jd_verified": "1",
+     "guarantee": "",
+     "trust": "1",
+     "verified": "1",
+     "pos": 13,
+     "tag": "",
+     "cta_name": "Order online TP",
+     "call_cta": "3",
+     "deals": "",
+     "jd_cash": "",
+     "isb2b": "0",
+     "miscellaneous_flag": "18875656",
+     "distance": "",
+     "core_distance": 8215.4,
+     "search_type": "P",
+     "services": 0,
+     "jdm_eligible": 0,
+     "b2b_flag": "0",
+     "opt": null,
+     "price_count": 0,
+     "catalog_flag": "1024",
+     "state": null,
+     "abbr": "EATR,REST,FOS,CSN",
+     "ntp": 0,
+     "high_call": 0
+    },
+    1,
+    "43EH5UHF",
+    "Mumbai",
+    [
+     {
+      "h": "1",
+      "d": "<span class=\"font14 fw500 cs1 color339\">Open</span> <span class=\"font14 fw500 color111\"> until 11:00 pm</span>"
+     },
+     {
+      "h": 1,
+      "d": "<span class=\"font14 fw400 color111\">₹ 1050 Price for two</span>"
+     }
+    ],
+    [],
+    "Lal Baug",
+    [],
+    0,
+    [],
+    "#108723",
+    [],
+    "",
+    0,
+    [
+     {
+      "t": "rating",
+      "d": [
+       {
+        "tag_key": "rating",
+        "tagText": "3.9",
+        "desc": "",
+        "icon": "",
+        "link": "",
+        "html": 0,
+        "bg": "#108723"
+       },
+       {
+        "tag_key": "reviews",
+        "tagText": "1,302 Rating",
+        "desc": "",
+        "icon": "",
+        "link": "",
+        "html": 0
+       },
+       {
+        "tag_key": "trust",
+        "tagText": "",
+        "desc": "",
+        "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/trust_2x.gif",
+        "link": "",
+        "html": 0
+       },
+       {
+        "tag_key": "verified",
+        "tagText": "",
+        "desc": "",
+        "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/verified_2x.gif",
+        "link": "",
+        "html": 0
+       }
+      ]
+     },
+     {
+      "t": "address",
+      "d": [
+       {
+        "tag_key": "address",
+        "tagText": "Dr S S Rao Road Lal Baug, Mumbai",
+        "desc": "",
+        "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/results_locat_icon.svg",
+        "link": "",
+        "html": 0
+       }
+      ]
+     },
+     {
+      "t": "oth",
+      "d": [
+       {
+        "tag_key": "timings",
+        "tagText": "<span class=\"font14 fw500 cs1 color339 ml-5\">Open</span> <span class=\"font14 fw500 color111\"> until 11:00 pm</span>",
+        "desc": "",
+        "icon": "",
+        "link": "",
+        "html": 1
+       },
+       {
+        "tag_key": "price",
+        "tagText": "",
+        "desc": "<div role=\"presentation\" tabindex=\"-1\" class=\"font15 fw400 color111 rupicon\"><span class=\"font14 fw400 color111\"><span class=\"dtcmrupicon\">₹</span> 1050 Price for two</span></div>",
+        "icon": "",
+        "link": "",
+        "html": 1
+       }
+      ]
+     },
+     {
+      "t": "ctlg",
+      "d": [
+       {
+        "tag_key": "ctlg",
+        "ctlg_type": 1,
+        "display_type": 4,
+        "tagText": "",
+        "desc": "",
+        "icon": "",
+        "link": "",
+        "html": 0,
+        "data": []
+       }
+      ]
+     }
+    ],
+    [
+     "46u7hs8",
+     "ucgner",
+     "3kpmrfu",
+     "3a9yu9x",
+     "438gsyd"
+    ],
+    "",
+    []
+   ],
+   [
+    "022PXX22.XX22.210924125756.Q4W6",
+    "Pinewood Family Garden Restaurant",
+    "",
+    "Near Palegaon Dmart Near Nevali Naka Ambernath MIDC",
+    "19.181888888889",
+    "73.155558333333",
+    "1",
+    "4",
+    "1",
+    1,
+    "1",
+    {
+     "status": "<span class=\"font14 fw400 els color339\">Opens in </span><span class=\"font14 fw400 color111\">6 mins</span>",
+     "timing": "12:00 pm - 12:30 am"
+    },
+    "Ambernath Ambernath MIDC",
+    0,
+    "Restaurants, Chinese Restaurants",
+    "09606421984",
+    "2,082 Ratings",
+    "1",
+    "mumbai",
+    "https://content.jdmagicbox.com/v2/comp/thane/w6/022pxx22.xx22.210924125756.q4w6/catalogue/pinewood-family-garden-restaurant-ambernath-thane-north-indian-restaurants-a8rs6uyktp-250.jpg",
+    "2,082",
+    0,
+    {
+     "node1": "",
+     "node2": "",
+     "node3": [
+      "<span class=\"font14 fw400 color111\">5 Years in Business</span>",
+      0,
+      0
+     ],
+     "node1color": []
+    },
+    {},
+    0,
+    0,
+    [],
+    "restaurant",
+    "",
+    [],
+    "",
+    "https://content2.jdmagicbox.com/checkin/mumbai/022PXX22.XX22.210924125756.Q4W6.jpg",
+    "https://www.justdial.com/DT-43QBCGNVXXY",
+    1,
+    [],
+    "",
+    14,
+    "",
+    "",
+    "",
+    [
+     "https://content.jdmagicbox.com/v2/comp/thane/w6/022pxx22.xx22.210924125756.q4w6/catalogue/pinewood-family-garden-restaurant-ambernath-thane-north-indian-restaurants-a8rs6uyktp.jpg",
+     "https://content.jdmagicbox.com/v2/comp/mumbai/w6/022pxx22.xx22.210924125756.q4w6/catalogue/pinewood-family-garden-restaurant-ambernath-midc-thane-tandoori-restaurants-70jb5d2pwi.jpg",
+     "https://content.jdmagicbox.com/v2/comp/thane/w6/022pxx22.xx22.210924125756.q4w6/catalogue/pinewood-family-garden-restaurant-ambernath-thane-north-indian-restaurants-ruwna4jit2.jpg",
+     "https://content.jdmagicbox.com/v2/comp/thane/w6/022pxx22.xx22.210924125756.q4w6/catalogue/pinewood-family-garden-restaurant-ambernath-thane-north-indian-restaurants-dzdxrmitv3.jpg",
+     "https://content.jdmagicbox.com/v2/comp/mumbai/w6/022pxx22.xx22.210924125756.q4w6/catalogue/pinewood-family-garden-restaurant-ambernath-midc-thane-tandoori-restaurants-9p8d774w9r.jpg"
+    ],
+    [
+     0,
+     0,
+     0
+    ],
+    "48",
+    "",
+    "Pinewood Family Garden Restaurant",
+    "Near Palegaon Dmart Near Nevali Naka Ambernath MIDC",
+    1,
+    0,
+    {
+     "id": 10470790,
+     "nid": 10470790,
+     "name": "Tandoori Restaurants",
+     "lin": ""
+    },
+    "omizO%2Bc91UhDDCelo6h%2BzHp%2Bx7wfHICuZjenvd6IWFU%3D",
+    "4",
+    0,
+    {
+     "img": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/newprot/ctlgjdpay2x.png",
+     "redirection_url": ""
+    },
+    {},
+    "0",
+    1,
+    {
+     "did": "022PXX22.XX22.210924125756.Q4W6",
+     "cmp_params": {
+      "bcity": "Thane",
+      "barea": "Ambernath MIDC",
+      "bpncdbd": "421506",
+      "paidstatus": "1",
+      "misc": "8589934596",
+      "ask_mobile": 0
+     },
+     "bilang": ""
+    },
+    "M0X0hun3EEDlUwgF1QjaMe79dSb8agzar7XCG3C6Gng%3D",
+    0,
+    "Thane/Pinewood-Family-Garden-Restaurant-Near-Palegaon-Dmart-Near-Nevali-Naka-Ambernath-Midc/022PXX22-XX22-210924125756-Q4W6_BZDET",
+    "",
+    [
+     "Parking Available",
+     "Rooftop Seating",
+     "Live Music"
+    ],
+    [
+     {
+      "tag_name": "Top rated",
+      "bg_colour": "#5271dd",
+      "txt_colour": "#FFFFFF",
+      "tag_image": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/toprated.svg"
+     }
+    ],
+    "",
+    [],
+    {},
+    [
+     {
+      "lnKey": "",
+      "tagText": "",
+      "desc": "Parking Available",
+      "icon": "https://akam.cdn.jdmagicbox.com/images/icons/iphone/new/icd-hi-tg-parking-available.png",
+      "tagTextColor": "#111111"
+     }
+    ],
+    {
+     "lead": "102",
+     "lead_resp": "0",
+     "avg_resp_time_sec": ""
+    },
+    "421506",
+    "",
+    {
+     "cname": "Pinewood Family Garden Restaurant",
+     "docid": "022PXX22.XX22.210924125756.Q4W6",
+     "rating": "4",
+     "rating_cnt": "2082",
+     "city": "Thane",
+     "dcity": "mumbai",
+     "area": "Ambernath MIDC",
+     "pin": "421506",
+     "ds": "0",
+     "pdg": "",
+     "paid": "1",
+     "jd_verified": "1",
+     "guarantee": "",
+     "trust": "0",
+     "verified": "0",
+     "pos": 14,
+     "tag": "Top rated",
+     "cta_name": "",
+     "call_cta": "3",
+     "deals": "",
+     "jd_cash": "",
+     "isb2b": "0",
+     "miscellaneous_flag": "18875656",
+     "distance": "",
+     "core_distance": 8250.59,
+     "search_type": "P",
+     "services": 0,
+     "jdm_eligible": 0,
+     "b2b_flag": "0",
+     "opt": null,
+     "price_count": 0,
+     "catalog_flag": "1024",
+     "state": null,
+     "abbr": "EATR,REST,FOS,CSN",
+     "ntp": 0,
+     "high_call": 0
+    },
+    1,
+    "43QBCGNVXXY",
+    "Thane",
+    [
+     {
+      "h": "1",
+      "d": "<span class=\"font14 fw400 els color339\">Opens in </span><span class=\"font14 fw400 color111\">6 mins</span>"
+     },
+     {
+      "h": 1,
+      "d": 0
+     }
+    ],
+    [],
+    "Ambernath MIDC",
+    [],
+    0,
+    [],
+    "#108723",
+    [],
+    "",
+    0,
+    [
+     {
+      "t": "rating",
+      "d": [
+       {
+        "tag_key": "rating",
+        "tagText": "4",
+        "desc": "",
+        "icon": "",
+        "link": "",
+        "html": 0,
+        "bg": "#108723"
+       },
+       {
+        "tag_key": "reviews",
+        "tagText": "2,082 Ratings",
+        "desc": "",
+        "icon": "",
+        "link": "",
+        "html": 0
+       },
+       {
+        "tag_key": "tag",
+        "tagText": "",
+        "desc": "",
+        "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/toprated.svg",
+        "link": "",
+        "html": 0
+       }
+      ]
+     },
+     {
+      "t": "address",
+      "d": [
+       {
+        "tag_key": "address",
+        "tagText": "Ambernath Ambernath MIDC, Thane",
+        "desc": "",
+        "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/results_locat_icon.svg",
+        "link": "",
+        "html": 0
+       }
+      ]
+     },
+     {
+      "t": "oth",
+      "d": [
+       {
+        "tag_key": "timings",
+        "tagText": "<span class=\"font14 fw400 els color339 ml-5\">Opens in </span><span class=\"font14 fw400 color111\">6 mins</span>",
+        "desc": "",
+        "icon": "",
+        "link": "",
+        "html": 1
+       },
+       {
+        "tag_key": "highlight",
+        "tagText": "",
+        "desc": "Parking Available",
+        "icon": "https://akam.cdn.jdmagicbox.com/images/icons/iphone/new/icd-hi-tg-parking-available.png",
+        "link": "",
+        "html": 0
+       }
+      ]
+     }
+    ],
+    [
+     "a8rs6uyktp",
+     "70jb5d2pwi",
+     "ruwna4jit2",
+     "dzdxrmitv3",
+     "9p8d774w9r"
+    ],
+    "",
+    []
+   ],
+   [
+    "022PXX22.XX22.140610161826.M3A8",
+    "Hotel Yatrik Family Restaurant & Bar",
+    "",
+    "Near Vijay Sales Badlapur East",
+    "19.1668466",
+    "73.2348064",
+    "1",
+    "4.1",
+    "1",
+    1,
+    "1",
+    {
+     "status": "<span class=\"font14 fw500 els color339\">Open</span> <span class=\"font14 fw500 color111\"> until 12:30 am</span>",
+     "timing": "11:00 am - 12:30 am"
+    },
+    "Station Katrap Road Badlapur East",
+    1,
+    "Restaurants",
+    "07041651638",
+    "153 Ratings",
+    "",
+    "Mumbai",
+    "https://content.jdmagicbox.com/v2/comp/mumbai/a8/022pxx22.xx22.140610161826.m3a8/catalogue/hotel-yatrik-badlapur-ed-thane-hotels-q7vrztvy2q-250.jpg",
+    "153",
+    0,
+    {
+     "node1": "",
+     "node2": "",
+     "node3": [
+      "<span class=\"font14 fw400 color111\">28 Years in Business</span>",
+      0,
+      0
+     ],
+     "node1color": []
+    },
+    {},
+    0,
+    0,
+    [],
+    "restaurant",
+    "",
+    [],
+    "",
+    "https://content2.jdmagicbox.com/checkin/mumbai/022PXX22.XX22.140610161826.M3A8.jpg",
+    "https://www.justdial.com/DT-43IXTPLX",
+    1,
+    [],
+    "",
+    15,
+    "",
+    "",
+    "",
+    [
+     "https://content.jdmagicbox.com/v2/comp/mumbai/a8/022pxx22.xx22.140610161826.m3a8/catalogue/hotel-yatrik-badlapur-ed-thane-hotels-q7vrztvy2q.jpg",
+     "https://content.jdmagicbox.com/v2/comp/mumbai/a8/022pxx22.xx22.140610161826.m3a8/catalogue/hotel-yatrik-badlapur-thane-restaurants-xaf7kiw157.jpg",
+     "https://content.jdmagicbox.com/v2/comp/mumbai/a8/022pxx22.xx22.140610161826.m3a8/catalogue/hotel-yatrik-family-restaurant-and-bar-badlapur-east-thane-restaurants-dayctu60dp.jpg",
+     "https://content.jdmagicbox.com/v2/comp/mumbai/a8/022pxx22.xx22.140610161826.m3a8/catalogue/hotel-yatrik-family-restaurant-and-bar-badlapur-east-thane-restaurants-r8u0fiip4k.jpg",
+     "https://content.jdmagicbox.com/v2/comp/mumbai/a8/022pxx22.xx22.140610161826.m3a8/catalogue/hotel-yatrik-family-restaurant-and-bar-badlapur-east-thane-restaurants-jhnsl4c90k.jpg"
+    ],
+    [
+     0,
+     0,
+     0
+    ],
+    "36",
+    "",
+    "Hotel Yatrik Family Restaurant & Bar",
+    "Near Vijay Sales Badlapur East",
+    1,
+    0,
+    {
+     "id": 10408936,
+     "nid": 10408936,
+     "name": "Restaurants",
+     "lin": ""
+    },
+    "tfJbTArHpfBM9DNHXxHaRMfIcGpNVcpU1%2BPTITBrKTA%3D",
+    "4.1",
+    0,
+    {
+     "img": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/newprot/ctlgjdpay2x.png",
+     "redirection_url": ""
+    },
+    {},
+    "0",
+    1,
+    {
+     "did": "022PXX22.XX22.140610161826.M3A8",
+     "cmp_params": {
+      "bcity": "Thane",
+      "barea": "Badlapur East",
+      "bpncdbd": "421503",
+      "paidstatus": "1",
+      "misc": "8589934592",
+      "ask_mobile": 0
+     },
+     "bilang": ""
+    },
+    "8BFHyG7uy7vgkAeeT0eaFIljYeJ1G7bCkRRT%2FApJQuI%3D",
+    0,
+    "Thane/Hotel-Yatrik-Family-Restaurant-Bar-Near-Vijay-Sales-Badlapur-East/022PXX22-XX22-140610161826-M3A8_BZDET",
+    "",
+    [
+     "Parking Available"
+    ],
+    [
+     {
+      "tag_name": "Quick Response",
+      "bg_colour": "#5271dd",
+      "txt_colour": "#FFFFFF",
+      "tag_image": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/responsive.svg"
+     }
+    ],
+    "",
+    [],
+    {},
+    [
+     {
+      "lnKey": "",
+      "tagText": "",
+      "desc": "Parking Available",
+      "icon": "https://akam.cdn.jdmagicbox.com/images/icons/iphone/new/icd-hi-tg-parking-available.png",
+      "tagTextColor": "#111111"
+     }
+    ],
+    {
+     "lead": "56",
+     "lead_resp": "2",
+     "avg_resp_time_sec": "",
+     "tformat": "",
+     "color": "#339D3A",
+     "lead_txt": "56 people recently enquired",
+     "resp_txt": ""
+    },
+    "421503",
+    "",
+    {
+     "cname": "Hotel Yatrik Family Restaurant & Bar",
+     "docid": "022PXX22.XX22.140610161826.M3A8",
+     "rating": "4.1",
+     "rating_cnt": "153",
+     "city": "Thane",
+     "dcity": "Mumbai",
+     "area": "Badlapur East",
+     "pin": "421503",
+     "ds": "0",
+     "pdg": "",
+     "paid": "1",
+     "jd_verified": "1",
+     "guarantee": "",
+     "trust": "0",
+     "verified": "0",
+     "pos": 15,
+     "tag": "Quick Response",
+     "cta_name": "",
+     "call_cta": "3",
+     "deals": "",
+     "jd_cash": "",
+     "isb2b": "0",
+     "miscellaneous_flag": "18875656",
+     "distance": "",
+     "core_distance": 8258.71,
+     "search_type": "P",
+     "services": 0,
+     "jdm_eligible": 0,
+     "b2b_flag": "0",
+     "opt": null,
+     "price_count": 0,
+     "catalog_flag": "1024",
+     "state": null,
+     "abbr": "EATR,REST,FOS,CSN",
+     "ntp": 0,
+     "high_call": 1
+    },
+    1,
+    "43IXTPLX",
+    "Thane",
+    [
+     {
+      "h": "1",
+      "d": "<span class=\"font14 fw500 els color339\">Open</span> <span class=\"font14 fw500 color111\"> until 12:30 am</span>"
+     },
+     {
+      "h": 1,
+      "d": 0
+     }
+    ],
+    [],
+    "Badlapur East",
+    [],
+    0,
+    [],
+    "#007A0C",
+    [],
+    "",
+    0,
+    [
+     {
+      "t": "rating",
+      "d": [
+       {
+        "tag_key": "rating",
+        "tagText": "4.1",
+        "desc": "",
+        "icon": "",
+        "link": "",
+        "html": 0,
+        "bg": "#007A0C"
+       },
+       {
+        "tag_key": "reviews",
+        "tagText": "153 Ratings",
+        "desc": "",
+        "icon": "",
+        "link": "",
+        "html": 0
+       },
+       {
+        "tag_key": "tag",
+        "tagText": "",
+        "desc": "",
+        "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/responsive.svg",
+        "link": "",
+        "html": 0
+       }
+      ]
+     },
+     {
+      "t": "address",
+      "d": [
+       {
+        "tag_key": "address",
+        "tagText": "Station Katrap Road Badlapur East, Thane",
+        "desc": "",
+        "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/results_locat_icon.svg",
+        "link": "",
+        "html": 0
+       }
+      ]
+     },
+     {
+      "t": "oth",
+      "d": [
+       {
+        "tag_key": "highpk",
+        "tagText": "High call pick up rate",
+        "desc": "",
+        "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/icon/library2024/HighCallpickuprate.png",
+        "link": "",
+        "html": 0,
+        "li": "high_call"
+       },
+       {
+        "tag_key": "timings",
+        "tagText": "<span class=\"font14 fw500 els color339 ml-5\">Open</span> <span class=\"font14 fw500 color111\"> until 12:30 am</span>",
+        "desc": "",
+        "icon": "",
+        "link": "",
+        "html": 1
+       },
+       {
+        "tag_key": "highlight",
+        "tagText": "",
+        "desc": "Parking Available",
+        "icon": "https://akam.cdn.jdmagicbox.com/images/icons/iphone/new/icd-hi-tg-parking-available.png",
+        "link": "",
+        "html": 0
+       }
+      ]
+     }
+    ],
+    [
+     "q7vrztvy2q",
+     "xaf7kiw157",
+     "dayctu60dp",
+     "r8u0fiip4k",
+     "jhnsl4c90k"
+    ],
+    "",
+    []
+   ],
+   [
+    "022PXX22.XX22.241204131600.H4A2",
+    "Cafe Gulshan",
+    "",
+    "Near Oshiwara Bridge Jogeshwari West",
+    "19.1475162",
+    "72.8433038",
+    "1",
+    "4.2",
+    "1",
+    1,
+    "1",
+    {
+     "status": "<span class=\"font14 fw500 els color339\">Open</span> <span class=\"font14 fw500 color111\"> until 12:15 am</span>",
+     "timing": "8:00 am - 12:15 am"
+    },
+    "S V Road Jogeshwari West",
+    1,
+    "Restaurants, North Indian Restaurants",
+    "08904398577",
+    "2,496 Ratings",
+    "",
+    "mumbai",
+    "https://content.jdmagicbox.com/v2/comp/mumbai/a2/022pxx22.xx22.241204131600.h4a2/catalogue/cafe-gulshan-jogeshwari-west-mumbai-restaurants-wwclpw6pqc-250.jpg",
+    "2,496",
+    0,
+    {
+     "node1": "",
+     "node2": "",
+     "node3": [
+      "<span class=\"font14 fw400 color111\">43 Years in Business</span>",
+      0,
+      0
+     ],
+     "node1color": []
+    },
+    {},
+    0,
+    0,
+    [],
+    "restaurant",
+    "",
+    [],
+    "",
+    "https://content2.jdmagicbox.com/checkin/mumbai/022PXX22.XX22.241204131600.H4A2.jpg",
+    "https://www.justdial.com/DT-43NVINL2FIN",
+    1,
+    [],
+    "",
+    16,
+    "",
+    "",
+    "",
+    [
+     "https://content.jdmagicbox.com/v2/comp/mumbai/a2/022pxx22.xx22.241204131600.h4a2/catalogue/cafe-gulshan-jogeshwari-west-mumbai-restaurants-wwclpw6pqc.jpg",
+     "https://content.jdmagicbox.com/v2/comp/mumbai/p5/022pxx22.xx22.220729095804.q8p5/catalogue/cafe-gulshan-mumbai-mughlai-restaurants-brf06f7pzr.jpg",
+     "https://content.jdmagicbox.com/v2/comp/mumbai/p5/022pxx22.xx22.220729095804.q8p5/catalogue/cafe-gulshan-mumbai-mughlai-restaurants-5tkpmbi4m9.jpg",
+     "https://content.jdmagicbox.com/v2/comp/mumbai/p5/022pxx22.xx22.220729095804.q8p5/catalogue/cafe-gulshan-mumbai-mughlai-restaurants-14d3dhx48o.jpg",
+     "https://content.jdmagicbox.com/v2/comp/mumbai/p5/022pxx22.xx22.220729095804.q8p5/catalogue/cafe-gulshan-mumbai-mughlai-restaurants-5dzdxv9gst.jpg"
+    ],
+    [
+     0,
+     0,
+     0
+    ],
+    "32",
+    "",
+    "Cafe Gulshan",
+    "Near Oshiwara Bridge Jogeshwari West",
+    1,
+    0,
+    {
+     "id": 10047018,
+     "nid": 10047018,
+     "name": "Biryani Restaurants",
+     "lin": ""
+    },
+    "8wrRUgvGhZBQp3gsIkCGhrwVSA9ZUUVa5ZlbDWfcjPU%3D",
+    "4.2",
+    0,
+    {
+     "img": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/newprot/ctlgjdpay2x.png",
+     "redirection_url": ""
+    },
+    {},
+    "0",
+    1,
+    {
+     "did": "022PXX22.XX22.241204131600.H4A2",
+     "cmp_params": {
+      "bcity": "Mumbai",
+      "barea": "Jogeshwari West",
+      "bpncdbd": "400102",
+      "paidstatus": "1",
+      "misc": "0",
+      "ask_mobile": 0
+     },
+     "bilang": ""
+    },
+    "Vf2dMEG22bBdnHERrsIaafNHARnPaLt3K03LevamYQI%3D",
+    0,
+    "Mumbai/Cafe-Gulshan-Near-Oshiwara-Bridge-Jogeshwari-West/022PXX22-XX22-241204131600-H4A2_BZDET",
+    "",
+    [
+     "Punjabi",
+     "Multicuisine",
+     "Sea Food"
+    ],
+    [
+     {
+      "tag_name": "Quick Response",
+      "bg_colour": "#5271dd",
+      "txt_colour": "#FFFFFF",
+      "tag_image": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/responsive.svg"
+     }
+    ],
+    "",
+    [],
+    {},
+    [],
+    {
+     "lead": "240",
+     "lead_resp": "14",
+     "avg_resp_time_sec": "",
+     "tformat": "",
+     "color": "#339D3A",
+     "lead_txt": "240 people recently enquired",
+     "resp_txt": ""
+    },
+    "400102",
+    "",
+    {
+     "cname": "Cafe Gulshan",
+     "docid": "022PXX22.XX22.241204131600.H4A2",
+     "rating": "4.2",
+     "rating_cnt": "2496",
+     "city": "Mumbai",
+     "dcity": "mumbai",
+     "area": "Jogeshwari West",
+     "pin": "400102",
+     "ds": "0",
+     "pdg": "",
+     "paid": "1",
+     "jd_verified": "1",
+     "guarantee": "",
+     "trust": "0",
+     "verified": "0",
+     "pos": 16,
+     "tag": "Quick Response",
+     "cta_name": "",
+     "call_cta": "3",
+     "deals": "",
+     "jd_cash": "",
+     "isb2b": "0",
+     "miscellaneous_flag": "18875656",
+     "distance": "",
+     "core_distance": 8217.53,
+     "search_type": "P",
+     "services": 0,
+     "jdm_eligible": 0,
+     "b2b_flag": "0",
+     "opt": null,
+     "price_count": 0,
+     "catalog_flag": "1024",
+     "state": null,
+     "abbr": "EATR,REST,FOS,CSN",
+     "ntp": 0,
+     "high_call": 1
+    },
+    1,
+    "43NVINL2FIN",
+    "Mumbai",
+    [
+     {
+      "h": "1",
+      "d": "<span class=\"font14 fw500 els color339\">Open</span> <span class=\"font14 fw500 color111\"> until 12:15 am</span>"
+     },
+     {
+      "h": 1,
+      "d": 0
+     }
+    ],
+    [],
+    "Jogeshwari West",
+    [],
+    0,
+    [],
+    "#007A0C",
+    [],
+    "",
+    0,
+    [
+     {
+      "t": "rating",
+      "d": [
+       {
+        "tag_key": "rating",
+        "tagText": "4.2",
+        "desc": "",
+        "icon": "",
+        "link": "",
+        "html": 0,
+        "bg": "#007A0C"
+       },
+       {
+        "tag_key": "reviews",
+        "tagText": "2,496 Ratings",
+        "desc": "",
+        "icon": "",
+        "link": "",
+        "html": 0
+       },
+       {
+        "tag_key": "tag",
+        "tagText": "",
+        "desc": "",
+        "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/responsive.svg",
+        "link": "",
+        "html": 0
+       }
+      ]
+     },
+     {
+      "t": "address",
+      "d": [
+       {
+        "tag_key": "address",
+        "tagText": "S V Road Jogeshwari West, Mumbai",
+        "desc": "",
+        "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/results_locat_icon.svg",
+        "link": "",
+        "html": 0
+       }
+      ]
+     },
+     {
+      "t": "oth",
+      "d": [
+       {
+        "tag_key": "highpk",
+        "tagText": "High call pick up rate",
+        "desc": "",
+        "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/icon/library2024/HighCallpickuprate.png",
+        "link": "",
+        "html": 0,
+        "li": "high_call"
+       },
+       {
+        "tag_key": "timings",
+        "tagText": "<span class=\"font14 fw500 els color339 ml-5\">Open</span> <span class=\"font14 fw500 color111\"> until 12:15 am</span>",
+        "desc": "",
+        "icon": "",
+        "link": "",
+        "html": 1
+       }
+      ]
+     }
+    ],
+    [
+     "wwclpw6pqc",
+     "brf06f7pzr",
+     "5tkpmbi4m9",
+     "14d3dhx48o",
+     "5dzdxv9gst"
+    ],
+    "",
+    []
+   ],
+   [
+    "022PXX22.XX22.251107162716.M2W6",
+    "New Shahi Family Restaurant",
+    "",
+    "Opposite Old Petrol Pump Mira Road East",
+    "19.2814232",
+    "72.8635337",
+    "1",
+    "3.8",
+    "1",
+    1,
+    "1",
+    {
+     "status": "<span class=\"font14 fw500 els color339\">Open</span> <span class=\"font14 fw500 color111\"> until 11:00 pm</span>",
+     "timing": "10:00 am - 11:00 pm"
+    },
+    "Mira Bhayander Road Mira Road East",
+    1,
+    "Restaurants, North Indian Restaurants",
+    "08147419067",
+    "190 Ratings",
+    "",
+    "mumbai",
+    "https://content.jdmagicbox.com/v2/comp/mumbai/w6/022pxx22.xx22.251107162716.m2w6/catalogue/zn21bo5i942qoid-37b36b891v-250.jpg",
+    "190",
+    0,
+    {
+     "node1": "",
+     "node2": "",
+     "node3": [
+      "<span class=\"font14 fw400 color111\">36 Years in Business</span>",
+      0,
+      0
+     ],
+     "node1color": []
+    },
+    {},
+    0,
+    0,
+    [],
+    "restaurant",
+    "",
+    [],
+    "",
+    "https://content2.jdmagicbox.com/checkin/mumbai/022PXX22.XX22.251107162716.M2W6.jpg",
+    "https://www.justdial.com/DT-43CENLNALDR",
+    1,
+    [],
+    "",
+    17,
+    "",
+    "",
+    "",
+    [
+     "https://content.jdmagicbox.com/v2/comp/mumbai/w6/022pxx22.xx22.251107162716.m2w6/catalogue/zn21bo5i942qoid-37b36b891v.jpg",
+     "https://content.jdmagicbox.com/v2/comp/mumbai/w6/022pxx22.xx22.251107162716.m2w6/catalogue/9mqr4phkya2sge0-ik16551r0j.jpg",
+     "https://content.jdmagicbox.com/v2/comp/mumbai/w6/022pxx22.xx22.251107162716.m2w6/catalogue/tv4ge6xgilrdxks-o1sbdej0jq.jpg",
+     "https://content.jdmagicbox.com/v2/comp/mumbai/w6/022pxx22.xx22.251107162716.m2w6/catalogue/5wf3b662clw7phd-12mp4o1057.jpg",
+     "https://content.jdmagicbox.com/v2/comp/mumbai/w6/022pxx22.xx22.251107162716.m2w6/catalogue/tv4ge6xgilrdxks-o1sbdej0jq.jpg"
+    ],
+    [
+     0,
+     0,
+     0
+    ],
+    "8",
+    "",
+    "New Shahi Family Restaurant",
+    "Opposite Old Petrol Pump Mira Road East",
+    1,
+    0,
+    {
+     "id": 11400056,
+     "nid": 11400056,
+     "name": "Moderate Biryani Restaurants Rs 500 To Rs 1000",
+     "lin": ""
+    },
+    "iV%2B8OjLTP4rU0Ry4kMaNbSOvZ7kmIYIkktgdw9D1k3I%3D",
+    "3.8",
+    0,
+    {
+     "img": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/newprot/ctlgjdpay2x.png",
+     "redirection_url": ""
+    },
+    {},
+    "0",
+    1,
+    {
+     "did": "022PXX22.XX22.251107162716.M2W6",
+     "cmp_params": {
+      "bcity": "Thane",
+      "barea": "Mira Road East",
+      "bpncdbd": "401107",
+      "paidstatus": "1",
+      "misc": "8589934592",
+      "ask_mobile": 0
+     },
+     "bilang": ""
+    },
+    "yJ5fmtnMl19xq1EHgI58WZakBGPd6ocyfqY92PwWxj0%3D",
+    0,
+    "Thane/New-Shahi-Family-Restaurant-Opposite-Old-Petrol-Pump-Mira-Road-East/022PXX22-XX22-251107162716-M2W6_BZDET",
+    "",
+    [
+     "Chinese",
+     "Punjabi",
+     "Multicuisine"
+    ],
+    [],
+    "",
+    [],
+    {},
+    [],
+    {
+     "lead": "170",
+     "lead_resp": "3",
+     "avg_resp_time_sec": "",
+     "tformat": "",
+     "color": "#339D3A",
+     "lead_txt": "170 people recently enquired",
+     "resp_txt": ""
+    },
+    "401107",
+    "",
+    {
+     "cname": "New Shahi Family Restaurant",
+     "docid": "022PXX22.XX22.251107162716.M2W6",
+     "rating": "3.8",
+     "rating_cnt": "190",
+     "city": "Thane",
+     "dcity": "mumbai",
+     "area": "Mira Road East",
+     "pin": "401107",
+     "ds": "0",
+     "pdg": "",
+     "paid": "1",
+     "jd_verified": "1",
+     "guarantee": "",
+     "trust": "0",
+     "verified": "0",
+     "pos": 17,
+     "tag": "",
+     "cta_name": "",
+     "call_cta": "3",
+     "deals": "",
+     "jd_cash": "",
+     "isb2b": "0",
+     "miscellaneous_flag": "18875656",
+     "distance": "",
+     "core_distance": 8221.16,
+     "search_type": "P",
+     "services": 0,
+     "jdm_eligible": 0,
+     "b2b_flag": "0",
+     "opt": null,
+     "price_count": 0,
+     "catalog_flag": "1024",
+     "state": null,
+     "abbr": "EATR,REST,FOS,CSN",
+     "ntp": 0,
+     "high_call": 0
+    },
+    1,
+    "43CENLNALDR",
+    "Thane",
+    [
+     {
+      "h": "1",
+      "d": "<span class=\"font14 fw500 els color339\">Open</span> <span class=\"font14 fw500 color111\"> until 11:00 pm</span>"
+     },
+     {
+      "h": 1,
+      "d": 0
+     }
+    ],
+    [],
+    "Mira Road East",
+    [],
+    0,
+    [],
+    "#108723",
+    [],
+    "",
+    0,
+    [
+     {
+      "t": "rating",
+      "d": [
+       {
+        "tag_key": "rating",
+        "tagText": "3.8",
+        "desc": "",
+        "icon": "",
+        "link": "",
+        "html": 0,
+        "bg": "#108723"
+       },
+       {
+        "tag_key": "reviews",
+        "tagText": "190 Ratings",
+        "desc": "",
+        "icon": "",
+        "link": "",
+        "html": 0
+       }
+      ]
+     },
+     {
+      "t": "address",
+      "d": [
+       {
+        "tag_key": "address",
+        "tagText": "Mira Bhayander Road Mira Road East, Thane",
+        "desc": "",
+        "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/results_locat_icon.svg",
+        "link": "",
+        "html": 0
+       }
+      ]
+     },
+     {
+      "t": "oth",
+      "d": [
+       {
+        "tag_key": "timings",
+        "tagText": "<span class=\"font14 fw500 els color339 ml-5\">Open</span> <span class=\"font14 fw500 color111\"> until 11:00 pm</span>",
+        "desc": "",
+        "icon": "",
+        "link": "",
+        "html": 1
+       }
+      ]
+     }
+    ],
+    [
+     "37b36b891v",
+     "ik16551r0j",
+     "o1sbdej0jq",
+     "12mp4o1057",
+     "o1sbdej0jq"
+    ],
+    "",
+    []
+   ],
+   [
+    "022PF003128",
+    "New Lucky Restaurant",
+    "",
+    "Opposite Air India ColonyKalina Santacruz East",
+    "19.079487",
+    "72.867799",
+    "1",
+    "3.9",
+    "1",
+    1,
+    "1",
+    {
+     "status": "<span class=\"font14 fw500 els color339\">Open</span> <span class=\"font14 fw500 color111\"> until 12:00 am</span>",
+     "timing": "8:00 am - 12:00 am"
+    },
+    "Kalina Kurla Road Santacruz East",
+    1,
+    "Restaurants, North Indian Restaurants",
+    "07947213066",
+    "1,448 Ratings",
+    "",
+    "Mumbai",
+    "https://content.jdmagicbox.com/comp/service_catalogue/punjabi-delivery-restaurants-022pf003128-yvrwvnu-250.jpg",
+    "1,448",
+    0,
+    {
+     "node1": "",
+     "node2": "<span class=\"font14 fw400 color111\">₹ 600 Price for two</span>",
+     "node3": [
+      "<span class=\"font14 fw400 color111\">36 Years in Business</span>",
+      1,
+      0
+     ],
+     "node1color": []
+    },
+    {},
+    0,
+    0,
+    [],
+    "restaurant",
+    "",
+    [
+     {
+      "button_text": "Order online",
+      "button_url": [
+       {
+        "url": "https://www.swiggy.com/restaurants/new-lucky-restaurant-kalina-scruz-bandra-east-mumbai-109780",
+        "text": "Swiggy",
+        "img": "https://akam.cdn.jdmagicbox.com/images/icons/swiggy.png",
+        "dsc": "30 PhonePe cashback / Use coupon PHONEPE30~15% Off up to 75 with SBI Credit Card / Use code SBI75"
+       },
+       {
+        "url": "https://www.zomato.com/mumbai/new-lucky-santacruz-east/order",
+        "text": "Zomato",
+        "img": "https://akam.cdn.jdmagicbox.com/images/icons/zomato.png",
+        "dsc": ""
+       }
+      ],
+      "button_color": [],
+      "flag": "1",
+      "hide_header": "0",
+      "skipVerif": "0",
+      "tp": "1",
+      "li": "Order online"
+     },
+     {
+      "button_text": "Menu",
+      "button_url": [
+       {
+        "url": "https://www.justdial.com/Mumbai/New-Lucky-Restaurant-Opposite-Air-India-Colonykalina-Santacruz-East/022PF003128_BZDET/menu?source=77&cdata=&native=&version=&hide_header=1&sid=",
+        "text": "",
+        "img": "",
+        "dsc": ""
+       }
+      ],
+      "button_color": [],
+      "flag": "1",
+      "hide_header": "0",
+      "skipVerif": "0",
+      "tp": "0",
+      "li": "Menu"
+     }
+    ],
+    "",
+    "https://content2.jdmagicbox.com/checkin/mumbai/022PF003128.jpg",
+    "https://www.justdial.com/DT-4311VHMR",
+    1,
+    [],
+    "",
+    18,
+    "",
+    "",
+    "",
+    [
+     "https://content.jdmagicbox.com/comp/service_catalogue/punjabi-delivery-restaurants-022pf003128-yvrwvnu.jpg",
+     "https://content.jdmagicbox.com/comp/service_catalogue/mughlai-restaurants-022pf003128-eqmkb9g.jpg",
+     "https://content.jdmagicbox.com/comp/service_catalogue/home-delivery-restaurants-022pf003128-sh84bh9.jpg",
+     "https://content.jdmagicbox.com/comp/service_catalogue/north-indian-restaurants-022pf003128-j99zn4e.jpg",
+     "https://content.jdmagicbox.com/comp/service_catalogue/restaurants-for-veg-foods-022pf003128-zjkdfl9.jpg"
+    ],
+    [
+     0,
+     0,
+     0
+    ],
+    "15",
+    "",
+    "New Lucky Restaurant",
+    "Opposite Air India ColonyKalina Santacruz East",
+    1,
+    0,
+    {
+     "id": 10339065,
+     "nid": 10339065,
+     "name": "North Indian Restaurants",
+     "lin": ""
+    },
+    "qQr2V8tqx1YugW1gIK%2B2OA%3D%3D",
+    "3.9",
+    0,
+    {
+     "img": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/newprot/ctlgjdpay2x.png",
+     "redirection_url": ""
+    },
+    {},
+    "0",
+    1,
+    {
+     "did": "022PF003128",
+     "cmp_params": {
+      "bcity": "Mumbai",
+      "barea": "Santacruz East",
+      "bpncdbd": "400029",
+      "paidstatus": "1",
+      "misc": "8589942788",
+      "ask_mobile": 0
+     },
+     "bilang": ""
+    },
+    "of0ynD%2Bh5Li1LFA3Uky7L5akBGPd6ocyfqY92PwWxj0%3D",
+    0,
+    "Mumbai/New-Lucky-Restaurant-Opposite-Air-India-Colonykalina-Santacruz-East/022PF003128_BZDET",
+    "",
+    [
+     "Delivery",
+     "Dine-in",
+     "Chinese"
+    ],
+    [
+     {
+      "tag_name": "Quick Response",
+      "bg_colour": "#5271dd",
+      "txt_colour": "#FFFFFF",
+      "tag_image": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/responsive.svg"
+     }
+    ],
+    "",
+    [],
+    {},
+    [],
+    {
+     "lead": "250",
+     "lead_resp": "19",
+     "avg_resp_time_sec": "",
+     "tformat": "",
+     "color": "#339D3A",
+     "lead_txt": "250 people recently enquired",
+     "resp_txt": ""
+    },
+    "400029",
+    "",
+    {
+     "cname": "New Lucky Restaurant",
+     "docid": "022PF003128",
+     "rating": "3.9",
+     "rating_cnt": "1448",
+     "city": "Mumbai",
+     "dcity": "Mumbai",
+     "area": "Santacruz East",
+     "pin": "400029",
+     "ds": "0",
+     "pdg": "",
+     "paid": "1",
+     "jd_verified": "1",
+     "guarantee": "",
+     "trust": "0",
+     "verified": "1",
+     "pos": 18,
+     "tag": "Quick Response",
+     "cta_name": "Order online TP",
+     "call_cta": "3",
+     "deals": "",
+     "jd_cash": "",
+     "isb2b": "0",
+     "miscellaneous_flag": "18875656",
+     "distance": "",
+     "core_distance": 8219.34,
+     "search_type": "P",
+     "services": 0,
+     "jdm_eligible": 0,
+     "b2b_flag": "0",
+     "opt": null,
+     "price_count": 0,
+     "catalog_flag": "1024",
+     "state": null,
+     "abbr": "EATR,REST,FOS,CSN",
+     "ntp": 0,
+     "high_call": 1
+    },
+    1,
+    "4311VHMR",
+    "Mumbai",
+    [
+     {
+      "h": "1",
+      "d": "<span class=\"font14 fw500 els color339\">Open</span> <span class=\"font14 fw500 color111\"> until 12:00 am</span>"
+     },
+     {
+      "h": 1,
+      "d": "<span class=\"font14 fw400 color111\">₹ 600 Price for two</span>"
+     }
+    ],
+    [],
+    "Santacruz East",
+    [],
+    0,
+    [],
+    "#108723",
+    [],
+    "https://images.jdmagicbox.com/upload_test/mumbai/28/022pf003128/logo/ee9a249accba34816de174d0ff47c122.jpg",
+    0,
+    [
+     {
+      "t": "rating",
+      "d": [
+       {
+        "tag_key": "rating",
+        "tagText": "3.9",
+        "desc": "",
+        "icon": "",
+        "link": "",
+        "html": 0,
+        "bg": "#108723"
+       },
+       {
+        "tag_key": "reviews",
+        "tagText": "1,448 Rating",
+        "desc": "",
+        "icon": "",
+        "link": "",
+        "html": 0
+       },
+       {
+        "tag_key": "verified",
+        "tagText": "",
+        "desc": "",
+        "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/verified_2x.gif",
+        "link": "",
+        "html": 0
+       },
+       {
+        "tag_key": "tag",
+        "tagText": "",
+        "desc": "",
+        "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/responsive.svg",
+        "link": "",
+        "html": 0
+       }
+      ]
+     },
+     {
+      "t": "address",
+      "d": [
+       {
+        "tag_key": "address",
+        "tagText": "Kalina Kurla Road Santacruz East, Mumbai",
+        "desc": "",
+        "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/results_locat_icon.svg",
+        "link": "",
+        "html": 0
+       }
+      ]
+     },
+     {
+      "t": "oth",
+      "d": [
+       {
+        "tag_key": "highpk",
+        "tagText": "High call pick up rate",
+        "desc": "",
+        "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/icon/library2024/HighCallpickuprate.png",
+        "link": "",
+        "html": 0,
+        "li": "high_call"
+       },
+       {
+        "tag_key": "timings",
+        "tagText": "<span class=\"font14 fw500 els color339 ml-5\">Open</span> <span class=\"font14 fw500 color111\"> until 12:00 am</span>",
+        "desc": "",
+        "icon": "",
+        "link": "",
+        "html": 1
+       },
+       {
+        "tag_key": "price",
+        "tagText": "",
+        "desc": "<div role=\"presentation\" tabindex=\"-1\" class=\"font15 fw400 color111 rupicon\"><span class=\"font14 fw400 color111\"><span class=\"dtcmrupicon\">₹</span> 600 Price for two</span></div>",
+        "icon": "",
+        "link": "",
+        "html": 1
+       }
+      ]
+     },
+     {
+      "t": "ctlg",
+      "d": [
+       {
+        "tag_key": "ctlg",
+        "ctlg_type": 1,
+        "display_type": 4,
+        "tagText": "",
+        "desc": "",
+        "icon": "",
+        "link": "",
+        "html": 0,
+        "data": []
+       }
+      ]
+     }
+    ],
+    [
+     "yvrwvnu",
+     "eqmkb9g",
+     "sh84bh9",
+     "j99zn4e",
+     "zjkdfl9"
+    ],
+    "",
+    []
+   ],
+   [
+    "022PXX22.XX22.100920123006.Z8S5",
+    "Sai Palace Hotel & Garden",
+    "",
+    "Next to Laxmi Baug Ghodbunder Mira Village mira Road East",
+    "19.275856",
+    "72.890438",
+    "1",
+    "4.1",
+    "1",
+    1,
+    "1",
+    {
+     "status": "<span class=\"font14 fw500 els color339\">Open</span> <span class=\"font14 fw500 color111\"> until 7:00 pm</span>",
+     "timing": "7:00 am - 7:00 pm"
+    },
+    "Mira Village-mira Road East",
+    1,
+    "Restaurants, North Indian Restaurants",
+    "09845201575",
+    "24,522 Ratings",
+    "",
+    "Mumbai",
+    "https://content.jdmagicbox.com/comp/service_catalogue/punjabi-restaurants-022pxx22.xx22.100920123006.z8s5-hwlydmc-250.jpg",
+    "24,522",
+    0,
+    {
+     "node1": "",
+     "node2": "<span class=\"font14 fw400 color111\">₹ 1900 Price for two</span>",
+     "node3": [
+      "<span class=\"font14 fw400 color111\">17 Years in Business</span>",
+      1,
+      1
+     ],
+     "node1color": []
+    },
+    {},
+    0,
+    0,
+    [],
+    "restaurant",
+    "",
+    [
+     {
+      "button_text": "Order online",
+      "button_url": [
+       {
+        "url": "https://www.swiggy.com/restaurants/sai-palace-hotel-and-garden-laxmi-baug-mira-road-mumbai-673236",
+        "text": "Swiggy",
+        "img": "https://akam.cdn.jdmagicbox.com/images/icons/swiggy.png",
+        "dsc": ""
+       }
+      ],
+      "button_color": [],
+      "flag": "1",
+      "hide_header": "0",
+      "skipVerif": "0",
+      "tp": "1",
+      "li": "Order online"
+     },
+     {
+      "button_text": "Menu",
+      "button_url": [
+       {
+        "url": "https://www.justdial.com/Thane/Sai-Palace-Hotel-Garden-Next-To-Laxmi-Baug-Ghodbunder-Mira-Village-Mira-Road-East/022PXX22-XX22-100920123006-Z8S5_BZDET/menu?source=77&cdata=&native=&version=&hide_header=1&sid=",
+        "text": "",
+        "img": "",
+        "dsc": ""
+       }
+      ],
+      "button_color": [],
+      "flag": "1",
+      "hide_header": "0",
+      "skipVerif": "0",
+      "tp": "0",
+      "li": "Menu"
+     }
+    ],
+    "",
+    "https://content2.jdmagicbox.com/checkin/mumbai/022PXX22.XX22.100920123006.Z8S5.jpg",
+    "https://www.justdial.com/DT-43CG2TPH",
+    1,
+    [],
+    "",
+    19,
+    "",
+    "",
+    "",
+    [
+     "https://content.jdmagicbox.com/comp/service_catalogue/punjabi-restaurants-022pxx22.xx22.100920123006.z8s5-hwlydmc.jpg",
+     "https://content.jdmagicbox.com/comp/service_catalogue/awadhi-mutton-biryani-022pxx22.xx22.100920123006.z8s5-f2rdiwm.jpg",
+     "https://content.jdmagicbox.com/comp/service_catalogue/north-indian-restaurants-022pxx22.xx22.100920123006.z8s5-f9kzrvp.jpg",
+     "https://content.jdmagicbox.com/comp/service_catalogue/buffet-restaurants-022pxx22.xx22.100920123006.z8s5-amdcoxu.jpg",
+     "https://content.jdmagicbox.com/v2/comp/service_catalogue/chicken-reshmi-biryani-022pxx22.xx22.100920123006.z8s5-unq0ksn.jpg"
+    ],
+    [
+     0,
+     0,
+     0
+    ],
+    "70",
+    "",
+    "Sai Palace Hotel & Garden",
+    "Next to Laxmi Baug Ghodbunder Mira Village mira Road East",
+    1,
+    0,
+    {
+     "id": 10339065,
+     "nid": 10339065,
+     "name": "North Indian Restaurants",
+     "lin": ""
+    },
+    "pNSdDPAHxy%2BRyR2Nb1XlGUh6WIcWZ617HV9Cltx5gZg%3D",
+    "4.1",
+    0,
+    {
+     "img": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/newprot/ctlgjdpay2x.png",
+     "redirection_url": ""
+    },
+    {},
+    "0",
+    1,
+    {
+     "did": "022PXX22.XX22.100920123006.Z8S5",
+     "cmp_params": {
+      "bcity": "Thane",
+      "barea": "Mira Village-mira Road East",
+      "bpncdbd": "401107",
+      "paidstatus": "1",
+      "misc": "8590077956",
+      "ask_mobile": 0
+     },
+     "bilang": ""
+    },
+    "kPgxuhi5MDjaC9qCUC3MBAyu1eU%2BpyMs5XLqUmP48BE%3D",
+    0,
+    "Thane/Sai-Palace-Hotel-Garden-Next-To-Laxmi-Baug-Ghodbunder-Mira-Village-Mira-Road-East/022PXX22-XX22-100920123006-Z8S5_BZDET",
+    "",
+    [
+     "Parking Available",
+     "Live Music",
+     "Candle Light Dinner"
+    ],
+    [
+     {
+      "tag_name": "Quick Response",
+      "bg_colour": "#5271dd",
+      "txt_colour": "#FFFFFF",
+      "tag_image": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/responsive.svg"
+     }
+    ],
+    "",
+    [],
+    {},
+    [
+     {
+      "lnKey": "",
+      "tagText": "",
+      "desc": "Parking Available",
+      "icon": "https://akam.cdn.jdmagicbox.com/images/icons/iphone/new/icd-hi-tg-parking-available.png",
+      "tagTextColor": "#111111"
+     },
+     {
+      "lnKey": -99,
+      "tagText": "Tasty food",
+      "desc": " 11 Suggestions",
+      "icon": "https://akam.cdn.jdmagicbox.com/images/icons/iphone/nd-Like-comments.png",
+      "tagTextColor": "#111111"
+     }
+    ],
+    [],
+    "401107",
+    "",
+    {
+     "cname": "Sai Palace Hotel & Garden",
+     "docid": "022PXX22.XX22.100920123006.Z8S5",
+     "rating": "4.1",
+     "rating_cnt": "24522",
+     "city": "Thane",
+     "dcity": "Mumbai",
+     "area": "Mira Village-mira Road East",
+     "pin": "401107",
+     "ds": "0",
+     "pdg": "",
+     "paid": "1",
+     "jd_verified": "1",
+     "guarantee": "",
+     "trust": "1",
+     "verified": "1",
+     "pos": 19,
+     "tag": "Quick Response",
+     "cta_name": "Order online TP",
+     "call_cta": "3",
+     "deals": "",
+     "jd_cash": "",
+     "isb2b": "0",
+     "miscellaneous_flag": "18875656",
+     "distance": "",
+     "core_distance": 8223.91,
+     "search_type": "P",
+     "services": 0,
+     "jdm_eligible": 0,
+     "b2b_flag": "0",
+     "opt": null,
+     "price_count": 0,
+     "catalog_flag": "1024",
+     "state": null,
+     "abbr": "EATR,REST,FOS,CSN",
+     "ntp": 0,
+     "high_call": 1
+    },
+    1,
+    "43CG2TPH",
+    "Thane",
+    [
+     {
+      "h": "1",
+      "d": "<span class=\"font14 fw500 els color339\">Open</span> <span class=\"font14 fw500 color111\"> until 7:00 pm</span>"
+     },
+     {
+      "h": 1,
+      "d": "<span class=\"font14 fw400 color111\">₹ 1900 Price for two</span>"
+     }
+    ],
+    [],
+    "Mira Village-mira Road East",
+    [],
+    0,
+    [],
+    "#007A0C",
+    [],
+    "https://images.jdmagicbox.com/thane/s5/022pxx22.xx22.100920123006.z8s5/logo/c745705765154b0c930c73beb11a8118.gif",
+    0,
+    [
+     {
+      "t": "rating",
+      "d": [
+       {
+        "tag_key": "rating",
+        "tagText": "4.1",
+        "desc": "",
+        "icon": "",
+        "link": "",
+        "html": 0,
+        "bg": "#007A0C"
+       },
+       {
+        "tag_key": "reviews",
+        "tagText": "24,522 Ratings",
+        "desc": "",
+        "icon": "",
+        "link": "",
+        "html": 0
+       },
+       {
+        "tag_key": "trust",
+        "tagText": "",
+        "desc": "",
+        "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/trust_2x.gif",
+        "link": "",
+        "html": 0
+       },
+       {
+        "tag_key": "verified",
+        "tagText": "",
+        "desc": "",
+        "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/verified_2x.gif",
+        "link": "",
+        "html": 0
+       },
+       {
+        "tag_key": "tag",
+        "tagText": "",
+        "desc": "",
+        "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/responsive.svg",
+        "link": "",
+        "html": 0
+       }
+      ]
+     },
+     {
+      "t": "address",
+      "d": [
+       {
+        "tag_key": "address",
+        "tagText": "Mira Village-mira Road East, Thane",
+        "desc": "",
+        "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/results_locat_icon.svg",
+        "link": "",
+        "html": 0
+       }
+      ]
+     },
+     {
+      "t": "oth",
+      "d": [
+       {
+        "tag_key": "timings",
+        "tagText": "<span class=\"font14 fw500 els color339 ml-5\">Open</span> <span class=\"font14 fw500 color111\"> until 7:00 pm</span>",
+        "desc": "",
+        "icon": "",
+        "link": "",
+        "html": 1
+       },
+       {
+        "tag_key": "price",
+        "tagText": "",
+        "desc": "<div role=\"presentation\" tabindex=\"-1\" class=\"font15 fw400 color111 rupicon\"><span class=\"font14 fw400 color111\"><span class=\"dtcmrupicon\">₹</span> 1900 Price for two</span></div>",
+        "icon": "",
+        "link": "",
+        "html": 1
+       },
+       {
+        "tag_key": "highlight",
+        "tagText": "",
+        "desc": "Parking Available",
+        "icon": "https://akam.cdn.jdmagicbox.com/images/icons/iphone/new/icd-hi-tg-parking-available.png",
+        "link": "",
+        "html": 0
+       }
+      ]
+     },
+     {
+      "t": "highcall",
+      "d": [
+       {
+        "tag_key": "highpk",
+        "tagText": "High call pick up rate",
+        "desc": "",
+        "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/icon/library2024/HighCallpickuprate.png",
+        "link": "",
+        "html": 0,
+        "li": "high_call"
+       }
+      ]
+     },
+     {
+      "t": "ctlg",
+      "d": [
+       {
+        "tag_key": "ctlg",
+        "ctlg_type": 1,
+        "display_type": 4,
+        "tagText": "",
+        "desc": "",
+        "icon": "",
+        "link": "",
+        "html": 0,
+        "data": []
+       }
+      ]
+     }
+    ],
+    [
+     "hwlydmc",
+     "f2rdiwm",
+     "f9kzrvp",
+     "amdcoxu",
+     "unq0ksn"
+    ],
+    "",
+    []
+   ],
+   [
+    "022PXX22.XX22.130423155808.Q2K1",
+    "Central Lunch Home",
+    "",
+    "Opposite Oberoi Mall Malad East",
+    "19.1758006",
+    "72.8601688",
+    "1",
+    "3.9",
+    "1",
+    1,
+    "1",
+    {
+     "status": "<span class=\"font14 fw400 els color339\">Opens in </span><span class=\"font14 fw400 color111\">6 mins</span>",
+     "timing": "12:00 pm - 2:30 pm , 6:30 pm - 11:30 pm"
+    },
+    "Fire Brigade Road Malad East",
+    0,
+    "Restaurants, Chinese Restaurants",
+    "08147791274",
+    "148 Ratings",
+    "",
+    "Mumbai",
+    "https://content.jdmagicbox.com/v2/comp/mumbai/k1/022pxx22.xx22.130423155808.q2k1/catalogue/lucky-chinese-malad-east-mumbai-chinese-restaurants-dlim2lkdn5-250.jpg",
+    "148",
+    0,
+    {
+     "node1": "",
+     "node2": "<span class=\"font14 fw400 color111\">₹ 400 Price for two</span>",
+     "node3": [
+      "<span class=\"font14 fw400 color111\">26 Years in Business</span>",
+      0,
+      0
+     ],
+     "node1color": []
+    },
+    {},
+    0,
+    0,
+    [],
+    "restaurant",
+    "",
+    [
+     {
+      "button_text": "Order online",
+      "button_url": [
+       {
+        "url": "https://www.zomato.com/mumbai/food-court-lucky-chinese-malad-east/order",
+        "text": "Zomato",
+        "img": "https://akam.cdn.jdmagicbox.com/images/icons/zomato.png",
+        "dsc": null
+       }
+      ],
+      "button_color": [],
+      "flag": "1",
+      "hide_header": "0",
+      "skipVerif": "0",
+      "tp": "1",
+      "li": "Order online"
+     },
+     {
+      "button_text": "Menu",
+      "button_url": [
+       {
+        "url": "https://www.justdial.com/Mumbai/Central-Lunch-Home-Opposite-Oberoi-Mall-Malad-East/022PXX22-XX22-130423155808-Q2K1_BZDET/menu?source=77&cdata=&native=&version=&hide_header=1&sid=",
+        "text": "",
+        "img": "",
+        "dsc": ""
+       }
+      ],
+      "button_color": [],
+      "flag": "1",
+      "hide_header": "0",
+      "skipVerif": "0",
+      "tp": "0",
+      "li": "Menu"
+     }
+    ],
+    "",
+    "https://content2.jdmagicbox.com/checkin/mumbai/022PXX22.XX22.130423155808.Q2K1.jpg",
+    "https://www.justdial.com/DT-43TTH6WF",
+    1,
+    [],
+    "",
+    20,
+    "",
+    "",
+    "",
+    [
+     "https://content.jdmagicbox.com/v2/comp/mumbai/k1/022pxx22.xx22.130423155808.q2k1/catalogue/lucky-chinese-malad-east-mumbai-chinese-restaurants-dlim2lkdn5.jpg",
+     "https://content.jdmagicbox.com/v2/comp/mumbai/k1/022pxx22.xx22.130423155808.q2k1/catalogue/lucky-chinese-malad-east-mumbai-chinese-restaurants-1sgx9xhlk6.jpg",
+     "https://content.jdmagicbox.com/v2/comp/mumbai/k1/022pxx22.xx22.130423155808.q2k1/catalogue/lucky-chinese-malad-east-mumbai-chinese-restaurants-ewcz1l5l87.jpg",
+     "https://content.jdmagicbox.com/v2/comp/mumbai/k1/022pxx22.xx22.130423155808.q2k1/catalogue/lucky-chinese-malad-east-mumbai-chinese-restaurants-wb51721vh4.jpg",
+     "https://content.jdmagicbox.com/v2/comp/mumbai/k1/022pxx22.xx22.130423155808.q2k1/catalogue/lucky-chinese-malad-east-mumbai-chinese-restaurants-s9xifetqlo.jpg"
+    ],
+    [
+     0,
+     0,
+     0
+    ],
+    "16",
+    "",
+    "Central Lunch Home",
+    "Opposite Oberoi Mall Malad East",
+    1,
+    0,
+    {
+     "id": 11400158,
+     "nid": 11400158,
+     "name": "Inexpensive Chinese Restaurants Below Rs 500",
+     "lin": ""
+    },
+    "UQqY00Qr9ZND6HuH3XgyKRcJLDpukiCZK69Qvq30f68%3D",
+    "3.9",
+    0,
+    {
+     "img": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/newprot/ctlgjdpay2x.png",
+     "redirection_url": ""
+    },
+    {},
+    "0",
+    1,
+    {
+     "did": "022PXX22.XX22.130423155808.Q2K1",
+     "cmp_params": {
+      "bcity": "Mumbai",
+      "barea": "Malad East",
+      "bpncdbd": "400097",
+      "paidstatus": "1",
+      "misc": "8589934592",
+      "ask_mobile": 0
+     },
+     "bilang": ""
+    },
+    "pArkrEaoKlMktyxvoE8yhZQUJa0YK2JICj5z06j4RO0%3D",
+    0,
+    "Mumbai/Central-Lunch-Home-Opposite-Oberoi-Mall-Malad-East/022PXX22-XX22-130423155808-Q2K1_BZDET",
+    "",
+    [
+     "Delivery",
+     "Dine-in",
+     "Chinese"
+    ],
+    [
+     {
+      "tag_name": "Quick Response",
+      "bg_colour": "#5271dd",
+      "txt_colour": "#FFFFFF",
+      "tag_image": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/responsive.svg"
+     }
+    ],
+    "",
+    [],
+    {},
+    [],
+    {
+     "lead": "52",
+     "lead_resp": "3",
+     "avg_resp_time_sec": "",
+     "tformat": "",
+     "color": "#339D3A",
+     "lead_txt": "52 people recently enquired",
+     "resp_txt": ""
+    },
+    "400097",
+    "",
+    {
+     "cname": "Central Lunch Home",
+     "docid": "022PXX22.XX22.130423155808.Q2K1",
+     "rating": "3.9",
+     "rating_cnt": "148",
+     "city": "Mumbai",
+     "dcity": "Mumbai",
+     "area": "Malad East",
+     "pin": "400097",
+     "ds": "0",
+     "pdg": "",
+     "paid": "1",
+     "jd_verified": "1",
+     "guarantee": "",
+     "trust": "0",
+     "verified": "0",
+     "pos": 20,
+     "tag": "Quick Response",
+     "cta_name": "Order online TP",
+     "call_cta": "3",
+     "deals": "",
+     "jd_cash": "",
+     "isb2b": "0",
+     "miscellaneous_flag": "18875656",
+     "distance": "",
+     "core_distance": 8219.62,
+     "search_type": "P",
+     "services": 0,
+     "jdm_eligible": 0,
+     "b2b_flag": "0",
+     "opt": null,
+     "price_count": 0,
+     "catalog_flag": "1024",
+     "state": null,
+     "abbr": "EATR,REST,FOS,CSN",
+     "ntp": 0,
+     "high_call": 1
+    },
+    1,
+    "43TTH6WF",
+    "Mumbai",
+    [
+     {
+      "h": "1",
+      "d": "<span class=\"font14 fw400 els color339\">Opens in </span><span class=\"font14 fw400 color111\">6 mins</span>"
+     },
+     {
+      "h": 1,
+      "d": "<span class=\"font14 fw400 color111\">₹ 400 Price for two</span>"
+     }
+    ],
+    [],
+    "Malad East",
+    [],
+    0,
+    [],
+    "#108723",
+    [],
+    "",
+    0,
+    [
+     {
+      "t": "rating",
+      "d": [
+       {
+        "tag_key": "rating",
+        "tagText": "3.9",
+        "desc": "",
+        "icon": "",
+        "link": "",
+        "html": 0,
+        "bg": "#108723"
+       },
+       {
+        "tag_key": "reviews",
+        "tagText": "148 Ratings",
+        "desc": "",
+        "icon": "",
+        "link": "",
+        "html": 0
+       },
+       {
+        "tag_key": "tag",
+        "tagText": "",
+        "desc": "",
+        "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/responsive.svg",
+        "link": "",
+        "html": 0
+       }
+      ]
+     },
+     {
+      "t": "address",
+      "d": [
+       {
+        "tag_key": "address",
+        "tagText": "Fire Brigade Road Malad East, Mumbai",
+        "desc": "",
+        "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/results_locat_icon.svg",
+        "link": "",
+        "html": 0
+       }
+      ]
+     },
+     {
+      "t": "oth",
+      "d": [
+       {
+        "tag_key": "highpk",
+        "tagText": "High call pick up rate",
+        "desc": "",
+        "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/icon/library2024/HighCallpickuprate.png",
+        "link": "",
+        "html": 0,
+        "li": "high_call"
+       },
+       {
+        "tag_key": "timings",
+        "tagText": "<span class=\"font14 fw400 els color339 ml-5\">Opens in </span><span class=\"font14 fw400 color111\">6 mins</span>",
+        "desc": "",
+        "icon": "",
+        "link": "",
+        "html": 1
+       },
+       {
+        "tag_key": "price",
+        "tagText": "",
+        "desc": "<div role=\"presentation\" tabindex=\"-1\" class=\"font15 fw400 color111 rupicon\"><span class=\"font14 fw400 color111\"><span class=\"dtcmrupicon\">₹</span> 400 Price for two</span></div>",
+        "icon": "",
+        "link": "",
+        "html": 1
+       }
+      ]
+     },
+     {
+      "t": "ctlg",
+      "d": [
+       {
+        "tag_key": "ctlg",
+        "ctlg_type": 1,
+        "display_type": 4,
+        "tagText": "",
+        "desc": "",
+        "icon": "",
+        "link": "",
+        "html": 0,
+        "data": []
+       }
+      ]
+     }
+    ],
+    [
+     "dlim2lkdn5",
+     "1sgx9xhlk6",
+     "ewcz1l5l87",
+     "wb51721vh4",
+     "s9xifetqlo"
+    ],
+    "",
+    []
+   ]
+  ],
+  "rvs": [],
+  "area_card": 1,
+  "bd_route": [],
+  "job_card": []
+ },
+ "nearmeDetails": "",
+ "catid": "",
+ "trending_flag": 0,
+ "trending_nid": "",
+ "keyword": "Restaurants",
+ "keywordln": "Restaurants",
+ "ishotel": 0,
+ "keywordResults": [],
+ "moreKeywords": "0",
+ "totalNumberofResults": "1",
+ "sortingOption": {
+  "basedon": [
+   "distance",
+   "rating",
+   "popular"
+  ],
+  "sort": "",
+  "char": "",
+  "morefilter": {
+   "mv": "1102",
+   "mh": "Quick Filters",
+   "md": "",
+   "ms": 1,
+   "d": [
+    {
+     "v": "HR",
+     "d": "Rated 3.5+",
+     "f": 1,
+     "s": 0,
+     "nc": null,
+     "n": null,
+     "e": "6"
+    },
+    {
+     "v": "OPEN",
+     "d": "Open Now",
+     "f": 1,
+     "s": 0,
+     "nc": null,
+     "n": null,
+     "e": "10"
+    }
+   ]
+  },
+  "pricefilter": ""
+ },
+ "ratingsTab": 0,
+ "pncdbd": "",
+ "ismovie": "0",
+ "sort_price_tag": null,
+ "advanced_bd_flag": "0",
+ "sort_price": null,
+ "filter_flag": 1,
+ "image_path": "",
+ "view": "0",
+ "national_catid": "10408936",
+ "median_latitude": "",
+ "median_longitude": "",
+ "seo_dt": {
+  "title": "in Mumbai - Page 2",
+  "desc": "in Mumbai - Page 2",
+  "key": "List of Restaurants in Mumbai, Reviews, Map, Address, Phone Number, Contact Number, local, popular Restaurants, Restaurants",
+  "isfreetext": 0,
+  "hot_cat_arr": {
+   "id": 11399978,
+   "nid": 11399978,
+   "name": "Moderate Restaurants Rs 500 To Rs 1000",
+   "lin": ""
+  },
+  "area": null,
+  "link": "https://www.justdial.com/Mumbai/Restaurants/nct-10408936/page-2",
+  "no_index": 0,
+  "no_follow": 0,
+  "bi_lang_enable": 1,
+  "bi_lang_arr": [
+   "en",
+   "hi",
+   "bn",
+   "ta",
+   "mr",
+   "gu",
+   "kn"
+  ]
+ },
+ "vpfs": "8-100",
+ "msgpos": "",
+ "areadocids": "",
+ "area_docids_cnt": "",
+ "nofriends": "",
+ "nextdocid": "",
+ "nextdocidcount": "10",
+ "scity": "",
+ "pcity": "Mumbai",
+ "spincode": "",
+ "amp": 0,
+ "cat_search_type": "A",
+ "area_docid_count_hotel": "",
+ "area_last_docid_hotel": "",
+ "adword_pos": {
+  "7": "filter"
+ },
+ "adword_snippet": {
+  "filter": {
+   "tab_display": "Explore More",
+   "entity": "89|15234",
+   "apiname": "Filterapi",
+   "action_url": "/01sep2022/ads.php?case=filter&entity=89|15234&city=Mumbai&area=&search=Restaurants&apiname=Filterapi&dpf=8796227240448&wap=77&version=3.0&ln=&is_rsltpg=1",
+   "active_flag": 1,
+   "attrib": ""
+  }
+ },
+ "footer": 0,
+ "adword_docids": "",
+ "newadd": "Ad",
+ "newaddcolor": "#ffffff",
+ "newaddtextcolor": "#000000",
+ "viewchange": 0,
+ "view_flag": null,
+ "dsmap": 1,
+ "vertical_banner": {},
+ "srf": "11",
+ "is_lawyer": 0,
+ "grid": 0,
+ "cat_b2b_flag": "0",
+ "google_audience": "",
+ "related_cat": 0,
+ "product_carousal": 0,
+ "service_guide": [],
+ "askAstro": 0,
+ "disclaimer": [],
+ "miscellaneous_flag_abbr": "|SV|IMF|SBPA|IGSC|CRFP|UBLOC|AANY|LPD|",
+ "addtbl": {
+  "title": "Top Restaurants in Mumbai",
+  "headers": [
+   "Name",
+   "Address",
+   "Listed Categories",
+   "Year of Establishment",
+   "No. of Reviews",
+   "Rating"
+  ],
+  "dt": [
+   [
+    {
+     "d": "Mao Family Restaurant",
+     "u": "Mumbai/Mao-Family-Restaurant-Near-Mahim-Dargah-Mahim/022PXX22-XX22-190508181932-F9A2_BZDET"
+    },
+    "Haji Ismail Bldg, Haji Ismail Building Shop No.4.A Plot No.3 Cadel Road Mahin West, Mahim, Mumbai - 400016 (Near Mahim Dargah)",
+    [
+     {
+      "d": "Restaurants",
+      "u": "/Mumbai/Restaurants/nct-10408936"
+     },
+     {
+      "d": "North Indian Restaurants",
+      "u": "/Mumbai/North-Indian-Restaurants/nct-10339065"
+     },
+     {
+      "d": "Chinese Restaurants",
+      "u": "/Mumbai/Chinese-Restaurants/nct-10097618"
+     }
+    ],
+    "",
+    "1,554",
+    3.8
+   ],
+   [
+    {
+     "d": "UDUPI 2 MUMBAI BKC",
+     "u": "Mumbai/UDUPI-2-MUMBAI-BKC-Bandra-East/022PXX22-XX22-260513151205-N6Q9_BZDET"
+    },
+    "Urban Plaza GN Block Bkc Plot No C_ 5, Bandra East, Mumbai - 400051",
+    [
+     {
+      "d": "Restaurants",
+      "u": "/Mumbai/Restaurants/nct-10408936"
+     },
+     {
+      "d": "South Indian Restaurants",
+      "u": "/Mumbai/South-Indian-Restaurants/nct-10445766"
+     },
+     {
+      "d": "Fast Food Take Away Joints",
+      "u": "/Mumbai/Fast-Food-Take-Away-Joints/nct-12053085"
+     }
+    ],
+    "2005",
+    "410",
+    4.1
+   ],
+   [
+    {
+     "d": "7 Spice Restaurant",
+     "u": "Mumbai/7-Spice-Restaurant-Near-Piramal-Chambers-Lal-Baug/022PXX22-XX22-100721173720-G5E3_BZDET"
+    },
+    "Saat Aasra Building, Dr S S Rao Road, Lal Baug, Mumbai - 400012 (Near Piramal Chambers)",
+    [
+     {
+      "d": "Restaurants",
+      "u": "/Mumbai/Restaurants/nct-10408936"
+     },
+     {
+      "d": "Chinese Restaurants",
+      "u": "/Mumbai/Chinese-Restaurants/nct-10097618"
+     },
+     {
+      "d": "Home Delivery Restaurants",
+      "u": "/Mumbai/Home-Delivery-Restaurants/nct-10250324"
+     }
+    ],
+    "2010",
+    "1,302",
+    3.9
+   ],
+   [
+    {
+     "d": "Pinewood Family Garden Restaurant",
+     "u": "Thane/Pinewood-Family-Garden-Restaurant-Near-Palegaon-Dmart-Near-Nevali-Naka-Ambernath-Midc/022PXX22-XX22-210924125756-Q4W6_BZDET"
+    },
+    "Survey No 128/2/B.Near Rudra Hotel, Vasar Gaon, Ambernath, Ambernath MIDC, Thane - 421506 (Near Palegaon Dmart, Near Nevali Naka)",
+    [
+     {
+      "d": "Restaurants",
+      "u": "/Mumbai/Restaurants/nct-10408936"
+     },
+     {
+      "d": "Chinese Restaurants",
+      "u": "/Mumbai/Chinese-Restaurants/nct-10097618"
+     },
+     {
+      "d": "Tandoori Restaurants",
+      "u": "/Mumbai/Tandoori-Restaurants/nct-10470790"
+     }
+    ],
+    "2021",
+    "2,082",
+    4
+   ],
+   [
+    {
+     "d": "Hotel Yatrik Family Restaurant & Bar",
+     "u": "Thane/Hotel-Yatrik-Family-Restaurant-Bar-Near-Vijay-Sales-Badlapur-East/022PXX22-XX22-140610161826-M3A8_BZDET"
+    },
+    "Rajhansh Apartment, Station Katrap Road, Badlapur East, Thane - 421503 (Near Vijay Sales)",
+    [
+     {
+      "d": "Restaurants",
+      "u": "/Mumbai/Restaurants/nct-10408936"
+     }
+    ],
+    "1998",
+    "153",
+    4.1
+   ],
+   [
+    {
+     "d": "Cafe Gulshan",
+     "u": "Mumbai/Cafe-Gulshan-Near-Oshiwara-Bridge-Jogeshwari-West/022PXX22-XX22-241204131600-H4A2_BZDET"
+    },
+    "Shripal Industrial Estate Old Furniture Market, S V Road, Jogeshwari West, Mumbai - 400102 (Near Oshiwara Bridge)",
+    [
+     {
+      "d": "Restaurants",
+      "u": "/Mumbai/Restaurants/nct-10408936"
+     },
+     {
+      "d": "North Indian Restaurants",
+      "u": "/Mumbai/North-Indian-Restaurants/nct-10339065"
+     },
+     {
+      "d": "Home Delivery Restaurants",
+      "u": "/Mumbai/Home-Delivery-Restaurants/nct-10250324"
+     }
+    ],
+    "1984",
+    "2,496",
+    4.2
+   ],
+   [
+    {
+     "d": "New Shahi Family Restaurant",
+     "u": "Thane/New-Shahi-Family-Restaurant-Opposite-Old-Petrol-Pump-Mira-Road-East/022PXX22-XX22-251107162716-M2W6_BZDET"
+    },
+    "Kiran Apartment, Mira Bhayander Road, Mira Road East, Thane - 401107 (Opposite Old Petrol Pump)",
+    [
+     {
+      "d": "Restaurants",
+      "u": "/Mumbai/Restaurants/nct-10408936"
+     },
+     {
+      "d": "North Indian Restaurants",
+      "u": "/Mumbai/North-Indian-Restaurants/nct-10339065"
+     },
+     {
+      "d": "Chinese Restaurants",
+      "u": "/Mumbai/Chinese-Restaurants/nct-10097618"
+     }
+    ],
+    "1990",
+    "190",
+    3.8
+   ],
+   [
+    {
+     "d": "New Lucky Restaurant",
+     "u": "Mumbai/New-Lucky-Restaurant-Opposite-Air-India-Colonykalina-Santacruz-East/022PF003128_BZDET"
+    },
+    "Netlay House, Kalina Kurla Road, Santacruz East, Mumbai - 400029 (Opposite Air India Colony,Kalina)",
+    [
+     {
+      "d": "Restaurants",
+      "u": "/Mumbai/Restaurants/nct-10408936"
+     },
+     {
+      "d": "North Indian Restaurants",
+      "u": "/Mumbai/North-Indian-Restaurants/nct-10339065"
+     },
+     {
+      "d": "Home Delivery Restaurants",
+      "u": "/Mumbai/Home-Delivery-Restaurants/nct-10250324"
+     }
+    ],
+    "1990",
+    "1,448",
+    3.9
+   ],
+   [
+    {
+     "d": "Sai Palace Hotel & Garden",
+     "u": "Thane/Sai-Palace-Hotel-Garden-Next-To-Laxmi-Baug-Ghodbunder-Mira-Village-Mira-Road-East/022PXX22-XX22-100920123006-Z8S5_BZDET"
+    },
+    "Western Express Highway, Mira Village-mira Road East, Thane - 401107 (Next to Laxmi Baug, Ghodbunder)",
+    [
+     {
+      "d": "Restaurants",
+      "u": "/Mumbai/Restaurants/nct-10408936"
+     },
+     {
+      "d": "North Indian Restaurants",
+      "u": "/Mumbai/North-Indian-Restaurants/nct-10339065"
+     },
+     {
+      "d": "Tandoori Restaurants",
+      "u": "/Mumbai/Tandoori-Restaurants/nct-10470790"
+     }
+    ],
+    "2009",
+    "24,522",
+    4.1
+   ],
+   [
+    {
+     "d": "Central Lunch Home",
+     "u": "Mumbai/Central-Lunch-Home-Opposite-Oberoi-Mall-Malad-East/022PXX22-XX22-130423155808-Q2K1_BZDET"
+    },
+    "Mhb Colony, Fire Brigade Road, Malad East, Mumbai - 400097 (Opposite Oberoi Mall)",
+    [
+     {
+      "d": "Restaurants",
+      "u": "/Mumbai/Restaurants/nct-10408936"
+     },
+     {
+      "d": "Chinese Restaurants",
+      "u": "/Mumbai/Chinese-Restaurants/nct-10097618"
+     },
+     {
+      "d": "Inexpensive Restaurants Below Rs 500",
+      "u": "/Mumbai/Inexpensive-Restaurants-Below-Rs-500/nct-11400089"
+     }
+    ],
+    "2000",
+    "148",
+    3.9
+   ]
+  ]
+ },
+ "no_friends_rating": 0,
+ "pharmacy_data": {},
+ "not_rateable": 0,
+ "showgptads": 1,
+ "gptadintrvl": 4,
+ "brndname": "Restaurants",
+ "mncatnm": "Restaurants",
+ "comp_avg_starjd": "|$|0",
+ "avg_rate": "",
+ "avg_txt": "",
+ "lng": "",
+ "h1": "Best Restaurants in Mumbai - Food Restaurants Nearby - Page 2",
+ "nrin": " in ",
+ "microdata": "",
+ "ldJson": {
+  "default": "{\"@context\": \"https://schema.org\",\"@type\": \"WebSite\",\"name\": \"Justdial\",\"url\": \"https://www.justdial.com/\"}",
+  "rating": "",
+  "social": "[{\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"Organization\",\"name\":\"justdial.com\",\"url\":\"https:\\/\\/www.justdial.com\\/\",\"logo\":\"https:\\/\\/akam.cdn.jdmagicbox.com\\/images\\/wap\\/logo\\/jd_144.png\",\"sameAs\":[\"https:\\/\\/www.facebook.com\\/JustDial\",\"https:\\/\\/plus.google.com\\/+justdial\",\"https:\\/\\/www.linkedin.com\\/company\\/justdial\",\"https:\\/\\/www.instagram.com\\/jd_justdial\",\"https:\\/\\/play.google.com\\/store\\/apps\\/details?id=com.justdial.search\",\"https:\\/\\/itunes.apple.com\\/app\\/jd-justdial\\/id624946027?uo=5\",\"https:\\/\\/www.youtube.com\\/user\\/justdialind\"]}]",
+  "listing": "{\"@context\": \"https://schema.org\",\"@type\": \"ItemList\",\"name\": \"Restaurants in Mumbai\",\"itemListElement\" :[{\"@type\":\"ListItem\",\"position\":1,\"item\":{\"@type\":\"Restaurant\",\"name\":\"Mao Family Restaurant\",\"image\":\"https:\\/\\/content.jdmagicbox.com\\/v2\\/comp\\/mumbai\\/a2\\/022pxx22.xx22.190508181932.f9a2\\/catalogue\\/mao-family-restaurant-mahim-mumbai-north-indian-delivery-restaurants-ywfwbwcdce.jpg\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Haji Ismail Building Shop No.4.A Plot No.3 Cadel Road Mahin West\",\"addressLocality\":\"Mahim\",\"addressRegion\":\"Mumbai\",\"postalCode\":\"400016\",\"addressCountry\":\"IN\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":\"19.0421132\",\"longitude\":\"72.8397733\"},\"telephone\":\"+(91)-9152222212\",\"priceRange\":\"\\u20b9\\u20b9\",\"servesCuisine\":[\"Chinese\",\"Punjabi\",\"Multicuisine\",\"Mughlai\",\"Sea Food\",\"North Indian\",\"Arabic\",\"Hyderabadi\",\"African\"],\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"3.8\",\"ratingCount\":1554},\"url\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/Mao-Family-Restaurant-Near-Mahim-Dargah-Mahim\\/022PXX22-XX22-190508181932-F9A2_BZDET\"}},{\"@type\":\"ListItem\",\"position\":2,\"item\":{\"@type\":\"Restaurant\",\"name\":\"UDUPI 2 MUMBAI BKC\",\"image\":\"https:\\/\\/content.jdmagicbox.com\\/v2\\/comp\\/mumbai\\/q9\\/022pxx22.xx22.260513151205.n6q9\\/catalogue\\/udupi-2-mumbai-bkc-bandra-east-mumbai-south-indian-restaurants-81z7s1dnh7.jpg\",\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Bandra East\",\"addressRegion\":\"Mumbai\",\"postalCode\":\"400051\",\"addressCountry\":\"IN\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":\"19.0655332\",\"longitude\":\"72.8613923\"},\"servesCuisine\":[\"South Indian\",\"North Indian\"],\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"4.1\",\"ratingCount\":410},\"url\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/UDUPI-2-MUMBAI-BKC-Bandra-East\\/022PXX22-XX22-260513151205-N6Q9_BZDET\"}},{\"@type\":\"ListItem\",\"position\":3,\"item\":{\"@type\":\"Restaurant\",\"name\":\"7 Spice Restaurant\",\"image\":\"https:\\/\\/content.jdmagicbox.com\\/v2\\/comp\\/mumbai\\/e3\\/022pxx22.xx22.100721173720.g5e3\\/catalogue\\/7-spice-restaurant-lal-baug-mumbai-chinese-restaurants-4jyvk4l96m.jpg\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Dr S S Rao Road\",\"addressLocality\":\"Lal Baug\",\"addressRegion\":\"Mumbai\",\"postalCode\":\"400012\",\"addressCountry\":\"IN\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":\"18.995462\",\"longitude\":\"72.8391925\"},\"telephone\":\"+(91)-9870269414\",\"priceRange\":\"\\u20b9\\u20b9\\u20b9\",\"servesCuisine\":[\"Chinese\",\"Mughlai\",\"North Indian\",\"Thai\",\"Sichuan\"],\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"3.9\",\"ratingCount\":1302},\"url\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/7-Spice-Restaurant-Near-Piramal-Chambers-Lal-Baug\\/022PXX22-XX22-100721173720-G5E3_BZDET\"}},{\"@type\":\"ListItem\",\"position\":4,\"item\":{\"@type\":\"Restaurant\",\"name\":\"Pinewood Family Garden Restaurant\",\"image\":\"https:\\/\\/content.jdmagicbox.com\\/v2\\/comp\\/mumbai\\/w6\\/022pxx22.xx22.210924125756.q4w6\\/catalogue\\/pinewood-family-garden-restaurant-ambernath-midc-thane-tandoori-restaurants-8m3cq00vx1.jpg\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Ambernath\",\"addressLocality\":\"Ambernath MIDC\",\"addressRegion\":\"Thane\",\"postalCode\":\"421506\",\"addressCountry\":\"IN\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":\"19.181888888889\",\"longitude\":\"73.155558333333\"},\"telephone\":\"+(91)-8097788994,8097788995\",\"servesCuisine\":[\"Chinese\",\"Punjabi\",\"Sea Food\",\"North Indian\",\"Continental\",\"Malwani\"],\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"4.0\",\"ratingCount\":2082},\"url\":\"https:\\/\\/www.justdial.com\\/Thane\\/Pinewood-Family-Garden-Restaurant-Near-Palegaon-Dmart-Near-Nevali-Naka-Ambernath-MIDC\\/022PXX22-XX22-210924125756-Q4W6_BZDET\"}},{\"@type\":\"ListItem\",\"position\":5,\"item\":{\"@type\":\"Restaurant\",\"name\":\"Hotel Yatrik Family Restaurant & Bar\",\"image\":\"https:\\/\\/content.jdmagicbox.com\\/v2\\/comp\\/mumbai\\/a8\\/022pxx22.xx22.140610161826.m3a8\\/catalogue\\/hotel-yatrik-badlapur-ed-thane-hotels-q7vrztvy2q.jpg\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Station Katrap Road\",\"addressLocality\":\"Badlapur East\",\"addressRegion\":\"Thane\",\"postalCode\":\"421503\",\"addressCountry\":\"IN\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":\"19.1668466\",\"longitude\":\"73.2348064\"},\"telephone\":\"+(91)-7875117799\",\"servesCuisine\":[\"Chinese\",\"Punjabi\",\"South Indian\",\"Mughlai\",\"Sea Food\",\"North Indian\",\"Malwani\",\"Maharashtrian\",\"Mangalorean\"],\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"4.1\",\"ratingCount\":153},\"url\":\"https:\\/\\/www.justdial.com\\/Thane\\/Hotel-Yatrik-Family-Restaurant-Bar-Near-Vijay-Sales-Badlapur-East\\/022PXX22-XX22-140610161826-M3A8_BZDET\"}},{\"@type\":\"ListItem\",\"position\":6,\"item\":{\"@type\":\"Restaurant\",\"name\":\"Cafe Gulshan\",\"image\":\"https:\\/\\/content.jdmagicbox.com\\/v2\\/comp\\/mumbai\\/a2\\/022pxx22.xx22.241204131600.h4a2\\/catalogue\\/cafe-gulshan-jogeshwari-west-mumbai-restaurants-wwclpw6pqc.jpg\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"S V Road\",\"addressLocality\":\"Jogeshwari West\",\"addressRegion\":\"Mumbai\",\"postalCode\":\"400102\",\"addressCountry\":\"IN\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":\"19.1475162\",\"longitude\":\"72.8433038\"},\"telephone\":\"+(91)-9833582903\",\"servesCuisine\":[\"Punjabi\",\"Multicuisine\",\"Sea Food\",\"North Indian\"],\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"4.2\",\"ratingCount\":2496},\"url\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/Cafe-Gulshan-Near-Oshiwara-Bridge-Jogeshwari-West\\/022PXX22-XX22-241204131600-H4A2_BZDET\"}},{\"@type\":\"ListItem\",\"position\":7,\"item\":{\"@type\":\"Restaurant\",\"name\":\"New Shahi Family Restaurant\",\"image\":\"https:\\/\\/content.jdmagicbox.com\\/v2\\/comp\\/mumbai\\/w6\\/022pxx22.xx22.251107162716.m2w6\\/catalogue\\/zn21bo5i942qoid-37b36b891v.jpg\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Mira Bhayander Road\",\"addressLocality\":\"Mira Road East\",\"addressRegion\":\"Thane\",\"postalCode\":\"401107\",\"addressCountry\":\"IN\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":\"19.2814232\",\"longitude\":\"72.8635337\"},\"telephone\":\"+(91)-8369427144\",\"servesCuisine\":[\"Chinese\",\"Punjabi\",\"Multicuisine\",\"Mughlai\",\"Sea Food\",\"North Indian\"],\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"3.8\",\"ratingCount\":190},\"url\":\"https:\\/\\/www.justdial.com\\/Thane\\/New-Shahi-Family-Restaurant-Opposite-Old-Petrol-Pump-Mira-Road-East\\/022PXX22-XX22-251107162716-M2W6_BZDET\"}},{\"@type\":\"ListItem\",\"position\":8,\"item\":{\"@type\":\"Restaurant\",\"name\":\"New Lucky Restaurant\",\"image\":\"https:\\/\\/content.jdmagicbox.com\\/v2\\/comp\\/mumbai\\/28\\/022pf003128\\/catalogue\\/new-lucky-restaurant-santacruz-east-mumbai-north-indian-restaurants-zskmt7nawv.jpg\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Kalina Kurla Road\",\"addressLocality\":\"Santacruz East\",\"addressRegion\":\"Mumbai\",\"postalCode\":\"400029\",\"addressCountry\":\"IN\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":\"19.079487\",\"longitude\":\"72.867799\"},\"telephone\":\"+(91)-9892017862\",\"priceRange\":\"\\u20b9\\u20b9\",\"servesCuisine\":[\"Chinese\",\"Punjabi\",\"Mughlai\",\"Sea Food\",\"North Indian\",\"Italian\"],\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"3.9\",\"ratingCount\":1448},\"url\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/New-Lucky-Restaurant-Opposite-Air-India-ColonyKalina-Santacruz-East\\/022PF003128_BZDET\"}},{\"@type\":\"ListItem\",\"position\":9,\"item\":{\"@type\":\"Restaurant\",\"name\":\"Sai Palace Hotel & Garden\",\"image\":\"https:\\/\\/content.jdmagicbox.com\\/v2\\/comp\\/mumbai\\/s5\\/022pxx22.xx22.100920123006.z8s5\\/catalogue\\/sai-palace-hotel-and-garden-mira-village-thane-restaurants-20l8383.jpg\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Western Express Highway\",\"addressLocality\":\"Mira Village-mira Road East\",\"addressRegion\":\"Thane\",\"postalCode\":\"401107\",\"addressCountry\":\"IN\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":\"19.275856\",\"longitude\":\"72.890438\"},\"telephone\":\"+(91)-9920812907\",\"priceRange\":\"\\u20b9\\u20b9\\u20b9\",\"servesCuisine\":[\"Chinese\",\"Punjabi\",\"Mughlai\",\"Sea Food\",\"North Indian\"],\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"4.1\",\"ratingCount\":24522},\"url\":\"https:\\/\\/www.justdial.com\\/Thane\\/Sai-Palace-Hotel-Garden-Next-to-Laxmi-Baug-Ghodbunder-Mira-Village-mira-Road-East\\/022PXX22-XX22-100920123006-Z8S5_BZDET\"}},{\"@type\":\"ListItem\",\"position\":10,\"item\":{\"@type\":\"Restaurant\",\"name\":\"Central Lunch Home\",\"image\":\"https:\\/\\/content.jdmagicbox.com\\/v2\\/comp\\/mumbai\\/k1\\/022pxx22.xx22.130423155808.q2k1\\/catalogue\\/lucky-chinese-malad-east-mumbai-chinese-restaurants-1sgx9xhlk6.jpg\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Fire Brigade Road\",\"addressLocality\":\"Malad East\",\"addressRegion\":\"Mumbai\",\"postalCode\":\"400097\",\"addressCountry\":\"IN\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":\"19.1758006\",\"longitude\":\"72.8601688\"},\"telephone\":\"+(91)-7718887052\",\"priceRange\":\"\\u20b9\",\"servesCuisine\":[\"Chinese\",\"Sea Food\",\"North Indian\",\"Sichuan\"],\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"3.9\",\"ratingCount\":148},\"url\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/Central-Lunch-Home-Opposite-Oberoi-Mall-Malad-East\\/022PXX22-XX22-130423155808-Q2K1_BZDET\"}}]}",
+  "brcrum": "{\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"item\":{\"@id\":\"https:\\/\\/www.justdial.com\\/Mumbai\",\"name\":\"Mumbai\"}},{\"@type\":\"ListItem\",\"position\":2,\"item\":{\"@id\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/Restaurants\\/nct-10408936\",\"name\":\"Restaurants in Mumbai\"}}]}"
+ },
+ "ttlist": 0,
+ "footertab": [],
+ "catessy": {},
+ "og_tags": {
+  "type": "company",
+  "site_name": "Justdial",
+  "title": "in Mumbai - Page 2",
+  "url": "https://www.justdial.com/Mumbai/Restaurants/nct-10408936",
+  "description": "in Mumbai - Page 2",
+  "image": "https://akam.cdn.jdmagicbox.com/images/icontent/jd-logo_nw.png",
+  "iosurl": "justdial://Mumbai/Restaurants/nct-10408936",
+  "androidurl": "android-app://com.justdial.search/http/t.justdial.com/Mumbai/Restaurants/nct-10408936"
+ },
+ "canonic": "https://www.justdial.com/Mumbai/Restaurants/nct-10408936/page-2",
+ "chainoutlet": 0,
+ "applink": [],
+ "number_mask": 0,
+ "jdgenie_strip": 0,
+ "bddisplayText1": "Get the list of best",
+ "bddisplayText2": "Restaurants",
+ "open_abd": 0,
+ "digital_catalog": "/01sep2022/vcatalogue.php?searchType=get_custom_services&docid=022PXX22.XX22.190508181932.F9A2,022PXX22.XX22.100721173720.G5E3,022PF003128,022PXX22.XX22.100920123006.Z8S5,022PXX22.XX22.130423155808.Q2K1&ncid=10408936&city=Mumbai&catalogueType=4,4,4,4,4&menutxt=Restaurants",
+ "enable_filter": 1,
+ "dpa": "|EATR|REST|FOS|CSN|",
+ "bd_data": {},
+ "abd_data": {},
+ "bestDeal": null,
+ "bd_text": "",
+ "bd_text_orig": "",
+ "resultString": "in Mumbai",
+ "bd_msgtype": "",
+ "bd_captiontype": "",
+ "aka": "",
+ "newbddesign": "1",
+ "calltext": "",
+ "bdtextdata": "",
+ "bdtextdatali": "",
+ "paramsText": "&bd7=&magicname=bdgbp",
+ "deal_pos": "",
+ "checkin": "2026-10-28",
+ "checkout": "2026-10-29",
+ "checkpos": "2",
+ "dt_params": {
+  "fromres": "1",
+  "city": "Mumbai",
+  "area": "",
+  "pincode": "",
+  "catid": "10408936",
+  "national_catid": "10408936",
+  "catname": "Restaurants"
+ },
+ "bd_params": {
+  "bd": "1",
+  "city": "Mumbai",
+  "area": "",
+  "pncdbd": "",
+  "ncatid": "10408936",
+  "search": "Restaurants",
+  "case": "sms_email",
+  "frmpg": "lspg"
+ },
+ "cat_pop_revs": {
+  "022PXX22.XX22.190508181932.F9A2": {
+   "name": "Dhwani",
+   "rating": "5.0",
+   "review": "The food at Mao Family Restaurant is incredibly tasty! Every dish is bursting with flavor and made with fresh ingredients. It`s definitely a must-try for anyone who loves delicious Chinese cuisine.",
+   "review_date": "2026-08-03 17:25:21",
+   "pop_random": [
+    {
+     "isreview": "2",
+     "hpyreview": "1",
+     "name_enc": "k29iYMhfQiJkmlTLETNP5w==",
+     "review_date": "2026-08-03 17:25:21",
+     "rating": "5.0",
+     "review": "My breakfast experience at Mao Family Restaurant was exceptional! The trained staff were attentive and knowledgeable, ensuring every detail was perfect. They recommended delightful dishes and catered to my preferences with a smile. Their professionalism and warmth made the meal even more enjoyable. I left feeling satisfied and eager to return!",
+     "docid": "022PXX22.XX22.190508181932.F9A2",
+     "reviewer_name": "Dhwani"
+    },
+    {
+     "isreview": "2",
+     "hpyreview": "1",
+     "name_enc": "WL/DQPIq+nx2+S27lvAX3A==",
+     "review_date": "2024-12-31 12:59:49",
+     "rating": "5.0",
+     "review": "The food at Mao Family Restaurant is incredibly tasty! Every dish is bursting with flavor and made with fresh ingredients. It`s definitely a must-try for anyone who loves delicious Chinese cuisine.",
+     "docid": "022PXX22.XX22.190508181932.F9A2"
+    },
+    {
+     "isreview": "2",
+     "hpyreview": "1",
+     "name_enc": "6lexnl46Xm2fd2GYeHRFwA==",
+     "review_date": "2024-12-29 02:13:40",
+     "rating": "5.0",
+     "review": "Mao Family Restaurant serves incredibly tasty and fresh food. The portions are generous, and the delivery is always fast. I highly recommend it!",
+     "docid": "022PXX22.XX22.190508181932.F9A2"
+    }
+   ],
+   "hpyreview": "1",
+   "res_idx": 0
+  },
+  "022PXX22.XX22.260513151205.N6Q9": {
+   "name": "Aditya",
+   "rating": "5.0",
+   "review": "UDUPI 2 MUMBAI BKC is a lovely place! The service is great; the staff is friendly and helpful. The food portions are good, so you get enough to eat. Prices are reasonable, which is nice for everyone. Plus, the service is quick, so you don`t wait long for your meal. I enjoyed my visit and will come back again! Highly recommend this restaurant!",
+   "review_date": "2026-05-30 14:54:19",
+   "pop_random": [
+    {
+     "isreview": "2",
+     "hpyreview": "1",
+     "name_enc": "448d5mhhmjTzw/MGV4aTnQ==",
+     "review_date": "2026-05-30 14:54:19",
+     "rating": "5.0",
+     "review": "UDUPI 2 MUMBAI BKC is a lovely place! The service is great; the staff is friendly and helpful. The food portions are good, so you get enough to eat. Prices are reasonable, which is nice for everyone. Plus, the service is quick, so you don`t wait long for your meal. I enjoyed my visit and will come back again! Highly recommend this restaurant!",
+     "docid": "022PXX22.XX22.260513151205.N6Q9",
+     "reviewer_name": "Aditya"
+    },
+    {
+     "isreview": "1",
+     "hpyreview": "0",
+     "name_enc": "+ZH/qLiWRZZreJ3Nk4wSJg==",
+     "review_date": "2026-10-03 01:18:42",
+     "rating": "5.0",
+     "review": "Delicious food ,good service & attractive decent place",
+     "docid": "022PXX22.XX22.260513151205.N6Q9"
+    }
+   ],
+   "hpyreview": "1",
+   "res_idx": 1
+  },
+  "022PXX22.XX22.100721173720.G5E3": {
+   "name": "Jegadev",
+   "rating": "5.0",
+   "review": "Some friends suggested 7 spice RESTAURANT in lalbagh. The thali which comprised of few vegetarian dishes and naan, roti, rice, lassi and dessert was fresh and tasty. All of us enjoyed it and paid only INR 370 per person. Very reasonable and good quality, quantity, taste. The toilet in the restaurant is also acceptably clean without the usual foul odour. We recommend this restaurant to all foodies.",
+   "review_date": "2026-04-07 08:06:33",
+   "pop_random": [
+    {
+     "isreview": "2",
+     "hpyreview": "1",
+     "name_enc": "u+dsjne2J+S9uzmZmxdIig==",
+     "review_date": "2026-04-07 08:06:33",
+     "rating": "5.0",
+     "review": "Nestled in a charming corner, 7 Spice Restaurant offers an unforgettable dining experience. The generous portions ensure you leave satisfied, while the romantic ambiance sets the perfect mood for couples. From flavorful dishes to attentive service, every detail is crafted with care. Ideal for date nights or special occasions, 7 Spice truly delivers on quality and atmosphere. Highly recommended!",
+     "docid": "022PXX22.XX22.100721173720.G5E3",
+     "reviewer_name": "Jegadev"
+    },
+    {
+     "isreview": "2",
+     "hpyreview": "0",
+     "name_enc": "PhstBFhKW1atOJQYnFPyag==",
+     "review_date": "2023-02-28 22:32:05",
+     "rating": "5.0",
+     "review": "This cozy restaurant has left the best impressions! Hospitable hosts, delicious dishes, beautiful presentation, wide wine list and wonderful dessert. I recommend to everyone! I would like to come back here again and again.It`s a great experience. The ambiance is very welcoming and charming. Amazing wines, food and service. Staff are extremely knowledgeable and make great recommendations.",
+     "docid": "022PXX22.XX22.100721173720.G5E3"
+    },
+    {
+     "isreview": "2",
+     "hpyreview": "0",
+     "name_enc": "zp9bSWwJSYMUuWeBVnGRWG2Gpv+PUxnRs4sUeEXw9Gg=",
+     "review_date": "2023-02-25 10:10:51",
+     "rating": "5.0",
+     "review": "Some friends suggested 7 spice RESTAURANT in lalbagh. The thali which comprised of few vegetarian dishes and naan, roti, rice, lassi and dessert was fresh and tasty. All of us enjoyed it and paid only INR 370 per person. Very reasonable and good quality, quantity, taste. The toilet in the restaurant is also acceptably clean without the usual foul odour. We recommend this restaurant to all foodies.",
+     "docid": "022PXX22.XX22.100721173720.G5E3"
+    }
+   ],
+   "hpyreview": "1",
+   "res_idx": 2
+  },
+  "022PXX22.XX22.210924125756.Q4W6": {
+   "name": "sagar borude",
+   "rating": "5.0",
+   "review": "Ambiance and staff both are the first things that bring a person back to any place! And here, both are really incredible. Food of course has to be good, who otherwise would visit again! Great time with family in the pinewood restaurant! Chicken sonali kababs are delicious in starters or Chicken curry with steamed rice! Both dishes were done to our liking and so were the prawns. Will surely visit again!",
+   "review_date": "2023-02-24 14:11:27",
+   "pop_random": [
+    {
+     "isreview": "2",
+     "hpyreview": "0",
+     "name_enc": "u9ZCH/MpWgrvvDMjjKFfGQ==",
+     "review_date": "2023-02-24 14:11:27",
+     "rating": "5.0",
+     "review": "Ambiance and staff both are the first things that bring a person back to any place! And here, both are really incredible. Food of course has to be good, who otherwise would visit again! Great time with family in the pinewood restaurant! Chicken sonali kababs are delicious in starters or Chicken curry with steamed rice! Both dishes were done to our liking and so were the prawns. Will surely visit again!",
+     "docid": "022PXX22.XX22.210924125756.Q4W6",
+     "reviewer_name": "sagar borude"
+    },
+    {
+     "isreview": "1",
+     "hpyreview": "0",
+     "name_enc": "8PItT/whczZSY/mx3wYVTQ==",
+     "review_date": "2025-04-30 13:26:48",
+     "rating": "5.0",
+     "review": "Very good e restaurant..",
+     "docid": "022PXX22.XX22.210924125756.Q4W6"
+    }
+   ],
+   "res_idx": 3
+  },
+  "022PXX22.XX22.140610161826.M3A8": {
+   "name": "prathamesh wagh",
+   "rating": "5.0",
+   "review": "Hotel Yatrik Family Restaurant & Bar serves very tasty food! The flavors are wonderful, and every dish is made with care. I love the variety on the menu; there is something for everyone. The staff is friendly and helpful, making my meal even better. The atmosphere is nice, too! I always enjoy my time here. Highly recommend it for a great meal!",
+   "review_date": "2025-12-05 23:00:55",
+   "pop_random": [
+    {
+     "isreview": "2",
+     "hpyreview": "1",
+     "name_enc": "QV1IGgwWXahi3KD+OfIZQA==",
+     "review_date": "2025-12-05 23:00:55",
+     "rating": "5.0",
+     "review": "Hotel Yatrik Family Restaurant & Bar is amazing! The food portions are very big, so you get a lot for your money. I loved the variety on the menu. The service was excellent; the staff were friendly and quick. They made us feel welcome and took care of us very well. I had a great time here and will come back again! Highly recommended!",
+     "docid": "022PXX22.XX22.140610161826.M3A8",
+     "reviewer_name": "prathamesh wagh"
+    },
+    {
+     "isreview": "2",
+     "hpyreview": "1",
+     "name_enc": "eQWKRHvdoRqgoYpFxRYebA==",
+     "review_date": "2025-12-03 22:50:19",
+     "rating": "5.0",
+     "review": "Hotel Yatrik Family Restaurant & Bar serves very tasty food! The flavors are wonderful, and every dish is made with care. I love the variety on the menu; there is something for everyone. The staff is friendly and helpful, making my meal even better. The atmosphere is nice, too! I always enjoy my time here. Highly recommend it for a great meal!",
+     "docid": "022PXX22.XX22.140610161826.M3A8"
+    },
+    {
+     "isreview": "2",
+     "hpyreview": "1",
+     "name_enc": "rqohQMcX/Uqp87EK/6IpyA==",
+     "review_date": "2025-11-29 22:24:58",
+     "rating": "5.0",
+     "review": "Hotel Yatrik Family Restaurant & Bar is a great place to eat! The food portions are very good. You get a lot for your money, which makes every meal special. The atmosphere is friendly and fun, perfect for families and friends. I really enjoyed my time here! If you want tasty food with big servings, this is the place to go. Highly recommend it!",
+     "docid": "022PXX22.XX22.140610161826.M3A8"
+    }
+   ],
+   "hpyreview": "1",
+   "res_idx": 4
+  },
+  "022PXX22.XX22.241204131600.H4A2": {
+   "name": "Gaurav Singh",
+   "rating": "5.0",
+   "review": "I had an excellent experience at Cafe Gulshan. The restaurant offered good quantity of food at a very reasonable price, making it worth the money. It is definitely group-friendly, which is great for gatherings with friends or family. Overall, I was impressed with the value and quality of the food at Cafe Gulshan.",
+   "review_date": "2025-01-29 15:52:44",
+   "pop_random": [
+    {
+     "isreview": "2",
+     "hpyreview": "1",
+     "name_enc": "ySnrNN5OyM0HSYQZymIKbQ==",
+     "review_date": "2025-01-29 15:52:44",
+     "rating": "5.0",
+     "review": "I had an excellent experience at Cafe Gulshan. The restaurant offered good quantity of food at a very reasonable price, making it worth the money. It is definitely group-friendly, which is great for gatherings with friends or family. Overall, I was impressed with the value and quality of the food at Cafe Gulshan.",
+     "docid": "022PXX22.XX22.241204131600.H4A2",
+     "reviewer_name": "Gaurav Singh"
+    }
+   ],
+   "hpyreview": "1",
+   "res_idx": 5
+  },
+  "022PF003128": {
+   "name": "RODRIGUES",
+   "rating": "5.0",
+   "review": "My experience at New Lucky Restaurant was excellent! The trained staff provided attentive service, ensuring my needs were met promptly. The food, arriving within 10-20 minutes, was both tasty and generous in portion. With reasonable prices and complimentary drinks, the value was outstanding. I enjoyed the outdoor seating and free Wi-Fi, making for a delightful weekend dinner!",
+   "review_date": "2025-03-31 12:44:02",
+   "pop_random": [
+    {
+     "isreview": "2",
+     "hpyreview": "1",
+     "name_enc": "732zHT8qvyJpuGAiYUXXKA==",
+     "review_date": "2025-03-31 12:44:02",
+     "rating": "5.0",
+     "review": "My experience at New Lucky Restaurant was excellent! The trained staff provided attentive service, ensuring my needs were met promptly. The food, arriving within 10-20 minutes, was both tasty and generous in portion. With reasonable prices and complimentary drinks, the value was outstanding. I enjoyed the outdoor seating and free Wi-Fi, making for a delightful weekend dinner!",
+     "docid": "022PF003128",
+     "reviewer_name": "RODRIGUES"
+    },
+    {
+     "isreview": "2",
+     "hpyreview": "0",
+     "name_enc": "DD5X8bI1zmXtKNx06FSivw==",
+     "review_date": "2023-02-28 23:34:04",
+     "rating": "5.0",
+     "review": "What really impressed me, however, was the attention to detail and care that went into every aspect of the delivery. From the packaging materials to the utensils and napkins, everything was thoughtfully selected and of high quality, making the entire experience feel special and memorable.",
+     "docid": "022PF003128"
+    },
+    {
+     "isreview": "2",
+     "hpyreview": "0",
+     "name_enc": "96fIvfmmQnP4lnV6Q9hYEA==",
+     "review_date": "2023-02-24 23:14:22",
+     "rating": "5.0",
+     "review": "This place takes Indian cuisine and flavors to another level. Foods flavorful and service is great. Don`t under estimate the portion size coz you`d surely be full by end of this meal. Thanks to Mr Sarfaraz and his team for curated service and taking us through this experience.",
+     "docid": "022PF003128"
+    }
+   ],
+   "hpyreview": "1",
+   "res_idx": 7
+  },
+  "022PXX22.XX22.100920123006.Z8S5": {
+   "name": "Rohit raut",
+   "rating": "5.0",
+   "review": "Sai Palace Hotel & Garden is a hidden gem for food lovers! The restaurant offers an exquisite menu featuring fresh, locally sourced ingredients that elevate every dish. From the vibrant salads to the mouthwatering mains, each bite bursts with flavor. The serene garden setting enhances the dining experience, making it perfect for both casual meals and special occasions. Highly recommended for anyone seeking quality cuisine in a beautiful atmosphere!",
+   "review_date": "2025-12-05 17:32:33",
+   "pop_random": [
+    {
+     "isreview": "2",
+     "hpyreview": "1",
+     "name_enc": "S0wItbFHfh/zI1zdKQvgpA==",
+     "review_date": "2025-12-05 17:32:33",
+     "rating": "5.0",
+     "review": "Sai Palace Hotel & Garden is a hidden gem for food lovers! The restaurant offers an exquisite menu featuring fresh, locally sourced ingredients that elevate every dish. From the vibrant salads to the mouthwatering mains, each bite bursts with flavor. The serene garden setting enhances the dining experience, making it perfect for both casual meals and special occasions. Highly recommended for anyone seeking quality cuisine in a beautiful atmosphere!",
+     "docid": "022PXX22.XX22.100920123006.Z8S5",
+     "reviewer_name": "Rohit raut"
+    },
+    {
+     "isreview": "2",
+     "hpyreview": "0",
+     "name_enc": "QxdBpBaaPX48vIDyaBEDYw==",
+     "review_date": "2023-02-28 16:38:55",
+     "rating": "5.0",
+     "review": "Went to enjoy the buffet here at the restaurant. I definitely would recommend this place. The buffet is reasonably priced with good variety and tasty food. You will visit it more than once, if you try it. They also have DJ nights and live music. The staff is friendly and helpful.",
+     "docid": "022PXX22.XX22.100920123006.Z8S5"
+    },
+    {
+     "isreview": "2",
+     "hpyreview": "0",
+     "name_enc": "OOlXsHdm4rTnBX4nvVoeBg==",
+     "review_date": "2023-02-25 20:23:51",
+     "rating": "5.0",
+     "review": "Iconic restaurant of Mumbai , bust most of the times . This place has been patronised by celebrities , Sachin , Salman Khan are some of the celebrities who have been here . The Biryani is average , strange enough found the home delivered Biryani better than the biryani served out here which is bizarre !",
+     "docid": "022PXX22.XX22.100920123006.Z8S5"
+    }
+   ],
+   "hpyreview": "1",
+   "res_idx": 8
+  },
+  "022PXX22.XX22.130423155808.Q2K1": {
+   "name": "LAXMI",
+   "rating": "5.0",
+   "review": "Central Lunch Home has a friendly staff who make you feel at home. The tasty food is authentic and delicious. An excellent place to experience authentic cuisine.",
+   "review_date": "2024-07-24 11:29:59",
+   "pop_random": [
+    {
+     "isreview": "2",
+     "hpyreview": "0",
+     "name_enc": "0FB+P0wUKuQ67+FsHNA41A==",
+     "review_date": "2024-07-24 11:29:59",
+     "rating": "5.0",
+     "review": "Central Lunch Home has a friendly staff who make you feel at home. The tasty food is authentic and delicious. An excellent place to experience authentic cuisine.",
+     "docid": "022PXX22.XX22.130423155808.Q2K1",
+     "reviewer_name": "LAXMI"
+    },
+    {
+     "isreview": "2",
+     "hpyreview": "0",
+     "name_enc": "b+Blora6NY+kGj67CuK5Dw==",
+     "review_date": "2023-02-10 11:58:57",
+     "rating": "5.0",
+     "review": "Nice food n good quantity nice place to visit with friends n family do visit this place there are very clean they will always help you in any problem They are best in the service best place  that I have ever seen until now. i suggest to visit the place",
+     "docid": "022PXX22.XX22.130423155808.Q2K1"
+    },
+    {
+     "isreview": "1",
+     "hpyreview": "0",
+     "name_enc": "Ml1HmUdCU3zRkzDnI5MkBg==",
+     "review_date": "2018-09-19 23:43:34",
+     "rating": "5.0",
+     "review": "Excellent and good service",
+     "docid": "022PXX22.XX22.130423155808.Q2K1"
+    }
+   ],
+   "res_idx": 9
+  }
+ },
+ "data_i_track": [],
+ "common_event_data": {
+  "type": "",
+  "catid": "10408936",
+  "city": "",
+  "nct": "10408936",
+  "vid": "",
+  "wap": true,
+  "pin": "400097",
+  "search_type": "P",
+  "isB2B": "0",
+  "bi_lang": ""
+ },
+ "pop_city": {
+  "heading": "Show Results Near You",
+  "heading_subtxt": "Show Results Near You",
+  "pos": 9,
+  "data": [
+   {
+    "city": "Ahmedabad"
+   },
+   {
+    "city": "Bangalore"
+   },
+   {
+    "city": "Chennai"
+   },
+   {
+    "city": "Delhi"
+   },
+   {
+    "city": "Hyderabad"
+   },
+   {
+    "city": "Kolkata"
+   },
+   {
+    "city": "Mumbai"
+   },
+   {
+    "city": "Pune"
+   },
+   {
+    "city": "Jaipur"
+   }
+  ]
+ },
+ "override_bd": 0,
+ "override_bd_arr": [],
+ "lng_arr": {
+  "helpful_txt": "Were our search results helpful?",
+  "yes": "Yes",
+  "no": "No",
+  "rslt_near": "Find Results near you",
+  "dt_loc": "Use Precise Location",
+  "ad_lst": "Additional Listing Information",
+  "lst_rev": "Latest Customer Reviews",
+  "rcd_prod": "Recommended Products For You",
+  "view_prd": "View All Products",
+  "also_srch": "People Also Search For",
+  "job_txt": "Are you looking for job?"
+ },
+ "tbl_hdr": {
+  "cn": "Name",
+  "ad": "Address",
+  "yr": "Year of Establishment",
+  "web": "Website",
+  "am": "Ameneties",
+  "sr": "Services",
+  "rt": "Rating",
+  "rv": "No. of Reviews",
+  "tc": "Listed Categories"
+ },
+ "other": 0,
+ "noarea": null,
+ "tabs": null,
+ "stringdetail": "Based on,others have rated this,other have rated this,view all,call,message,share,direction,have rated this,your friend,be first among your friends to rate",
+ "stringdetaileng": "Based on,others have rated this,other have rated this,view all,call,message,share,direction,have rated this,your friend,be first among your friends to rate",
+ "core": "&corecat=1",
+ "rhs": 1,
+ "error": {
+  "status": 1,
+  "fallbacksearch": "Restaurants",
+  "rstatus": 200,
+  "rurl": "",
+  "inapp": 1
+ },
+ "phpRestime": 114.344970703125,
+ "search_id": "0dd6a26f8bd44faf91a360cf9cadc8fe91fae6486dcf2c11bf96aa4aacc89bb5",
+ "GPREFETCH": "FALSE"
+}

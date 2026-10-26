@@ -1,0 +1,11 @@
+services:
+  justdial-scraper:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
+      # Optional on a home or office connection. On a cloud server Justdial
+      # answers a blank page: set a residential proxy.
+      # - JUSTDIAL_PROXY=http://user:pass@host:port

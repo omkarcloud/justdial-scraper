@@ -1,0 +1,4381 @@
+{
+ "isVendor": false,
+ "userLocation": {
+  "area": "",
+  "pincode": "",
+  "lat": "",
+  "long": "",
+  "city": "Mumbai"
+ },
+ "query": {
+  "city": "Mumbai",
+  "search": "Restaurants-in-Andheri-West",
+  "ncatid": "nct-10408936"
+ },
+ "pd": "7a23607475696e7368726465233b67606d72642d2365607560233b7a7c7c",
+ "pageConfig": {
+  "pageName": "results",
+  "rewriteLocationCookies": true
+ },
+ "nearmeCity": "Mumbai",
+ "resultsAreaInfo": {
+  "area": "Andheri West",
+  "areaUpdatedByListing": ""
+ },
+ "akmData": {
+  "Continent": "AS",
+  "Ak_City": "LUDHIANA",
+  "Cntry": "IN"
+ },
+ "referer": "gen",
+ "askLoc": 0,
+ "ct": "Mumbai",
+ "lat": "",
+ "long": "",
+ "search": "Restaurants-in-Andheri-West",
+ "ncatid": "10408936",
+ "bot": 0,
+ "llmBot": 0,
+ "listData": {
+  "results": {
+   "columns": [
+    "docid",
+    "name",
+    "distance",
+    "NewAddress",
+    "lat",
+    "lon",
+    "paidStatus",
+    "compRating",
+    "verified",
+    "rateThis",
+    "mappointer",
+    "opstring",
+    "area",
+    "opennow",
+    "type",
+    "VNumber",
+    "totalReviews",
+    "video",
+    "city",
+    "thumbnail",
+    "totJdReviews",
+    "favflag",
+    "attr_data",
+    "an",
+    "shopfront",
+    "ishotel",
+    "vertical",
+    "vertical_name",
+    "discount_Offer",
+    "vertical_data",
+    "position_flag",
+    "Jadoopic",
+    "sharedt_url",
+    "cancall",
+    "wpnumber",
+    "action_node",
+    "idxno",
+    "linefive",
+    "newadd",
+    "newaddcolor",
+    "dimages",
+    "viewchange",
+    "photocnt",
+    "pdg",
+    "nameln",
+    "NewAddressln",
+    "address_flg",
+    "ask_mobile",
+    "hcatarr",
+    "callalocation",
+    "compRatingln",
+    "catalog_flag",
+    "jdpay",
+    "ratecard",
+    "ds",
+    "inapp",
+    "bd_params",
+    "jtkr",
+    "useshare",
+    "weburl",
+    "rev",
+    "nwtaglin",
+    "tag",
+    "starhotel",
+    "revarr",
+    "offertag",
+    "ratingtag",
+    "resp_rate",
+    "pincode",
+    "guarantee",
+    "event_data",
+    "msg_pop",
+    "scd",
+    "loccity",
+    "docatt",
+    "catarray",
+    "arealn",
+    "service_catalog",
+    "is_lawyer",
+    "price_tagline",
+    "rateColor",
+    "seo_info",
+    "logo",
+    "ad_listing",
+    "card_info",
+    "dimages_tag",
+    "apiprm",
+    "extra_field"
+   ],
+   "data": [
+    [
+     "022PXX22.XX22.240424184152.B1W8",
+     "Raju Champaran Meat House",
+     "",
+     "Next to Cafe Shimla Andheri West",
+     "19.1446929",
+     "72.8311865",
+     "6",
+     "3.8",
+     "1",
+     1,
+     "1",
+     {
+      "status": "<span class=\"font14 fw400 els color339\">Opens at </span><span class=\"font14 fw400 color111\">12:30 PM</span>",
+      "timing": "12:30 pm - 12:00 am"
+     },
+     "New Link Road Andheri West",
+     0,
+     "Restaurants, North Indian Restaurants",
+     "08460236463",
+     "56 Ratings",
+     "",
+     "mumbai",
+     "https://content.jdmagicbox.com/v2/comp/mumbai/w8/022pxx22.xx22.240424184152.b1w8/catalogue/o9jkwq3hoke6xnm-0t6d0a1rms-250.jpg",
+     "56",
+     0,
+     {
+      "node1": "",
+      "node2": "<span class=\"font14 fw400 color111\">₹ 550 Price for two</span>",
+      "node3": [
+       "<span class=\"font14 fw400 color111\">12 Years in Business</span>",
+       0,
+       0
+      ],
+      "node1color": []
+     },
+     {},
+     0,
+     0,
+     [],
+     "restaurant",
+     "",
+     [
+      {
+       "button_text": "Order online",
+       "button_url": [
+        {
+         "url": "https://www.zomato.com/mumbai/raju-champaran-meat-house-2-oshiwara/order",
+         "text": "Zomato",
+         "img": "https://akam.cdn.jdmagicbox.com/images/icons/zomato.png",
+         "dsc": ""
+        }
+       ],
+       "button_color": [],
+       "flag": "1",
+       "hide_header": "0",
+       "skipVerif": "0",
+       "tp": "1",
+       "li": "Order online"
+      },
+      {
+       "button_text": "Menu",
+       "button_url": [
+        {
+         "url": "https://www.justdial.com/Mumbai/Raju-Champaran-Meat-House-Next-To-Cafe-Shimla-Andheri-West/022PXX22-XX22-240424184152-B1W8_BZDET/menu?source=77&cdata=&native=&version=&hide_header=1&sid=",
+         "text": "",
+         "img": "",
+         "dsc": ""
+        }
+       ],
+       "button_color": [],
+       "flag": "1",
+       "hide_header": "0",
+       "skipVerif": "0",
+       "tp": "0",
+       "li": "Menu"
+      }
+     ],
+     "1",
+     "https://content2.jdmagicbox.com/checkin/mumbai/022PXX22.XX22.240424184152.B1W8.jpg",
+     "https://www.justdial.com/DT-43HLQ2B73ZJ",
+     1,
+     [],
+     "",
+     1,
+     "",
+     "",
+     "",
+     [
+      "https://content.jdmagicbox.com/v2/comp/mumbai/w8/022pxx22.xx22.240424184152.b1w8/catalogue/o9jkwq3hoke6xnm-0t6d0a1rms.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/w8/022pxx22.xx22.240424184152.b1w8/catalogue/raju-champaran-meat-house-andheri-west-mumbai-restaurants-7ty5dzx.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/w8/022pxx22.xx22.240424184152.b1w8/catalogue/raju-champaran-meat-house-andheri-west-mumbai-restaurants-yy4708b.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/w8/022pxx22.xx22.240424184152.b1w8/catalogue/raju-champaran-meat-house-andheri-west-mumbai-restaurants-3utluj4.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/w8/022pxx22.xx22.240424184152.b1w8/catalogue/raju-champaran-meat-house-andheri-west-mumbai-restaurants-l1rjeef.jpg"
+     ],
+     [
+      0,
+      2,
+      0
+     ],
+     "37",
+     "P",
+     "Raju Champaran Meat House",
+     "Next to Cafe Shimla Andheri West",
+     1,
+     0,
+     {
+      "id": 11400104,
+      "nid": 11400104,
+      "name": "Inexpensive North Indian Restaurants Below Rs 500",
+      "lin": ""
+     },
+     "8wrRUgvGhZBQp3gsIkCGhqz4%2BO4FBKpdSIMRe3Yg2zk%3D",
+     "3.8",
+     0,
+     {
+      "img": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/newprot/ctlgjdpay2x.png",
+      "redirection_url": ""
+     },
+     {},
+     "0",
+     1,
+     {
+      "did": "022PXX22.XX22.240424184152.B1W8",
+      "cmp_params": {
+       "bcity": "Mumbai",
+       "barea": "Andheri West",
+       "bpncdbd": "400053",
+       "paidstatus": "6",
+       "misc": "8589934592",
+       "ask_mobile": 0
+      },
+      "bilang": ""
+     },
+     "ttyUebYRcHFPh099%2B8MT3MyG9heUAAZbfGUnpkOP%2FXw%3D",
+     0,
+     "Mumbai/Raju-Champaran-Meat-House-Next-To-Cafe-Shimla-Andheri-West/022PXX22-XX22-240424184152-B1W8_BZDET",
+     "",
+     [
+      "Delivery",
+      "North Indian",
+      "Bihari"
+     ],
+     [
+      {
+       "tag_name": "Most searched",
+       "bg_colour": "#5271dd",
+       "txt_colour": "#FFFFFF",
+       "tag_image": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/topsearch.svg"
+      }
+     ],
+     "",
+     [],
+     {},
+     [],
+     {
+      "lead": "32",
+      "lead_resp": "2",
+      "avg_resp_time_sec": "",
+      "tformat": "",
+      "color": "#339D3A",
+      "lead_txt": "32 people recently enquired",
+      "resp_txt": ""
+     },
+     "400053",
+     "",
+     {
+      "cname": "Raju Champaran Meat House",
+      "docid": "022PXX22.XX22.240424184152.B1W8",
+      "rating": "3.8",
+      "rating_cnt": "56",
+      "city": "Mumbai",
+      "dcity": "mumbai",
+      "area": "Andheri West",
+      "pin": "400053",
+      "ds": "0",
+      "pdg": "P",
+      "paid": "6",
+      "jd_verified": "1",
+      "guarantee": "",
+      "trust": "0",
+      "verified": "0",
+      "pos": 1,
+      "tag": "Most searched",
+      "cta_name": "Order online TP",
+      "call_cta": "3",
+      "deals": "",
+      "jd_cash": "",
+      "isb2b": "0",
+      "miscellaneous_flag": "18875656",
+      "distance": "",
+      "core_distance": "1.7087143003066556",
+      "search_type": "P",
+      "services": 0,
+      "jdm_eligible": 0,
+      "b2b_flag": "0",
+      "opt": null,
+      "price_count": 0,
+      "catalog_flag": "1024",
+      "state": "Maharashtra",
+      "abbr": "EATR,REST,FOS,CSN",
+      "ntp": 0,
+      "high_call": 0,
+      "total_listing_count": 100
+     },
+     1,
+     "43HLQ2B73ZJ",
+     "Mumbai",
+     [
+      {
+       "h": "1",
+       "d": "<span class=\"font14 fw400 els color339\">Opens at </span><span class=\"font14 fw400 color111\">12:30 PM</span>"
+      },
+      {
+       "h": 1,
+       "d": "<span class=\"font14 fw400 color111\">₹ 550 Price for two</span>"
+      }
+     ],
+     [],
+     "Andheri West",
+     [],
+     0,
+     [],
+     "#108723",
+     [],
+     "",
+     0,
+     [
+      {
+       "t": "rating",
+       "d": [
+        {
+         "tag_key": "rating",
+         "tagText": "3.8",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0,
+         "bg": "#108723"
+        },
+        {
+         "tag_key": "reviews",
+         "tagText": "56 Ratings",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0
+        },
+        {
+         "tag_key": "tag",
+         "tagText": "",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/topsearch.svg",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "address",
+       "d": [
+        {
+         "tag_key": "address",
+         "tagText": "New Link Road Andheri West, Mumbai",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/results_locat_icon.svg",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "oth",
+       "d": [
+        {
+         "tag_key": "timings",
+         "tagText": "<span class=\"font14 fw400 els color339 ml-5\">Opens at </span><span class=\"font14 fw400 color111\">12:30 PM</span>",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 1
+        },
+        {
+         "tag_key": "price",
+         "tagText": "",
+         "desc": "<div role=\"presentation\" tabindex=\"-1\" class=\"font15 fw400 color111 rupicon\"><span class=\"font14 fw400 color111\"><span class=\"dtcmrupicon\">₹</span> 550 Price for two</span></div>",
+         "icon": "",
+         "link": "",
+         "html": 1
+        }
+       ]
+      },
+      {
+       "t": "ctlg",
+       "d": [
+        {
+         "tag_key": "ctlg",
+         "ctlg_type": 1,
+         "display_type": 4,
+         "tagText": "",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0,
+         "data": []
+        }
+       ]
+      }
+     ],
+     [
+      "0t6d0a1rms",
+      "7ty5dzx",
+      "yy4708b",
+      "3utluj4",
+      "l1rjeef"
+     ],
+     "",
+     []
+    ],
+    [
+     "022PXX22.XX22.140825190243.K9L1",
+     "Yasin's Food Inn",
+     "",
+     "Near Lokhandwala Market Near Mcdonalds Lokhandwala Complex andheri West",
+     "19.1413929",
+     "72.8255403",
+     "6",
+     "4",
+     "1",
+     1,
+     "1",
+     {
+      "status": "<span class=\"font14 fw500 els color339\">Open</span> <span class=\"font14 fw500 color111\"> until 2:30 am</span>",
+      "timing": "11:30 am - 2:30 am"
+     },
+     "Lokhandwala Complex-andheri West",
+     1,
+     "Restaurants, North Indian Restaurants",
+     "09035264703",
+     "16,247 Ratings",
+     "",
+     "Mumbai",
+     "https://content.jdmagicbox.com/v2/comp/mumbai/l1/022pxx22.xx22.140825190243.k9l1/catalogue/yasin-s-food-inn-lokhandwala-complex-andheri-west-mumbai-north-indian-restaurants-8kvcx8ywzy-250.jpg",
+     "16,247",
+     0,
+     {
+      "node1": "",
+      "node2": "<span class=\"font14 fw400 color111\">₹ 900 Price for two</span>",
+      "node3": [
+       "<span class=\"font14 fw400 color111\">39 Years in Business</span>",
+       1,
+       1
+      ],
+      "node1color": []
+     },
+     {},
+     0,
+     0,
+     [],
+     "restaurant",
+     "",
+     [
+      {
+       "button_text": "Order online",
+       "button_url": [
+        {
+         "url": "https://www.swiggy.com/restaurants/yasins-food-inn-andheri-lokhandwala-andheri-west-mumbai-216567",
+         "text": "Swiggy",
+         "img": "https://akam.cdn.jdmagicbox.com/images/icons/swiggy.png",
+         "dsc": ""
+        },
+        {
+         "url": "https://www.zomato.com/mumbai/yasins-food-inn-andheri-lokhandwala/order",
+         "text": "Zomato",
+         "img": "https://akam.cdn.jdmagicbox.com/images/icons/zomato.png",
+         "dsc": ""
+        }
+       ],
+       "button_color": [],
+       "flag": "1",
+       "hide_header": "0",
+       "skipVerif": "0",
+       "tp": "1",
+       "li": "Order online"
+      },
+      {
+       "button_text": "Menu",
+       "button_url": [
+        {
+         "url": "https://www.justdial.com/Mumbai/Yasins-Food-Inn-Near-Lokhandwala-Market-Near-Mcdonalds-Lokhandwala-Complex-Andheri-West/022PXX22-XX22-140825190243-K9L1_BZDET/menu?source=77&cdata=&native=&version=&hide_header=1&sid=",
+         "text": "",
+         "img": "",
+         "dsc": ""
+        }
+       ],
+       "button_color": [],
+       "flag": "1",
+       "hide_header": "0",
+       "skipVerif": "0",
+       "tp": "0",
+       "li": "Menu"
+      }
+     ],
+     "2",
+     "https://content2.jdmagicbox.com/checkin/mumbai/022PXX22.XX22.140825190243.K9L1.jpg",
+     "https://www.justdial.com/DT-43GM17BY",
+     1,
+     [],
+     "",
+     2,
+     "",
+     "",
+     "",
+     [
+      "https://content.jdmagicbox.com/v2/comp/mumbai/l1/022pxx22.xx22.140825190243.k9l1/catalogue/yasin-s-food-inn-lokhandwala-complex-andheri-west-mumbai-north-indian-restaurants-8kvcx8ywzy.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/l1/022pxx22.xx22.140825190243.k9l1/catalogue/yasin-s-food-inn-lokhandwala-complex-andheri-west-mumbai-north-indian-restaurants-2m87t8pyfp.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/l1/022pxx22.xx22.140825190243.k9l1/catalogue/yasin-s-food-inn-lokhandwala-complex-andheri-west-mumbai-north-indian-restaurants-9zykv4hal9.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/l1/022pxx22.xx22.140825190243.k9l1/catalogue/yasin-s-food-inn-lokhandwala-complex-andheri-west-mumbai-north-indian-restaurants-oqtf0jeo7x.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/l1/022pxx22.xx22.140825190243.k9l1/catalogue/yasin-s-food-inn-lokhandwala-complex-andheri-west-mumbai-north-indian-restaurants-pf8gih83bb.jpg"
+     ],
+     [
+      0,
+      2,
+      0
+     ],
+     "178",
+     "D",
+     "Yasin's Food Inn",
+     "Near Lokhandwala Market Near Mcdonalds Lokhandwala Complex andheri West",
+     1,
+     0,
+     {
+      "id": 11399994,
+      "nid": 11399994,
+      "name": "Moderate North Indian Restaurants Rs 500 To Rs 1000",
+      "lin": ""
+     },
+     "tfJbTArHpfBM9DNHXxHaRDvBgUUb0mDPs2Jnke1fw0k%3D",
+     "4",
+     0,
+     {
+      "img": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/newprot/ctlgjdpay2x.png",
+      "redirection_url": ""
+     },
+     {},
+     "0",
+     1,
+     {
+      "did": "022PXX22.XX22.140825190243.K9L1",
+      "cmp_params": {
+       "bcity": "Mumbai",
+       "barea": "Lokhandwala Complex-andheri West",
+       "bpncdbd": "400053",
+       "paidstatus": "6",
+       "misc": "8590080004",
+       "ask_mobile": 0
+      },
+      "bilang": ""
+     },
+     "mfrbxkNFRlYvm7RBghiCOr6nCarRy4SoCwWMQhs9v7U%3D",
+     0,
+     "Mumbai/Yasins-Food-Inn-Near-Lokhandwala-Market-Near-Mcdonalds-Lokhandwala-Complex-Andheri-West/022PXX22-XX22-140825190243-K9L1_BZDET",
+     "",
+     [
+      "Parking Available"
+     ],
+     [
+      {
+       "tag_name": "Popular",
+       "bg_colour": "#5271dd",
+       "txt_colour": "#FFFFFF",
+       "tag_image": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/popular.svg"
+      }
+     ],
+     "",
+     [],
+     {},
+     [
+      {
+       "lnKey": "",
+       "tagText": "",
+       "desc": "Parking Available",
+       "icon": "https://akam.cdn.jdmagicbox.com/images/icons/iphone/new/icd-hi-tg-parking-available.png",
+       "tagTextColor": "#111111"
+      },
+      {
+       "lnKey": -99,
+       "tagText": "Tasty food",
+       "desc": " 6 Suggestions",
+       "icon": "https://akam.cdn.jdmagicbox.com/images/icons/iphone/nd-Like-comments.png",
+       "tagTextColor": "#111111"
+      }
+     ],
+     {
+      "lead": "334",
+      "lead_resp": "87",
+      "avg_resp_time_sec": "",
+      "tformat": "",
+      "color": "#339D3A",
+      "lead_txt": "334 people recently enquired",
+      "resp_txt": ""
+     },
+     "400053",
+     "",
+     {
+      "cname": "Yasin's Food Inn",
+      "docid": "022PXX22.XX22.140825190243.K9L1",
+      "rating": "4",
+      "rating_cnt": "16247",
+      "city": "Mumbai",
+      "dcity": "Mumbai",
+      "area": "Lokhandwala Complex-andheri West",
+      "pin": "400053",
+      "ds": "0",
+      "pdg": "D",
+      "paid": "6",
+      "jd_verified": "1",
+      "guarantee": "",
+      "trust": "1",
+      "verified": "1",
+      "pos": 2,
+      "tag": "Popular",
+      "cta_name": "Order online TP",
+      "call_cta": "3",
+      "deals": "",
+      "jd_cash": "",
+      "isb2b": "0",
+      "miscellaneous_flag": "18875656",
+      "distance": "",
+      "core_distance": "1.5149847429808958",
+      "search_type": "P",
+      "services": 0,
+      "jdm_eligible": 0,
+      "b2b_flag": "0",
+      "opt": null,
+      "price_count": 0,
+      "catalog_flag": "1024",
+      "state": "Maharashtra",
+      "abbr": "EATR,REST,FOS,CSN",
+      "ntp": 0,
+      "high_call": 1
+     },
+     1,
+     "43GM17BY",
+     "Mumbai",
+     [
+      {
+       "h": "1",
+       "d": "<span class=\"font14 fw500 els color339\">Open</span> <span class=\"font14 fw500 color111\"> until 2:30 am</span>"
+      },
+      {
+       "h": 1,
+       "d": "<span class=\"font14 fw400 color111\">₹ 900 Price for two</span>"
+      }
+     ],
+     [],
+     "Lokhandwala Complex-andheri West",
+     [],
+     0,
+     [],
+     "#108723",
+     [],
+     "",
+     0,
+     [
+      {
+       "t": "rating",
+       "d": [
+        {
+         "tag_key": "rating",
+         "tagText": "4",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0,
+         "bg": "#108723"
+        },
+        {
+         "tag_key": "reviews",
+         "tagText": "16,247 Ratings",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0
+        },
+        {
+         "tag_key": "trust",
+         "tagText": "",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/trust_2x.gif",
+         "link": "",
+         "html": 0
+        },
+        {
+         "tag_key": "verified",
+         "tagText": "",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/verified_2x.gif",
+         "link": "",
+         "html": 0
+        },
+        {
+         "tag_key": "tag",
+         "tagText": "",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/popular.svg",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "address",
+       "d": [
+        {
+         "tag_key": "address",
+         "tagText": "Lokhandwala Complex-andheri West, Mumbai",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/results_locat_icon.svg",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "oth",
+       "d": [
+        {
+         "tag_key": "timings",
+         "tagText": "<span class=\"font14 fw500 els color339 ml-5\">Open</span> <span class=\"font14 fw500 color111\"> until 2:30 am</span>",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 1
+        },
+        {
+         "tag_key": "price",
+         "tagText": "",
+         "desc": "<div role=\"presentation\" tabindex=\"-1\" class=\"font15 fw400 color111 rupicon\"><span class=\"font14 fw400 color111\"><span class=\"dtcmrupicon\">₹</span> 900 Price for two</span></div>",
+         "icon": "",
+         "link": "",
+         "html": 1
+        },
+        {
+         "tag_key": "highlight",
+         "tagText": "",
+         "desc": "Parking Available",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icons/iphone/new/icd-hi-tg-parking-available.png",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "highcall",
+       "d": [
+        {
+         "tag_key": "highpk",
+         "tagText": "High call pick up rate",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/icon/library2024/HighCallpickuprate.png",
+         "link": "",
+         "html": 0,
+         "li": "high_call"
+        }
+       ]
+      },
+      {
+       "t": "ctlg",
+       "d": [
+        {
+         "tag_key": "ctlg",
+         "ctlg_type": 1,
+         "display_type": 4,
+         "tagText": "",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0,
+         "data": []
+        }
+       ]
+      }
+     ],
+     [
+      "8kvcx8ywzy",
+      "2m87t8pyfp",
+      "9zykv4hal9",
+      "oqtf0jeo7x",
+      "pf8gih83bb"
+     ],
+     "",
+     []
+    ],
+    [
+     "022PXX22.XX22.260819185724.S1T9",
+     "Rolls & Rasoi",
+     "",
+     "Next to Juben Wines Andheri West",
+     "19.1454622",
+     "72.8321964",
+     1,
+     "5",
+     "1",
+     1,
+     "1",
+     {
+      "status": "<span class=\"font14 fw400 els color339\">Opens at </span><span class=\"font14 fw400 color111\">02:00 PM</span>",
+      "timing": "2:00 pm - 2:00 am"
+     },
+     "New Link Road Andheri West",
+     0,
+     "Restaurants, North Indian Restaurants",
+     "09725132662",
+     "22 Ratings",
+     "",
+     "mumbai",
+     "https://content.jdmagicbox.com/v2/comp/mumbai/t9/022pxx22.xx22.260819185724.s1t9/catalogue/rolls-and-rasoi-andheri-west-mumbai-north-indian-restaurants-kvwbyrk1ag-250.jpg",
+     "22",
+     0,
+     {
+      "node1": "",
+      "node2": "",
+      "node3": [
+       "<span class=\"font14 fw400 color111\">1 Year in Business</span>",
+       0,
+       0
+      ],
+      "node1color": []
+     },
+     {},
+     0,
+     0,
+     [],
+     "restaurant",
+     "",
+     [],
+     "",
+     "https://content2.jdmagicbox.com/checkin/mumbai/022PXX22.XX22.260819185724.S1T9.jpg",
+     "https://www.justdial.com/DT-43RXTGSGXCF",
+     1,
+     [],
+     "",
+     3,
+     "",
+     "",
+     "",
+     [
+      "https://content.jdmagicbox.com/v2/comp/mumbai/t9/022pxx22.xx22.260819185724.s1t9/catalogue/rolls-and-rasoi-andheri-west-mumbai-north-indian-restaurants-kvwbyrk1ag.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/t9/022pxx22.xx22.260819185724.s1t9/catalogue/rolls-and-rasoi-andheri-west-mumbai-north-indian-restaurants-ya6l1tnp8v.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/t9/022pxx22.xx22.260819185724.s1t9/catalogue/rolls-and-rasoi-andheri-west-mumbai-north-indian-restaurants-u76s00skyp.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/t9/022pxx22.xx22.260819185724.s1t9/catalogue/rolls-and-rasoi-andheri-west-mumbai-north-indian-restaurants-85fqusdc87.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/t9/022pxx22.xx22.260819185724.s1t9/catalogue/rolls-and-rasoi-andheri-west-mumbai-north-indian-restaurants-m2y72zwseq.jpg"
+     ],
+     [
+      0,
+      2,
+      0
+     ],
+     "21",
+     "",
+     "Rolls & Rasoi",
+     "Next to Juben Wines Andheri West",
+     1,
+     0,
+     {
+      "id": 10339065,
+      "nid": 10339065,
+      "name": "North Indian Restaurants",
+      "lin": ""
+     },
+     "LGLuodp87s0qqQrnHGuOtkz1IfKsRcfQpLwabtKJoY0%3D",
+     "5",
+     0,
+     {
+      "img": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/newprot/ctlgjdpay2x.png",
+      "redirection_url": ""
+     },
+     {},
+     "0",
+     1,
+     {
+      "did": "022PXX22.XX22.260819185724.S1T9",
+      "cmp_params": {
+       "bcity": "Mumbai",
+       "barea": "Andheri West",
+       "bpncdbd": "400053",
+       "paidstatus": 1,
+       "misc": "8589934592",
+       "ask_mobile": 0
+      },
+      "bilang": ""
+     },
+     "v6v2wn5fYkJtwGJfzV5IH0AOylgFBlDXDdhZIqLJNA0%3D",
+     0,
+     "Mumbai/Rolls-Rasoi-Next-To-Juben-Wines-Andheri-West/022PXX22-XX22-260819185724-S1T9_BZDET",
+     "",
+     [
+      "Chinese",
+      "Multicuisine",
+      "Mughlai"
+     ],
+     [],
+     "",
+     [],
+     {},
+     [
+      {
+       "lnKey": -99,
+       "tagText": "Good quantity",
+       "desc": " 5 Suggestions",
+       "icon": "https://akam.cdn.jdmagicbox.com/images/icons/iphone/nd-Like-comments.png",
+       "tagTextColor": "#111111"
+      }
+     ],
+     {
+      "lead": "509",
+      "lead_resp": "9",
+      "avg_resp_time_sec": "",
+      "tformat": "",
+      "color": "#339D3A",
+      "lead_txt": "509 people recently enquired",
+      "resp_txt": ""
+     },
+     "400053",
+     "",
+     {
+      "cname": "Rolls & Rasoi",
+      "docid": "022PXX22.XX22.260819185724.S1T9",
+      "rating": "5",
+      "rating_cnt": "22",
+      "city": "Mumbai",
+      "dcity": "mumbai",
+      "area": "Andheri West",
+      "pin": "400053",
+      "ds": "0",
+      "pdg": "",
+      "paid": 1,
+      "jd_verified": "1",
+      "guarantee": "",
+      "trust": "0",
+      "verified": "0",
+      "pos": 3,
+      "tag": "",
+      "cta_name": "",
+      "call_cta": "3",
+      "deals": "",
+      "jd_cash": "",
+      "isb2b": "0",
+      "miscellaneous_flag": "18875656",
+      "distance": "",
+      "core_distance": 1.79,
+      "search_type": "P",
+      "services": 0,
+      "jdm_eligible": 0,
+      "b2b_flag": "0",
+      "opt": null,
+      "price_count": 0,
+      "catalog_flag": "1024",
+      "state": "Maharashtra",
+      "abbr": "EATR,REST,FOS,CSN",
+      "ntp": 0,
+      "high_call": 0
+     },
+     1,
+     "43RXTGSGXCF",
+     "Mumbai",
+     [
+      {
+       "h": "1",
+       "d": "<span class=\"font14 fw400 els color339\">Opens at </span><span class=\"font14 fw400 color111\">02:00 PM</span>"
+      },
+      {
+       "h": 1,
+       "d": 0
+      }
+     ],
+     [],
+     "Andheri West",
+     [],
+     0,
+     [],
+     "#007A0C",
+     [],
+     "",
+     0,
+     [
+      {
+       "t": "rating",
+       "d": [
+        {
+         "tag_key": "rating",
+         "tagText": "5",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0,
+         "bg": "#007A0C"
+        },
+        {
+         "tag_key": "reviews",
+         "tagText": "22 Ratings",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "address",
+       "d": [
+        {
+         "tag_key": "address",
+         "tagText": "New Link Road Andheri West, Mumbai",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/results_locat_icon.svg",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "oth",
+       "d": [
+        {
+         "tag_key": "timings",
+         "tagText": "<span class=\"font14 fw400 els color339 ml-5\">Opens at </span><span class=\"font14 fw400 color111\">02:00 PM</span>",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 1
+        },
+        {
+         "tag_key": "ratingtag",
+         "tagText": "Good quantity",
+         "desc": "5 Suggestions",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icons/iphone/nd-Like-comments.png",
+         "link": "",
+         "html": 0
+        }
+       ]
+      }
+     ],
+     [
+      "kvwbyrk1ag",
+      "ya6l1tnp8v",
+      "u76s00skyp",
+      "85fqusdc87",
+      "m2y72zwseq"
+     ],
+     "",
+     []
+    ],
+    [
+     "022PXX22.XX22.240920192729.I9S4",
+     "Persian Darbar",
+     "",
+     "Next to RTO Office Andheri West",
+     "19.1328141",
+     "72.8299092",
+     1,
+     "4.5",
+     "1",
+     1,
+     "1",
+     {
+      "status": "<span class=\"font14 fw500 els color339\">Open</span> <span class=\"font14 fw500 color111\"> until 4:00 am</span>",
+      "timing": "11:00 am - 4:00 am"
+     },
+     "RTO Road LokhandWala Andheri West",
+     1,
+     "Restaurants, Chinese Restaurants",
+     "08460513749",
+     "2,457 Ratings",
+     "1",
+     "mumbai",
+     "https://content.jdmagicbox.com/v2/comp/mumbai/s4/022pxx22.xx22.240920192729.i9s4/catalogue/persian-darbar-andheri-west-mumbai-restaurants-g39IzNVeCu-250.jpg",
+     "2,457",
+     0,
+     {
+      "node1": "",
+      "node2": "<span class=\"font14 fw400 color111\">₹ 800 Price for two</span>",
+      "node3": [
+       "<span class=\"font14 fw400 color111\">2 Years in Business</span>",
+       0,
+       0
+      ],
+      "node1color": []
+     },
+     {},
+     0,
+     0,
+     [],
+     "restaurant",
+     "",
+     [
+      {
+       "button_text": "Book a table",
+       "button_url": [
+        {
+         "url": "https://www.eazydiner.com/mumbai/persian-darbar-andheri-lokhandwala-western-suburbs-708101",
+         "text": "EazyDiner",
+         "img": "http://akam.cdn.jdmagicbox.com/images/icons/ED.png",
+         "dsc": ""
+        }
+       ],
+       "tp": "1",
+       "button_color": [],
+       "flag": "1",
+       "hide_header": "1",
+       "skipVerif": "0",
+       "li": "Book a table"
+      }
+     ],
+     "",
+     "https://content2.jdmagicbox.com/checkin/mumbai/022PXX22.XX22.240920192729.I9S4.jpg",
+     "https://www.justdial.com/DT-43FC84XKATG",
+     1,
+     [],
+     "",
+     4,
+     "",
+     "",
+     "",
+     [
+      "https://content.jdmagicbox.com/v2/comp/mumbai/s4/022pxx22.xx22.240920192729.i9s4/catalogue/persian-darbar-andheri-west-mumbai-restaurants-g39IzNVeCu.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/s4/022pxx22.xx22.240920192729.i9s4/catalogue/persian-darbar-andheri-west-mumbai-restaurants-nwpochw9lj.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/s4/022pxx22.xx22.240920192729.i9s4/catalogue/k2jj3zu430g7exq-a2pvi8h89r.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/s4/022pxx22.xx22.240920192729.i9s4/catalogue/persian-darbar-andheri-west-mumbai-biryani-restaurants-48o1f7gk5w.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/s4/022pxx22.xx22.240920192729.i9s4/catalogue/persian-darbar-andheri-west-mumbai-restaurants-p80e3pl78p.jpg"
+     ],
+     [
+      0,
+      2,
+      0
+     ],
+     "59",
+     "",
+     "Persian Darbar",
+     "Next to RTO Office Andheri West",
+     1,
+     0,
+     {
+      "id": 10047018,
+      "nid": 10047018,
+      "name": "Biryani Restaurants",
+      "lin": ""
+     },
+     "8wrRUgvGhZBQp3gsIkCGhh3ZvjLOtUWEzoh5e8wKcMc%3D",
+     "4.5",
+     0,
+     {
+      "img": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/newprot/ctlgjdpay2x.png",
+      "redirection_url": ""
+     },
+     {},
+     "0",
+     1,
+     {
+      "did": "022PXX22.XX22.240920192729.I9S4",
+      "cmp_params": {
+       "bcity": "Mumbai",
+       "barea": "Andheri West",
+       "bpncdbd": "400053",
+       "paidstatus": 1,
+       "misc": "8589934592",
+       "ask_mobile": 0
+      },
+      "bilang": ""
+     },
+     "E6V78I2TbSk1gmgJUEGQl8%2B6NGu088fdbvDm82KHrT8%3D",
+     0,
+     "Mumbai/Persian-Darbar-Next-To-Rto-Office-Andheri-West/022PXX22-XX22-240920192729-I9S4_BZDET",
+     "",
+     [
+      "Parking Available"
+     ],
+     [
+      {
+       "tag_name": "Trending",
+       "bg_colour": "#5271dd",
+       "txt_colour": "#FFFFFF",
+       "tag_image": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/trending.svg"
+      }
+     ],
+     "",
+     [],
+     {},
+     [
+      {
+       "lnKey": "",
+       "tagText": "",
+       "desc": "Parking Available",
+       "icon": "https://akam.cdn.jdmagicbox.com/images/icons/iphone/new/icd-hi-tg-parking-available.png",
+       "tagTextColor": "#111111"
+      }
+     ],
+     {
+      "lead": "508",
+      "lead_resp": "29",
+      "avg_resp_time_sec": "",
+      "tformat": "",
+      "color": "#339D3A",
+      "lead_txt": "508 people recently enquired",
+      "resp_txt": ""
+     },
+     "400053",
+     "",
+     {
+      "cname": "Persian Darbar",
+      "docid": "022PXX22.XX22.240920192729.I9S4",
+      "rating": "4.5",
+      "rating_cnt": "2457",
+      "city": "Mumbai",
+      "dcity": "mumbai",
+      "area": "Andheri West",
+      "pin": "400053",
+      "ds": "0",
+      "pdg": "",
+      "paid": 1,
+      "jd_verified": "1",
+      "guarantee": "",
+      "trust": "0",
+      "verified": "0",
+      "pos": 4,
+      "tag": "Trending",
+      "cta_name": "Book a table TP",
+      "call_cta": "3",
+      "deals": "",
+      "jd_cash": "",
+      "isb2b": "0",
+      "miscellaneous_flag": "18875656",
+      "distance": "",
+      "core_distance": 0.46,
+      "search_type": "P",
+      "services": 0,
+      "jdm_eligible": 0,
+      "b2b_flag": "0",
+      "opt": null,
+      "price_count": 0,
+      "catalog_flag": "1024",
+      "state": "Maharashtra",
+      "abbr": "EATR,REST,FOS,CSN",
+      "ntp": 0,
+      "high_call": 0
+     },
+     1,
+     "43FC84XKATG",
+     "Mumbai",
+     [
+      {
+       "h": "1",
+       "d": "<span class=\"font14 fw500 els color339\">Open</span> <span class=\"font14 fw500 color111\"> until 4:00 am</span>"
+      },
+      {
+       "h": 1,
+       "d": "<span class=\"font14 fw400 color111\">₹ 800 Price for two</span>"
+      }
+     ],
+     [],
+     "Andheri West",
+     [],
+     0,
+     [],
+     "#007A0C",
+     [],
+     "",
+     0,
+     [
+      {
+       "t": "rating",
+       "d": [
+        {
+         "tag_key": "rating",
+         "tagText": "4.5",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0,
+         "bg": "#007A0C"
+        },
+        {
+         "tag_key": "reviews",
+         "tagText": "2,457 Ratings",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0
+        },
+        {
+         "tag_key": "tag",
+         "tagText": "",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/trending.svg",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "address",
+       "d": [
+        {
+         "tag_key": "address",
+         "tagText": "RTO Road LokhandWala Andheri West, Mumbai",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/results_locat_icon.svg",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "oth",
+       "d": [
+        {
+         "tag_key": "timings",
+         "tagText": "<span class=\"font14 fw500 els color339 ml-5\">Open</span> <span class=\"font14 fw500 color111\"> until 4:00 am</span>",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 1
+        },
+        {
+         "tag_key": "price",
+         "tagText": "",
+         "desc": "<div role=\"presentation\" tabindex=\"-1\" class=\"font15 fw400 color111 rupicon\"><span class=\"font14 fw400 color111\"><span class=\"dtcmrupicon\">₹</span> 800 Price for two</span></div>",
+         "icon": "",
+         "link": "",
+         "html": 1
+        },
+        {
+         "tag_key": "highlight",
+         "tagText": "",
+         "desc": "Parking Available",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icons/iphone/new/icd-hi-tg-parking-available.png",
+         "link": "",
+         "html": 0
+        }
+       ]
+      }
+     ],
+     [
+      "g39IzNVeCu",
+      "nwpochw9lj",
+      "a2pvi8h89r",
+      "48o1f7gk5w",
+      "p80e3pl78p"
+     ],
+     "",
+     []
+    ],
+    [
+     "022PXX22.XX22.130425223852.B7Z7",
+     "Cafe Safar Family Restaurant",
+     "",
+     "Opposite Heera Panna Mall Oshiwara Andheri West",
+     "19.1395458",
+     "72.8477674",
+     1,
+     "4.2",
+     "1",
+     1,
+     "1",
+     {
+      "status": "<span class=\"font14 fw500 els color339\">Open</span> <span class=\"font14 fw500 color111\"> until 1:00 am</span>",
+      "timing": "11:00 am - 1:00 am"
+     },
+     "Oshiwara Link Road Andheri West",
+     1,
+     "Restaurants, Pizza Outlets",
+     "09845238032",
+     "9,694 Ratings",
+     "1",
+     "Mumbai",
+     "https://content.jdmagicbox.com/v2/comp/mumbai/z7/022pxx22.xx22.130425223852.b7z7/catalogue/cafe-safar-family-restaurant-andheri-west-mumbai-home-delivery-restaurants-2ezha-250.jpg",
+     "9,694",
+     0,
+     {
+      "node1": "",
+      "node2": "<span class=\"font14 fw400 color111\">₹ 1050 Price for two</span>",
+      "node3": [
+       "<span class=\"font14 fw400 color111\">10 Years in Business</span>",
+       1,
+       1
+      ],
+      "node1color": []
+     },
+     {},
+     0,
+     0,
+     [],
+     "restaurant",
+     "",
+     [
+      {
+       "button_text": "Order online",
+       "button_url": [
+        {
+         "url": "https://www.swiggy.com/restaurants/cafe-safar-chinese-biryani-shawarma-and-more-andheri-west-mumbai-35428",
+         "text": "Swiggy",
+         "img": "https://akam.cdn.jdmagicbox.com/images/icons/swiggy.png",
+         "dsc": ""
+        },
+        {
+         "url": "https://www.zomato.com/mumbai/cafe-safar-oshiwara/order",
+         "text": "Zomato",
+         "img": "https://akam.cdn.jdmagicbox.com/images/icons/zomato.png",
+         "dsc": ""
+        }
+       ],
+       "button_color": [],
+       "flag": "1",
+       "hide_header": "0",
+       "skipVerif": "0",
+       "tp": "1",
+       "li": "Order online"
+      },
+      {
+       "button_text": "Menu",
+       "button_url": [
+        {
+         "url": "https://www.justdial.com/Mumbai/Cafe-Safar-Family-Restaurant-Opposite-Heera-Panna-Mall-Oshiwara-Andheri-West/022PXX22-XX22-130425223852-B7Z7_BZDET/menu?source=77&cdata=&native=&version=&hide_header=1&sid=",
+         "text": "",
+         "img": "",
+         "dsc": ""
+        }
+       ],
+       "button_color": [],
+       "flag": "1",
+       "hide_header": "0",
+       "skipVerif": "0",
+       "tp": "0",
+       "li": "Menu"
+      }
+     ],
+     "",
+     "https://content2.jdmagicbox.com/checkin/mumbai/022PXX22.XX22.130425223852.B7Z7.jpg",
+     "https://www.justdial.com/DT-43Z8Z9R2",
+     1,
+     [],
+     "",
+     5,
+     "",
+     "",
+     "",
+     [
+      "https://content.jdmagicbox.com/v2/comp/mumbai/z7/022pxx22.xx22.130425223852.b7z7/catalogue/cafe-safar-family-restaurant-andheri-west-mumbai-home-delivery-restaurants-2ezha.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/z7/022pxx22.xx22.130425223852.b7z7/catalogue/cafe-safar-family-restaurant-andheri-west-mumbai-home-delivery-restaurants-qeavk.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/z7/022pxx22.xx22.130425223852.b7z7/catalogue/cafe-safar-family-restaurant-andheri-west-mumbai-home-delivery-restaurants-l1dtx.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/z7/022pxx22.xx22.130425223852.b7z7/catalogue/cafe-safar-family-restaurant-andheri-west-mumbai-home-delivery-restaurants-gns5b.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/z7/022pxx22.xx22.130425223852.b7z7/catalogue/cafe-safar-family-restaurant-andheri-west-mumbai-home-delivery-restaurants-z452m.jpg"
+     ],
+     [
+      0,
+      2,
+      0
+     ],
+     "30",
+     "",
+     "Cafe Safar Family Restaurant",
+     "Opposite Heera Panna Mall Oshiwara Andheri West",
+     1,
+     0,
+     {
+      "id": 11399649,
+      "nid": 11399649,
+      "name": "Fine Dining Restaurants (Rs 1000 To Rs 2000)",
+      "lin": ""
+     },
+     "UQqY00Qr9ZND6HuH3XgyKUbsvyYU2IL%2B0JBEV9gY7iY%3D",
+     "4.2",
+     0,
+     {
+      "img": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/newprot/ctlgjdpay2x.png",
+      "redirection_url": ""
+     },
+     {},
+     "0",
+     1,
+     {
+      "did": "022PXX22.XX22.130425223852.B7Z7",
+      "cmp_params": {
+       "bcity": "Mumbai",
+       "barea": "Andheri West",
+       "bpncdbd": "400053",
+       "paidstatus": 1,
+       "misc": "8590080000",
+       "ask_mobile": 0
+      },
+      "bilang": ""
+     },
+     "1UliqDwy1Q1SR5ehRbesZvNHARnPaLt3K03LevamYQI%3D",
+     0,
+     "Mumbai/Cafe-Safar-Family-Restaurant-Opposite-Heera-Panna-Mall-Oshiwara-Andheri-West/022PXX22-XX22-130425223852-B7Z7_BZDET",
+     "",
+     [
+      "Delivery",
+      "Dine-in",
+      "Chinese"
+     ],
+     [
+      {
+       "tag_name": "Quick Response",
+       "bg_colour": "#5271dd",
+       "txt_colour": "#FFFFFF",
+       "tag_image": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/responsive.svg"
+      }
+     ],
+     "",
+     [],
+     {},
+     [
+      {
+       "lnKey": -99,
+       "tagText": "Tasty food",
+       "desc": " 12 Suggestions",
+       "icon": "https://akam.cdn.jdmagicbox.com/images/icons/iphone/nd-Like-comments.png",
+       "tagTextColor": "#111111"
+      }
+     ],
+     {
+      "lead": "590",
+      "lead_resp": "166",
+      "avg_resp_time_sec": "",
+      "tformat": "",
+      "color": "#339D3A",
+      "lead_txt": "590 people recently enquired",
+      "resp_txt": ""
+     },
+     "400053",
+     "",
+     {
+      "cname": "Cafe Safar Family Restaurant",
+      "docid": "022PXX22.XX22.130425223852.B7Z7",
+      "rating": "4.2",
+      "rating_cnt": "9694",
+      "city": "Mumbai",
+      "dcity": "Mumbai",
+      "area": "Andheri West",
+      "pin": "400053",
+      "ds": "0",
+      "pdg": "",
+      "paid": 1,
+      "jd_verified": "1",
+      "guarantee": "",
+      "trust": "1",
+      "verified": "1",
+      "pos": 5,
+      "tag": "Quick Response",
+      "cta_name": "Order online TP",
+      "call_cta": "3",
+      "deals": "3",
+      "jd_cash": "",
+      "isb2b": "0",
+      "miscellaneous_flag": "18875656",
+      "distance": "",
+      "core_distance": 1.98,
+      "search_type": "P",
+      "services": 0,
+      "jdm_eligible": 0,
+      "b2b_flag": "0",
+      "opt": null,
+      "price_count": 0,
+      "catalog_flag": "1024",
+      "state": "Maharashtra",
+      "abbr": "EATR,REST,FOS,CSN",
+      "ntp": 0,
+      "high_call": 1
+     },
+     1,
+     "43Z8Z9R2",
+     "Mumbai",
+     [
+      {
+       "h": "1",
+       "d": "<span class=\"font14 fw500 els color339\">Open</span> <span class=\"font14 fw500 color111\"> until 1:00 am</span>"
+      },
+      {
+       "h": 1,
+       "d": "<span class=\"font14 fw400 color111\">₹ 1050 Price for two</span>"
+      }
+     ],
+     [],
+     "Andheri West",
+     [],
+     0,
+     [],
+     "#007A0C",
+     [],
+     "",
+     0,
+     [
+      {
+       "t": "rating",
+       "d": [
+        {
+         "tag_key": "rating",
+         "tagText": "4.2",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0,
+         "bg": "#007A0C"
+        },
+        {
+         "tag_key": "reviews",
+         "tagText": "9,694 Ratings",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0
+        },
+        {
+         "tag_key": "trust",
+         "tagText": "",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/trust_2x.gif",
+         "link": "",
+         "html": 0
+        },
+        {
+         "tag_key": "verified",
+         "tagText": "",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/verified_2x.gif",
+         "link": "",
+         "html": 0
+        },
+        {
+         "tag_key": "tag",
+         "tagText": "",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/responsive.svg",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "address",
+       "d": [
+        {
+         "tag_key": "address",
+         "tagText": "Oshiwara Link Road Andheri West, Mumbai",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/results_locat_icon.svg",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "oth",
+       "d": [
+        {
+         "tag_key": "timings",
+         "tagText": "<span class=\"font14 fw500 els color339 ml-5\">Open</span> <span class=\"font14 fw500 color111\"> until 1:00 am</span>",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 1
+        },
+        {
+         "tag_key": "price",
+         "tagText": "",
+         "desc": "<div role=\"presentation\" tabindex=\"-1\" class=\"font15 fw400 color111 rupicon\"><span class=\"font14 fw400 color111\"><span class=\"dtcmrupicon\">₹</span> 1050 Price for two</span></div>",
+         "icon": "",
+         "link": "",
+         "html": 1
+        },
+        {
+         "tag_key": "ratingtag",
+         "tagText": "Tasty food",
+         "desc": "12 Suggestions",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icons/iphone/nd-Like-comments.png",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "ctlg",
+       "d": [
+        {
+         "tag_key": "ctlg",
+         "ctlg_type": 1,
+         "display_type": 4,
+         "tagText": "",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0,
+         "data": []
+        }
+       ]
+      },
+      {
+       "t": "offr",
+       "d": [
+        {
+         "tag_key": "offrcnt",
+         "tagText": "3 Offers",
+         "desc": "",
+         "icon": "",
+         "icon_arr": [
+          "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/swiggy_icon.png",
+          "https://akam.cdn.jdmagicbox.com/images/icons/District_Logo2.png",
+          "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/zomato_icon.png"
+         ],
+         "link": "",
+         "html": 0,
+         "li": "dining_offer"
+        },
+        {
+         "tag_key": "offrdesc",
+         "tagText": "",
+         "desc": "Flat 20% Off",
+         "icon": "",
+         "link": "",
+         "html": 0,
+         "li": "dining_offer"
+        }
+       ]
+      },
+      {
+       "t": "highcall",
+       "d": [
+        {
+         "tag_key": "highpk",
+         "tagText": "High call pick up rate",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/icon/library2024/HighCallpickuprate.png",
+         "link": "",
+         "html": 0,
+         "li": "high_call"
+        }
+       ]
+      }
+     ],
+     [
+      "2ezha",
+      "qeavk",
+      "l1dtx",
+      "gns5b",
+      "z452m"
+     ],
+     "",
+     []
+    ],
+    [
+     "022PXX22.XX22.250114191051.D2D7",
+     "Avi Veg Delight",
+     "",
+     "Above Tirumala Showroom Andheri West",
+     "19.1293499",
+     "72.8278298",
+     1,
+     "4.1",
+     "1",
+     1,
+     "1",
+     {
+      "status": "<span class=\"font14 fw500 els color339\">Open</span> <span class=\"font14 fw500 color111\"> until 11:00 pm</span>",
+      "timing": "11:00 am - 11:00 pm"
+     },
+     "Jp Road Andheri West",
+     1,
+     "Restaurants, Pure Veg Restaurants",
+     "09845437582",
+     "56 Ratings",
+     "1",
+     "mumbai",
+     "https://content.jdmagicbox.com/v2/comp/mumbai/d7/022pxx22.xx22.250114191051.d2d7/catalogue/avi-veg-delight-andheri-west-mumbai-restaurants-b9vdptblfs-250.jpg",
+     "56",
+     0,
+     {
+      "node1": "",
+      "node2": "",
+      "node3": [
+       "<span class=\"font14 fw400 color111\">2 Years in Business</span>",
+       0,
+       0
+      ],
+      "node1color": []
+     },
+     {},
+     0,
+     0,
+     [],
+     "restaurant",
+     "",
+     [
+      {
+       "button_text": "Order online",
+       "button_url": [
+        {
+         "url": "https://www.zomato.com/mumbai/avi-veg-delight-7-bungalows/order",
+         "text": "Zomato",
+         "img": "https://akam.cdn.jdmagicbox.com/images/icons/zomato.png",
+         "dsc": ""
+        }
+       ],
+       "button_color": [],
+       "flag": "1",
+       "hide_header": "0",
+       "skipVerif": "0",
+       "tp": "1",
+       "li": "Order online"
+      },
+      {
+       "button_text": "Menu",
+       "button_url": [
+        {
+         "url": "https://www.justdial.com/Mumbai/Avi-Veg-Delight-Above-Tirumala-Showroom-Andheri-West/022PXX22-XX22-250114191051-D2D7_BZDET/menu?source=77&cdata=&native=&version=&hide_header=1&sid=",
+         "text": "",
+         "img": "",
+         "dsc": ""
+        }
+       ],
+       "button_color": [],
+       "flag": "1",
+       "hide_header": "0",
+       "skipVerif": "0",
+       "tp": "0",
+       "li": "Menu"
+      }
+     ],
+     "",
+     "https://content2.jdmagicbox.com/checkin/mumbai/022PXX22.XX22.250114191051.D2D7.jpg",
+     "https://www.justdial.com/DT-43U6OPMI3TN",
+     1,
+     [],
+     "",
+     6,
+     "",
+     "",
+     "",
+     [
+      "https://content.jdmagicbox.com/v2/comp/mumbai/d7/022pxx22.xx22.250114191051.d2d7/catalogue/avi-veg-delight-andheri-west-mumbai-restaurants-b9vdptblfs.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/d7/022pxx22.xx22.250114191051.d2d7/catalogue/avi-veg-delight-andheri-west-mumbai-restaurants-bv0t78op6g.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/d7/022pxx22.xx22.250114191051.d2d7/catalogue/avi-veg-delight-andheri-west-mumbai-restaurants-zx781ved2f.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/d7/022pxx22.xx22.250114191051.d2d7/catalogue/avi-veg-delight-andheri-west-mumbai-restaurants-s1v84jvzwj.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/d7/022pxx22.xx22.250114191051.d2d7/catalogue/avi-veg-delight-andheri-west-mumbai-restaurants-q62yaiud2g.jpg"
+     ],
+     [
+      0,
+      2,
+      0
+     ],
+     "13",
+     "",
+     "Avi Veg Delight",
+     "Above Tirumala Showroom Andheri West",
+     1,
+     0,
+     {
+      "id": 10396867,
+      "nid": 10396867,
+      "name": "Pure Veg Restaurants",
+      "lin": ""
+     },
+     "iV%2B8OjLTP4rU0Ry4kMaNbYxNylQ2zpAmVcvRPY2RCXE%3D",
+     "4.1",
+     0,
+     {
+      "img": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/newprot/ctlgjdpay2x.png",
+      "redirection_url": ""
+     },
+     {},
+     "0",
+     1,
+     {
+      "did": "022PXX22.XX22.250114191051.D2D7",
+      "cmp_params": {
+       "bcity": "Mumbai",
+       "barea": "Andheri West",
+       "bpncdbd": "400053",
+       "paidstatus": 1,
+       "misc": "8589934596",
+       "ask_mobile": 0
+      },
+      "bilang": ""
+     },
+     "xmBHcLyqVNUewg69MnWff2xfD12vlizRdExIRDTrMv8%3D",
+     0,
+     "Mumbai/Avi-Veg-Delight-Above-Tirumala-Showroom-Andheri-West/022PXX22-XX22-250114191051-D2D7_BZDET",
+     "",
+     [
+      "Pure Veg"
+     ],
+     [
+      {
+       "tag_name": "Trending",
+       "bg_colour": "#5271dd",
+       "txt_colour": "#FFFFFF",
+       "tag_image": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/trending.svg"
+      }
+     ],
+     "",
+     [],
+     {},
+     [
+      {
+       "lnKey": "",
+       "tagText": "",
+       "desc": "Pure Veg",
+       "icon": "https://akam.cdn.jdmagicbox.com/images/icons/iphone/new/icd-hi-tg-pure-veg.png",
+       "tagTextColor": "#111111"
+      }
+     ],
+     {
+      "lead": "295",
+      "lead_resp": "0",
+      "avg_resp_time_sec": ""
+     },
+     "400053",
+     "",
+     {
+      "cname": "Avi Veg Delight",
+      "docid": "022PXX22.XX22.250114191051.D2D7",
+      "rating": "4.1",
+      "rating_cnt": "56",
+      "city": "Mumbai",
+      "dcity": "mumbai",
+      "area": "Andheri West",
+      "pin": "400053",
+      "ds": "0",
+      "pdg": "",
+      "paid": 1,
+      "jd_verified": "1",
+      "guarantee": "",
+      "trust": "0",
+      "verified": "0",
+      "pos": 6,
+      "tag": "Trending",
+      "cta_name": "Order online TP",
+      "call_cta": "3",
+      "deals": "",
+      "jd_cash": "",
+      "isb2b": "0",
+      "miscellaneous_flag": "18875656",
+      "distance": "",
+      "core_distance": 0.47,
+      "search_type": "P",
+      "services": 0,
+      "jdm_eligible": 0,
+      "b2b_flag": "0",
+      "opt": null,
+      "price_count": 0,
+      "catalog_flag": "1024",
+      "state": "Maharashtra",
+      "abbr": "EATR,REST,FOS,CSN",
+      "ntp": 0,
+      "high_call": 0
+     },
+     1,
+     "43U6OPMI3TN",
+     "Mumbai",
+     [
+      {
+       "h": "1",
+       "d": "<span class=\"font14 fw500 els color339\">Open</span> <span class=\"font14 fw500 color111\"> until 11:00 pm</span>"
+      },
+      {
+       "h": 1,
+       "d": 0
+      }
+     ],
+     [],
+     "Andheri West",
+     [],
+     0,
+     [],
+     "#007A0C",
+     [],
+     "",
+     0,
+     [
+      {
+       "t": "rating",
+       "d": [
+        {
+         "tag_key": "rating",
+         "tagText": "4.1",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0,
+         "bg": "#007A0C"
+        },
+        {
+         "tag_key": "reviews",
+         "tagText": "56 Ratings",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0
+        },
+        {
+         "tag_key": "tag",
+         "tagText": "",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/trending.svg",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "address",
+       "d": [
+        {
+         "tag_key": "address",
+         "tagText": "Jp Road Andheri West, Mumbai",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/results_locat_icon.svg",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "oth",
+       "d": [
+        {
+         "tag_key": "timings",
+         "tagText": "<span class=\"font14 fw500 els color339 ml-5\">Open</span> <span class=\"font14 fw500 color111\"> until 11:00 pm</span>",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 1
+        },
+        {
+         "tag_key": "highlight",
+         "tagText": "",
+         "desc": "Pure Veg",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icons/iphone/new/icd-hi-tg-pure-veg.png",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "ctlg",
+       "d": [
+        {
+         "tag_key": "ctlg",
+         "ctlg_type": 1,
+         "display_type": 4,
+         "tagText": "",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0,
+         "data": []
+        }
+       ]
+      }
+     ],
+     [
+      "b9vdptblfs",
+      "bv0t78op6g",
+      "zx781ved2f",
+      "s1v84jvzwj",
+      "q62yaiud2g"
+     ],
+     "",
+     []
+    ],
+    [
+     "022PXX22.XX22.160812221645.Q4I6",
+     "Mao Family Restaurant",
+     "",
+     "Next to Azad Nagar Metro Station Gate No 4 Andheri West",
+     "19.1265227",
+     "72.8383131",
+     1,
+     "4.1",
+     "1",
+     1,
+     "1",
+     {
+      "status": "<span class=\"font14 fw500 color339\">Open 24 Hrs</span>",
+      "timing": "<span class=\"font14 fw500 color339\">Open 24 Hrs</span>"
+     },
+     "Jai Prakash Road Andheri West",
+     1,
+     "Restaurants, North Indian Restaurants",
+     "07411670191",
+     "5,890 Ratings",
+     "",
+     "Mumbai",
+     "https://content.jdmagicbox.com/v2/comp/mumbai/i6/022pxx22.xx22.160812221645.q4i6/catalogue/mao-family-restaurant-andheri-west-mumbai-chinese-restaurants-0s1gv-250.jpg",
+     "5,890",
+     0,
+     {
+      "node1": "",
+      "node2": "<span class=\"font14 fw400 color111\">₹ 650 Price for two</span>",
+      "node3": [
+       "<span class=\"font14 fw400 color111\">10 Years in Business</span>",
+       1,
+       1
+      ],
+      "node1color": []
+     },
+     {},
+     0,
+     0,
+     [],
+     "restaurant",
+     "",
+     [
+      {
+       "button_text": "Order online",
+       "button_url": [
+        {
+         "url": "https://maofamilyrestaurant.werafoods.com/",
+         "text": "Mao Family Restaurant",
+         "img": "https://akam.cdn.jdmagicbox.com/images/icons/mao-family-restaurant-logo1.png",
+         "dsc": "GET 15% Flat Discount and Free Home Delivery"
+        },
+        {
+         "url": "https://www.swiggy.com/restaurants/mao-the-family-restaurant-azad-nagar-andheri-west-mumbai-50951",
+         "text": "Swiggy",
+         "img": "https://akam.cdn.jdmagicbox.com/images/icons/swiggy.png",
+         "dsc": ""
+        },
+        {
+         "url": "https://www.zomato.com/mumbai/mao-the-family-restaurant-azad-nagar/order",
+         "text": "Zomato",
+         "img": "https://akam.cdn.jdmagicbox.com/images/icons/zomato.png",
+         "dsc": ""
+        }
+       ],
+       "button_color": [],
+       "flag": "1",
+       "hide_header": "0",
+       "skipVerif": "0",
+       "tp": "1",
+       "li": "Order online"
+      },
+      {
+       "button_text": "Menu",
+       "button_url": [
+        {
+         "url": "https://www.justdial.com/Mumbai/Mao-Family-Restaurant-Next-To-Azad-Nagar-Metro-Station-Gate-No-4-Andheri-West/022PXX22-XX22-160812221645-Q4I6_BZDET/menu?source=77&cdata=&native=&version=&hide_header=1&sid=",
+         "text": "",
+         "img": "",
+         "dsc": ""
+        }
+       ],
+       "button_color": [],
+       "flag": "1",
+       "hide_header": "0",
+       "skipVerif": "0",
+       "tp": "0",
+       "li": "Menu"
+      }
+     ],
+     "",
+     "https://content2.jdmagicbox.com/checkin/mumbai/022PXX22.XX22.160812221645.Q4I6.jpg",
+     "https://www.justdial.com/DT-43EAAQ6QEYM",
+     1,
+     [],
+     "",
+     7,
+     "",
+     "",
+     "",
+     [
+      "https://content.jdmagicbox.com/v2/comp/mumbai/i6/022pxx22.xx22.160812221645.q4i6/catalogue/mao-family-restaurant-andheri-west-mumbai-chinese-restaurants-0s1gv.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/i6/022pxx22.xx22.160812221645.q4i6/catalogue/mao-family-restaurant-andheri-west-mumbai-k7j2l.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/i6/022pxx22.xx22.160812221645.q4i6/catalogue/mao-the-family-restaurant-andheri-west-mumbai-north-indian-restaurants-jWo2f3OLyBmyUzG.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/i6/022pxx22.xx22.160812221645.q4i6/catalogue/mao-the-family-restaurant-andheri-west-mumbai-north-indian-restaurants-1h5tiXNqwW0t7PP.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/i6/022pxx22.xx22.160812221645.q4i6/catalogue/mao-the-family-restaurant-andheri-west-mumbai-north-indian-restaurants-ydIpIrekkCMEzVZ.jpg"
+     ],
+     [
+      0,
+      2,
+      0
+     ],
+     "29",
+     "",
+     "Mao Family Restaurant",
+     "Next to Azad Nagar Metro Station Gate No 4 Andheri West",
+     1,
+     0,
+     {
+      "id": 10339065,
+      "nid": 10339065,
+      "name": "North Indian Restaurants",
+      "lin": ""
+     },
+     "G9ev1q1mGX9i2LO44sH0kLz4lqf2iYUjW4%2BzFRJKIqQ%3D",
+     "4.1",
+     0,
+     {
+      "img": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/newprot/ctlgjdpay2x.png",
+      "redirection_url": ""
+     },
+     {},
+     "0",
+     1,
+     {
+      "did": "022PXX22.XX22.160812221645.Q4I6",
+      "cmp_params": {
+       "bcity": "Mumbai",
+       "barea": "Andheri West",
+       "bpncdbd": "400058",
+       "paidstatus": 1,
+       "misc": "8590080004",
+       "ask_mobile": 0
+      },
+      "bilang": ""
+     },
+     "64OGRw6JzRI9LSS4ybfiKYMshF4IL%2B7Ef5qxlHdxTL4%3D",
+     0,
+     "Mumbai/Mao-Family-Restaurant-Next-To-Azad-Nagar-Metro-Station-Gate-No-4-Andheri-West/022PXX22-XX22-160812221645-Q4I6_BZDET",
+     "",
+     [
+      "Delivery",
+      "Dine-in",
+      "Chinese"
+     ],
+     [
+      {
+       "tag_name": "Trending",
+       "bg_colour": "#5271dd",
+       "txt_colour": "#FFFFFF",
+       "tag_image": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/trending.svg"
+      }
+     ],
+     "",
+     [],
+     {},
+     [
+      {
+       "lnKey": -99,
+       "tagText": "Clean place",
+       "desc": " 12 Suggestions",
+       "icon": "https://akam.cdn.jdmagicbox.com/images/icons/iphone/nd-Like-comments.png",
+       "tagTextColor": "#111111"
+      }
+     ],
+     {
+      "lead": "375",
+      "lead_resp": "18",
+      "avg_resp_time_sec": "",
+      "tformat": "",
+      "color": "#339D3A",
+      "lead_txt": "375 people recently enquired",
+      "resp_txt": ""
+     },
+     "400058",
+     "",
+     {
+      "cname": "Mao Family Restaurant",
+      "docid": "022PXX22.XX22.160812221645.Q4I6",
+      "rating": "4.1",
+      "rating_cnt": "5890",
+      "city": "Mumbai",
+      "dcity": "Mumbai",
+      "area": "Andheri West",
+      "pin": "400058",
+      "ds": "0",
+      "pdg": "",
+      "paid": 1,
+      "jd_verified": "1",
+      "guarantee": "",
+      "trust": "1",
+      "verified": "1",
+      "pos": 7,
+      "tag": "Trending",
+      "cta_name": "Order online TP",
+      "call_cta": "3",
+      "deals": "",
+      "jd_cash": "",
+      "isb2b": "0",
+      "miscellaneous_flag": "18875656",
+      "distance": "",
+      "core_distance": 0.71,
+      "search_type": "P",
+      "services": 0,
+      "jdm_eligible": 0,
+      "b2b_flag": "0",
+      "opt": null,
+      "price_count": 0,
+      "catalog_flag": "1024",
+      "state": "Maharashtra",
+      "abbr": "EATR,REST,FOS,CSN",
+      "ntp": 0,
+      "high_call": 0
+     },
+     1,
+     "43EAAQ6QEYM",
+     "Mumbai",
+     [
+      {
+       "h": "1",
+       "d": "<span class=\"font14 fw500 color339\">Open 24 Hrs</span>"
+      },
+      {
+       "h": 1,
+       "d": "<span class=\"font14 fw400 color111\">₹ 650 Price for two</span>"
+      }
+     ],
+     [],
+     "Andheri West",
+     [],
+     0,
+     [],
+     "#007A0C",
+     [],
+     "https://images.jdmagicbox.com/comp/mumbai/i6/022pxx22.xx22.160812221645.q4i6/logo/4a3czn55hmxcfbqxshoiqusiy3hfxzlv.jpg",
+     0,
+     [
+      {
+       "t": "rating",
+       "d": [
+        {
+         "tag_key": "rating",
+         "tagText": "4.1",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0,
+         "bg": "#007A0C"
+        },
+        {
+         "tag_key": "reviews",
+         "tagText": "5,890 Ratings",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0
+        },
+        {
+         "tag_key": "trust",
+         "tagText": "",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/trust_2x.gif",
+         "link": "",
+         "html": 0
+        },
+        {
+         "tag_key": "verified",
+         "tagText": "",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/verified_2x.gif",
+         "link": "",
+         "html": 0
+        },
+        {
+         "tag_key": "tag",
+         "tagText": "",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/trending.svg",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "address",
+       "d": [
+        {
+         "tag_key": "address",
+         "tagText": "Jai Prakash Road Andheri West, Mumbai",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/results_locat_icon.svg",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "oth",
+       "d": [
+        {
+         "tag_key": "timings",
+         "tagText": "<span class=\"font14 fw500 color339 ml-5\">Open 24 Hrs</span>",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 1
+        },
+        {
+         "tag_key": "price",
+         "tagText": "",
+         "desc": "<div role=\"presentation\" tabindex=\"-1\" class=\"font15 fw400 color111 rupicon\"><span class=\"font14 fw400 color111\"><span class=\"dtcmrupicon\">₹</span> 650 Price for two</span></div>",
+         "icon": "",
+         "link": "",
+         "html": 1
+        },
+        {
+         "tag_key": "ratingtag",
+         "tagText": "Clean place",
+         "desc": "12 Suggestions",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icons/iphone/nd-Like-comments.png",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "ctlg",
+       "d": [
+        {
+         "tag_key": "ctlg",
+         "ctlg_type": 1,
+         "display_type": 4,
+         "tagText": "",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0,
+         "data": []
+        }
+       ]
+      }
+     ],
+     [
+      "0s1gv",
+      "k7j2l",
+      "jWo2f3OLyBmyUzG",
+      "1h5tiXNqwW0t7PP",
+      "ydIpIrekkCMEzVZ"
+     ],
+     "",
+     []
+    ],
+    [
+     "022PXX22.XX22.131018123116.W1T2",
+     "High Point Veg Restaurant",
+     "",
+     "Opposite RNA Shopping Centre Lokhandwala Complex andheri West",
+     "19.1443369",
+     "72.8241389",
+     1,
+     "3.9",
+     "1",
+     1,
+     "1",
+     {
+      "status": "<span class=\"font14 fw500 els color339\">Open</span> <span class=\"font14 fw500 color111\"> until 11:30 pm</span>",
+      "timing": "9:00 am - 11:30 pm"
+     },
+     "Lokhandwala Complex-andheri West",
+     1,
+     "Restaurants, North Indian Restaurants",
+     "09845248176",
+     "12,934 Ratings",
+     "",
+     "Mumbai",
+     "https://content.jdmagicbox.com/v2/comp/mumbai/t2/022pxx22.xx22.131018123116.w1t2/catalogue/high-point-veg-restaurant-lokhandwala-complex-andheri-west-mumbai-restaurants-1k4ac3i-250.jpg",
+     "12,934",
+     0,
+     {
+      "node1": "",
+      "node2": "<span class=\"font14 fw400 color111\">₹ 1300 Price for two</span>",
+      "node3": [
+       "<span class=\"font14 fw400 color111\">39 Years in Business</span>",
+       1,
+       0
+      ],
+      "node1color": []
+     },
+     {},
+     0,
+     0,
+     [],
+     "restaurant",
+     "",
+     [
+      {
+       "button_text": "Order online",
+       "button_url": [
+        {
+         "url": "https://www.zomato.com/mumbai/high-point-andheri-lokhandwala/order",
+         "text": "Zomato",
+         "img": "https://akam.cdn.jdmagicbox.com/images/icons/zomato.png",
+         "dsc": ""
+        }
+       ],
+       "button_color": [],
+       "flag": "1",
+       "hide_header": "0",
+       "skipVerif": "0",
+       "tp": "1",
+       "li": "Order online"
+      },
+      {
+       "button_text": "Menu",
+       "button_url": [
+        {
+         "url": "https://www.justdial.com/Mumbai/High-Point-Veg-Restaurant-Opposite-Rna-Shopping-Centre-Lokhandwala-Complex-Andheri-West/022PXX22-XX22-131018123116-W1T2_BZDET/menu?source=77&cdata=&native=&version=&hide_header=1&sid=",
+         "text": "",
+         "img": "",
+         "dsc": ""
+        }
+       ],
+       "button_color": [],
+       "flag": "1",
+       "hide_header": "0",
+       "skipVerif": "0",
+       "tp": "0",
+       "li": "Menu"
+      }
+     ],
+     "",
+     "https://content2.jdmagicbox.com/checkin/mumbai/022PXX22.XX22.131018123116.W1T2.jpg",
+     "https://www.justdial.com/DT-43M5YC5C",
+     1,
+     [],
+     "",
+     8,
+     "",
+     "",
+     "",
+     [
+      "https://content.jdmagicbox.com/v2/comp/mumbai/t2/022pxx22.xx22.131018123116.w1t2/catalogue/high-point-veg-restaurant-lokhandwala-complex-andheri-west-mumbai-restaurants-1k4ac3i.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/t2/022pxx22.xx22.131018123116.w1t2/catalogue/high-point-veg-restaurant-lokhandwala-complex-andheri-west-mumbai-restaurants-w1zjm.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/t2/022pxx22.xx22.131018123116.w1t2/catalogue/high-point-veg-restaurant-lokhandwala-complex-andheri-west-mumbai-restaurants-3urlshb.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/t2/022pxx22.xx22.131018123116.w1t2/catalogue/high-point-veg-restaurant-lokhandwala-complex-andheri-west-mumbai-north-indian-restaurants-0oq5kqtiy7.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/t2/022pxx22.xx22.131018123116.w1t2/catalogue/high-point-veg-restaurant-lokhandwala-complex-andheri-west-mumbai-restaurants-apjeo.jpg"
+     ],
+     [
+      0,
+      2,
+      0
+     ],
+     "138",
+     "",
+     "High Point Veg Restaurant",
+     "Opposite RNA Shopping Centre Lokhandwala Complex andheri West",
+     1,
+     0,
+     {
+      "id": 10332161,
+      "nid": 10332161,
+      "name": "Multicuisine Restaurants",
+      "lin": ""
+     },
+     "UQqY00Qr9ZND6HuH3XgyKSNfhTXXJ40YiDsC0aUfdBI%3D",
+     "3.9",
+     0,
+     {
+      "img": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/newprot/ctlgjdpay2x.png",
+      "redirection_url": ""
+     },
+     {},
+     "0",
+     1,
+     {
+      "did": "022PXX22.XX22.131018123116.W1T2",
+      "cmp_params": {
+       "bcity": "Mumbai",
+       "barea": "Lokhandwala Complex-andheri West",
+       "bpncdbd": "400053",
+       "paidstatus": 1,
+       "misc": "131076",
+       "ask_mobile": 0
+      },
+      "bilang": ""
+     },
+     "LN21ChsMJYVF3NaRncqx5V%2FGYydR7sqS3LGWOHBwVaY%3D",
+     0,
+     "Mumbai/High-Point-Veg-Restaurant-Opposite-Rna-Shopping-Centre-Lokhandwala-Complex-Andheri-West/022PXX22-XX22-131018123116-W1T2_BZDET",
+     "",
+     [
+      "Pure Veg"
+     ],
+     [],
+     "",
+     [],
+     {},
+     [
+      {
+       "lnKey": "",
+       "tagText": "",
+       "desc": "Pure Veg",
+       "icon": "https://akam.cdn.jdmagicbox.com/images/icons/iphone/new/icd-hi-tg-pure-veg.png",
+       "tagTextColor": "#111111"
+      }
+     ],
+     {
+      "lead": "340",
+      "lead_resp": "50",
+      "avg_resp_time_sec": "",
+      "tformat": "",
+      "color": "#339D3A",
+      "lead_txt": "340 people recently enquired",
+      "resp_txt": ""
+     },
+     "400053",
+     "",
+     {
+      "cname": "High Point Veg Restaurant",
+      "docid": "022PXX22.XX22.131018123116.W1T2",
+      "rating": "3.9",
+      "rating_cnt": "12934",
+      "city": "Mumbai",
+      "dcity": "Mumbai",
+      "area": "Lokhandwala Complex-andheri West",
+      "pin": "400053",
+      "ds": "0",
+      "pdg": "",
+      "paid": 1,
+      "jd_verified": "1",
+      "guarantee": "",
+      "trust": "0",
+      "verified": "1",
+      "pos": 8,
+      "tag": "",
+      "cta_name": "Order online TP",
+      "call_cta": "3",
+      "deals": "",
+      "jd_cash": "",
+      "isb2b": "0",
+      "miscellaneous_flag": "18875656",
+      "distance": "",
+      "core_distance": 1.87,
+      "search_type": "P",
+      "services": 0,
+      "jdm_eligible": 0,
+      "b2b_flag": "0",
+      "opt": null,
+      "price_count": 0,
+      "catalog_flag": "1024",
+      "state": "Maharashtra",
+      "abbr": "EATR,REST,FOS,CSN",
+      "ntp": 0,
+      "high_call": 0
+     },
+     1,
+     "43M5YC5C",
+     "Mumbai",
+     [
+      {
+       "h": "1",
+       "d": "<span class=\"font14 fw500 els color339\">Open</span> <span class=\"font14 fw500 color111\"> until 11:30 pm</span>"
+      },
+      {
+       "h": 1,
+       "d": "<span class=\"font14 fw400 color111\">₹ 1300 Price for two</span>"
+      }
+     ],
+     [],
+     "Lokhandwala Complex-andheri West",
+     [],
+     0,
+     [],
+     "#108723",
+     [],
+     "https://images.jdmagicbox.com/mumbai/t2/022pxx22.xx22.131018123116.w1t2/logo/2bc7c5207074877fc3cc5d2145139474.jpg",
+     0,
+     [
+      {
+       "t": "rating",
+       "d": [
+        {
+         "tag_key": "rating",
+         "tagText": "3.9",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0,
+         "bg": "#108723"
+        },
+        {
+         "tag_key": "reviews",
+         "tagText": "12,934 Ratings",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0
+        },
+        {
+         "tag_key": "verified",
+         "tagText": "",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/verified_2x.gif",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "address",
+       "d": [
+        {
+         "tag_key": "address",
+         "tagText": "Lokhandwala Complex-andheri West, Mumbai",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/results_locat_icon.svg",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "oth",
+       "d": [
+        {
+         "tag_key": "timings",
+         "tagText": "<span class=\"font14 fw500 els color339 ml-5\">Open</span> <span class=\"font14 fw500 color111\"> until 11:30 pm</span>",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 1
+        },
+        {
+         "tag_key": "price",
+         "tagText": "",
+         "desc": "<div role=\"presentation\" tabindex=\"-1\" class=\"font15 fw400 color111 rupicon\"><span class=\"font14 fw400 color111\"><span class=\"dtcmrupicon\">₹</span> 1300 Price for two</span></div>",
+         "icon": "",
+         "link": "",
+         "html": 1
+        },
+        {
+         "tag_key": "highlight",
+         "tagText": "",
+         "desc": "Pure Veg",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icons/iphone/new/icd-hi-tg-pure-veg.png",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "ctlg",
+       "d": [
+        {
+         "tag_key": "ctlg",
+         "ctlg_type": 1,
+         "display_type": 4,
+         "tagText": "",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0,
+         "data": []
+        }
+       ]
+      }
+     ],
+     [
+      "1k4ac3i",
+      "w1zjm",
+      "3urlshb",
+      "0oq5kqtiy7",
+      "apjeo"
+     ],
+     "",
+     []
+    ],
+    [
+     "022PXX22.XX22.240715145608.D2M7",
+     "Pallavi Veg Restaurant",
+     "",
+     " Andheri East",
+     "19.119263434938",
+     "72.851256483104",
+     1,
+     "4",
+     "1",
+     1,
+     "1",
+     {
+      "status": "<span class=\"font14 fw500 els color339\">Open</span> <span class=\"font14 fw500 color111\"> until 11:00 pm</span>",
+      "timing": "8:00 am - 11:00 pm"
+     },
+     "Andheri East",
+     1,
+     "Restaurants, Moderate Restaurants Rs 500 To Rs 1000",
+     "09972817963",
+     "7,000 Ratings",
+     "",
+     "mumbai",
+     "https://content.jdmagicbox.com/v2/comp/mumbai/m7/022pxx22.xx22.240715145608.d2m7/catalogue/ak7rsw2sb6qr6a7-7dz1vvb0rd-250.jpg",
+     "7,000",
+     0,
+     {
+      "node1": "",
+      "node2": "<span class=\"font14 fw400 color111\">₹ 550 Price for two</span>",
+      "node3": [
+       "",
+       0,
+       0
+      ],
+      "node1color": []
+     },
+     {},
+     0,
+     0,
+     [],
+     "restaurant",
+     "",
+     [
+      {
+       "button_text": "Order online",
+       "button_url": [
+        {
+         "url": "https://www.zomato.com/mumbai/pallavi-veg-restaurant-near-andheri-east-station/order",
+         "text": "Zomato",
+         "img": "https://akam.cdn.jdmagicbox.com/images/icons/zomato.png",
+         "dsc": ""
+        }
+       ],
+       "button_color": [],
+       "flag": "1",
+       "hide_header": "0",
+       "skipVerif": "0",
+       "tp": "1",
+       "li": "Order online"
+      }
+     ],
+     "",
+     "https://content2.jdmagicbox.com/checkin/mumbai/022PXX22.XX22.240715145608.D2M7.jpg",
+     "https://www.justdial.com/DT-43SS6H4LKX6",
+     1,
+     [],
+     "",
+     9,
+     "",
+     "",
+     "",
+     [
+      "https://content.jdmagicbox.com/v2/comp/mumbai/m7/022pxx22.xx22.240715145608.d2m7/catalogue/ak7rsw2sb6qr6a7-7dz1vvb0rd.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/m7/022pxx22.xx22.240715145608.d2m7/catalogue/4v0l52chbd4qwib-5zyr9vwk16.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/m7/022pxx22.xx22.240715145608.d2m7/catalogue/pallavi-veg-restaurant-andheri-east-mumbai-restaurants-v6xrhfgur6.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/35/022p878135/catalogue/pallavi-veg-restaurant-andheri-east-mumbai-pure-veg-restaurants-l3um5.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/35/022p878135/catalogue/pallavi-veg-restaurant-andheri-east-mumbai-pure-veg-restaurants-pa3dxm6ozy.jpg"
+     ],
+     [
+      0,
+      2,
+      0
+     ],
+     "18",
+     "",
+     "Pallavi Veg Restaurant",
+     " Andheri East",
+     1,
+     0,
+     {
+      "id": 11399978,
+      "nid": 11399978,
+      "name": "Moderate Restaurants Rs 500 To Rs 1000",
+      "lin": ""
+     },
+     "8wrRUgvGhZBQp3gsIkCGhtk2reS7TcPktwwtfN9JGpQ%3D",
+     "4",
+     0,
+     {
+      "img": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/newprot/ctlgjdpay2x.png",
+      "redirection_url": ""
+     },
+     {},
+     "0",
+     1,
+     {
+      "did": "022PXX22.XX22.240715145608.D2M7",
+      "cmp_params": {
+       "bcity": "Mumbai",
+       "barea": "Andheri East",
+       "bpncdbd": "400059",
+       "paidstatus": 1,
+       "misc": "8589934592",
+       "ask_mobile": 0
+      },
+      "bilang": ""
+     },
+     "WCbP8jW2AJaSAcAlQY7%2BddUqG%2FvB1ItucZZioWIawT0%3D",
+     0,
+     "Mumbai/Pallavi-Veg-Restaurant-Andheri-East/022PXX22-XX22-240715145608-D2M7_BZDET",
+     "",
+     [
+      "Quick Service",
+      "Delivery",
+      "Dine-in"
+     ],
+     [
+      {
+       "tag_name": "Top rated",
+       "bg_colour": "#5271dd",
+       "txt_colour": "#FFFFFF",
+       "tag_image": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/toprated.svg"
+      }
+     ],
+     "",
+     [],
+     {},
+     [],
+     {
+      "lead": "250",
+      "lead_resp": "126",
+      "avg_resp_time_sec": 5,
+      "tformat": "Mins",
+      "color": "#339D3A",
+      "lead_txt": "250 people recently enquired",
+      "resp_txt": "Responds in 5 Mins"
+     },
+     "400059",
+     "",
+     {
+      "cname": "Pallavi Veg Restaurant",
+      "docid": "022PXX22.XX22.240715145608.D2M7",
+      "rating": "4",
+      "rating_cnt": "7000",
+      "city": "Mumbai",
+      "dcity": "mumbai",
+      "area": "Andheri East",
+      "pin": "400059",
+      "ds": "0",
+      "pdg": "",
+      "paid": 1,
+      "jd_verified": "1",
+      "guarantee": "",
+      "trust": "0",
+      "verified": "0",
+      "pos": 9,
+      "tag": "Top rated",
+      "cta_name": "Order online TP",
+      "call_cta": "3",
+      "deals": "",
+      "jd_cash": "",
+      "isb2b": "0",
+      "miscellaneous_flag": "18875656",
+      "distance": "",
+      "core_distance": 2.29,
+      "search_type": "P",
+      "services": 0,
+      "jdm_eligible": 0,
+      "b2b_flag": "0",
+      "opt": null,
+      "price_count": 0,
+      "catalog_flag": "1024",
+      "state": "Maharashtra",
+      "abbr": "EATR,REST,FOS,CSN",
+      "ntp": 0,
+      "high_call": 0
+     },
+     1,
+     "43SS6H4LKX6",
+     "Mumbai",
+     [
+      {
+       "h": "1",
+       "d": "<span class=\"font14 fw500 els color339\">Open</span> <span class=\"font14 fw500 color111\"> until 11:00 pm</span>"
+      },
+      {
+       "h": 1,
+       "d": "<span class=\"font14 fw400 color111\">₹ 550 Price for two</span>"
+      }
+     ],
+     [],
+     "Andheri East",
+     [],
+     0,
+     [],
+     "#108723",
+     [],
+     "https://images.jdmagicbox.com/upload_test/mumbai/35/022p878135/logo/b48644eba1005f9b6214031f2735c00c.jpg",
+     0,
+     [
+      {
+       "t": "rating",
+       "d": [
+        {
+         "tag_key": "rating",
+         "tagText": "4",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0,
+         "bg": "#108723"
+        },
+        {
+         "tag_key": "reviews",
+         "tagText": "7,000 Ratings",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0
+        },
+        {
+         "tag_key": "tag",
+         "tagText": "",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/toprated.svg",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "address",
+       "d": [
+        {
+         "tag_key": "address",
+         "tagText": "Andheri East, Mumbai",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/results_locat_icon.svg",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "oth",
+       "d": [
+        {
+         "tag_key": "timings",
+         "tagText": "<span class=\"font14 fw500 els color339 ml-5\">Open</span> <span class=\"font14 fw500 color111\"> until 11:00 pm</span>",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 1
+        },
+        {
+         "tag_key": "price",
+         "tagText": "",
+         "desc": "<div role=\"presentation\" tabindex=\"-1\" class=\"font15 fw400 color111 rupicon\"><span class=\"font14 fw400 color111\"><span class=\"dtcmrupicon\">₹</span> 550 Price for two</span></div>",
+         "icon": "",
+         "link": "",
+         "html": 1
+        }
+       ]
+      }
+     ],
+     [
+      "7dz1vvb0rd",
+      "5zyr9vwk16",
+      "v6xrhfgur6",
+      "l3um5",
+      "pa3dxm6ozy"
+     ],
+     "",
+     []
+    ],
+    [
+     "022PK005975",
+     "Sarvodaya Pure Veg Restaurant",
+     "",
+     "Near Kotak Mahindra Bank ATM Andheri East",
+     "19.1221969",
+     "72.8506247",
+     1,
+     "4.1",
+     "1",
+     1,
+     "1",
+     {
+      "status": "<span class=\"font14 fw500 els color339\">Open</span> <span class=\"font14 fw500 color111\"> until 12:00 am</span>",
+      "timing": "9:00 am - 12:00 am"
+     },
+     "Old Nagardas Road Andheri East",
+     1,
+     "Restaurants, North Indian Restaurants",
+     "09036682058",
+     "5,803 Ratings",
+     "",
+     "Mumbai",
+     "https://content.jdmagicbox.com/v2/comp/mumbai/75/022pk005975/catalogue/sarvodaya-pure-veg-restaurant-andheri-east-mumbai-north-indian-restaurants-u5ykzp7qlk-250.jpg",
+     "5,803",
+     0,
+     {
+      "node1": "",
+      "node2": "",
+      "node3": [
+       "<span class=\"font14 fw400 color111\">25 Years in Business</span>",
+       1,
+       0
+      ],
+      "node1color": []
+     },
+     {},
+     0,
+     0,
+     [],
+     "restaurant",
+     "",
+     [
+      {
+       "button_text": "Order online",
+       "button_url": [
+        {
+         "url": "https://www.swiggy.com/restaurants/sarvodaya-pure-veg-andheri-railway-station-andheri-east-mumbai-1584",
+         "text": "Swiggy",
+         "img": "https://akam.cdn.jdmagicbox.com/images/icons/swiggy.png",
+         "dsc": "20% Off up to 50 + 30 PhonePe cashback / Use code SWIGGYIT~15% Off up to 75 with SBI Credit Card / Use code SBI75"
+        },
+        {
+         "url": "https://www.zomato.com/mumbai/sarvodaya-nx-pure-veg-near-andheri-east-station/order",
+         "text": "Zomato",
+         "img": "https://akam.cdn.jdmagicbox.com/images/icons/zomato.png",
+         "dsc": ""
+        }
+       ],
+       "button_color": [],
+       "flag": "1",
+       "hide_header": "0",
+       "skipVerif": "0",
+       "tp": "1",
+       "li": "Order online"
+      },
+      {
+       "button_text": "Menu",
+       "button_url": [
+        {
+         "url": "https://www.justdial.com/Mumbai/Sarvodaya-Pure-Veg-Restaurant-Near-Kotak-Mahindra-Bank-Atm-Andheri-East/022PK005975_BZDET/menu?source=77&cdata=&native=&version=&hide_header=1&sid=",
+         "text": "",
+         "img": "",
+         "dsc": ""
+        }
+       ],
+       "button_color": [],
+       "flag": "1",
+       "hide_header": "0",
+       "skipVerif": "0",
+       "tp": "0",
+       "li": "Menu"
+      }
+     ],
+     "",
+     "https://content2.jdmagicbox.com/checkin/mumbai/022PK005975.jpg",
+     "https://www.justdial.com/DT-431X3ZWY",
+     1,
+     [],
+     "",
+     10,
+     "",
+     "",
+     "",
+     [
+      "https://content.jdmagicbox.com/v2/comp/mumbai/75/022pk005975/catalogue/sarvodaya-pure-veg-restaurant-andheri-east-mumbai-north-indian-restaurants-u5ykzp7qlk.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/75/022pk005975/catalogue/sarvodaya-pure-veg-restaurant-andheri-east-mumbai-north-indian-restaurants-ojzr4a3wgh.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/75/022pk005975/catalogue/sarvodaya-pure-veg-restaurant-andheri-east-mumbai-north-indian-restaurants-sx8fymay3n.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/75/022pk005975/catalogue/sarvodaya-pure-veg-restaurant-andheri-east-mumbai-north-indian-restaurants-qlxce9g0av.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/75/022pk005975/catalogue/sarvodaya-pure-veg-restaurant-andheri-east-mumbai-north-indian-restaurants-22qj9zhwzq.jpg"
+     ],
+     [
+      0,
+      2,
+      0
+     ],
+     "29",
+     "",
+     "Sarvodaya Pure Veg Restaurant",
+     "Near Kotak Mahindra Bank ATM Andheri East",
+     1,
+     0,
+     {
+      "id": 10332161,
+      "nid": 10332161,
+      "name": "Multicuisine Restaurants",
+      "lin": ""
+     },
+     "n76GpmRmzQ7bzxR%2FwGWAyA%3D%3D",
+     "4.1",
+     0,
+     {
+      "img": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/newprot/ctlgjdpay2x.png",
+      "redirection_url": ""
+     },
+     {},
+     "0",
+     1,
+     {
+      "did": "022PK005975",
+      "cmp_params": {
+       "bcity": "Mumbai",
+       "barea": "Andheri East",
+       "bpncdbd": "400069",
+       "paidstatus": 1,
+       "misc": "77309542404",
+       "ask_mobile": 0
+      },
+      "bilang": ""
+     },
+     "uNurSt9XO8tSQmU1Qr7Y57qeMA%2B5zLVgbED1taclI8c%3D",
+     0,
+     "Mumbai/Sarvodaya-Pure-Veg-Restaurant-Near-Kotak-Mahindra-Bank-Atm-Andheri-East/022PK005975_BZDET",
+     "",
+     [
+      "Pure Veg"
+     ],
+     [
+      {
+       "tag_name": "Trending",
+       "bg_colour": "#5271dd",
+       "txt_colour": "#FFFFFF",
+       "tag_image": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/trending.svg"
+      }
+     ],
+     "",
+     [],
+     {},
+     [
+      {
+       "lnKey": "",
+       "tagText": "",
+       "desc": "Pure Veg",
+       "icon": "https://akam.cdn.jdmagicbox.com/images/icons/iphone/new/icd-hi-tg-pure-veg.png",
+       "tagTextColor": "#111111"
+      }
+     ],
+     {
+      "lead": "171",
+      "lead_resp": "46",
+      "avg_resp_time_sec": "",
+      "tformat": "",
+      "color": "#339D3A",
+      "lead_txt": "171 people recently enquired",
+      "resp_txt": ""
+     },
+     "400069",
+     "",
+     {
+      "cname": "Sarvodaya Pure Veg Restaurant",
+      "docid": "022PK005975",
+      "rating": "4.1",
+      "rating_cnt": "5803",
+      "city": "Mumbai",
+      "dcity": "Mumbai",
+      "area": "Andheri East",
+      "pin": "400069",
+      "ds": "0",
+      "pdg": "",
+      "paid": 1,
+      "jd_verified": "1",
+      "guarantee": "",
+      "trust": "0",
+      "verified": "1",
+      "pos": 10,
+      "tag": "Trending",
+      "cta_name": "Order online TP",
+      "call_cta": "3",
+      "deals": "",
+      "jd_cash": "",
+      "isb2b": "0",
+      "miscellaneous_flag": "18875656",
+      "distance": "",
+      "core_distance": 2.09,
+      "search_type": "P",
+      "services": 0,
+      "jdm_eligible": 0,
+      "b2b_flag": "0",
+      "opt": null,
+      "price_count": 0,
+      "catalog_flag": "1024",
+      "state": "Maharashtra",
+      "abbr": "EATR,REST,FOS,CSN",
+      "ntp": 0,
+      "high_call": 0
+     },
+     1,
+     "431X3ZWY",
+     "Mumbai",
+     [
+      {
+       "h": "1",
+       "d": "<span class=\"font14 fw500 els color339\">Open</span> <span class=\"font14 fw500 color111\"> until 12:00 am</span>"
+      },
+      {
+       "h": 1,
+       "d": 0
+      }
+     ],
+     [],
+     "Andheri East",
+     [],
+     0,
+     [],
+     "#007A0C",
+     [],
+     "",
+     0,
+     [
+      {
+       "t": "rating",
+       "d": [
+        {
+         "tag_key": "rating",
+         "tagText": "4.1",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0,
+         "bg": "#007A0C"
+        },
+        {
+         "tag_key": "reviews",
+         "tagText": "5,803 Ratings",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0
+        },
+        {
+         "tag_key": "verified",
+         "tagText": "",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/verified_2x.gif",
+         "link": "",
+         "html": 0
+        },
+        {
+         "tag_key": "tag",
+         "tagText": "",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/trending.svg",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "address",
+       "d": [
+        {
+         "tag_key": "address",
+         "tagText": "Old Nagardas Road Andheri East, Mumbai",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/results_locat_icon.svg",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "oth",
+       "d": [
+        {
+         "tag_key": "timings",
+         "tagText": "<span class=\"font14 fw500 els color339 ml-5\">Open</span> <span class=\"font14 fw500 color111\"> until 12:00 am</span>",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 1
+        },
+        {
+         "tag_key": "highlight",
+         "tagText": "",
+         "desc": "Pure Veg",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icons/iphone/new/icd-hi-tg-pure-veg.png",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "ctlg",
+       "d": [
+        {
+         "tag_key": "ctlg",
+         "ctlg_type": 1,
+         "display_type": 4,
+         "tagText": "",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0,
+         "data": []
+        }
+       ]
+      }
+     ],
+     [
+      "u5ykzp7qlk",
+      "ojzr4a3wgh",
+      "sx8fymay3n",
+      "qlxce9g0av",
+      "22qj9zhwzq"
+     ],
+     "",
+     []
+    ]
+   ],
+   "rvs": [],
+   "area_card": 0,
+   "bd_route": [],
+   "job_card": []
+  },
+  "nearmeDetails": "",
+  "catid": "",
+  "trending_flag": 0,
+  "trending_nid": "",
+  "keyword": " Restaurants",
+  "keywordln": " Restaurants",
+  "ishotel": 0,
+  "keywordResults": [],
+  "moreKeywords": "0",
+  "totalNumberofResults": "100",
+  "sortingOption": {
+   "basedon": [
+    "distance",
+    "rating",
+    "popular"
+   ],
+   "sort": "",
+   "char": "",
+   "morefilter": {
+    "mv": "1102",
+    "mh": "Quick Filters",
+    "md": "",
+    "ms": 1,
+    "d": [
+     {
+      "v": "HR",
+      "d": "Rated 3.5+",
+      "f": 1,
+      "s": 0,
+      "nc": null,
+      "n": null,
+      "e": "6"
+     },
+     {
+      "v": "OPEN",
+      "d": "Open Now",
+      "f": 1,
+      "s": 0,
+      "nc": null,
+      "n": null,
+      "e": "10"
+     }
+    ]
+   },
+   "pricefilter": ""
+  },
+  "ratingsTab": 0,
+  "pncdbd": "400053",
+  "ismovie": "0",
+  "sort_price_tag": null,
+  "advanced_bd_flag": "0",
+  "sort_price": null,
+  "filter_flag": 1,
+  "image_path": "https://akam.cdn.jdmagicbox.com/images/jdcategories/10408936.jpg",
+  "view": "0",
+  "national_catid": "10408936",
+  "median_latitude": 19.12938,
+  "median_longitude": 72.83231,
+  "seo_dt": {
+   "title": "Best Restaurants in Andheri West, Mumbai - Top Places to Eat Nearby | Justdial",
+   "desc": "Discover the best places to eat near Andheri West, Mumbai, from top dining spots to cozy cafes, vibrant pubs, and stylish bars. Explore a wide range of restaurants with Photos, Address, Reviews, Maps and Phone numbers on Justdial.",
+   "key": "List of Restaurants in Andheri West,Mumbai, Reviews, Map, Address, Phone number, Contact Number, local, popular Restaurants, Restaurants",
+   "isfreetext": 0,
+   "hot_cat_arr": {
+    "id": 11400104,
+    "nid": 11400104,
+    "name": "Inexpensive North Indian Restaurants Below Rs 500",
+    "lin": ""
+   },
+   "area": "Andheri West",
+   "link": "https://www.justdial.com/Mumbai/Restaurants-in-Andheri-West/nct-10408936",
+   "no_index": 0,
+   "no_follow": 0,
+   "bi_lang_enable": 1,
+   "bi_lang_arr": [
+    "en",
+    "hi",
+    "bn",
+    "ta",
+    "mr",
+    "gu",
+    "kn"
+   ]
+  },
+  "vpfs": "8-100",
+  "msgpos": "",
+  "areadocids": "",
+  "area_docids_cnt": "",
+  "nofriends": "",
+  "nextdocid": "022PXX22.XX22.240424184152.B1W8,022PXX22.XX22.140825190243.K9L1,022PXX22.XX22.260819185724.S1T9,022PXX22.XX22.240920192729.I9S4,022PXX22.XX22.130425223852.B7Z7,022PXX22.XX22.250114191051.D2D7,022PXX22.XX22.160812221645.Q4I6,022PXX22.XX22.131018123116.W1T2,022PXX22.XX22.240715145608.D2M7,022PK005975,022PXX22.XX22.251210183255.A1W4,022PXX22.XX22.131101193636.H9P2,022PXX22.XX22.260212171105.X6M8,022PXX22.XX22.211231114201.X4N1,022PXX22.XX22.241204131600.H4A2,022PXX22.XX22.090930150812.X4S7,022PXX22.XX22.260424215513.D6A9,022PXX22.XX22.131022171936.T3P2,022PF019037,022P7703098,022PXX22.XX22.211102114203.V4L6,022PXX22.XX22.210322100504.J8B9,022PXX22.XX22.240708144521.X8D7,022PXX22.XX22.100515170753.S6W3,022PXX22.XX22.160213102403.Q7Y4,022PXX22.XX22.180104190207.Q9G7,022PXX22.XX22.000405980559.Y7G6,022PXX22.XX22.170109104238.M7W3,022PXX22.XX22.160119094215.V7F2,022P8021665,022P8710685,022PXX22.XX22.171115153500.L4F3,022P1212038091Z8S3Y1,022PA004150,022PXX22.XX22.231121173512.G1J9,022PXX22.XX22.110302150851.E5D3,022P8700416,022PXX22.XX22.120213163707.I5U7,022P2150402,022PXX22.XX22.120517163022.I4J5,022PG024450,022P5908442,022PXX22.XX22.190713122424.G4K7,022PXX22.XX22.150904105102.J9R5,022PXX22.XX22.131230122240.H9P6,022PXX22.XX22.171222070340.D9S3,022PXX22.XX22.171201130242.D7Z1,022PGE12722,022PXX22.XX22.230305165247.G2W2,022PXX22.XX22.150725130714.G9H1,022PXX22.XX22.190114191711.U4V6,022PF013150,022PXX22.XX22.161101140658.P9B2,022PXX22.XX22.171220210344.P6P3,022PXX22.XX22.210701153942.B5W4,022PXX22.XX22.121201151136.S8G3,022PXX22.XX22.230322102619.I8K4,022PXX22.XX22.160615074647.D8M3,022PXX22.XX22.180131141531.L4V3,022P8403727,022PXX22.XX22.170329083954.P2R5,022PXX22.XX22.240329020717.E1T4,022PCLR20090321IROB722695682,022PXX22.XX22.151116184850.R5A1,022PXX22.XX22.130714151922.P3M2,022PXX22.XX22.211103114852.T6J7,022PXX22.XX22.140515181156.G4W6,022PB016174,022PXX22.XX22.130620121522.X4P3,022PXX22.XX22.140531164107.H8B6,022PXX22.XX22.190204171045.E2N4,022PXX22.XX22.181127115231.S2V1,022PXX22.XX22.131023170920.K7V1,022PGL02066,022PXX22.XX22.160707150628.V7K5,022PXX22.XX22.140627202645.N5V4,022PXX22.XX22.200225070505.M6R6,022PXX22.XX22.220715124157.M5N5,022PXX22.XX22.220112102342.I2C4,022PXX22.XX22.181110131432.B6V3,022PXX22.XX22.210502123908.S3L1,022PXX22.XX22.101103155646.K6K4,022PK040460,022PXX22.XX22.210727103348.X2Q3,022PXX22.XX22.150323192333.X1I6,022PXX22.XX22.140613135807.G8P6,022PXX22.XX22.171101074231.V5L6,022PXX22.XX22.190903200322.T2G6,022PXX22.XX22.200117194638.B4L5,022PK030591,022PXX22.XX22.111008124302.Y5G2,022PXX22.XX22.240313174420.P6Z2,022PF000510,022PF010651,022P1212738283S4R8I4,022PXX22.XX22.120306023407.W9J9,022PG024480,022PXX22.XX22.150418141413.G6A1,022PTE01502,022PXX22.XX22.151013174940.N5M9",
+  "nextdocidcount": "10",
+  "scity": "Mumbai",
+  "pcity": "Mumbai",
+  "spincode": "400053",
+  "amp": 0,
+  "cat_search_type": "A",
+  "area_docid_count_hotel": "",
+  "area_last_docid_hotel": "",
+  "adword_pos": {
+   "7": "filter"
+  },
+  "adword_snippet": {
+   "filter": {
+    "tab_display": "Explore More",
+    "entity": "89|15234",
+    "apiname": "Filterapi",
+    "action_url": "/01sep2022/ads.php?case=filter&entity=89|15234&city=Mumbai&area=Andheri+West&search=Restaurants&apiname=Filterapi&dpf=8796227240448&wap=77&version=3.0&ln=&is_rsltpg=1",
+    "active_flag": 1,
+    "attrib": ""
+   }
+  },
+  "footer": 0,
+  "adword_docids": "",
+  "newadd": "Ad",
+  "newaddcolor": "#ffffff",
+  "newaddtextcolor": "#000000",
+  "viewchange": 0,
+  "view_flag": "2",
+  "dsmap": 1,
+  "vertical_banner": {},
+  "srf": "11",
+  "is_lawyer": 0,
+  "grid": 0,
+  "cat_b2b_flag": "0",
+  "google_audience": "",
+  "related_cat": 0,
+  "product_carousal": 0,
+  "service_guide": [],
+  "askAstro": 0,
+  "disclaimer": [],
+  "miscellaneous_flag_abbr": "|SV|IMF|SBPA|IGSC|CRFP|UBLOC|AANY|LPD|",
+  "addtbl": {
+   "title": "Top Restaurants near Andheri West, Mumbai",
+   "headers": [
+    "Name",
+    "Address",
+    "Listed Categories",
+    "Year of Establishment",
+    "No. of Reviews",
+    "Rating"
+   ],
+   "dt": [
+    [
+     {
+      "d": "Raju Champaran Meat House",
+      "u": "Mumbai/Raju-Champaran-Meat-House-Next-To-Cafe-Shimla-Andheri-West/022PXX22-XX22-240424184152-B1W8_BZDET"
+     },
+     "Adarsh Nagar, New Link Road, Andheri West, Mumbai - 400053 (Next to Cafe Shimla)",
+     [
+      {
+       "d": "Restaurants",
+       "u": "/Mumbai/Restaurants-in-Andheri-West/nct-10408936"
+      },
+      {
+       "d": "North Indian Restaurants",
+       "u": "/Mumbai/North-Indian-Restaurants-in-Andheri-West/nct-10339065"
+      },
+      {
+       "d": "Inexpensive Restaurants Below Rs 500",
+       "u": "/Mumbai/Inexpensive-Restaurants-Below-Rs-500-in-Andheri-West/nct-11400089"
+      }
+     ],
+     "2014",
+     "56",
+     3.8
+    ],
+    [
+     {
+      "d": "Yasin's Food Inn",
+      "u": "Mumbai/Yasins-Food-Inn-Near-Lokhandwala-Market-Near-Mcdonalds-Lokhandwala-Complex-Andheri-West/022PXX22-XX22-140825190243-K9L1_BZDET"
+     },
+     "Shiv Sadan Building, Swami Samarth Nagar Road, Lokhandwala Complex-andheri West, Mumbai - 400053 (Near Lokhandwala Market, Near Mcdonalds)",
+     [
+      {
+       "d": "Restaurants",
+       "u": "/Mumbai/Restaurants-in-Andheri-West/nct-10408936"
+      },
+      {
+       "d": "North Indian Restaurants",
+       "u": "/Mumbai/North-Indian-Restaurants-in-Andheri-West/nct-10339065"
+      },
+      {
+       "d": "Chinese Restaurants",
+       "u": "/Mumbai/Chinese-Restaurants-in-Andheri-West/nct-10097618"
+      }
+     ],
+     "1987",
+     "16,247",
+     4
+    ],
+    [
+     {
+      "d": "Rolls & Rasoi",
+      "u": "Mumbai/Rolls-Rasoi-Next-To-Juben-Wines-Andheri-West/022PXX22-XX22-260819185724-S1T9_BZDET"
+     },
+     "Adarsh Nagar, New Link Road, Andheri West, Mumbai - 400053 (Next to Juben Wines)",
+     [
+      {
+       "d": "Restaurants",
+       "u": "/Mumbai/Restaurants-in-Andheri-West/nct-10408936"
+      },
+      {
+       "d": "North Indian Restaurants",
+       "u": "/Mumbai/North-Indian-Restaurants-in-Andheri-West/nct-10339065"
+      },
+      {
+       "d": "Chinese Restaurants",
+       "u": "/Mumbai/Chinese-Restaurants-in-Andheri-West/nct-10097618"
+      }
+     ],
+     "2026",
+     "22",
+     5
+    ],
+    [
+     {
+      "d": "Persian Darbar",
+      "u": "Mumbai/Persian-Darbar-Next-To-Rto-Office-Andheri-West/022PXX22-XX22-240920192729-I9S4_BZDET"
+     },
+     "Royale CHS, RTO Road LokhandWala, Andheri West, Mumbai - 400053 (Next to RTO Office)",
+     [
+      {
+       "d": "Restaurants",
+       "u": "/Mumbai/Restaurants-in-Andheri-West/nct-10408936"
+      },
+      {
+       "d": "Chinese Restaurants",
+       "u": "/Mumbai/Chinese-Restaurants-in-Andheri-West/nct-10097618"
+      },
+      {
+       "d": "Home Delivery Restaurants",
+       "u": "/Mumbai/Home-Delivery-Restaurants-in-Andheri-West/nct-10250324"
+      }
+     ],
+     "2024",
+     "2,457",
+     4.5
+    ],
+    [
+     {
+      "d": "Cafe Safar Family Restaurant",
+      "u": "Mumbai/Cafe-Safar-Family-Restaurant-Opposite-Heera-Panna-Mall-Oshiwara-Andheri-West/022PXX22-XX22-130425223852-B7Z7_BZDET"
+     },
+     "Relaible Business Centre, Oshiwara Link Road, Andheri West, Mumbai - 400053 (Opposite Heera Panna Mall Oshiwara)",
+     [
+      {
+       "d": "Restaurants",
+       "u": "/Mumbai/Restaurants-in-Andheri-West/nct-10408936"
+      },
+      {
+       "d": "Pizza Outlets",
+       "u": "/Mumbai/Pizza-Outlets-in-Andheri-West/nct-10370637"
+      },
+      {
+       "d": "Chinese Restaurants",
+       "u": "/Mumbai/Chinese-Restaurants-in-Andheri-West/nct-10097618"
+      }
+     ],
+     "2016",
+     "9,694",
+     4.2
+    ],
+    [
+     {
+      "d": "Avi Veg Delight",
+      "u": "Mumbai/Avi-Veg-Delight-Above-Tirumala-Showroom-Andheri-West/022PXX22-XX22-250114191051-D2D7_BZDET"
+     },
+     "Adani Western Heights, Jp Road, Andheri West, Mumbai - 400053 (Above Tirumala Showroom)",
+     [
+      {
+       "d": "Restaurants",
+       "u": "/Mumbai/Restaurants-in-Andheri-West/nct-10408936"
+      },
+      {
+       "d": "Pure Veg Restaurants",
+       "u": "/Mumbai/Pure-Veg-Restaurants-in-Andheri-West/nct-10396867"
+      },
+      {
+       "d": "Fine Dining Restaurants (Rs 1000 To Rs 2000)",
+       "u": "/Mumbai/Fine-Dining-Restaurants-Rs-1000-To-Rs-2000-in-Andheri-West/nct-11399649"
+      }
+     ],
+     "2024",
+     "56",
+     4.1
+    ],
+    [
+     {
+      "d": "Mao Family Restaurant",
+      "u": "Mumbai/Mao-Family-Restaurant-Next-To-Azad-Nagar-Metro-Station-Gate-No-4-Andheri-West/022PXX22-XX22-160812221645-Q4I6_BZDET"
+     },
+     "Aboobakar Mahal, Jai Prakash Road, Andheri West, Mumbai - 400058 (Next to Azad Nagar Metro Station, Gate No 4)",
+     [
+      {
+       "d": "Restaurants",
+       "u": "/Mumbai/Restaurants-in-Andheri-West/nct-10408936"
+      },
+      {
+       "d": "North Indian Restaurants",
+       "u": "/Mumbai/North-Indian-Restaurants-in-Andheri-West/nct-10339065"
+      },
+      {
+       "d": "Chinese Restaurants",
+       "u": "/Mumbai/Chinese-Restaurants-in-Andheri-West/nct-10097618"
+      }
+     ],
+     "2016",
+     "5,890",
+     4.1
+    ],
+    [
+     {
+      "d": "High Point Veg Restaurant",
+      "u": "Mumbai/High-Point-Veg-Restaurant-Opposite-Rna-Shopping-Centre-Lokhandwala-Complex-Andheri-West/022PXX22-XX22-131018123116-W1T2_BZDET"
+     },
+     "Citizen Building, 3rd Cross Lane, Lokhandwala Complex-andheri West, Mumbai - 400053 (Opposite RNA Shopping Centre)",
+     [
+      {
+       "d": "Restaurants",
+       "u": "/Mumbai/Restaurants-in-Andheri-West/nct-10408936"
+      },
+      {
+       "d": "North Indian Restaurants",
+       "u": "/Mumbai/North-Indian-Restaurants-in-Andheri-West/nct-10339065"
+      },
+      {
+       "d": "Fast Food",
+       "u": "/Mumbai/Fast-Food-in-Andheri-West/nct-10200860"
+      }
+     ],
+     "1987",
+     "12,934",
+     3.9
+    ],
+    [
+     {
+      "d": "Pallavi Veg Restaurant",
+      "u": "Mumbai/Pallavi-Veg-Restaurant-Andheri-East/022PXX22-XX22-240715145608-D2M7_BZDET"
+     },
+     "Gopal Bhavan, Opposite Vaikunt Park, Azad Road, Andheri East, Andheri East, Mumbai - 400059",
+     [
+      {
+       "d": "Restaurants",
+       "u": "/Mumbai/Restaurants-in-Andheri-West/nct-10408936"
+      },
+      {
+       "d": "Moderate Restaurants Rs 500 To Rs 1000",
+       "u": "/Mumbai/Moderate-Restaurants-Rs-500-To-Rs-1000-in-Andheri-West/nct-11399978"
+      }
+     ],
+     "",
+     "7,000",
+     4
+    ],
+    [
+     {
+      "d": "Sarvodaya Pure Veg Restaurant",
+      "u": "Mumbai/Sarvodaya-Pure-Veg-Restaurant-Near-Kotak-Mahindra-Bank-Atm-Andheri-East/022PK005975_BZDET"
+     },
+     "Vidya Villa No 1, Old Nagardas Road, Andheri East, Mumbai - 400069 (Near Kotak Mahindra Bank ATM)",
+     [
+      {
+       "d": "Restaurants",
+       "u": "/Mumbai/Restaurants-in-Andheri-West/nct-10408936"
+      },
+      {
+       "d": "North Indian Restaurants",
+       "u": "/Mumbai/North-Indian-Restaurants-in-Andheri-West/nct-10339065"
+      },
+      {
+       "d": "Fast Food",
+       "u": "/Mumbai/Fast-Food-in-Andheri-West/nct-10200860"
+      }
+     ],
+     "2001",
+     "5,803",
+     4.1
+    ]
+   ]
+  },
+  "no_friends_rating": 0,
+  "pharmacy_data": {},
+  "not_rateable": 0,
+  "showgptads": 1,
+  "gptadintrvl": 4,
+  "brndname": "Restaurants",
+  "mncatnm": "Restaurants",
+  "comp_avg_starjd": "4.0|$|1228223",
+  "avg_rate": "4.0",
+  "avg_txt": "(1228223 Ratings & Reviews as on 26/10/2026)",
+  "lng": "",
+  "h1": "Best Restaurants in Andheri West, Mumbai - Food Restaurants Nearby",
+  "nrin": " in ",
+  "microdata": "",
+  "ldJson": {
+   "default": "{\"@context\": \"https://schema.org\",\"@type\": \"WebSite\",\"name\": \"Justdial\",\"url\": \"https://www.justdial.com/\"}",
+   "rating": "{\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"Restaurant\",\"name\":\"Restaurants in Andheri West, Mumbai\",\"image\":\"https:\\/\\/content.jdmagicbox.com\\/v2\\/comp\\/mumbai\\/w8\\/022pxx22.xx22.240424184152.b1w8\\/catalogue\\/raju-champaran-meat-house-andheri-west-mumbai-restaurants-t4womia650.jpg\",\"url\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/Restaurants-in-Andheri-West\\/nct-10408936\",\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Andheri West\",\"addressRegion\":\"Mumbai\",\"postalCode\":\"400053\",\"addressCountry\":\"IN\"}}",
+   "social": "[{\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"Organization\",\"name\":\"justdial.com\",\"url\":\"https:\\/\\/www.justdial.com\\/\",\"logo\":\"https:\\/\\/akam.cdn.jdmagicbox.com\\/images\\/wap\\/logo\\/jd_144.png\",\"sameAs\":[\"https:\\/\\/www.facebook.com\\/JustDial\",\"https:\\/\\/plus.google.com\\/+justdial\",\"https:\\/\\/www.linkedin.com\\/company\\/justdial\",\"https:\\/\\/www.instagram.com\\/jd_justdial\",\"https:\\/\\/play.google.com\\/store\\/apps\\/details?id=com.justdial.search\",\"https:\\/\\/itunes.apple.com\\/app\\/jd-justdial\\/id624946027?uo=5\",\"https:\\/\\/www.youtube.com\\/user\\/justdialind\"]}]",
+   "listing": "{\"@context\": \"https://schema.org\",\"@type\": \"ItemList\",\"name\": \"Restaurants in Andheri West,Mumbai\",\"numberOfItems\": \"3341\",\"itemListElement\" :[{\"@type\":\"ListItem\",\"position\":1,\"item\":{\"@type\":\"Restaurant\",\"name\":\"Raju Champaran Meat House\",\"image\":\"https:\\/\\/content.jdmagicbox.com\\/v2\\/comp\\/mumbai\\/w8\\/022pxx22.xx22.240424184152.b1w8\\/catalogue\\/raju-champaran-meat-house-andheri-west-mumbai-restaurants-t4womia650.jpg\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"New Link Road\",\"addressLocality\":\"Andheri West\",\"addressRegion\":\"Mumbai\",\"postalCode\":\"400053\",\"addressCountry\":\"IN\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":\"19.1446929\",\"longitude\":\"72.8311865\"},\"telephone\":\"+(91)-9136135361\",\"priceRange\":\"\\u20b9\\u20b9\",\"servesCuisine\":[\"North Indian\",\"Bihari\"],\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"3.8\",\"ratingCount\":56},\"url\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/Raju-Champaran-Meat-House-Next-to-Cafe-Shimla-Andheri-West\\/022PXX22-XX22-240424184152-B1W8_BZDET\"}},{\"@type\":\"ListItem\",\"position\":2,\"item\":{\"@type\":\"Restaurant\",\"name\":\"Yasin's Food Inn\",\"image\":\"https:\\/\\/content.jdmagicbox.com\\/v2\\/comp\\/mumbai\\/l1\\/022pxx22.xx22.140825190243.k9l1\\/catalogue\\/yasin-s-food-inn-lokhandwala-complex-andheri-west-mumbai-north-indian-restaurants-qk65lb6eqk.jpg\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Swami Samarth Nagar Road\",\"addressLocality\":\"Lokhandwala Complex-andheri West\",\"addressRegion\":\"Mumbai\",\"postalCode\":\"400053\",\"addressCountry\":\"IN\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":\"19.1413929\",\"longitude\":\"72.8255403\"},\"telephone\":\"+(91)-9137887803\",\"priceRange\":\"\\u20b9\\u20b9\",\"servesCuisine\":[\"Chinese\",\"Multicuisine\",\"Mughlai\",\"North Indian\",\"Sichuan\"],\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"4.0\",\"ratingCount\":16247},\"url\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/Yasins-Food-Inn-Near-Lokhandwala-Market-Near-Mcdonalds-Lokhandwala-Complex-andheri-West\\/022PXX22-XX22-140825190243-K9L1_BZDET\"}},{\"@type\":\"ListItem\",\"position\":3,\"item\":{\"@type\":\"Restaurant\",\"name\":\"Rolls & Rasoi\",\"image\":\"https:\\/\\/content.jdmagicbox.com\\/v2\\/comp\\/mumbai\\/t9\\/022pxx22.xx22.260819185724.s1t9\\/catalogue\\/rolls-and-rasoi-andheri-west-mumbai-north-indian-restaurants-w1k84bqy71.jpg\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"New Link Road\",\"addressLocality\":\"Andheri West\",\"addressRegion\":\"Mumbai\",\"postalCode\":\"400053\",\"addressCountry\":\"IN\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":\"19.1454622\",\"longitude\":\"72.8321964\"},\"telephone\":\"+(91)-7208044686\",\"servesCuisine\":[\"Chinese\",\"Multicuisine\",\"Mughlai\",\"North Indian\",\"Bihari\"],\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"5.0\",\"ratingCount\":22},\"url\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/Rolls-Rasoi-Next-to-Juben-Wines-Andheri-West\\/022PXX22-XX22-260819185724-S1T9_BZDET\"}},{\"@type\":\"ListItem\",\"position\":4,\"item\":{\"@type\":\"Restaurant\",\"name\":\"Persian Darbar\",\"image\":\"https:\\/\\/content.jdmagicbox.com\\/v2\\/comp\\/mumbai\\/s4\\/022pxx22.xx22.240920192729.i9s4\\/catalogue\\/persian-darbar-andheri-west-mumbai-biryani-restaurants-bh17x4b20t.jpg\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"RTO Road LokhandWala\",\"addressLocality\":\"Andheri West\",\"addressRegion\":\"Mumbai\",\"postalCode\":\"400053\",\"addressCountry\":\"IN\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":\"19.1328141\",\"longitude\":\"72.8299092\"},\"telephone\":\"+(91)-8433901462\",\"priceRange\":\"\\u20b9\\u20b9\",\"servesCuisine\":[\"Chinese\",\"Multicuisine\",\"Mughlai\",\"Sea Food\",\"North Indian\",\"Arabic\"],\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"4.5\",\"ratingCount\":2457},\"url\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/Persian-Darbar-Next-to-RTO-Office-Andheri-West\\/022PXX22-XX22-240920192729-I9S4_BZDET\"}},{\"@type\":\"ListItem\",\"position\":5,\"item\":{\"@type\":\"Restaurant\",\"name\":\"Cafe Safar Family Restaurant\",\"image\":\"https:\\/\\/content.jdmagicbox.com\\/v2\\/comp\\/mumbai\\/z7\\/022pxx22.xx22.130425223852.b7z7\\/catalogue\\/cafe-safar-family-restaurant-andheri-west-mumbai-home-delivery-restaurants-079xkkemkg.jpg\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Oshiwara Link Road\",\"addressLocality\":\"Andheri West\",\"addressRegion\":\"Mumbai\",\"postalCode\":\"400053\",\"addressCountry\":\"IN\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":\"19.1395458\",\"longitude\":\"72.8477674\"},\"telephone\":\"+(91)-9136014020\",\"priceRange\":\"\\u20b9\\u20b9\\u20b9\",\"servesCuisine\":[\"Chinese\",\"Punjabi\",\"Multicuisine\",\"Mughlai\",\"Sea Food\",\"North Indian\",\"Sichuan\"],\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"4.2\",\"ratingCount\":9694},\"url\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/Cafe-Safar-Family-Restaurant-Opposite-Heera-Panna-Mall-Oshiwara-Andheri-West\\/022PXX22-XX22-130425223852-B7Z7_BZDET\"}},{\"@type\":\"ListItem\",\"position\":6,\"item\":{\"@type\":\"Restaurant\",\"name\":\"Avi Veg Delight\",\"image\":\"https:\\/\\/content.jdmagicbox.com\\/v2\\/comp\\/mumbai\\/d7\\/022pxx22.xx22.250114191051.d2d7\\/catalogue\\/avi-veg-delight-andheri-west-mumbai-restaurants-c025berzx4.jpg\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Jp Road\",\"addressLocality\":\"Andheri West\",\"addressRegion\":\"Mumbai\",\"postalCode\":\"400053\",\"addressCountry\":\"IN\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":\"19.1293499\",\"longitude\":\"72.8278298\"},\"telephone\":\"+(91)-8453972222\",\"servesCuisine\":[\"Chinese\",\"Multicuisine\",\"North Indian\",\"Continental\",\"Lebanese\"],\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"4.1\",\"ratingCount\":56},\"url\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/Avi-Veg-Delight-Above-Tirumala-Showroom-Andheri-West\\/022PXX22-XX22-250114191051-D2D7_BZDET\"}},{\"@type\":\"ListItem\",\"position\":7,\"item\":{\"@type\":\"Restaurant\",\"name\":\"Mao Family Restaurant\",\"image\":\"https:\\/\\/content.jdmagicbox.com\\/v2\\/comp\\/mumbai\\/i6\\/022pxx22.xx22.160812221645.q4i6\\/catalogue\\/mao-the-family-restaurant-andheri-west-mumbai-north-indian-restaurants-ydIpIrekkCMEzVZ.jpg\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Jai Prakash Road\",\"addressLocality\":\"Andheri West\",\"addressRegion\":\"Mumbai\",\"postalCode\":\"400058\",\"addressCountry\":\"IN\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":\"19.1265227\",\"longitude\":\"72.8383131\"},\"telephone\":\"+(91)-9819028888,9152222017,9152222018\",\"priceRange\":\"\\u20b9\\u20b9\",\"servesCuisine\":[\"Chinese\",\"Mughlai\",\"Sea Food\",\"North Indian\",\"Lebanese\",\"African\"],\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"4.1\",\"ratingCount\":5890},\"url\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/Mao-Family-Restaurant-Next-to-Azad-Nagar-Metro-Station-Gate-No-4-Andheri-West\\/022PXX22-XX22-160812221645-Q4I6_BZDET\"}},{\"@type\":\"ListItem\",\"position\":8,\"item\":{\"@type\":\"Restaurant\",\"name\":\"High Point Veg Restaurant\",\"image\":\"https:\\/\\/content.jdmagicbox.com\\/v2\\/comp\\/mumbai\\/t2\\/022pxx22.xx22.131018123116.w1t2\\/catalogue\\/high-point-veg-restaurant-lokhandwala-complex-andheri-west-mumbai-north-indian-restaurants-0duo48trjb.jpg\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"3rd Cross Lane\",\"addressLocality\":\"Lokhandwala Complex-andheri West\",\"addressRegion\":\"Mumbai\",\"postalCode\":\"400053\",\"addressCountry\":\"IN\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":\"19.1443369\",\"longitude\":\"72.8241389\"},\"telephone\":\"+(91)-9022265363\",\"priceRange\":\"\\u20b9\\u20b9\\u20b9\",\"servesCuisine\":[\"Chinese\",\"Punjabi\",\"South Indian\",\"Multicuisine\",\"North Indian\",\"Sichuan\"],\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"3.9\",\"ratingCount\":12934},\"url\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/High-Point-Veg-Restaurant-Opposite-RNA-Shopping-Centre-Lokhandwala-Complex-andheri-West\\/022PXX22-XX22-131018123116-W1T2_BZDET\"}},{\"@type\":\"ListItem\",\"position\":9,\"item\":{\"@type\":\"Restaurant\",\"name\":\"Pallavi Veg Restaurant\",\"image\":\"https:\\/\\/content.jdmagicbox.com\\/v2\\/comp\\/mumbai\\/m7\\/022pxx22.xx22.240715145608.d2m7\\/catalogue\\/ak7rsw2sb6qr6a7-7dz1vvb0rd.jpg\",\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Andheri East\",\"addressRegion\":\"Mumbai\",\"postalCode\":\"400059\",\"addressCountry\":\"IN\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":\"19.119263434938\",\"longitude\":\"72.851256483104\"},\"telephone\":\"+(91)-9820734663\",\"priceRange\":\"\\u20b9\\u20b9\",\"servesCuisine\":[\"Chinese\",\"Punjabi\",\"South Indian\",\"North Indian\"],\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"4.0\",\"ratingCount\":7000},\"url\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/Pallavi-Veg-Restaurant-Andheri-East\\/022PXX22-XX22-240715145608-D2M7_BZDET\"}},{\"@type\":\"ListItem\",\"position\":10,\"item\":{\"@type\":\"Restaurant\",\"name\":\"Sarvodaya Pure Veg Restaurant\",\"image\":\"https:\\/\\/content.jdmagicbox.com\\/v2\\/comp\\/mumbai\\/75\\/022pk005975\\/catalogue\\/sarvodaya-pure-veg-restaurant-andheri-east-mumbai-home-delivery-restaurants-xgmsax.jpg\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Old Nagardas Road\",\"addressLocality\":\"Andheri East\",\"addressRegion\":\"Mumbai\",\"postalCode\":\"400069\",\"addressCountry\":\"IN\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":\"19.1221969\",\"longitude\":\"72.8506247\"},\"telephone\":\"+(91)-7777060767\",\"servesCuisine\":[\"Chinese\",\"Punjabi\",\"Multicuisine\",\"Gujarati\",\"North Indian\",\"Continental\",\"Marwadi\"],\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"4.1\",\"ratingCount\":5803},\"url\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/Sarvodaya-Pure-Veg-Restaurant-Near-Kotak-Mahindra-Bank-ATM-Andheri-East\\/022PK005975_BZDET\"}}]}",
+   "brcrum": "{\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"item\":{\"@id\":\"https:\\/\\/www.justdial.com\\/Mumbai\",\"name\":\"Mumbai\"}},{\"@type\":\"ListItem\",\"position\":2,\"item\":{\"@id\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/Restaurants\\/nct-10408936\",\"name\":\"Restaurants in Mumbai\"}},{\"@type\":\"ListItem\",\"position\":3,\"item\":{\"@id\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/Restaurants-in-Andheri-West\\/nct-10408936\",\"name\":\"Restaurants in Andheri West\"}},{\"@type\":\"ListItem\",\"position\":4,\"item\":{\"name\":\"3341+ Listings\",\"@id\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/Restaurants-in-Andheri-West\\/nct-10408936?#listings\"}}]}"
+  },
+  "ttlist": 3341,
+  "footertab": [
+   {
+    "heading": "12.3 Lakh +",
+    "desc": "Reviews & Ratings"
+   },
+   {
+    "heading": "3.3k +",
+    "desc": "Verified listings"
+   }
+  ],
+  "catessy": {
+   "h2": "Which are the top  Restaurants in Andheri West?",
+   "p": "Top 5  Restaurants near you in Andheri West are:",
+   "li": [
+    "Raju Champaran Meat House",
+    "Yasin's Food Inn",
+    "Rolls & Rasoi",
+    "Persian Darbar",
+    "Cafe Safar Family Restaurant"
+   ],
+   "span": "You can check ratings, reviews, address, contact number, images, operational hours above.",
+   "li2": [
+    {
+     "c": "Raju Champaran Meat House",
+     "u": "Mumbai/Raju-Champaran-Meat-House-Next-To-Cafe-Shimla-Andheri-West/022PXX22-XX22-240424184152-B1W8_BZDET"
+    },
+    {
+     "c": "Yasin's Food Inn",
+     "u": "Mumbai/Yasins-Food-Inn-Near-Lokhandwala-Market-Near-Mcdonalds-Lokhandwala-Complex-Andheri-West/022PXX22-XX22-140825190243-K9L1_BZDET"
+    },
+    {
+     "c": "Rolls & Rasoi",
+     "u": "Mumbai/Rolls-Rasoi-Next-To-Juben-Wines-Andheri-West/022PXX22-XX22-260819185724-S1T9_BZDET"
+    },
+    {
+     "c": "Persian Darbar",
+     "u": "Mumbai/Persian-Darbar-Next-To-Rto-Office-Andheri-West/022PXX22-XX22-240920192729-I9S4_BZDET"
+    },
+    {
+     "c": "Cafe Safar Family Restaurant",
+     "u": "Mumbai/Cafe-Safar-Family-Restaurant-Opposite-Heera-Panna-Mall-Oshiwara-Andheri-West/022PXX22-XX22-130425223852-B7Z7_BZDET"
+    }
+   ]
+  },
+  "og_tags": {
+   "type": "company",
+   "site_name": "Justdial",
+   "title": "Best Restaurants in Andheri West, Mumbai - Top Places to Eat Nearby | Justdial",
+   "url": "https://www.justdial.com/Mumbai/Restaurants-in-Andheri-West/nct-10408936",
+   "description": "Discover the best places to eat near Andheri West, Mumbai, from top dining spots to cozy cafes, vibrant pubs, and stylish bars. Explore a wide range of restaurants with Photos, Address, Reviews, Maps and Phone numbers on Justdial.",
+   "image": "https://akam.cdn.jdmagicbox.com/images/icontent/jd-logo_nw.png",
+   "iosurl": "justdial://Mumbai/Restaurants-in-Andheri-West/nct-10408936",
+   "androidurl": "android-app://com.justdial.search/http/t.justdial.com/Mumbai/Restaurants-in-Andheri-West/nct-10408936"
+  },
+  "canonic": "https://www.justdial.com/Mumbai/Restaurants-in-Andheri-West/nct-10408936",
+  "chainoutlet": 0,
+  "applink": [],
+  "number_mask": 0,
+  "jdgenie_strip": 0,
+  "bddisplayText1": "Get the list of best",
+  "bddisplayText2": "Restaurants",
+  "open_abd": 0,
+  "digital_catalog": "/01sep2022/vcatalogue.php?searchType=get_custom_services&docid=022PXX22.XX22.240424184152.B1W8,022PXX22.XX22.140825190243.K9L1,022PXX22.XX22.130425223852.B7Z7,022PXX22.XX22.250114191051.D2D7,022PXX22.XX22.160812221645.Q4I6,022PXX22.XX22.131018123116.W1T2,022PK005975&ncid=10408936&city=Mumbai&catalogueType=4,4,4,4,4,4,4&menutxt=Restaurants",
+  "enable_filter": 1,
+  "dpa": "|EATR|REST|FOS|CSN|",
+  "bd_data": {},
+  "abd_data": {},
+  "bestDeal": null,
+  "bd_text": "",
+  "bd_text_orig": "",
+  "resultString": "near Andheri West",
+  "bd_msgtype": "",
+  "bd_captiontype": "",
+  "aka": "",
+  "newbddesign": "1",
+  "calltext": "",
+  "bdtextdata": "",
+  "bdtextdatali": "",
+  "paramsText": "&bd7=&magicname=bdgbp",
+  "deal_pos": "",
+  "checkin": "2026-10-28",
+  "checkout": "2026-10-29",
+  "checkpos": "2",
+  "dt_params": {
+   "fromres": "1",
+   "city": "Mumbai",
+   "area": "Andheri West",
+   "pincode": "400053",
+   "catid": "10408936",
+   "national_catid": "10408936",
+   "catname": " Restaurants"
+  },
+  "bd_params": {
+   "bd": "1",
+   "city": "Mumbai",
+   "area": "Andheri West",
+   "pncdbd": "400053",
+   "ncatid": "10408936",
+   "search": "Restaurants",
+   "case": "sms_email",
+   "frmpg": "lspg"
+  },
+  "cat_pop_revs": {
+   "022PXX22.XX22.240424184152.B1W8": {
+    "name": "Sonu",
+    "rating": "5.0",
+    "review": "Raju champaran is the best nonveg restaurant",
+    "review_date": "2026-01-08 16:01:05",
+    "pop_random": [
+     {
+      "isreview": "2",
+      "hpyreview": "1",
+      "name_enc": "ak0jxpNmux7bf+FW4jLwAg==",
+      "review_date": "2026-01-08 16:01:05",
+      "rating": "5.0",
+      "review": "Raju Champaran Meat House is a must-visit for meat lovers! With quick service and ample seating, it`s perfect for groups. The trained staff ensures a delightful dining experience, making every visit enjoyable. Their flavorful dishes are truly exceptional, showcasing the best of local cuisine. Whether you`re dining in or taking out, Raju Champaran delivers satisfaction every time. Highly recommended for a hearty meal!",
+      "docid": "022PXX22.XX22.240424184152.B1W8",
+      "reviewer_name": "Sonu"
+     },
+     {
+      "isreview": "1",
+      "hpyreview": "0",
+      "name_enc": "5moceb1a+TdyOLZ2Z5NnEw==",
+      "review_date": "2025-05-05 14:54:06",
+      "rating": "5.0",
+      "review": "Itis very good food I really like",
+      "docid": "022PXX22.XX22.240424184152.B1W8"
+     },
+     {
+      "isreview": "1",
+      "hpyreview": "0",
+      "name_enc": "S4rDSAInOiQKNhqb7lNkvg==",
+      "review_date": "2024-04-26 17:02:24",
+      "rating": "5.0",
+      "review": "Raju champaran is the best nonveg restaurant",
+      "docid": "022PXX22.XX22.240424184152.B1W8"
+     }
+    ],
+    "hpyreview": "1",
+    "res_idx": 0
+   },
+   "022PXX22.XX22.140825190243.K9L1": {
+    "name": "Imran Adil",
+    "rating": "5.0",
+    "review": "Yasin`s Food Inn is a great place to eat! The food is not only delicious, but it`s also worth the money. You get a good quantity of food for what you pay, so you won`t leave hungry. The staff is friendly and the atmosphere is nice too. If you`re looking for a filling meal that won`t break the bank, I highly recommend trying Yasin`s Food Inn!",
+    "review_date": "2026-03-05 20:12:12",
+    "pop_random": [
+     {
+      "isreview": "2",
+      "hpyreview": "1",
+      "name_enc": "+D9Dz+KIlgZVPKhfsiJNyg==",
+      "review_date": "2026-03-05 20:12:12",
+      "rating": "5.0",
+      "review": "Yasin`s Food Inn is a delightful gem for food lovers! The tasty food and authentic cuisine transport you straight to India. I was pleasantly surprised by the short wait time, which made dining there even more enjoyable. The seating arrangements are comfortable, and the ambience is vibrant yet cozy. Plus, the portion sizes are generous, ensuring great value for money. Highly recommended!",
+      "docid": "022PXX22.XX22.140825190243.K9L1",
+      "reviewer_name": "Imran Adil"
+     },
+     {
+      "isreview": "2",
+      "hpyreview": "1",
+      "name_enc": "TtDbWpPkR6AScfGYjpO84w==",
+      "review_date": "2025-04-02 06:32:54",
+      "rating": "5.0",
+      "review": "Yasin`s Food Inn is a great place to eat! The food is not only delicious, but it`s also worth the money. You get a good quantity of food for what you pay, so you won`t leave hungry. The staff is friendly and the atmosphere is nice too. If you`re looking for a filling meal that won`t break the bank, I highly recommend trying Yasin`s Food Inn!",
+      "docid": "022PXX22.XX22.140825190243.K9L1"
+     },
+     {
+      "isreview": "2",
+      "hpyreview": "0",
+      "name_enc": "yDFBh1MQ7xA6KDfNfVewGg==",
+      "review_date": "2024-02-22 19:11:50",
+      "rating": "5.0",
+      "review": "Yasin`s Food Inn is a family-friendly restaurant that not only offers delicious food but also provides a great atmosphere for kids. With their great music and impeccable presentation, it`s the perfect spot for a fun and enjoyable dining experience.",
+      "docid": "022PXX22.XX22.140825190243.K9L1"
+     }
+    ],
+    "hpyreview": "1",
+    "res_idx": 1
+   },
+   "022PXX22.XX22.260819185724.S1T9": {
+    "name": "Rohit",
+    "rating": "5.0",
+    "review": "Rolls & Rasoi is a hidden gem for food lovers seeking authentic cuisine! Their mouthwatering rolls and diverse menu offer a delightful blend of flavors that transport you straight to the heart of India. The quality of ingredients shines through in every bite, making it a must-visit spot. Friendly service and a cozy ambiance enhance the experience. If you`re craving tasty, authentic dishes, Rolls & Rasoi should be at the top of your list!",
+    "review_date": "2026-09-27 22:39:36",
+    "pop_random": [
+     {
+      "isreview": "2",
+      "hpyreview": "1",
+      "name_enc": "zLdF/L0+ib6AkKyX6f9x4g==",
+      "review_date": "2026-09-27 22:39:36",
+      "rating": "5.0",
+      "review": "Its was my frist time and i genuinely like the experience of the store, i love it and i will recommend it to my friends and family...",
+      "docid": "022PXX22.XX22.260819185724.S1T9",
+      "reviewer_name": "Rohit"
+     },
+     {
+      "isreview": "2",
+      "hpyreview": "1",
+      "name_enc": "CfZSyE7KwO6IzHevQgS6gg==",
+      "review_date": "2026-09-18 22:24:58",
+      "rating": "5.0",
+      "review": "Delicious and fresh food with great presentation and generous portions. Loved the ambience, friendly staff, and excellent service. Definitely worth the money and a great place to visit!” ❤️✨ Try tikka Rolls and chilly chicken and laccha paratha, loved it",
+      "docid": "022PXX22.XX22.260819185724.S1T9"
+     },
+     {
+      "isreview": "2",
+      "hpyreview": "1",
+      "name_enc": "/Keag2HT3FmmMDPHspmVDA==",
+      "review_date": "2026-09-01 16:38:53",
+      "rating": "5.0",
+      "review": "Rolls & Rasoi is a hidden gem for food lovers seeking authentic cuisine! Their mouthwatering rolls and diverse menu offer a delightful blend of flavors that transport you straight to the heart of India. The quality of ingredients shines through in every bite, making it a must-visit spot. Friendly service and a cozy ambiance enhance the experience. If you`re craving tasty, authentic dishes, Rolls & Rasoi should be at the top of your list!",
+      "docid": "022PXX22.XX22.260819185724.S1T9"
+     }
+    ],
+    "hpyreview": "1",
+    "res_idx": 2
+   },
+   "022PXX22.XX22.240920192729.I9S4": {
+    "name": "jayant Telang",
+    "rating": "5.0",
+    "review": "I had a great experience at Persian Darbar, a restaurant known for its authentic cuisine. The food was worth the money, and I enjoyed the delicious flavors of the dishes. The ambiance was welcoming, and the service was excellent. I would definitely recommend this restaurant to anyone looking for a taste of authentic Persian cuisine.",
+    "review_date": "2026-08-08 13:30:15",
+    "pop_random": [
+     {
+      "isreview": "2",
+      "hpyreview": "1",
+      "name_enc": "GZrAI8cHWqzlSXrU2neocA==",
+      "review_date": "2026-08-08 13:30:15",
+      "rating": "5.0",
+      "review": "I recently visited Persian Darbar and had a great experience! The staff was very friendly and welcoming. They greeted us with warm smiles and made us feel right at home. They were happy to answer our questions about the menu and offered great recommendations. Their kindness really added to the enjoyable atmosphere of the restaurant. I will definitely return!",
+      "docid": "022PXX22.XX22.240920192729.I9S4",
+      "reviewer_name": "jayant Telang"
+     },
+     {
+      "isreview": "2",
+      "hpyreview": "0",
+      "name_enc": "V7OaYKIGjccgssxh328XLQ==",
+      "review_date": "2024-09-24 20:37:12",
+      "rating": "5.0",
+      "review": "Persian Darbar offers generous portions of fresh, tasty food at a reasonable price. The staff is friendly and ensures correct items are delivered. A delightful dining experience!",
+      "docid": "022PXX22.XX22.240920192729.I9S4"
+     },
+     {
+      "isreview": "2",
+      "hpyreview": "0",
+      "name_enc": "/Keag2HT3FmmMDPHspmVDA==",
+      "review_date": "2024-09-24 19:21:23",
+      "rating": "5.0",
+      "review": "I had a great experience at Persian Darbar, a restaurant known for its authentic cuisine. The food was worth the money, and I enjoyed the delicious flavors of the dishes. The ambiance was welcoming, and the service was excellent. I would definitely recommend this restaurant to anyone looking for a taste of authentic Persian cuisine.",
+      "docid": "022PXX22.XX22.240920192729.I9S4"
+     }
+    ],
+    "hpyreview": "1",
+    "res_idx": 3
+   },
+   "022PXX22.XX22.130425223852.B7Z7": {
+    "name": "pankaj",
+    "rating": "5.0",
+    "review": "Cafe Safar Family Restaurant is a delightful gem! The presentation of the dishes is simply stunning, making every meal a visual treat. The vibrant colors and careful plating elevate the dining experience. The service is equally impressive; the staff is attentive, friendly, and always ready to assist with recommendations. Overall, it`s a perfect spot for families seeking delicious food in a warm atmosphere!",
+    "review_date": "2026-07-01 12:59:45",
+    "pop_random": [
+     {
+      "isreview": "2",
+      "hpyreview": "1",
+      "name_enc": "Mvyt9iE2im0HpB2U1MeqxA==",
+      "review_date": "2026-07-01 12:59:45",
+      "rating": "5.0",
+      "review": "Cafe Safar Family Restaurant is a great place! The food is very tasty and always fresh. I loved every bite! The service is excellent; the staff are friendly and quick. The management keeps everything running smoothly. Plus, the portion sizes are generous, so you get good value for your money. If you`re in Andheri West, you must visit Cafe Safar!",
+      "docid": "022PXX22.XX22.130425223852.B7Z7",
+      "reviewer_name": "pankaj"
+     },
+     {
+      "isreview": "2",
+      "hpyreview": "1",
+      "name_enc": "DT5t0xvdEA7J8DN5c79sPg==",
+      "review_date": "2025-12-31 09:27:22",
+      "rating": "5.0",
+      "review": "I visited Cafe Safar Family Restaurant. The restaurant has trained staff who are friendly and helpful. They made my experience nice. The food was tasty and served quickly. The place was clean and comfortable. I liked the atmosphere a lot. Overall, it was a good visit, and I enjoyed my time there.",
+      "docid": "022PXX22.XX22.130425223852.B7Z7"
+     },
+     {
+      "isreview": "2",
+      "hpyreview": "1",
+      "name_enc": "z4Ha0YBmO90OYyIX0ui+pQ==",
+      "review_date": "2025-11-08 14:36:50",
+      "rating": "4.0",
+      "review": "Cafe Safar Family Restaurant is a delightful gem! The presentation of the dishes is simply stunning, making every meal a visual treat. The vibrant colors and careful plating elevate the dining experience. The service is equally impressive; the staff is attentive, friendly, and always ready to assist with recommendations. Overall, it`s a perfect spot for families seeking delicious food in a warm atmosphere!",
+      "docid": "022PXX22.XX22.130425223852.B7Z7"
+     }
+    ],
+    "hpyreview": "1",
+    "res_idx": 4
+   },
+   "022PXX22.XX22.250114191051.D2D7": {
+    "name": "arjun",
+    "rating": "5.0",
+    "review": "Avi Veg Delight is a hidden gem that truly celebrates authentic cuisine! The trained staff are attentive and knowledgeable, enhancing the dining experience. Portions are generous, ensuring you leave satisfied. The great music adds to the vibrant atmosphere, making it perfect for gatherings. With its wonderful ambience and reasonable prices, this restaurant is definitely worth every penny!",
+    "review_date": "2026-03-20 19:47:00",
+    "pop_random": [
+     {
+      "isreview": "2",
+      "hpyreview": "1",
+      "name_enc": "GDlnlq0HHtT/GxCe42wjnw==",
+      "review_date": "2026-03-20 19:47:00",
+      "rating": "5.0",
+      "review": "Avi Veg Delight is a hidden gem that truly celebrates authentic cuisine! The trained staff are attentive and knowledgeable, enhancing the dining experience. Portions are generous, ensuring you leave satisfied. The great music adds to the vibrant atmosphere, making it perfect for gatherings. With its wonderful ambience and reasonable prices, this restaurant is definitely worth every penny!",
+      "docid": "022PXX22.XX22.250114191051.D2D7",
+      "reviewer_name": "arjun"
+     }
+    ],
+    "hpyreview": "1",
+    "res_idx": 5
+   },
+   "022PXX22.XX22.160812221645.Q4I6": {
+    "name": "Raju Shapal",
+    "rating": "5.0",
+    "review": "Good food, wide variety of delicacies. nice ambience must try sizzler n faludas. nice and clean please ordered a half hungama kepsa was enough for 4pepole testy food.one of the best place to had nonveg cuisine. there is no waiting for table and food Presentation was good..",
+    "review_date": "2023-02-27 21:47:16",
+    "pop_random": [
+     {
+      "isreview": "2",
+      "hpyreview": "0",
+      "name_enc": "b2VLMRCekydhicaUQKD2wg==",
+      "review_date": "2023-02-27 21:47:16",
+      "rating": "5.0",
+      "review": "We are so fortunate to have this place just a few minutes drive away from home. Food is stunning, both the tapas and downstairs restaurant. Cocktails wow, wine great and lovely selection of beers. Love this place and will continue to visit and this spot gives extraordinary service and yummy meals",
+      "docid": "022PXX22.XX22.160812221645.Q4I6",
+      "reviewer_name": "Raju Shapal"
+     },
+     {
+      "isreview": "2",
+      "hpyreview": "0",
+      "name_enc": "1GhcLPVIYUUlqXS77t2wug==",
+      "review_date": "2023-02-26 19:59:30",
+      "rating": "5.0",
+      "review": "Good food, wide variety of delicacies. nice ambience must try sizzler n faludas. nice and clean please ordered a half hungama kepsa was enough for 4pepole testy food.one of the best place to had nonveg cuisine. there is no waiting for table and food Presentation was good..",
+      "docid": "022PXX22.XX22.160812221645.Q4I6"
+     },
+     {
+      "isreview": "2",
+      "hpyreview": "0",
+      "name_enc": "7WXflWzL5jnTTx0m/EmwMr70L6Hh/jWCNJTz5Og7qlw=",
+      "review_date": "2023-02-26 14:46:21",
+      "rating": "5.0",
+      "review": "In this restaurant I treat very nice service from the staff and staff are so good I like to go and suggest people near by this restaurant can come for a party or with family the restaurant is very nice and we are receiving the outstanding service from the restaurant I had call to Justdial and they had given me the information about this restaurant.",
+      "docid": "022PXX22.XX22.160812221645.Q4I6"
+     }
+    ],
+    "res_idx": 6
+   },
+   "022PXX22.XX22.131018123116.W1T2": {
+    "name": "Ranika Kamlesh Daryanani",
+    "rating": "5.0",
+    "review": "High point is the best place to have chaat in lokhandwala. The `Bhel Puri` here is yum, and is one of their specialities. Other than that, you can try out some North Indian food and sandwiches. The ambience is good and it`s a great place to spend your evenings with friends.",
+    "review_date": "2024-11-04 17:51:22",
+    "pop_random": [
+     {
+      "isreview": "2",
+      "hpyreview": "1",
+      "name_enc": "tadgf4UyTx+zF6WV/M3ubIjYM2anR55qXbyrA7cANLs=",
+      "review_date": "2024-11-04 17:51:22",
+      "rating": "5.0",
+      "review": "High Point Veg Restaurant serves delicious and authentic cuisine with great presentation. The food is tasty and the service is excellent. I highly recommend this restaurant!",
+      "docid": "022PXX22.XX22.131018123116.W1T2",
+      "reviewer_name": "Ranika Kamlesh Daryanani"
+     },
+     {
+      "isreview": "2",
+      "hpyreview": "0",
+      "name_enc": "ySnrNN5OyM0HSYQZymIKbQ==",
+      "review_date": "2024-06-12 01:28:20",
+      "rating": "4.0",
+      "review": "High Point Veg Restaurant offers delicious and fresh vegetarian food. The authentic cuisine is a delight for the taste buds. The staff is polite and the booking process is easy. The seating can be uncomfortable at times, but the live music creates a lively atmosphere. The prices are reasonable for the quality of food served. Overall, it`s a great place to enjoy good vegetarian food.",
+      "docid": "022PXX22.XX22.131018123116.W1T2"
+     },
+     {
+      "isreview": "2",
+      "hpyreview": "0",
+      "name_enc": "VbQc7IsWweo8iyyiCE6wIg==",
+      "review_date": "2023-02-28 08:40:26",
+      "rating": "4.0",
+      "review": "High point is the best place to have chaat in lokhandwala. The `Bhel Puri` here is yum, and is one of their specialities. Other than that, you can try out some North Indian food and sandwiches. The ambience is good and it`s a great place to spend your evenings with friends.",
+      "docid": "022PXX22.XX22.131018123116.W1T2"
+     }
+    ],
+    "hpyreview": "1",
+    "res_idx": 7
+   },
+   "022PXX22.XX22.240715145608.D2M7": {
+    "name": "vikash chaurasiya",
+    "rating": "5.0",
+    "review": "Pallavi Veg Restaurant is a hidden gem for vegetarian cuisine lovers! The ambiance is warm and inviting, making it perfect for family gatherings or casual meals. The friendly staff goes above and beyond to ensure a delightful dining experience. From their flavorful curries to the mouthwatering desserts, every dish is crafted with care. If you`re in search of delicious vegetarian fare and exceptional service, Pallavi Veg Restaurant is a must-visit! Highly recommended!",
+    "review_date": "2026-04-27 02:03:08",
+    "pop_random": [
+     {
+      "isreview": "2",
+      "hpyreview": "1",
+      "name_enc": "Lp/rTDDXS0seWMHBJA7FErKdOdRv/DA29KQIRfE2AZo=",
+      "review_date": "2026-04-27 02:03:08",
+      "rating": "5.0",
+      "review": "Pallavi Veg Restaurant is a hidden gem for vegetarian cuisine lovers! The ambiance is warm and inviting, making it perfect for family gatherings or casual meals. The friendly staff goes above and beyond to ensure a delightful dining experience. From their flavorful curries to the mouthwatering desserts, every dish is crafted with care. If you`re in search of delicious vegetarian fare and exceptional service, Pallavi Veg Restaurant is a must-visit! Highly recommended!",
+      "docid": "022PXX22.XX22.240715145608.D2M7",
+      "reviewer_name": "vikash chaurasiya"
+     },
+     {
+      "isreview": "1",
+      "hpyreview": "0",
+      "name_enc": "tQLpO76zFpOj7CLDU7JuPA==",
+      "review_date": "2026-03-25 21:11:17",
+      "rating": "5.0",
+      "review": "Good food best restaurant in Mumbai",
+      "docid": "022PXX22.XX22.240715145608.D2M7"
+     }
+    ],
+    "hpyreview": "1",
+    "res_idx": 8
+   },
+   "022PK005975": {
+    "name": "Vivek Singh",
+    "rating": "4.5",
+    "review": "Everything about this restaurant was great. The place was clean and smelled good. The staff and greeter was very nice. Our waiter was awesome, the staff also worked as a team in bringing and cleaning up our food. The food was fresh and awesome. Then we also had dessert and that was really good as well. Great atmosphere with really nice people.Must recommend for pure veg people",
+    "review_date": "2023-02-26 20:43:01",
+    "pop_random": [
+     {
+      "isreview": "2",
+      "hpyreview": "0",
+      "name_enc": "C+m0lZDH9VuJCb4LOiMrPQ==",
+      "review_date": "2023-02-26 20:43:01",
+      "rating": "4.5",
+      "review": "Everything about this restaurant was great. The place was clean and smelled good. The staff and greeter was very nice. Our waiter was awesome, the staff also worked as a team in bringing and cleaning up our food. The food was fresh and awesome. Then we also had dessert and that was really good as well. Great atmosphere with really nice people.Must recommend for pure veg people",
+      "docid": "022PK005975",
+      "reviewer_name": "Vivek Singh"
+     },
+     {
+      "isreview": "2",
+      "hpyreview": "0",
+      "name_enc": "96fIvfmmQnP4lnV6Q9hYEA==",
+      "review_date": "2023-02-24 22:57:51",
+      "rating": "5.0",
+      "review": "The other part that wasn`t ``great`` was the drinks - they literally said we are going to use dry ice for all our table side drinks and that`s how we`re going to get exciting presentation. For 1 or 2 drinks thats cool, but all six of us ordered different drinks and got some dry ice trick. Again, not bad, just overused.\n\nOverall a great, great experience!",
+      "docid": "022PK005975"
+     },
+     {
+      "isreview": "2",
+      "hpyreview": "0",
+      "name_enc": "Q1efx2UPltIULbk6IFKytQ==",
+      "review_date": "2023-02-17 15:11:09",
+      "rating": "5.0",
+      "review": "Small cozy place. Always crowded. Options on the menu are quite different and innovative. What I ordered is a pot rice. Unlike the traditional pot rice this came with a rich cashew gravy separately and the fried rice separately. The taste was more of a Indian Chinese fusion which was great for a change. Hygiene was observed at all times. Great food quality and quantity. Service boys are welcoming with a smile on their face. Overall good experience. Despite being busy no much waiting as the service is quite prompt and quick. Recommend this place. Will visit soon ",
+      "docid": "022PK005975"
+     }
+    ],
+    "res_idx": 9
+   }
+  },
+  "data_i_track": [],
+  "common_event_data": {
+   "type": "",
+   "catid": "10408936",
+   "city": "Mumbai",
+   "nct": "10408936",
+   "vid": "",
+   "wap": true,
+   "pin": "f",
+   "search_type": "P",
+   "isB2B": "0",
+   "bi_lang": ""
+  },
+  "pop_city": {
+   "heading": "Show Results Near You",
+   "heading_subtxt": "Show Results Near You",
+   "pos": 9,
+   "data": [
+    {
+     "city": "Ahmedabad"
+    },
+    {
+     "city": "Bangalore"
+    },
+    {
+     "city": "Chennai"
+    },
+    {
+     "city": "Delhi"
+    },
+    {
+     "city": "Hyderabad"
+    },
+    {
+     "city": "Kolkata"
+    },
+    {
+     "city": "Mumbai"
+    },
+    {
+     "city": "Pune"
+    },
+    {
+     "city": "Jaipur"
+    }
+   ]
+  },
+  "override_bd": 0,
+  "override_bd_arr": [],
+  "lng_arr": {
+   "helpful_txt": "Were our search results helpful?",
+   "yes": "Yes",
+   "no": "No",
+   "rslt_near": "Find Results near you",
+   "dt_loc": "Use Precise Location",
+   "ad_lst": "Additional Listing Information",
+   "lst_rev": "Latest Customer Reviews",
+   "rcd_prod": "Recommended Products For You",
+   "view_prd": "View All Products",
+   "also_srch": "People Also Search For",
+   "job_txt": "Are you looking for job?"
+  },
+  "tbl_hdr": {
+   "cn": "Name",
+   "ad": "Address",
+   "yr": "Year of Establishment",
+   "web": "Website",
+   "am": "Ameneties",
+   "sr": "Services",
+   "rt": "Rating",
+   "rv": "No. of Reviews",
+   "tc": "Listed Categories"
+  },
+  "other": 0,
+  "noarea": 0,
+  "tabs": null,
+  "stringdetail": "Based on,others have rated this,other have rated this,view all,call,message,share,direction,have rated this,your friend,be first among your friends to rate",
+  "stringdetaileng": "Based on,others have rated this,other have rated this,view all,call,message,share,direction,have rated this,your friend,be first among your friends to rate",
+  "core": "&corecat=1",
+  "rhs": 1,
+  "error": {
+   "status": 1,
+   "fallbacksearch": "Restaurants",
+   "rstatus": 200,
+   "rurl": "",
+   "inapp": 1
+  },
+  "phpRestime": 467.906982421875,
+  "search_id": "48a2b17fee5490a9647d1bb7a6495d79afc28c43d8557db45a0db48bdf01c0ef",
+  "GPREFETCH": "FALSE"
+ },
+ "bannerData": [],
+ "webLang": "en",
+ "hotky": {},
+ "isFreeTxt": 0,
+ "viaGoogle": 0,
+ "issr": true,
+ "useTabsView": true,
+ "isServerSide": true,
+ "nearmeUrl": 0,
+ "isTablet": false,
+ "viaRfr": "",
+ "query_language": "",
+ "digitalCatalogData": {},
+ "rhsCurated": {}
+}

@@ -1,0 +1,3267 @@
+{
+ "isVendor": false,
+ "userLocation": {
+  "area": "Andheri West",
+  "pincode": "",
+  "lat": "",
+  "long": "",
+  "city": "Mumbai"
+ },
+ "query": {
+  "city": "Mumbai",
+  "search": "bademiya"
+ },
+ "pd": "7a23607475696e7368726465233b67606d72642d2365607560233b7a7c7c",
+ "pageConfig": {
+  "pageName": "results",
+  "rewriteLocationCookies": true
+ },
+ "nearmeCity": "Mumbai",
+ "resultsAreaInfo": {
+  "area": "Andheri West",
+  "areaUpdatedByListing": "last_used_area_search_impression"
+ },
+ "akmData": {
+  "Continent": "AS",
+  "Ak_City": "LUDHIANA",
+  "Cntry": "IN"
+ },
+ "referer": "gen",
+ "askLoc": 0,
+ "ct": "Mumbai",
+ "lat": "",
+ "long": "",
+ "search": "bademiya",
+ "ncatid": "",
+ "bot": 0,
+ "llmBot": 0,
+ "listData": {
+  "results": {
+   "columns": [
+    "docid",
+    "name",
+    "distance",
+    "NewAddress",
+    "lat",
+    "lon",
+    "paidStatus",
+    "compRating",
+    "verified",
+    "rateThis",
+    "mappointer",
+    "opstring",
+    "area",
+    "opennow",
+    "type",
+    "VNumber",
+    "totalReviews",
+    "video",
+    "city",
+    "thumbnail",
+    "totJdReviews",
+    "favflag",
+    "attr_data",
+    "an",
+    "shopfront",
+    "ishotel",
+    "vertical",
+    "vertical_name",
+    "discount_Offer",
+    "vertical_data",
+    "position_flag",
+    "Jadoopic",
+    "sharedt_url",
+    "cancall",
+    "wpnumber",
+    "action_node",
+    "idxno",
+    "linefive",
+    "newadd",
+    "newaddcolor",
+    "dimages",
+    "viewchange",
+    "photocnt",
+    "pdg",
+    "nameln",
+    "NewAddressln",
+    "address_flg",
+    "ask_mobile",
+    "hcatarr",
+    "callalocation",
+    "compRatingln",
+    "catalog_flag",
+    "jdpay",
+    "ratecard",
+    "ds",
+    "inapp",
+    "bd_params",
+    "jtkr",
+    "useshare",
+    "weburl",
+    "rev",
+    "nwtaglin",
+    "tag",
+    "starhotel",
+    "revarr",
+    "offertag",
+    "ratingtag",
+    "resp_rate",
+    "pincode",
+    "guarantee",
+    "event_data",
+    "msg_pop",
+    "scd",
+    "loccity",
+    "docatt",
+    "catarray",
+    "arealn",
+    "service_catalog",
+    "is_lawyer",
+    "price_tagline",
+    "rateColor",
+    "seo_info",
+    "logo",
+    "ad_listing",
+    "card_info",
+    "dimages_tag",
+    "apiprm",
+    "extra_field"
+   ],
+   "data": [
+    [
+     "022PXX22.XX22.210726122229.H2P7",
+     "Bademiya Restaurant",
+     "",
+     "Near Ion Bandra West",
+     "19.061747222222",
+     "72.836169444444",
+     "0",
+     "3.9",
+     "",
+     1,
+     "1",
+     {
+      "status": "<span class=\"font14 fw400 els color339\">Opens in </span><span class=\"font14 fw400 color111\">9 mins</span>",
+      "timing": "12:00 pm - 3:00 am"
+     },
+     "Linking Road Bandra West",
+     0,
+     "Restaurants, Fine Dining Restaurants (Rs 1000 To Rs 2000)",
+     "",
+     "2,067 Ratings",
+     "",
+     "mumbai",
+     "https://content.jdmagicbox.com/v2/comp/mumbai/p7/022pxx22.xx22.210726122229.h2p7/catalogue/bademiya-restaurant-bandra-west-mumbai-restaurants-5f6knaqrhx-250.jpg",
+     "2,067",
+     0,
+     {
+      "node1": "",
+      "node2": "<span class=\"font14 fw400 color111\">₹ 1600 Price for two</span>",
+      "node3": [
+       "<span class=\"font14 fw400 color111\">5 Years in Business</span>",
+       0,
+       0
+      ],
+      "node1color": []
+     },
+     {},
+     0,
+     0,
+     [],
+     "restaurant",
+     "",
+     [
+      {
+       "button_text": "Order online",
+       "button_url": [
+        {
+         "url": "https://www.swiggy.com/restaurants/bademiya-bandra-west-mumbai-374929",
+         "text": "Swiggy",
+         "img": "https://akam.cdn.jdmagicbox.com/images/icons/swiggy.png",
+         "dsc": null
+        }
+       ],
+       "button_color": [],
+       "flag": "1",
+       "hide_header": "0",
+       "skipVerif": "0",
+       "tp": "1",
+       "li": "Order online"
+      }
+     ],
+     "",
+     "https://content2.jdmagicbox.com/checkin/mumbai/022PXX22.XX22.210726122229.H2P7.jpg",
+     "https://www.justdial.com/DT-43TA341VOHB",
+     1,
+     [],
+     "",
+     1,
+     "",
+     "",
+     "",
+     [
+      "https://content.jdmagicbox.com/v2/comp/mumbai/p7/022pxx22.xx22.210726122229.h2p7/catalogue/bademiya-restaurant-bandra-west-mumbai-restaurants-5f6knaqrhx.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/p7/022pxx22.xx22.210726122229.h2p7/catalogue/bademiya-restaurant-bandra-west-mumbai-restaurants-7wq29z09ez.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/p7/022pxx22.xx22.210726122229.h2p7/catalogue/bademiya-restaurant-bandra-west-mumbai-restaurants-mqbrnrq0tv.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/p7/022pxx22.xx22.210726122229.h2p7/catalogue/bademiya-restaurant-bandra-west-mumbai-restaurants-uma72jyqvj.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/p7/022pxx22.xx22.210726122229.h2p7/catalogue/bademiya-restaurant-bandra-west-mumbai-restaurants-4pzhr9zpvm.jpg"
+     ],
+     [
+      0,
+      0,
+      0
+     ],
+     "10",
+     "",
+     "Bademiya Restaurant",
+     "Near Ion Bandra West",
+     1,
+     1,
+     {
+      "id": 11399649,
+      "nid": 11399649,
+      "name": "Fine Dining Restaurants (Rs 1000 To Rs 2000)",
+      "lin": ""
+     },
+     "omizO%2Bc91UhDDCelo6h%2BzBAfhGv%2B2xB5pSiDr8SwQro%3D",
+     "3.9",
+     0,
+     {
+      "img": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/newprot/ctlgjdpay2x.png",
+      "redirection_url": ""
+     },
+     {},
+     "0",
+     1,
+     {
+      "did": "022PXX22.XX22.210726122229.H2P7",
+      "cmp_params": {
+       "bcity": "Mumbai",
+       "barea": "Bandra West",
+       "bpncdbd": "400050",
+       "paidstatus": "0",
+       "misc": "4",
+       "ask_mobile": 1
+      },
+      "bilang": ""
+     },
+     "3yUe%2BMh2ZiVClyOsA4OGIrX4AZLG2AjxnzSLCGJ5pCc%3D",
+     0,
+     "Mumbai/Bademiya-Restaurant-Near-Ion-Bandra-West/022PXX22-XX22-210726122229-H2P7_BZDET",
+     "",
+     [
+      "Dine-in"
+     ],
+     [],
+     "",
+     [],
+     {},
+     [],
+     [],
+     "400050",
+     "",
+     {
+      "cname": "Bademiya Restaurant",
+      "docid": "022PXX22.XX22.210726122229.H2P7",
+      "rating": "3.9",
+      "rating_cnt": "2067",
+      "city": "Mumbai",
+      "dcity": "mumbai",
+      "area": "Bandra West",
+      "pin": "400050",
+      "ds": "0",
+      "pdg": "",
+      "paid": "0",
+      "jd_verified": "",
+      "guarantee": "",
+      "trust": "0",
+      "verified": "0",
+      "pos": 1,
+      "tag": "",
+      "cta_name": "Order online TP",
+      "call_cta": "2",
+      "deals": "",
+      "jd_cash": "",
+      "isb2b": "",
+      "miscellaneous_flag": "",
+      "distance": "",
+      "core_distance": 8215.83,
+      "search_type": "C",
+      "services": 0,
+      "jdm_eligible": 0,
+      "b2b_flag": "0",
+      "opt": null,
+      "price_count": 0,
+      "catalog_flag": "1024",
+      "state": null,
+      "abbr": "",
+      "ntp": 0,
+      "high_call": 0,
+      "total_listing_count": 50
+     },
+     1,
+     "43TA341VOHB",
+     "Mumbai",
+     [],
+     [],
+     "Bandra West",
+     [],
+     0,
+     [],
+     "#108723",
+     [],
+     "",
+     0,
+     [
+      {
+       "t": "rating",
+       "d": [
+        {
+         "tag_key": "rating",
+         "tagText": "3.9",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0,
+         "bg": "#108723"
+        },
+        {
+         "tag_key": "reviews",
+         "tagText": "2,067 Ratings",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "address",
+       "d": [
+        {
+         "tag_key": "address",
+         "tagText": "Linking Road Bandra West, Mumbai",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/results_locat_icon.svg",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "oth",
+       "d": [
+        {
+         "tag_key": "timings",
+         "tagText": "<span class=\"font14 fw400 els color339 ml-5\">Opens in </span><span class=\"font14 fw400 color111\">9 mins</span>",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 1
+        },
+        {
+         "tag_key": "price",
+         "tagText": "",
+         "desc": "<div role=\"presentation\" tabindex=\"-1\" class=\"font15 fw400 color111 rupicon\"><span class=\"font14 fw400 color111\"><span class=\"dtcmrupicon\">₹</span> 1600 Price for two</span></div>",
+         "icon": "",
+         "link": "",
+         "html": 1
+        }
+       ]
+      }
+     ],
+     [
+      "5f6knaqrhx",
+      "7wq29z09ez",
+      "mqbrnrq0tv",
+      "uma72jyqvj",
+      "4pzhr9zpvm"
+     ],
+     "",
+     []
+    ],
+    [
+     "022PXX22.XX22.220611092522.V6F4",
+     "Bademiya",
+     "",
+     "Near Shoppers StopBandra West Bandra West",
+     "19.0615911",
+     "72.8361729",
+     "0",
+     "3.8",
+     "",
+     1,
+     "1",
+     {
+      "status": "<span class=\"font14 fw500 els color339\">Open</span> <span class=\"font14 fw500 color111\"> until 3:00 am</span>",
+      "timing": "11:30 am - 3:00 am"
+     },
+     "Linking Road Bandra West",
+     1,
+     "Restaurants, Caterers",
+     "",
+     "2,320 Ratings",
+     "",
+     "mumbai",
+     "https://content.jdmagicbox.com/v2/comp/mumbai/f4/022pxx22.xx22.220611092522.v6f4/catalogue/bademiya-mumbai-indian-restaurants-x7h5xmrkuq-250.jpg",
+     "2,320",
+     0,
+     {
+      "node1": "",
+      "node2": "",
+      "node3": [
+       "",
+       0,
+       0
+      ],
+      "node1color": []
+     },
+     {},
+     0,
+     0,
+     [],
+     "restaurant",
+     "",
+     [],
+     "",
+     "https://content2.jdmagicbox.com/checkin/mumbai/022PXX22.XX22.220611092522.V6F4.jpg",
+     "https://www.justdial.com/DT-43UW4DX6NHF",
+     1,
+     [],
+     "",
+     2,
+     "",
+     "",
+     "",
+     [
+      "https://content.jdmagicbox.com/v2/comp/mumbai/f4/022pxx22.xx22.220611092522.v6f4/catalogue/bademiya-mumbai-indian-restaurants-x7h5xmrkuq.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/f4/022pxx22.xx22.220611092522.v6f4/catalogue/bademiya-khar-west-mumbai-indian-restaurants-424rievj5q.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/f4/022pxx22.xx22.220611092522.v6f4/catalogue/bademiya-mumbai-indian-restaurants-6r5ym1cnsf.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/f4/022pxx22.xx22.220611092522.v6f4/catalogue/bademiya-mumbai-indian-restaurants-at72hrwl5v.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/f4/022pxx22.xx22.220611092522.v6f4/catalogue/bademiya-mumbai-indian-restaurants-za3m4d8snl.jpg"
+     ],
+     [
+      0,
+      0,
+      0
+     ],
+     "12",
+     "",
+     "Bademiya",
+     "Near Shoppers StopBandra West Bandra West",
+     1,
+     1,
+     {
+      "id": 10263652,
+      "nid": 10263652,
+      "name": "Indian Restaurants",
+      "lin": ""
+     },
+     "qFGZSGSdaythoLP4%2B3TuaOdmRWX2AVEsHT1QiaiyIzI%3D",
+     "3.8",
+     0,
+     {
+      "img": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/newprot/ctlgjdpay2x.png",
+      "redirection_url": ""
+     },
+     {},
+     "0",
+     1,
+     {
+      "did": "022PXX22.XX22.220611092522.V6F4",
+      "cmp_params": {
+       "bcity": "Mumbai",
+       "barea": "Bandra West",
+       "bpncdbd": "400050",
+       "paidstatus": "0",
+       "misc": "0",
+       "ask_mobile": 1
+      },
+      "bilang": ""
+     },
+     "qYfy0Z%2BPApS56oWqVxFzAbX4AZLG2AjxnzSLCGJ5pCc%3D",
+     0,
+     "Mumbai/Bademiya-Near-Shoppers-Stopbandra-West-Bandra-West/022PXX22-XX22-220611092522-V6F4_BZDET",
+     "",
+     [
+      "Delivery",
+      "Dine-in",
+      "Home Delivery"
+     ],
+     [],
+     "",
+     [],
+     {},
+     [],
+     [],
+     "400050",
+     "",
+     {
+      "cname": "Bademiya",
+      "docid": "022PXX22.XX22.220611092522.V6F4",
+      "rating": "3.8",
+      "rating_cnt": "2320",
+      "city": "Mumbai",
+      "dcity": "mumbai",
+      "area": "Bandra West",
+      "pin": "400050",
+      "ds": "0",
+      "pdg": "",
+      "paid": "0",
+      "jd_verified": "",
+      "guarantee": "",
+      "trust": "0",
+      "verified": "0",
+      "pos": 2,
+      "tag": "",
+      "cta_name": "",
+      "call_cta": "2",
+      "deals": "",
+      "jd_cash": "",
+      "isb2b": "",
+      "miscellaneous_flag": "",
+      "distance": "",
+      "core_distance": 8215.83,
+      "search_type": "C",
+      "services": 0,
+      "jdm_eligible": 0,
+      "b2b_flag": "0",
+      "opt": null,
+      "price_count": 0,
+      "catalog_flag": "17408",
+      "state": null,
+      "abbr": "",
+      "ntp": 0,
+      "high_call": 0
+     },
+     1,
+     "43UW4DX6NHF",
+     "Mumbai",
+     [],
+     [],
+     "Bandra West",
+     [],
+     0,
+     [],
+     "#108723",
+     [],
+     "",
+     0,
+     [
+      {
+       "t": "rating",
+       "d": [
+        {
+         "tag_key": "rating",
+         "tagText": "3.8",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0,
+         "bg": "#108723"
+        },
+        {
+         "tag_key": "reviews",
+         "tagText": "2,320 Ratings",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "address",
+       "d": [
+        {
+         "tag_key": "address",
+         "tagText": "Linking Road Bandra West, Mumbai",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/results_locat_icon.svg",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "oth",
+       "d": [
+        {
+         "tag_key": "timings",
+         "tagText": "<span class=\"font14 fw500 els color339 ml-5\">Open</span> <span class=\"font14 fw500 color111\"> until 3:00 am</span>",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 1
+        }
+       ]
+      }
+     ],
+     [
+      "x7h5xmrkuq",
+      "424rievj5q",
+      "6r5ym1cnsf",
+      "at72hrwl5v",
+      "za3m4d8snl"
+     ],
+     "",
+     []
+    ],
+    [
+     "022PJD00936",
+     "Bademiya The Kabab Restaurant",
+     "",
+     "Near Horniman Circle Opposite State Central Library Fort",
+     "18.9311461",
+     "72.8354449",
+     "0",
+     "4.1",
+     "",
+     1,
+     "1",
+     {
+      "status": "<span class=\"font14 fw400 els color339\">Opens in </span><span class=\"font14 fw400 color111\">9 mins</span>",
+      "timing": "12:00 pm - 1:00 am"
+     },
+     "Shahid Bagat Road Fort",
+     0,
+     "Restaurants, North Indian Restaurants",
+     "",
+     "37,628 Ratings",
+     "",
+     "Mumbai",
+     "https://content.jdmagicbox.com/v2/comp/mumbai/36/022pjd00936/catalogue/bademiya-the-kabab-restaurant-fort-mumbai-restaurants-3h4d7wn-250.jpg",
+     "37,628",
+     0,
+     {
+      "node1": "",
+      "node2": "<span class=\"font14 fw400 color111\">₹ 550 Price for two</span>",
+      "node3": [
+       "<span class=\"font14 fw400 color111\">80 Years in Business</span>",
+       0,
+       0
+      ],
+      "node1color": []
+     },
+     {},
+     0,
+     0,
+     [],
+     "restaurant",
+     "",
+     [
+      {
+       "button_text": "Order online",
+       "button_url": [
+        {
+         "url": "https://www.swiggy.com/restaurants/bademiya-fine-dine-restaurant-fort-fort-colaba-mumbai-84638",
+         "text": "Swiggy",
+         "img": "https://akam.cdn.jdmagicbox.com/images/icons/swiggy.png",
+         "dsc": null
+        },
+        {
+         "url": "https://www.zomato.com/mumbai/bademiya-fine-dine-restaurant-fort/order",
+         "text": "Zomato",
+         "img": "https://akam.cdn.jdmagicbox.com/images/icons/zomato.png",
+         "dsc": null
+        }
+       ],
+       "button_color": [],
+       "flag": "1",
+       "hide_header": "0",
+       "skipVerif": "0",
+       "tp": "1",
+       "li": "Order online"
+      },
+      {
+       "button_text": "Menu",
+       "button_url": [
+        {
+         "url": "https://www.justdial.com/Mumbai/Bademiya-The-Kabab-Restaurant-Near-Horniman-Circle-Opposite-State-Central-Library-Fort/022PJD00936_BZDET/menu?source=77&cdata=&native=&version=&hide_header=1&sid=",
+         "text": "",
+         "img": "",
+         "dsc": ""
+        }
+       ],
+       "button_color": [],
+       "flag": "1",
+       "hide_header": "0",
+       "skipVerif": "0",
+       "tp": "0",
+       "li": "Menu"
+      }
+     ],
+     "",
+     "https://content2.jdmagicbox.com/checkin/mumbai/022PJD00936.jpg",
+     "https://www.justdial.com/DT-4353GBM8",
+     1,
+     [],
+     "",
+     3,
+     "",
+     "",
+     "",
+     [
+      "https://content.jdmagicbox.com/v2/comp/mumbai/36/022pjd00936/catalogue/bademiya-the-kabab-restaurant-fort-mumbai-restaurants-3h4d7wn.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/36/022pjd00936/catalogue/bademiya-the-kabab-restaurant-fort-mumbai-mughlai-restaurants-0wkllwib9k.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/36/022pjd00936/catalogue/bademiya-the-kabab-restaurant-fort-mumbai-restaurants-1qwmeth4s0.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/36/022pjd00936/catalogue/bademiya-the-kabab-restaurant-fort-mumbai-restaurants-qv0qrwfu7q.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/36/022pjd00936/catalogue/bademiya-the-kabab-restaurant-fort-mumbai-restaurants-8y06tazfzp.jpg"
+     ],
+     [
+      0,
+      0,
+      0
+     ],
+     "151",
+     "",
+     "Bademiya The Kabab Restaurant",
+     "Near Horniman Circle Opposite State Central Library Fort",
+     1,
+     1,
+     {
+      "id": 10331943,
+      "nid": 10331943,
+      "name": "Mughlai Restaurants",
+      "lin": ""
+     },
+     "nGn9SHFGVFiq8udbojCyjQ%3D%3D",
+     "4.1",
+     0,
+     {
+      "img": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/newprot/ctlgjdpay2x.png",
+      "redirection_url": ""
+     },
+     {},
+     "0",
+     1,
+     {
+      "did": "022PJD00936",
+      "cmp_params": {
+       "bcity": "Mumbai",
+       "barea": "Fort",
+       "bpncdbd": "400001",
+       "paidstatus": "0",
+       "misc": "0",
+       "ask_mobile": 1
+      },
+      "bilang": ""
+     },
+     "BT9cbKKg6IvFWVnsENPcu7X4AZLG2AjxnzSLCGJ5pCc%3D",
+     0,
+     "Mumbai/Bademiya-The-Kabab-Restaurant-Near-Horniman-Circle-Opposite-State-Central-Library-Fort/022PJD00936_BZDET",
+     "",
+     [
+      "Delivery",
+      "Dine-in",
+      "Mughlai"
+     ],
+     [
+      {
+       "tag_name": "Trending",
+       "bg_colour": "#5271dd",
+       "txt_colour": "#FFFFFF",
+       "tag_image": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/trending.svg"
+      }
+     ],
+     "",
+     [],
+     {},
+     [],
+     [],
+     "400001",
+     "",
+     {
+      "cname": "Bademiya The Kabab Restaurant",
+      "docid": "022PJD00936",
+      "rating": "4.1",
+      "rating_cnt": "37628",
+      "city": "Mumbai",
+      "dcity": "Mumbai",
+      "area": "Fort",
+      "pin": "400001",
+      "ds": "0",
+      "pdg": "",
+      "paid": "0",
+      "jd_verified": "",
+      "guarantee": "",
+      "trust": "0",
+      "verified": "0",
+      "pos": 3,
+      "tag": "Trending",
+      "cta_name": "Order online TP",
+      "call_cta": "2",
+      "deals": "",
+      "jd_cash": "",
+      "isb2b": "",
+      "miscellaneous_flag": "",
+      "distance": "",
+      "core_distance": 8214.3,
+      "search_type": "C",
+      "services": 0,
+      "jdm_eligible": 0,
+      "b2b_flag": "0",
+      "opt": null,
+      "price_count": 0,
+      "catalog_flag": "1024",
+      "state": null,
+      "abbr": "",
+      "ntp": 0,
+      "high_call": 0
+     },
+     1,
+     "4353GBM8",
+     "Mumbai",
+     [],
+     [],
+     "Fort",
+     [],
+     0,
+     [],
+     "#007A0C",
+     [],
+     "https://images.jdmagicbox.com/mumbai/g4/022pxx22.xx22.121222150920.m7g4/logo/d65025e7b0df200c5057bcd99ee4f6a0.jpg",
+     0,
+     [
+      {
+       "t": "rating",
+       "d": [
+        {
+         "tag_key": "rating",
+         "tagText": "4.1",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0,
+         "bg": "#007A0C"
+        },
+        {
+         "tag_key": "reviews",
+         "tagText": "37,628 Ratings",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0
+        },
+        {
+         "tag_key": "tag",
+         "tagText": "",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/trending.svg",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "address",
+       "d": [
+        {
+         "tag_key": "address",
+         "tagText": "Shahid Bagat Road Fort, Mumbai",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/results_locat_icon.svg",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "oth",
+       "d": [
+        {
+         "tag_key": "timings",
+         "tagText": "<span class=\"font14 fw400 els color339 ml-5\">Opens in </span><span class=\"font14 fw400 color111\">9 mins</span>",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 1
+        },
+        {
+         "tag_key": "price",
+         "tagText": "",
+         "desc": "<div role=\"presentation\" tabindex=\"-1\" class=\"font15 fw400 color111 rupicon\"><span class=\"font14 fw400 color111\"><span class=\"dtcmrupicon\">₹</span> 550 Price for two</span></div>",
+         "icon": "",
+         "link": "",
+         "html": 1
+        }
+       ]
+      }
+     ],
+     [
+      "3h4d7wn",
+      "0wkllwib9k",
+      "1qwmeth4s0",
+      "qv0qrwfu7q",
+      "8y06tazfzp"
+     ],
+     "",
+     []
+    ],
+    [
+     "022P7702318",
+     "Bademiya The Kabab Restaurant",
+     "",
+     "Behind Taj Mahal Hotel Near Cafe Leopold Apollo Bunder",
+     "18.9233880768",
+     "72.8325094655",
+     "0",
+     "4.1",
+     "",
+     1,
+     "1",
+     {
+      "status": "<span class=\"font14 fw400 els color339\">Opens in </span><span class=\"font14 fw400 color111\">24 mins</span>",
+      "timing": "12:00 am - 3:30 am , 12:15 pm - 12:00 am"
+     },
+     "Tulloch Road Apollo Bunder",
+     0,
+     "Restaurants, North Indian Restaurants",
+     "",
+     "37,628 Ratings",
+     "",
+     "Mumbai",
+     "https://content.jdmagicbox.com/v2/comp/mumbai/18/022p7702318/catalogue/bademiya-the-kabab-restaurant-apollo-bunder-mumbai-home-delivery-restaurants-qskh9k6n1z-250.jpg",
+     "37,628",
+     0,
+     {
+      "node1": "",
+      "node2": "<span class=\"font14 fw400 color111\">₹ 550 Price for two</span>",
+      "node3": [
+       "<span class=\"font14 fw400 color111\">80 Years in Business</span>",
+       0,
+       0
+      ],
+      "node1color": []
+     },
+     {},
+     0,
+     0,
+     [],
+     "restaurant",
+     "",
+     [
+      {
+       "button_text": "Order online",
+       "button_url": [
+        {
+         "url": "https://www.swiggy.com/restaurants/bademiya-colaba-fort-colaba-mumbai-84639",
+         "text": "Swiggy",
+         "img": "https://akam.cdn.jdmagicbox.com/images/icons/swiggy.png",
+         "dsc": null
+        },
+        {
+         "url": "https://www.zomato.com/mumbai/bademiya-colaba/order",
+         "text": "Zomato",
+         "img": "https://akam.cdn.jdmagicbox.com/images/icons/zomato.png",
+         "dsc": ""
+        }
+       ],
+       "button_color": [],
+       "flag": "1",
+       "hide_header": "0",
+       "skipVerif": "0",
+       "tp": "1",
+       "li": "Order online"
+      },
+      {
+       "button_text": "Menu",
+       "button_url": [
+        {
+         "url": "https://www.justdial.com/Mumbai/Bademiya-The-Kabab-Restaurant-Behind-Taj-Mahal-Hotel-Near-Cafe-Leopold-Apollo-Bunder/022P7702318_BZDET/menu?source=77&cdata=&native=&version=&hide_header=1&sid=",
+         "text": "",
+         "img": "",
+         "dsc": ""
+        }
+       ],
+       "button_color": [],
+       "flag": "1",
+       "hide_header": "0",
+       "skipVerif": "0",
+       "tp": "0",
+       "li": "Menu"
+      }
+     ],
+     "",
+     "https://content2.jdmagicbox.com/checkin/mumbai/022P7702318.jpg",
+     "https://www.justdial.com/DT-43L1PF12",
+     1,
+     [],
+     "",
+     4,
+     "",
+     "",
+     "",
+     [
+      "https://content.jdmagicbox.com/v2/comp/mumbai/18/022p7702318/catalogue/bademiya-the-kabab-restaurant-apollo-bunder-mumbai-home-delivery-restaurants-qskh9k6n1z.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/18/022p7702318/catalogue/bademiya-the-kabab-restaurant-apollo-bunder-mumbai-tandoori-restaurants-tv857iqmi7.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/18/022p7702318/catalogue/bademiya-the-kabab-restaurant-apollo-bunder-mumbai-tandoori-restaurants-rfwnb2z49y.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/18/022p7702318/catalogue/bademiya-the-kabab-restaurant-apollo-bunder-mumbai-tandoori-restaurants-8u76yxsrsx.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/18/022p7702318/catalogue/bademiya-the-kabab-restaurant-apollo-bunder-mumbai-tandoori-restaurants-fnvfdejpmx.jpg"
+     ],
+     [
+      0,
+      0,
+      0
+     ],
+     "151",
+     "",
+     "Bademiya The Kabab Restaurant",
+     "Behind Taj Mahal Hotel Near Cafe Leopold Apollo Bunder",
+     1,
+     1,
+     {
+      "id": 10339065,
+      "nid": 10339065,
+      "name": "North Indian Restaurants",
+      "lin": ""
+     },
+     "CUwu723gs8%2FcxMYyTM2dbQ%3D%3D",
+     "4.1",
+     0,
+     {
+      "img": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/newprot/ctlgjdpay2x.png",
+      "redirection_url": ""
+     },
+     {},
+     "0",
+     1,
+     {
+      "did": "022P7702318",
+      "cmp_params": {
+       "bcity": "Mumbai",
+       "barea": "Apollo Bunder",
+       "bpncdbd": "400001",
+       "paidstatus": "0",
+       "misc": "4",
+       "ask_mobile": 1
+      },
+      "bilang": ""
+     },
+     "UtaxVvWql044dhsTzhm0V7X4AZLG2AjxnzSLCGJ5pCc%3D",
+     0,
+     "Mumbai/Bademiya-The-Kabab-Restaurant-Behind-Taj-Mahal-Hotel-Near-Cafe-Leopold-Apollo-Bunder/022P7702318_BZDET",
+     "",
+     [
+      "Cozy Ambiance",
+      "Good Crowd",
+      "Delivery"
+     ],
+     [
+      {
+       "tag_name": "Trending",
+       "bg_colour": "#5271dd",
+       "txt_colour": "#FFFFFF",
+       "tag_image": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/trending.svg"
+      }
+     ],
+     "",
+     [],
+     {},
+     [],
+     [],
+     "400001",
+     "",
+     {
+      "cname": "Bademiya The Kabab Restaurant",
+      "docid": "022P7702318",
+      "rating": "4.1",
+      "rating_cnt": "37628",
+      "city": "Mumbai",
+      "dcity": "Mumbai",
+      "area": "Apollo Bunder",
+      "pin": "400001",
+      "ds": "0",
+      "pdg": "",
+      "paid": "0",
+      "jd_verified": "",
+      "guarantee": "",
+      "trust": "0",
+      "verified": "0",
+      "pos": 4,
+      "tag": "Trending",
+      "cta_name": "Order online TP",
+      "call_cta": "2",
+      "deals": "",
+      "jd_cash": "",
+      "isb2b": "",
+      "miscellaneous_flag": "",
+      "distance": "",
+      "core_distance": 8213.9,
+      "search_type": "C",
+      "services": 0,
+      "jdm_eligible": 0,
+      "b2b_flag": "0",
+      "opt": null,
+      "price_count": 0,
+      "catalog_flag": "1024",
+      "state": null,
+      "abbr": "",
+      "ntp": 0,
+      "high_call": 0
+     },
+     1,
+     "43L1PF12",
+     "Mumbai",
+     [],
+     [],
+     "Apollo Bunder",
+     [],
+     0,
+     [],
+     "#007A0C",
+     [],
+     "https://images.jdmagicbox.com/mumbai/g4/022pxx22.xx22.121222150920.m7g4/logo/d65025e7b0df200c5057bcd99ee4f6a0.jpg",
+     0,
+     [
+      {
+       "t": "rating",
+       "d": [
+        {
+         "tag_key": "rating",
+         "tagText": "4.1",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0,
+         "bg": "#007A0C"
+        },
+        {
+         "tag_key": "reviews",
+         "tagText": "37,628 Ratings",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0
+        },
+        {
+         "tag_key": "tag",
+         "tagText": "",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/trending.svg",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "address",
+       "d": [
+        {
+         "tag_key": "address",
+         "tagText": "Tulloch Road Apollo Bunder, Mumbai",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/results_locat_icon.svg",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "oth",
+       "d": [
+        {
+         "tag_key": "timings",
+         "tagText": "<span class=\"font14 fw400 els color339 ml-5\">Opens in </span><span class=\"font14 fw400 color111\">24 mins</span>",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 1
+        },
+        {
+         "tag_key": "price",
+         "tagText": "",
+         "desc": "<div role=\"presentation\" tabindex=\"-1\" class=\"font15 fw400 color111 rupicon\"><span class=\"font14 fw400 color111\"><span class=\"dtcmrupicon\">₹</span> 550 Price for two</span></div>",
+         "icon": "",
+         "link": "",
+         "html": 1
+        }
+       ]
+      }
+     ],
+     [
+      "qskh9k6n1z",
+      "tv857iqmi7",
+      "rfwnb2z49y",
+      "8u76yxsrsx",
+      "fnvfdejpmx"
+     ],
+     "",
+     []
+    ],
+    [
+     "022PXX22.XX22.231204205406.V8G1",
+     "Bademiya",
+     "",
+     "Apollo Bandar Colaba",
+     "18.9233162",
+     "72.8325517",
+     "0",
+     "3.7",
+     "",
+     1,
+     "1",
+     {
+      "status": "<span class=\"font14 fw500 els color339\">Open</span> <span class=\"font14 fw500 color111\"> until 4:00 am</span>",
+      "timing": "11:00 am - 4:00 am"
+     },
+     "Tulloch Road Colaba",
+     1,
+     "Restaurants, North Indian Restaurants",
+     "",
+     "20,616 Ratings",
+     "",
+     "mumbai",
+     "https://content.jdmagicbox.com/v2/comp/mumbai/g1/022pxx22.xx22.231204205406.v8g1/catalogue/bademiya-colaba-mumbai-mughlai-restaurants-yoydra7dok-250.jpg",
+     "20,616",
+     0,
+     {
+      "node1": "",
+      "node2": "",
+      "node3": [
+       "<span class=\"font14 fw400 color111\">80 Years in Business</span>",
+       0,
+       0
+      ],
+      "node1color": []
+     },
+     {},
+     0,
+     0,
+     [],
+     "restaurant",
+     "",
+     [],
+     "",
+     "https://content2.jdmagicbox.com/checkin/mumbai/022PXX22.XX22.231204205406.V8G1.jpg",
+     "https://www.justdial.com/DT-439TPKGYWUH",
+     0,
+     [],
+     "",
+     5,
+     "",
+     "",
+     "",
+     [
+      "https://content.jdmagicbox.com/v2/comp/mumbai/g1/022pxx22.xx22.231204205406.v8g1/catalogue/bademiya-colaba-mumbai-mughlai-restaurants-yoydra7dok.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/g1/022pxx22.xx22.231204205406.v8g1/catalogue/bademiya-colaba-mumbai-mughlai-restaurants-xznhd12mp2.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/g1/022pxx22.xx22.231204205406.v8g1/catalogue/bademiya-colaba-mumbai-mughlai-restaurants-qdgbvuv6o2.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/g1/022pxx22.xx22.231204205406.v8g1/catalogue/bademiya-colaba-mumbai-mughlai-restaurants-gpmltu2gys.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/g1/022pxx22.xx22.231204205406.v8g1/catalogue/bademiya-colaba-mumbai-mughlai-restaurants-j7n7dv99w5.jpg"
+     ],
+     [
+      0,
+      0,
+      0
+     ],
+     "10",
+     "",
+     "Bademiya",
+     "Apollo Bandar Colaba",
+     1,
+     1,
+     {
+      "id": 10331943,
+      "nid": 10331943,
+      "name": "Mughlai Restaurants",
+      "lin": ""
+     },
+     "",
+     "3.7",
+     0,
+     {},
+     {},
+     "0",
+     1,
+     {
+      "did": "022PXX22.XX22.231204205406.V8G1",
+      "cmp_params": {
+       "bcity": "Mumbai",
+       "barea": "Colaba",
+       "bpncdbd": "400005",
+       "paidstatus": "0",
+       "misc": "4",
+       "ask_mobile": 1
+      },
+      "bilang": ""
+     },
+     "lKNWEjdUYNTDkh6cSGnvyLX4AZLG2AjxnzSLCGJ5pCc%3D",
+     0,
+     "Mumbai/Bademiya-Apollo-Bandar-Colaba/022PXX22-XX22-231204205406-V8G1_BZDET",
+     "",
+     [
+      "Mughlai",
+      "North Indian"
+     ],
+     [],
+     "",
+     [],
+     {},
+     [],
+     [],
+     "400005",
+     "",
+     {
+      "cname": "Bademiya",
+      "docid": "022PXX22.XX22.231204205406.V8G1",
+      "rating": "3.7",
+      "rating_cnt": "20616",
+      "city": "Mumbai",
+      "dcity": "mumbai",
+      "area": "Colaba",
+      "pin": "400005",
+      "ds": "0",
+      "pdg": "",
+      "paid": "0",
+      "jd_verified": "",
+      "guarantee": "",
+      "trust": "0",
+      "verified": "0",
+      "pos": 5,
+      "tag": "",
+      "cta_name": "",
+      "call_cta": "0",
+      "deals": "",
+      "jd_cash": "",
+      "isb2b": "",
+      "miscellaneous_flag": "",
+      "distance": "",
+      "core_distance": 8213.91,
+      "search_type": "C",
+      "services": 0,
+      "jdm_eligible": 0,
+      "b2b_flag": "0",
+      "opt": null,
+      "price_count": 0,
+      "catalog_flag": "1024",
+      "state": null,
+      "abbr": "",
+      "ntp": 0,
+      "high_call": 0
+     },
+     0,
+     "439TPKGYWUH",
+     "Mumbai",
+     [],
+     [],
+     "Colaba",
+     [],
+     0,
+     [],
+     "#108723",
+     [],
+     "",
+     0,
+     [
+      {
+       "t": "rating",
+       "d": [
+        {
+         "tag_key": "rating",
+         "tagText": "3.7",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0,
+         "bg": "#108723"
+        },
+        {
+         "tag_key": "reviews",
+         "tagText": "20,616 Ratings",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "address",
+       "d": [
+        {
+         "tag_key": "address",
+         "tagText": "Tulloch Road Colaba, Mumbai",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/results_locat_icon.svg",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "oth",
+       "d": [
+        {
+         "tag_key": "timings",
+         "tagText": "<span class=\"font14 fw500 els color339 ml-5\">Open</span> <span class=\"font14 fw500 color111\"> until 4:00 am</span>",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 1
+        }
+       ]
+      }
+     ],
+     [
+      "yoydra7dok",
+      "xznhd12mp2",
+      "qdgbvuv6o2",
+      "gpmltu2gys",
+      "j7n7dv99w5"
+     ],
+     "",
+     []
+    ],
+    [
+     "022PXX22.XX22.260604114558.W5C1",
+     "Bademiya - Colaba",
+     "",
+     " Dr Shyama Prasad Mukherjee Chowk",
+     "18.9232359",
+     "72.8325226",
+     "0",
+     "3.7",
+     "",
+     1,
+     "1",
+     {
+      "status": "<span class=\"font14 fw400 els color339\">Opens in </span><span class=\"font14 fw400 color111\">9 mins</span>",
+      "timing": "12:00 pm - 3:30 am"
+     },
+     "Tulloch Road Dr Shyama Prasad Mukherjee Chowk",
+     0,
+     "Kabab Centres",
+     "",
+     "24,828 Ratings",
+     "",
+     "mumbai",
+     "https://content.jdmagicbox.com/comp/def_content/kabab-veg/kabab-veg3-kabab-veg-3-fqt12-250.jpg",
+     "24,828",
+     0,
+     {
+      "node1": "",
+      "node2": "",
+      "node3": [
+       "",
+       0,
+       0
+      ],
+      "node1color": []
+     },
+     {},
+     0,
+     0,
+     [],
+     "restaurant",
+     "",
+     [],
+     "",
+     "https://content2.jdmagicbox.com/checkin/mumbai/022PXX22.XX22.260604114558.W5C1.jpg",
+     "https://www.justdial.com/DT-43UYRXLVC87",
+     1,
+     [],
+     "",
+     6,
+     "",
+     "",
+     "",
+     [
+      "https://content.jdmagicbox.com/comp/def_content/kabab-veg/kabab-veg3-kabab-veg-3-fqt12.jpg"
+     ],
+     [
+      0,
+      0,
+      0
+     ],
+     "1",
+     "",
+     "Bademiya - Colaba",
+     " Dr Shyama Prasad Mukherjee Chowk",
+     1,
+     1,
+     {
+      "id": 10284339,
+      "nid": 10284339,
+      "name": "Kabab Centres",
+      "lin": ""
+     },
+     "LGLuodp87s0qqQrnHGuOtswX%2FKtCz5pHRnkDQc7ISG8%3D",
+     "3.7",
+     0,
+     {
+      "img": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/newprot/ctlgjdpay2x.png",
+      "redirection_url": ""
+     },
+     {},
+     "0",
+     1,
+     {
+      "did": "022PXX22.XX22.260604114558.W5C1",
+      "cmp_params": {
+       "bcity": "Mumbai",
+       "barea": "Dr Shyama Prasad Mukherjee Chowk",
+       "bpncdbd": "400001",
+       "paidstatus": "0",
+       "misc": "0",
+       "ask_mobile": 1
+      },
+      "bilang": ""
+     },
+     "UfcHCbO6Khxg8ApkROuZn7X4AZLG2AjxnzSLCGJ5pCc%3D",
+     0,
+     "Mumbai/Bademiya-Colaba-Dr-Shyama-Prasad-Mukherjee-Chowk/022PXX22-XX22-260604114558-W5C1_BZDET",
+     "",
+     [
+      "Kabab Centres"
+     ],
+     [],
+     "",
+     [],
+     {},
+     [],
+     [],
+     "400001",
+     "",
+     {
+      "cname": "Bademiya - Colaba",
+      "docid": "022PXX22.XX22.260604114558.W5C1",
+      "rating": "3.7",
+      "rating_cnt": "24828",
+      "city": "Mumbai",
+      "dcity": "mumbai",
+      "area": "Dr Shyama Prasad Mukherjee Chowk",
+      "pin": "400001",
+      "ds": "0",
+      "pdg": "",
+      "paid": "0",
+      "jd_verified": "",
+      "guarantee": "",
+      "trust": "0",
+      "verified": "0",
+      "pos": 6,
+      "tag": "",
+      "cta_name": "",
+      "call_cta": "2",
+      "deals": "",
+      "jd_cash": "",
+      "isb2b": "",
+      "miscellaneous_flag": "",
+      "distance": "",
+      "core_distance": 8213.9,
+      "search_type": "C",
+      "services": 0,
+      "jdm_eligible": 0,
+      "b2b_flag": "0",
+      "opt": null,
+      "price_count": 0,
+      "catalog_flag": "1024",
+      "state": null,
+      "abbr": "",
+      "ntp": 0,
+      "high_call": 0
+     },
+     1,
+     "43UYRXLVC87",
+     "Mumbai",
+     [],
+     [],
+     "Dr Shyama Prasad Mukherjee Chowk",
+     [],
+     0,
+     [],
+     "#108723",
+     [],
+     "",
+     0,
+     [
+      {
+       "t": "rating",
+       "d": [
+        {
+         "tag_key": "rating",
+         "tagText": "3.7",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0,
+         "bg": "#108723"
+        },
+        {
+         "tag_key": "reviews",
+         "tagText": "24,828 Ratings",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "address",
+       "d": [
+        {
+         "tag_key": "address",
+         "tagText": "Tulloch Road Dr Shyama Prasad Mukherjee Chowk, Mumbai",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/results_locat_icon.svg",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "oth",
+       "d": [
+        {
+         "tag_key": "timings",
+         "tagText": "<span class=\"font14 fw400 els color339 ml-5\">Opens in </span><span class=\"font14 fw400 color111\">9 mins</span>",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 1
+        }
+       ]
+      }
+     ],
+     [
+      "fqt12"
+     ],
+     "",
+     []
+    ],
+    [
+     "022PXX22.XX22.231228160921.A1M4",
+     "Bademiya Family Restaurant",
+     "",
+     " dombivli east",
+     "19.21986",
+     "73.08821",
+     "0",
+     "4",
+     "",
+     1,
+     "1",
+     {
+      "status": "<span class=\"font14 fw500 els color339\">Open</span> <span class=\"font14 fw500 color111\"> until 11:30 pm</span>",
+      "timing": "11:00 am - 11:30 pm"
+     },
+     "Mg Road dombivli east",
+     1,
+     "Restaurants, North Indian Restaurants",
+     "",
+     "1,002 Ratings",
+     "",
+     "mumbai",
+     "https://content.jdmagicbox.com/comp/def_content_category/chinese-restaurants/chinese-4--chinese-restaurants-1-akcx8-250.jpg",
+     "1,002",
+     0,
+     {
+      "node1": "",
+      "node2": "<span class=\"font14 fw400 color111\">₹ 650 Price for two</span>",
+      "node3": [
+       "",
+       0,
+       0
+      ],
+      "node1color": []
+     },
+     {},
+     0,
+     0,
+     [],
+     "restaurant",
+     "",
+     [
+      {
+       "button_text": "Order online",
+       "button_url": [
+        {
+         "url": "https://www.zomato.com/mumbai/bademiya-family-restaurant-dombivali-west-thane/order",
+         "text": "Zomato",
+         "img": "https://akam.cdn.jdmagicbox.com/images/icons/zomato.png",
+         "dsc": null
+        },
+        {
+         "url": "https://www.swiggy.com/restaurants/bademiya-family-restaurant-dombivli-mumbai-1070812",
+         "text": "Swiggy",
+         "img": "https://akam.cdn.jdmagicbox.com/images/icons/swiggy.png",
+         "dsc": ""
+        }
+       ],
+       "button_color": [],
+       "flag": "1",
+       "hide_header": "0",
+       "skipVerif": "0",
+       "tp": "1",
+       "li": "Order online"
+      },
+      {
+       "button_text": "Menu",
+       "button_url": [
+        {
+         "url": "https://www.justdial.com/Thane/Bademiya-Family-Restaurant-Dombivli-East/022PXX22-XX22-231228160921-A1M4_BZDET/menu?source=77&cdata=&native=&version=&hide_header=1&sid=",
+         "text": "",
+         "img": "",
+         "dsc": ""
+        }
+       ],
+       "button_color": [],
+       "flag": "1",
+       "hide_header": "0",
+       "skipVerif": "0",
+       "tp": "0",
+       "li": "Menu"
+      }
+     ],
+     "",
+     "https://content2.jdmagicbox.com/checkin/mumbai/022PXX22.XX22.231228160921.A1M4.jpg",
+     "https://www.justdial.com/DT-43Q64FLMJJY",
+     1,
+     [],
+     "",
+     7,
+     "",
+     "",
+     "",
+     [
+      "https://content.jdmagicbox.com/comp/def_content_category/chinese-restaurants/chinese-4--chinese-restaurants-1-akcx8.jpg",
+      "https://content.jdmagicbox.com/comp/def_content_category/chinese-restaurants/chinese-1--chinese-restaurants-2-so2uk.jpg",
+      "https://content.jdmagicbox.com/comp/def_content_category/chinese-restaurants/chinese-7--chinese-restaurants-1-p4idy.jpg",
+      "https://content.jdmagicbox.com/comp/def_content_category/chinese-restaurants/chinese-3--chinese-restaurants-4-jccug.jpg",
+      "https://content.jdmagicbox.com/comp/def_content_category/chinese-restaurants/chinese-2--chinese-restaurants-3-0ilmr.jpg"
+     ],
+     [
+      0,
+      0,
+      0
+     ],
+     "5",
+     "",
+     "Bademiya Family Restaurant",
+     " dombivli east",
+     1,
+     1,
+     {
+      "id": 11399978,
+      "nid": 11399978,
+      "name": "Moderate Restaurants Rs 500 To Rs 1000",
+      "lin": ""
+     },
+     "ugf9qLPLUneA8fkNqxxRz%2ByAwmpNN2HE38Gamk6dFPw%3D",
+     "4",
+     0,
+     {
+      "img": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/newprot/ctlgjdpay2x.png",
+      "redirection_url": ""
+     },
+     {},
+     "0",
+     1,
+     {
+      "did": "022PXX22.XX22.231228160921.A1M4",
+      "cmp_params": {
+       "bcity": "Thane",
+       "barea": "dombivli east",
+       "bpncdbd": "421201",
+       "paidstatus": "0",
+       "misc": "0",
+       "ask_mobile": 1
+      },
+      "bilang": ""
+     },
+     "IagLM6UiaeWqSeDpnhdbCbX4AZLG2AjxnzSLCGJ5pCc%3D",
+     0,
+     "Thane/Bademiya-Family-Restaurant-Dombivli-East/022PXX22-XX22-231228160921-A1M4_BZDET",
+     "",
+     [
+      "Delivery",
+      "Chinese",
+      "North Indian"
+     ],
+     [],
+     "",
+     [],
+     {},
+     [],
+     [],
+     "421201",
+     "",
+     {
+      "cname": "Bademiya Family Restaurant",
+      "docid": "022PXX22.XX22.231228160921.A1M4",
+      "rating": "4",
+      "rating_cnt": "1002",
+      "city": "Thane",
+      "dcity": "mumbai",
+      "area": "dombivli east",
+      "pin": "421201",
+      "ds": "0",
+      "pdg": "",
+      "paid": "0",
+      "jd_verified": "",
+      "guarantee": "",
+      "trust": "0",
+      "verified": "0",
+      "pos": 7,
+      "tag": "",
+      "cta_name": "Order online TP",
+      "call_cta": "2",
+      "deals": "",
+      "jd_cash": "",
+      "isb2b": "",
+      "miscellaneous_flag": "",
+      "distance": "",
+      "core_distance": 8243.96,
+      "search_type": "C",
+      "services": 0,
+      "jdm_eligible": 0,
+      "b2b_flag": "0",
+      "opt": null,
+      "price_count": 0,
+      "catalog_flag": "1024",
+      "state": null,
+      "abbr": "",
+      "ntp": 0,
+      "high_call": 0
+     },
+     1,
+     "43Q64FLMJJY",
+     "Thane",
+     [],
+     [],
+     "dombivli east",
+     [],
+     0,
+     [],
+     "#108723",
+     [],
+     "",
+     0,
+     [
+      {
+       "t": "rating",
+       "d": [
+        {
+         "tag_key": "rating",
+         "tagText": "4",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0,
+         "bg": "#108723"
+        },
+        {
+         "tag_key": "reviews",
+         "tagText": "1,002 Rating",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "address",
+       "d": [
+        {
+         "tag_key": "address",
+         "tagText": "Mg Road dombivli east, Thane",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/results_locat_icon.svg",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "oth",
+       "d": [
+        {
+         "tag_key": "timings",
+         "tagText": "<span class=\"font14 fw500 els color339 ml-5\">Open</span> <span class=\"font14 fw500 color111\"> until 11:30 pm</span>",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 1
+        },
+        {
+         "tag_key": "price",
+         "tagText": "",
+         "desc": "<div role=\"presentation\" tabindex=\"-1\" class=\"font15 fw400 color111 rupicon\"><span class=\"font14 fw400 color111\"><span class=\"dtcmrupicon\">₹</span> 650 Price for two</span></div>",
+         "icon": "",
+         "link": "",
+         "html": 1
+        }
+       ]
+      }
+     ],
+     [
+      "akcx8",
+      "so2uk",
+      "p4idy",
+      "jccug",
+      "0ilmr"
+     ],
+     "",
+     []
+    ],
+    [
+     "022PXX22.XX22.170327113947.E2D2",
+     "Bade Miyan Biryani House",
+     "",
+     " Seven Bunglow Versova",
+     "19.1287657198",
+     "72.8162911534",
+     "0",
+     "4.3",
+     "",
+     1,
+     "1",
+     {
+      "status": "<span class=\"font14 fw500 color339\">Open 24 Hrs</span>",
+      "timing": "<span class=\"font14 fw500 color339\">Open 24 Hrs</span>"
+     },
+     "Seven Bunglow-Versova",
+     1,
+     "Restaurants, North Indian Restaurants",
+     "",
+     "6 Ratings",
+     "",
+     "mumbai",
+     "https://content.jdmagicbox.com/v2/comp/mumbai/d2/022pxx22.xx22.170327113947.e2d2/catalogue/bade-miyan-biryani-house--seven-bunglow-versova-mumbai-biryani-restaurants-tmbdjkotah-250.jpg",
+     "6",
+     0,
+     {
+      "node1": "",
+      "node2": "<span class=\"font14 fw400 color111\">₹ 600 Price for two</span>",
+      "node3": [
+       "<span class=\"font14 fw400 color111\">9 Years in Business</span>",
+       0,
+       0
+      ],
+      "node1color": []
+     },
+     {},
+     0,
+     0,
+     [],
+     "restaurant",
+     "",
+     [],
+     "",
+     "https://content2.jdmagicbox.com/checkin/mumbai/022PXX22.XX22.170327113947.E2D2.jpg",
+     "https://www.justdial.com/DT-432Q62E62M2",
+     1,
+     [],
+     "",
+     8,
+     "",
+     "",
+     "",
+     [
+      "https://content.jdmagicbox.com/v2/comp/mumbai/d2/022pxx22.xx22.170327113947.e2d2/catalogue/bade-miyan-biryani-house--seven-bunglow-versova-mumbai-biryani-restaurants-tmbdjkotah.jpg"
+     ],
+     [
+      0,
+      0,
+      0
+     ],
+     "1",
+     "",
+     "Bade Miyan Biryani House",
+     " Seven Bunglow Versova",
+     1,
+     1,
+     {
+      "id": 10396757,
+      "nid": 10396757,
+      "name": "Punjabi Restaurants",
+      "lin": ""
+     },
+     "b1ZO5PAGVULJ53h20Tiwjpx6PIzU3Fdmi%2FJ9UuCSUfo%3D",
+     "4.3",
+     0,
+     {
+      "img": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/newprot/ctlgjdpay2x.png",
+      "redirection_url": ""
+     },
+     {},
+     "0",
+     1,
+     {
+      "did": "022PXX22.XX22.170327113947.E2D2",
+      "cmp_params": {
+       "bcity": "Mumbai",
+       "barea": "Seven Bunglow-Versova",
+       "bpncdbd": "400061",
+       "paidstatus": "0",
+       "misc": "0",
+       "ask_mobile": 1
+      },
+      "bilang": ""
+     },
+     "9Cj7%2B%2Fb%2BWHJU0fUBesmY1bX4AZLG2AjxnzSLCGJ5pCc%3D",
+     0,
+     "Mumbai/Bade-Miyan-Biryani-House-Seven-Bunglow-Versova/022PXX22-XX22-170327113947-E2D2_BZDET",
+     "",
+     [
+      "Dine-in",
+      "Punjabi",
+      "Mughlai"
+     ],
+     [],
+     "",
+     [],
+     {},
+     [],
+     [],
+     "400061",
+     "",
+     {
+      "cname": "Bade Miyan Biryani House",
+      "docid": "022PXX22.XX22.170327113947.E2D2",
+      "rating": "4.3",
+      "rating_cnt": "6",
+      "city": "Mumbai",
+      "dcity": "mumbai",
+      "area": "Seven Bunglow-Versova",
+      "pin": "400061",
+      "ds": "0",
+      "pdg": "",
+      "paid": "0",
+      "jd_verified": "",
+      "guarantee": "",
+      "trust": "0",
+      "verified": "0",
+      "pos": 8,
+      "tag": "",
+      "cta_name": "",
+      "call_cta": "2",
+      "deals": "",
+      "jd_cash": "",
+      "isb2b": "",
+      "miscellaneous_flag": "",
+      "distance": "",
+      "core_distance": 8214.5,
+      "search_type": "C",
+      "services": 0,
+      "jdm_eligible": 0,
+      "b2b_flag": "0",
+      "opt": null,
+      "price_count": 0,
+      "catalog_flag": "1024",
+      "state": null,
+      "abbr": "",
+      "ntp": 0,
+      "high_call": 0
+     },
+     1,
+     "432Q62E62M2",
+     "Mumbai",
+     [],
+     [],
+     "Seven Bunglow-Versova",
+     [],
+     0,
+     [],
+     "#007A0C",
+     [],
+     "",
+     0,
+     [
+      {
+       "t": "rating",
+       "d": [
+        {
+         "tag_key": "rating",
+         "tagText": "4.3",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0,
+         "bg": "#007A0C"
+        },
+        {
+         "tag_key": "reviews",
+         "tagText": "6 Ratings",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "address",
+       "d": [
+        {
+         "tag_key": "address",
+         "tagText": "Seven Bunglow-Versova, Mumbai",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/results_locat_icon.svg",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "oth",
+       "d": [
+        {
+         "tag_key": "timings",
+         "tagText": "<span class=\"font14 fw500 color339 ml-5\">Open 24 Hrs</span>",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 1
+        },
+        {
+         "tag_key": "price",
+         "tagText": "",
+         "desc": "<div role=\"presentation\" tabindex=\"-1\" class=\"font15 fw400 color111 rupicon\"><span class=\"font14 fw400 color111\"><span class=\"dtcmrupicon\">₹</span> 600 Price for two</span></div>",
+         "icon": "",
+         "link": "",
+         "html": 1
+        }
+       ]
+      }
+     ],
+     [
+      "tmbdjkotah"
+     ],
+     "",
+     []
+    ],
+    [
+     "022PXX22.XX22.240404200321.K5H2",
+     "Bade Miyan Kitchen",
+     "",
+     "Opposite Sushila Apartment andheri west",
+     "19.13848",
+     "72.8063",
+     "0",
+     "0",
+     "",
+     1,
+     "1",
+     {
+      "status": "<span class=\"font14 fw400 els color339\">Opens at </span><span class=\"font14 fw400 color111\">01:00 PM</span>",
+      "timing": "1:00 pm - 12:00 am"
+     },
+     "Versova andheri west",
+     0,
+     "Restaurants, North Indian Restaurants",
+     "",
+     "0 ",
+     "",
+     "mumbai",
+     "https://content.jdmagicbox.com/comp/def_content/north_indian_restaurants/default-north-indian-restaurants-11-250.jpg",
+     "0",
+     0,
+     {
+      "node1": "",
+      "node2": "<span class=\"font14 fw400 color111\">₹ 550 Price for two</span>",
+      "node3": [
+       "",
+       0,
+       0
+      ],
+      "node1color": []
+     },
+     {},
+     0,
+     0,
+     [],
+     "restaurant",
+     "",
+     [
+      {
+       "button_text": "Order online",
+       "button_url": [
+        {
+         "url": "https://www.zomato.com/mumbai/bade-miyan-kitchen-versova/order",
+         "text": "Zomato",
+         "img": "https://akam.cdn.jdmagicbox.com/images/icons/zomato.png",
+         "dsc": null
+        }
+       ],
+       "button_color": [],
+       "flag": "1",
+       "hide_header": "0",
+       "skipVerif": "0",
+       "tp": "1",
+       "li": "Order online"
+      },
+      {
+       "button_text": "Menu",
+       "button_url": [
+        {
+         "url": "https://www.justdial.com/Mumbai/Bade-Miyan-Kitchen--Opposite-Sushila-Apartment-Andheri-West/022PXX22-XX22-240404200321-K5H2_BZDET/menu?source=77&cdata=&native=&version=&hide_header=1&sid=",
+         "text": "",
+         "img": "",
+         "dsc": ""
+        }
+       ],
+       "button_color": [],
+       "flag": "1",
+       "hide_header": "0",
+       "skipVerif": "0",
+       "tp": "0",
+       "li": "Menu"
+      }
+     ],
+     "",
+     "https://content2.jdmagicbox.com/checkin/mumbai/022PXX22.XX22.240404200321.K5H2.jpg",
+     "https://www.justdial.com/DT-43B671YJ1DG",
+     1,
+     [],
+     "",
+     9,
+     "",
+     "",
+     "",
+     [
+      "https://content.jdmagicbox.com/comp/def_content/north_indian_restaurants/default-north-indian-restaurants-11.jpg"
+     ],
+     [
+      0,
+      0,
+      0
+     ],
+     "1",
+     "",
+     "Bade Miyan Kitchen",
+     "Opposite Sushila Apartment andheri west",
+     1,
+     1,
+     {
+      "id": 11399978,
+      "nid": 11399978,
+      "name": "Moderate Restaurants Rs 500 To Rs 1000",
+      "lin": ""
+     },
+     "8wrRUgvGhZBQp3gsIkCGhtgW%2BrV7%2BQlHRKMeaOMOvY0%3D",
+     "0",
+     0,
+     {
+      "img": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/newprot/ctlgjdpay2x.png",
+      "redirection_url": ""
+     },
+     {},
+     "0",
+     1,
+     {
+      "did": "022PXX22.XX22.240404200321.K5H2",
+      "cmp_params": {
+       "bcity": "Mumbai",
+       "barea": "andheri west",
+       "bpncdbd": "400061",
+       "paidstatus": "0",
+       "misc": "4",
+       "ask_mobile": 1
+      },
+      "bilang": ""
+     },
+     "UeC4h9Tm6jHW4L0SMjg0TbX4AZLG2AjxnzSLCGJ5pCc%3D",
+     0,
+     "Mumbai/Bade-Miyan-Kitchen--Opposite-Sushila-Apartment-Andheri-West/022PXX22-XX22-240404200321-K5H2_BZDET",
+     "",
+     [
+      "Delivery",
+      "North Indian",
+      "Home Delivery"
+     ],
+     [],
+     "",
+     [],
+     {},
+     [],
+     [],
+     "400061",
+     "",
+     {
+      "cname": "Bade Miyan Kitchen",
+      "docid": "022PXX22.XX22.240404200321.K5H2",
+      "rating": "0",
+      "rating_cnt": "0",
+      "city": "Mumbai",
+      "dcity": "mumbai",
+      "area": "andheri west",
+      "pin": "400061",
+      "ds": "0",
+      "pdg": "",
+      "paid": "0",
+      "jd_verified": "",
+      "guarantee": "",
+      "trust": "0",
+      "verified": "0",
+      "pos": 9,
+      "tag": "",
+      "cta_name": "Order online TP",
+      "call_cta": "2",
+      "deals": "",
+      "jd_cash": "",
+      "isb2b": "",
+      "miscellaneous_flag": "",
+      "distance": "",
+      "core_distance": 8213.56,
+      "search_type": "C",
+      "services": 0,
+      "jdm_eligible": 0,
+      "b2b_flag": "0",
+      "opt": null,
+      "price_count": 0,
+      "catalog_flag": "1024",
+      "state": null,
+      "abbr": "",
+      "ntp": 0,
+      "high_call": 0
+     },
+     1,
+     "43B671YJ1DG",
+     "Mumbai",
+     [],
+     [],
+     "andheri west",
+     [],
+     0,
+     [],
+     "#888888",
+     [],
+     "",
+     0,
+     [
+      {
+       "t": "rating",
+       "d": [
+        {
+         "tag_key": "rating",
+         "tagText": "0",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0,
+         "bg": "#888888"
+        },
+        {
+         "tag_key": "reviews",
+         "tagText": "No Rating",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "address",
+       "d": [
+        {
+         "tag_key": "address",
+         "tagText": "Versova andheri west, Mumbai",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/results_locat_icon.svg",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "oth",
+       "d": [
+        {
+         "tag_key": "timings",
+         "tagText": "<span class=\"font14 fw400 els color339 ml-5\">Opens at </span><span class=\"font14 fw400 color111\">01:00 PM</span>",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 1
+        },
+        {
+         "tag_key": "price",
+         "tagText": "",
+         "desc": "<div role=\"presentation\" tabindex=\"-1\" class=\"font15 fw400 color111 rupicon\"><span class=\"font14 fw400 color111\"><span class=\"dtcmrupicon\">₹</span> 550 Price for two</span></div>",
+         "icon": "",
+         "link": "",
+         "html": 1
+        }
+       ]
+      }
+     ],
+     [
+      "11"
+     ],
+     "",
+     []
+    ],
+    [
+     "022PXX22.XX22.220310144107.A5J2",
+     "Bade Miya Beef Shawarma",
+     "",
+     "New Collector Compound Gate No 6 Malwani Malad West",
+     "19.188777777778",
+     "72.819984166667",
+     "0",
+     "0",
+     "",
+     1,
+     "1",
+     {
+      "status": "<span class=\"font14 fw400 els color339\">Opens at </span><span class=\"font14 fw400 color111\">06:00 PM</span>",
+      "timing": "6:00 pm - 11:00 pm"
+     },
+     "Malad West",
+     0,
+     "Shawarma Centres",
+     "",
+     "0 ",
+     "",
+     "mumbai",
+     "https://content.jdmagicbox.com/v2/comp/mumbai/j2/022pxx22.xx22.220310144107.a5j2/catalogue/bade-miya-beef-shawarma-malad-west-mumbai-6xh45r0tze-250.jpg",
+     "0",
+     0,
+     {
+      "node1": "",
+      "node2": "",
+      "node3": [
+       "",
+       0,
+       0
+      ],
+      "node1color": []
+     },
+     {},
+     0,
+     0,
+     [],
+     "restaurant",
+     "",
+     [],
+     "",
+     "https://content2.jdmagicbox.com/checkin/mumbai/022PXX22.XX22.220310144107.A5J2.jpg",
+     "https://www.justdial.com/DT-431KV9ADAP2",
+     1,
+     [],
+     "",
+     10,
+     "",
+     "",
+     "",
+     [
+      "https://content.jdmagicbox.com/v2/comp/mumbai/j2/022pxx22.xx22.220310144107.a5j2/catalogue/bade-miya-beef-shawarma-malad-west-mumbai-6xh45r0tze.jpg",
+      "https://content.jdmagicbox.com/v2/comp/mumbai/t2/022pxx22.xx22.240404200602.y2t2/catalogue/bade-miya-beef-shawarma-malad-west-mumbai-shawarma-centres-qq6jykskl9.jpg"
+     ],
+     [
+      0,
+      0,
+      0
+     ],
+     "2",
+     "",
+     "Bade Miya Beef Shawarma",
+     "New Collector Compound Gate No 6 Malwani Malad West",
+     1,
+     1,
+     {
+      "id": 11273580,
+      "nid": 11273580,
+      "name": "Shawarma Centres",
+      "lin": ""
+     },
+     "qFGZSGSdaythoLP4%2B3TuaDaPPAubTrzOHson7H3rHhQ%3D",
+     "0",
+     0,
+     {
+      "img": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/newprot/ctlgjdpay2x.png",
+      "redirection_url": ""
+     },
+     {},
+     "0",
+     1,
+     {
+      "did": "022PXX22.XX22.220310144107.A5J2",
+      "cmp_params": {
+       "bcity": "Mumbai",
+       "barea": "Malad West",
+       "bpncdbd": "400095",
+       "paidstatus": "0",
+       "misc": "8589934592",
+       "ask_mobile": 1
+      },
+      "bilang": ""
+     },
+     "RnY5K2rNWSgaK4QkfE31XLX4AZLG2AjxnzSLCGJ5pCc%3D",
+     0,
+     "Mumbai/Bade-Miya-Beef-Shawarma-New-Collector-Compound-Gate-No-6-Malwani-Malad-West/022PXX22-XX22-220310144107-A5J2_BZDET",
+     "",
+     [
+      "Shawarma Centres"
+     ],
+     [],
+     "",
+     [],
+     {},
+     [],
+     [],
+     "400095",
+     "",
+     {
+      "cname": "Bade Miya Beef Shawarma",
+      "docid": "022PXX22.XX22.220310144107.A5J2",
+      "rating": "0",
+      "rating_cnt": "0",
+      "city": "Mumbai",
+      "dcity": "mumbai",
+      "area": "Malad West",
+      "pin": "400095",
+      "ds": "0",
+      "pdg": "",
+      "paid": "0",
+      "jd_verified": "",
+      "guarantee": "",
+      "trust": "0",
+      "verified": "0",
+      "pos": 10,
+      "tag": "",
+      "cta_name": "",
+      "call_cta": "2",
+      "deals": "",
+      "jd_cash": "",
+      "isb2b": "",
+      "miscellaneous_flag": "",
+      "distance": "",
+      "core_distance": 8215.56,
+      "search_type": "C",
+      "services": 0,
+      "jdm_eligible": 0,
+      "b2b_flag": "0",
+      "opt": null,
+      "price_count": 0,
+      "catalog_flag": "1024",
+      "state": null,
+      "abbr": "",
+      "ntp": 0,
+      "high_call": 0
+     },
+     1,
+     "431KV9ADAP2",
+     "Mumbai",
+     [],
+     [],
+     "Malad West",
+     [],
+     0,
+     [],
+     "#888888",
+     [],
+     "",
+     0,
+     [
+      {
+       "t": "rating",
+       "d": [
+        {
+         "tag_key": "rating",
+         "tagText": "0",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0,
+         "bg": "#888888"
+        },
+        {
+         "tag_key": "reviews",
+         "tagText": "No Rating",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "address",
+       "d": [
+        {
+         "tag_key": "address",
+         "tagText": "Malad West, Mumbai",
+         "desc": "",
+         "icon": "https://akam.cdn.jdmagicbox.com/images/icontent/newwap/web2022/results_locat_icon.svg",
+         "link": "",
+         "html": 0
+        }
+       ]
+      },
+      {
+       "t": "oth",
+       "d": [
+        {
+         "tag_key": "timings",
+         "tagText": "<span class=\"font14 fw400 els color339 ml-5\">Opens at </span><span class=\"font14 fw400 color111\">06:00 PM</span>",
+         "desc": "",
+         "icon": "",
+         "link": "",
+         "html": 1
+        }
+       ]
+      }
+     ],
+     [
+      "6xh45r0tze",
+      "qq6jykskl9"
+     ],
+     "",
+     []
+    ]
+   ],
+   "rvs": [],
+   "area_card": 0,
+   "bd_route": [],
+   "job_card": []
+  },
+  "nearmeDetails": "",
+  "catid": "",
+  "trending_flag": 0,
+  "trending_nid": "",
+  "keyword": "Bademiya",
+  "keywordln": "Bademiya",
+  "ishotel": 0,
+  "keywordResults": [],
+  "moreKeywords": "0",
+  "totalNumberofResults": "50",
+  "sortingOption": {
+   "basedon": [],
+   "sort": "",
+   "char": "",
+   "morefilter": {
+    "mv": "1102",
+    "mh": "Quick Filters",
+    "md": "",
+    "ms": 1,
+    "d": [
+     {
+      "v": "HR",
+      "d": "Rated 3.5+",
+      "f": 1,
+      "s": 0,
+      "nc": null,
+      "n": null,
+      "e": "6"
+     },
+     {
+      "v": "OPEN",
+      "d": "Open Now",
+      "f": 1,
+      "s": 0,
+      "nc": null,
+      "n": null,
+      "e": "10"
+     }
+    ]
+   },
+   "pricefilter": ""
+  },
+  "ratingsTab": 0,
+  "pncdbd": "",
+  "ismovie": "0",
+  "sort_price_tag": null,
+  "advanced_bd_flag": "0",
+  "sort_price": null,
+  "filter_flag": "0",
+  "image_path": "",
+  "view": "0",
+  "national_catid": 11399649,
+  "median_latitude": "",
+  "median_longitude": "",
+  "seo_dt": {
+   "title": "bademiya in Andheri West, Mumbai near me - Justdial",
+   "desc": "bademiya in Andheri West, Mumbai. Get Phone Numbers, Address, Latest Reviews & Ratings, Photos, Maps , FAQs for bademiya, Andheri West, Mumbai on Justdial",
+   "key": "Bademiya in Andheri West, Mumbai, Reviews, Map, Address, Phone number, Contact Number, local",
+   "isfreetext": 1,
+   "hot_cat_arr": {
+    "id": 11399649,
+    "nid": 11399649,
+    "name": "Fine Dining Restaurants (Rs 1000 To Rs 2000)",
+    "lin": ""
+   },
+   "area": "Andheri West",
+   "link": "https://www.justdial.com/Mumbai/Fine-Dining-Restaurants-Rs-1000-To-Rs-2000-in-Andheri-West/nct-11399649",
+   "no_index": 0,
+   "no_follow": 0,
+   "bi_lang_enable": 1,
+   "bi_lang_arr": [
+    "en",
+    "hi",
+    "bn",
+    "ta",
+    "mr",
+    "gu",
+    "kn"
+   ]
+  },
+  "vpfs": "",
+  "msgpos": "",
+  "areadocids": "",
+  "area_docids_cnt": "",
+  "nofriends": "",
+  "nextdocid": "022PXX22.XX22.210726122229.H2P7,022PXX22.XX22.220611092522.V6F4,022PJD00936,022P7702318,022PXX22.XX22.231204205406.V8G1,022PXX22.XX22.260604114558.W5C1,022PXX22.XX22.231228160921.A1M4,022PXX22.XX22.170327113947.E2D2,022PXX22.XX22.240404200321.K5H2,022PXX22.XX22.220310144107.A5J2,022PXX22.XX22.240404200602.Y2T2,022PXX22.XX22.230111131759.E1H5,022PXX22.XX22.231006020533.I8N3,022PXX22.XX22.260312215636.I4I9,022PXX22.XX22.220618113910.S3L1,022PXX22.XX22.231221220247.X2I2,022PXX22.XX22.230217104215.V7M3,022PXX22.XX22.250620010652.J2Y8,022PXX22.XX22.250619081200.D6E6,022PXX22.XX22.230427185952.H7C5,022PXX22.XX22.230127201632.C5C6,022PXX22.XX22.230403184021.Q2S7,022PXX22.XX22.211124093044.Q1Y7,022PXX22.XX22.250925184257.Y5R4,022PXX22.XX22.240404183913.S5L8,9999P7364.7364.241008203718.Q2B6,9999P2472.2472.220315213241.P4Z4,9999PX217.X217.181219030422.F3H3,9999PX591.X591.120517125558.D6S8,040PXX40.XX40.140609192548.V3P5,040PXX40.XX40.100628150836.N4H4,011PF003264,022PXX22.XX22.110210200326.Q1P1,022PXX22.XX22.210417090247.A8Z9,9999P5242.5242.260902183500.Z7G7,9999P2114.2114.250306190057.J6N4,9999PX364.X364.171129132404.K3D7,0671PX671.X671.210619214649.S4A7,9999PX497.X497.240313212729.P9U1,9999P2114.2114.250624175012.A8Y6,9999P6652.6652.241023205527.A8K5,9999P8352.8352.220318202818.S5G1,0836PX836.X836.251125140806.H2E3,0172PX172.X172.260327094609.K4K4,9999PX341.X341.260211004725.G3F5,9999P5494.5494.220414221211.F9X3,0674PX674.X674.210417232254.L1N1,0674PX674.X674.250306032125.M6W3,9999P2362.2362.240712141351.X7S5,9999P2472.2472.250802163422.J1W1",
+  "nextdocidcount": "10",
+  "scity": "",
+  "pcity": "mumbai",
+  "spincode": "",
+  "amp": "1",
+  "cat_search_type": "",
+  "area_docid_count_hotel": null,
+  "area_last_docid_hotel": null,
+  "adword_pos": null,
+  "adword_snippet": null,
+  "footer": 0,
+  "adword_docids": "",
+  "newadd": "Ad",
+  "newaddcolor": "#ffffff",
+  "newaddtextcolor": "#000000",
+  "viewchange": 0,
+  "view_flag": null,
+  "dsmap": 1,
+  "vertical_banner": {},
+  "srf": "11",
+  "is_lawyer": 0,
+  "grid": 0,
+  "cat_b2b_flag": "",
+  "google_audience": "",
+  "related_cat": 0,
+  "product_carousal": 0,
+  "service_guide": [],
+  "askAstro": 0,
+  "disclaimer": [],
+  "miscellaneous_flag_abbr": "",
+  "addtbl": {
+   "title": "Top Bademiya near Andheri West, Mumbai",
+   "headers": [
+    "Name",
+    "Address",
+    "Listed Categories",
+    "Year of Establishment",
+    "No. of Reviews",
+    "Rating"
+   ],
+   "dt": [
+    [
+     {
+      "d": "Bademiya Restaurant",
+      "u": "Mumbai/Bademiya-Restaurant-Near-Ion-Bandra-West/022PXX22-XX22-210726122229-H2P7_BZDET"
+     },
+     "2 Blue Heaven, B 264, Linking Road, Bandra West, Mumbai - 400050 (Near Ion)",
+     [
+      {
+       "d": "Restaurants",
+       "u": "/Mumbai/Restaurants-in-Andheri-West/nct-10408936"
+      },
+      {
+       "d": "Fine Dining Restaurants (Rs 1000 To Rs 2000)",
+       "u": "/Mumbai/Fine-Dining-Restaurants-Rs-1000-To-Rs-2000-in-Andheri-West/nct-11399649"
+      }
+     ],
+     "2021",
+     "2,067",
+     3.9
+    ],
+    [
+     {
+      "d": "Bademiya",
+      "u": "Mumbai/Bademiya-Near-Shoppers-Stopbandra-West-Bandra-West/022PXX22-XX22-220611092522-V6F4_BZDET"
+     },
+     "Geeta Niketan, Mumbai, Linking Road, Bandra West, Mumbai - 400050 (Near Shoppers Stop,Bandra West)",
+     [
+      {
+       "d": "Restaurants",
+       "u": "/Mumbai/Restaurants-in-Andheri-West/nct-10408936"
+      },
+      {
+       "d": "Caterers",
+       "u": "/Mumbai/Caterers-in-Andheri-West/nct-10083293"
+      },
+      {
+       "d": "Indian Restaurants",
+       "u": "/Mumbai/Indian-Restaurants-in-Andheri-West/nct-10263652"
+      }
+     ],
+     "",
+     "2,320",
+     3.8
+    ],
+    [
+     {
+      "d": "Bademiya The Kabab Restaurant",
+      "u": "Mumbai/Bademiya-The-Kabab-Restaurant-Near-Horniman-Circle-Opposite-State-Central-Library-Fort/022PJD00936_BZDET"
+     },
+     "Botawala Building, Shahid Bagat Road, Fort, Mumbai - 400001 (Near Horniman Circle, Opposite State Central Library)",
+     [
+      {
+       "d": "Restaurants",
+       "u": "/Mumbai/Restaurants-in-Andheri-West/nct-10408936"
+      },
+      {
+       "d": "North Indian Restaurants",
+       "u": "/Mumbai/North-Indian-Restaurants-in-Andheri-West/nct-10339065"
+      },
+      {
+       "d": "Home Delivery Restaurants",
+       "u": "/Mumbai/Home-Delivery-Restaurants-in-Andheri-West/nct-10250324"
+      }
+     ],
+     "1946",
+     "37,628",
+     4.1
+    ],
+    [
+     {
+      "d": "Bademiya The Kabab Restaurant",
+      "u": "Mumbai/Bademiya-The-Kabab-Restaurant-Behind-Taj-Mahal-Hotel-Near-Cafe-Leopold-Apollo-Bunder/022P7702318_BZDET"
+     },
+     "Ram Mansion, Tulloch Road, Apollo Bunder, Mumbai - 400001 (Behind Taj Mahal Hotel, Near Cafe Leopold)",
+     [
+      {
+       "d": "Restaurants",
+       "u": "/Mumbai/Restaurants-in-Andheri-West/nct-10408936"
+      },
+      {
+       "d": "North Indian Restaurants",
+       "u": "/Mumbai/North-Indian-Restaurants-in-Andheri-West/nct-10339065"
+      },
+      {
+       "d": "Home Delivery Restaurants",
+       "u": "/Mumbai/Home-Delivery-Restaurants-in-Andheri-West/nct-10250324"
+      }
+     ],
+     "1946",
+     "37,628",
+     4.1
+    ],
+    [
+     {
+      "d": "Bademiya",
+      "u": "Mumbai/Bademiya-Apollo-Bandar-Colaba/022PXX22-XX22-231204205406-V8G1_BZDET"
+     },
+     "Council Hall, Tulloch Road, Colaba, Mumbai - 400005 (Apollo Bandar)",
+     [
+      {
+       "d": "Restaurants",
+       "u": "/Mumbai/Restaurants-in-Andheri-West/nct-10408936"
+      },
+      {
+       "d": "North Indian Restaurants",
+       "u": "/Mumbai/North-Indian-Restaurants-in-Andheri-West/nct-10339065"
+      },
+      {
+       "d": "Moderate Restaurants Rs 500 To Rs 1000",
+       "u": "/Mumbai/Moderate-Restaurants-Rs-500-To-Rs-1000-in-Andheri-West/nct-11399978"
+      }
+     ],
+     "1946",
+     "20,616",
+     3.7
+    ],
+    [
+     {
+      "d": "Bademiya - Colaba",
+      "u": "Mumbai/Bademiya-Colaba-Dr-Shyama-Prasad-Mukherjee-Chowk/022PXX22-XX22-260604114558-W5C1_BZDET"
+     },
+     "Bademiya, Mumbai, Maharashtra, Tulloch Road, Dr Shyama Prasad Mukherjee Chowk, Mumbai - 400001",
+     [
+      {
+       "d": "Kabab Centres",
+       "u": "/Mumbai/Kabab-Centres-in-Andheri-West/nct-10284339"
+      }
+     ],
+     "",
+     "24,828",
+     3.7
+    ],
+    [
+     {
+      "d": "Bademiya Family Restaurant",
+      "u": "Thane/Bademiya-Family-Restaurant-Dombivli-East/022PXX22-XX22-231228160921-A1M4_BZDET"
+     },
+     "Niranjan Chsl, Mg Road, dombivli east, Thane - 421201",
+     [
+      {
+       "d": "Restaurants",
+       "u": "/Mumbai/Restaurants-in-Andheri-West/nct-10408936"
+      },
+      {
+       "d": "North Indian Restaurants",
+       "u": "/Mumbai/North-Indian-Restaurants-in-Andheri-West/nct-10339065"
+      },
+      {
+       "d": "Chinese Restaurants",
+       "u": "/Mumbai/Chinese-Restaurants-in-Andheri-West/nct-10097618"
+      }
+     ],
+     "",
+     "1,002",
+     4
+    ],
+    [
+     {
+      "d": "Bade Miyan Biryani House",
+      "u": "Mumbai/Bade-Miyan-Biryani-House-Seven-Bunglow-Versova/022PXX22-XX22-170327113947-E2D2_BZDET"
+     },
+     "2,3,4, Ground Floor, Motheresa Naviya Building, J P Road, Seven Bunglow-Versova, Mumbai - 400061",
+     [
+      {
+       "d": "Restaurants",
+       "u": "/Mumbai/Restaurants-in-Andheri-West/nct-10408936"
+      },
+      {
+       "d": "North Indian Restaurants",
+       "u": "/Mumbai/North-Indian-Restaurants-in-Andheri-West/nct-10339065"
+      },
+      {
+       "d": "Home Delivery Restaurants",
+       "u": "/Mumbai/Home-Delivery-Restaurants-in-Andheri-West/nct-10250324"
+      }
+     ],
+     "2017",
+     "6",
+     4.3
+    ],
+    [
+     {
+      "d": "Bade Miyan Kitchen",
+      "u": "Mumbai/Bade-Miyan-Kitchen--Opposite-Sushila-Apartment-Andheri-West/022PXX22-XX22-240404200321-K5H2_BZDET"
+     },
+     "No.301, Anchal Nivas, Patil Gali,  Versova, andheri west, Mumbai - 400061 ( Opposite Sushila Apartment)",
+     [
+      {
+       "d": "Restaurants",
+       "u": "/Mumbai/Restaurants-in-Andheri-West/nct-10408936"
+      },
+      {
+       "d": "North Indian Restaurants",
+       "u": "/Mumbai/North-Indian-Restaurants-in-Andheri-West/nct-10339065"
+      },
+      {
+       "d": "Home Delivery Restaurants",
+       "u": "/Mumbai/Home-Delivery-Restaurants-in-Andheri-West/nct-10250324"
+      }
+     ],
+     "",
+     "0",
+     0
+    ],
+    [
+     {
+      "d": "Bade Miya Beef Shawarma",
+      "u": "Mumbai/Bade-Miya-Beef-Shawarma-New-Collector-Compound-Gate-No-6-Malwani-Malad-West/022PXX22-XX22-220310144107-A5J2_BZDET"
+     },
+     "Malad West, Mumbai - 400095 (New Collector Compound, Gate No 6, Malwani )",
+     [
+      {
+       "d": "Shawarma Centres",
+       "u": "/Mumbai/Shawarma-Centres-in-Andheri-West/nct-11273580"
+      }
+     ],
+     "",
+     "0",
+     0
+    ]
+   ]
+  },
+  "no_friends_rating": 0,
+  "pharmacy_data": {},
+  "not_rateable": 0,
+  "showgptads": 1,
+  "gptadintrvl": 4,
+  "brndname": "bademiya",
+  "mncatnm": "bademiya",
+  "comp_avg_starjd": "0|$|",
+  "avg_rate": "",
+  "avg_txt": "",
+  "lng": "",
+  "h1": "Showing Results for \"Bademiya\" in Andheri West, Mumbai",
+  "nrin": " in ",
+  "microdata": "",
+  "ldJson": {
+   "default": "{\"@context\": \"https://schema.org\",\"@type\": \"WebSite\",\"name\": \"Justdial\",\"url\": \"https://www.justdial.com/\"}",
+   "rating": "",
+   "social": "[{\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"Organization\",\"name\":\"justdial.com\",\"url\":\"https:\\/\\/www.justdial.com\\/\",\"logo\":\"https:\\/\\/akam.cdn.jdmagicbox.com\\/images\\/wap\\/logo\\/jd_144.png\",\"sameAs\":[\"https:\\/\\/www.facebook.com\\/JustDial\",\"https:\\/\\/plus.google.com\\/+justdial\",\"https:\\/\\/www.linkedin.com\\/company\\/justdial\",\"https:\\/\\/www.instagram.com\\/jd_justdial\",\"https:\\/\\/play.google.com\\/store\\/apps\\/details?id=com.justdial.search\",\"https:\\/\\/itunes.apple.com\\/app\\/jd-justdial\\/id624946027?uo=5\",\"https:\\/\\/www.youtube.com\\/user\\/justdialind\"]},{\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"LocalBusiness\",\"name\":\"Bademiya Restaurant\",\"image\":\"https:\\/\\/content.jdmagicbox.com\\/v2\\/comp\\/mumbai\\/p7\\/022pxx22.xx22.210726122229.h2p7\\/catalogue\\/bademiya-restaurant-bandra-west-mumbai-restaurants-5f6knaqrhx.jpg\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Linking Road\",\"addressLocality\":\"Bandra West\",\"addressRegion\":\"Mumbai\",\"postalCode\":\"400050\",\"addressCountry\":\"IN\"},\"url\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/Bademiya-Restaurant-Near-Ion-Bandra-West\\/022PXX22-XX22-210726122229-H2P7_BZDET\"},{\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"LocalBusiness\",\"name\":\"Bademiya\",\"image\":\"https:\\/\\/content.jdmagicbox.com\\/v2\\/comp\\/mumbai\\/f4\\/022pxx22.xx22.220611092522.v6f4\\/catalogue\\/bademiya-mumbai-indian-restaurants-x7h5xmrkuq.jpg\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Linking Road\",\"addressLocality\":\"Bandra West\",\"addressRegion\":\"Mumbai\",\"postalCode\":\"400050\",\"addressCountry\":\"IN\"},\"url\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/Bademiya-Near-Shoppers-StopBandra-West-Bandra-West\\/022PXX22-XX22-220611092522-V6F4_BZDET\"},{\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"LocalBusiness\",\"name\":\"Bademiya The Kabab Restaurant\",\"image\":\"https:\\/\\/content.jdmagicbox.com\\/v2\\/comp\\/mumbai\\/36\\/022pjd00936\\/catalogue\\/bademiya-the-kabab-restaurant-fort-mumbai-restaurants-3h4d7wn.jpg\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Shahid Bagat Road\",\"addressLocality\":\"Fort\",\"addressRegion\":\"Mumbai\",\"postalCode\":\"400001\",\"addressCountry\":\"IN\"},\"url\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/Bademiya-The-Kabab-Restaurant-Near-Horniman-Circle-Opposite-State-Central-Library-Fort\\/022PJD00936_BZDET\"},{\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"LocalBusiness\",\"name\":\"Bademiya The Kabab Restaurant\",\"image\":\"https:\\/\\/content.jdmagicbox.com\\/v2\\/comp\\/mumbai\\/18\\/022p7702318\\/catalogue\\/bademiya-the-kabab-restaurant-apollo-bunder-mumbai-home-delivery-restaurants-qskh9k6n1z.jpg\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Tulloch Road\",\"addressLocality\":\"Apollo Bunder\",\"addressRegion\":\"Mumbai\",\"postalCode\":\"400001\",\"addressCountry\":\"IN\"},\"url\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/Bademiya-The-Kabab-Restaurant-Behind-Taj-Mahal-Hotel-Near-Cafe-Leopold-Apollo-Bunder\\/022P7702318_BZDET\"},{\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"LocalBusiness\",\"name\":\"Bademiya\",\"image\":\"https:\\/\\/content.jdmagicbox.com\\/v2\\/comp\\/mumbai\\/g1\\/022pxx22.xx22.231204205406.v8g1\\/catalogue\\/bademiya-colaba-mumbai-mughlai-restaurants-yoydra7dok.jpg\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Tulloch Road\",\"addressLocality\":\"Colaba\",\"addressRegion\":\"Mumbai\",\"postalCode\":\"400005\",\"addressCountry\":\"IN\"},\"url\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/Bademiya-Apollo-Bandar-Colaba\\/022PXX22-XX22-231204205406-V8G1_BZDET\"},{\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"LocalBusiness\",\"name\":\"Bademiya - Colaba\",\"image\":\"https:\\/\\/content.jdmagicbox.com\\/comp\\/def_content\\/kabab-veg\\/kabab-veg3-kabab-veg-3-fqt12.jpg\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Tulloch Road\",\"addressLocality\":\"Dr Shyama Prasad Mukherjee Chowk\",\"addressRegion\":\"Mumbai\",\"postalCode\":\"400001\",\"addressCountry\":\"IN\"},\"url\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/Bademiya-Colaba-Dr-Shyama-Prasad-Mukherjee-Chowk\\/022PXX22-XX22-260604114558-W5C1_BZDET\"},{\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"LocalBusiness\",\"name\":\"Bademiya Family Restaurant\",\"image\":\"https:\\/\\/content.jdmagicbox.com\\/comp\\/def_content_category\\/chinese-restaurants\\/chinese-4--chinese-restaurants-1-akcx8.jpg\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Mg Road\",\"addressLocality\":\"dombivli east\",\"addressRegion\":\"Thane\",\"postalCode\":\"421201\",\"addressCountry\":\"IN\"},\"url\":\"https:\\/\\/www.justdial.com\\/Thane\\/Bademiya-Family-Restaurant-dombivli-east\\/022PXX22-XX22-231228160921-A1M4_BZDET\"},{\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"LocalBusiness\",\"name\":\"Bade Miyan Biryani House\",\"image\":\"https:\\/\\/content.jdmagicbox.com\\/v2\\/comp\\/mumbai\\/d2\\/022pxx22.xx22.170327113947.e2d2\\/catalogue\\/bade-miyan-biryani-house--seven-bunglow-versova-mumbai-biryani-restaurants-tmbdjkotah.jpg\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"J P Road\",\"addressLocality\":\"Seven Bunglow-Versova\",\"addressRegion\":\"Mumbai\",\"postalCode\":\"400061\",\"addressCountry\":\"IN\"},\"url\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/Bade-Miyan-Biryani-House-Seven-Bunglow-Versova\\/022PXX22-XX22-170327113947-E2D2_BZDET\"},{\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"LocalBusiness\",\"name\":\"Bade Miyan Kitchen\",\"image\":\"https:\\/\\/content.jdmagicbox.com\\/comp\\/def_content\\/north_indian_restaurants\\/default-north-indian-restaurants-11.jpg\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\" Versova\",\"addressLocality\":\"andheri west\",\"addressRegion\":\"Mumbai\",\"postalCode\":\"400061\",\"addressCountry\":\"IN\"},\"url\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/Bade-Miyan-Kitchen-Opposite-Sushila-Apartment-andheri-west\\/022PXX22-XX22-240404200321-K5H2_BZDET\"},{\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"LocalBusiness\",\"name\":\"Bade Miya Beef Shawarma\",\"image\":\"https:\\/\\/content.jdmagicbox.com\\/v2\\/comp\\/mumbai\\/j2\\/022pxx22.xx22.220310144107.a5j2\\/catalogue\\/bade-miya-beef-shawarma-malad-west-mumbai-6xh45r0tze.jpg\",\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Malad West\",\"addressRegion\":\"Mumbai\",\"postalCode\":\"400095\",\"addressCountry\":\"IN\"},\"url\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/Bade-Miya-Beef-Shawarma-New-Collector-Compound-Gate-No-6-Malwani-Malad-West\\/022PXX22-XX22-220310144107-A5J2_BZDET\"}]",
+   "listing": "{\"@context\": \"https://schema.org\",\"@type\": \"ItemList\",\"name\": \"Bademiya in Andheri West,Mumbai\",\"itemListElement\" :[{\"@type\":\"ListItem\",\"position\":1,\"item\":{\"@type\":\"LocalBusiness\",\"name\":\"Bademiya Restaurant\",\"image\":\"https:\\/\\/content.jdmagicbox.com\\/v2\\/comp\\/mumbai\\/p7\\/022pxx22.xx22.210726122229.h2p7\\/catalogue\\/bademiya-restaurant-bandra-west-mumbai-restaurants-5f6knaqrhx.jpg\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Linking Road\",\"addressLocality\":\"Bandra West\",\"addressRegion\":\"Mumbai\",\"postalCode\":\"400050\",\"addressCountry\":\"IN\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":\"19.061747222222\",\"longitude\":\"72.836169444444\"},\"telephone\":\"+(91)-7970012001\",\"priceRange\":\"\\u20b9\\u20b9\\u20b9\",\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"3.9\",\"ratingCount\":2067},\"url\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/Bademiya-Restaurant-Near-Ion-Bandra-West\\/022PXX22-XX22-210726122229-H2P7_BZDET\"}},{\"@type\":\"ListItem\",\"position\":2,\"item\":{\"@type\":\"LocalBusiness\",\"name\":\"Bademiya\",\"image\":\"https:\\/\\/content.jdmagicbox.com\\/v2\\/comp\\/mumbai\\/f4\\/022pxx22.xx22.220611092522.v6f4\\/catalogue\\/bademiya-mumbai-indian-restaurants-x7h5xmrkuq.jpg\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Linking Road\",\"addressLocality\":\"Bandra West\",\"addressRegion\":\"Mumbai\",\"postalCode\":\"400050\",\"addressCountry\":\"IN\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":\"19.0615911\",\"longitude\":\"72.8361729\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"3.8\",\"ratingCount\":2320},\"url\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/Bademiya-Near-Shoppers-StopBandra-West-Bandra-West\\/022PXX22-XX22-220611092522-V6F4_BZDET\"}},{\"@type\":\"ListItem\",\"position\":3,\"item\":{\"@type\":\"LocalBusiness\",\"name\":\"Bademiya The Kabab Restaurant\",\"image\":\"https:\\/\\/content.jdmagicbox.com\\/v2\\/comp\\/mumbai\\/36\\/022pjd00936\\/catalogue\\/bademiya-the-kabab-restaurant-fort-mumbai-restaurants-3h4d7wn.jpg\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Shahid Bagat Road\",\"addressLocality\":\"Fort\",\"addressRegion\":\"Mumbai\",\"postalCode\":\"400001\",\"addressCountry\":\"IN\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":\"18.9311461\",\"longitude\":\"72.8354449\"},\"telephone\":\"+(91)-8655960440\",\"priceRange\":\"\\u20b9\\u20b9\",\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"4.1\",\"ratingCount\":37628},\"url\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/Bademiya-The-Kabab-Restaurant-Near-Horniman-Circle-Opposite-State-Central-Library-Fort\\/022PJD00936_BZDET\"}},{\"@type\":\"ListItem\",\"position\":4,\"item\":{\"@type\":\"LocalBusiness\",\"name\":\"Bademiya The Kabab Restaurant\",\"image\":\"https:\\/\\/content.jdmagicbox.com\\/v2\\/comp\\/mumbai\\/18\\/022p7702318\\/catalogue\\/bademiya-the-kabab-restaurant-apollo-bunder-mumbai-home-delivery-restaurants-qskh9k6n1z.jpg\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Tulloch Road\",\"addressLocality\":\"Apollo Bunder\",\"addressRegion\":\"Mumbai\",\"postalCode\":\"400001\",\"addressCountry\":\"IN\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":\"18.9233880768\",\"longitude\":\"72.8325094655\"},\"telephone\":\"+(91)-9967114179\",\"priceRange\":\"\\u20b9\\u20b9\",\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"4.1\",\"ratingCount\":37628},\"url\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/Bademiya-The-Kabab-Restaurant-Behind-Taj-Mahal-Hotel-Near-Cafe-Leopold-Apollo-Bunder\\/022P7702318_BZDET\"}},{\"@type\":\"ListItem\",\"position\":5,\"item\":{\"@type\":\"LocalBusiness\",\"name\":\"Bademiya\",\"image\":\"https:\\/\\/content.jdmagicbox.com\\/v2\\/comp\\/mumbai\\/g1\\/022pxx22.xx22.231204205406.v8g1\\/catalogue\\/bademiya-colaba-mumbai-mughlai-restaurants-yoydra7dok.jpg\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Tulloch Road\",\"addressLocality\":\"Colaba\",\"addressRegion\":\"Mumbai\",\"postalCode\":\"400005\",\"addressCountry\":\"IN\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":\"18.9233162\",\"longitude\":\"72.8325517\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"3.7\",\"ratingCount\":20616},\"url\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/Bademiya-Apollo-Bandar-Colaba\\/022PXX22-XX22-231204205406-V8G1_BZDET\"}},{\"@type\":\"ListItem\",\"position\":6,\"item\":{\"@type\":\"LocalBusiness\",\"name\":\"Bademiya - Colaba\",\"image\":\"https:\\/\\/content.jdmagicbox.com\\/comp\\/def_content\\/kabab-veg\\/kabab-veg3-kabab-veg-3-fqt12.jpg\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Tulloch Road\",\"addressLocality\":\"Dr Shyama Prasad Mukherjee Chowk\",\"addressRegion\":\"Mumbai\",\"postalCode\":\"400001\",\"addressCountry\":\"IN\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":\"18.9232359\",\"longitude\":\"72.8325226\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"3.7\",\"ratingCount\":24828},\"url\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/Bademiya-Colaba-Dr-Shyama-Prasad-Mukherjee-Chowk\\/022PXX22-XX22-260604114558-W5C1_BZDET\"}},{\"@type\":\"ListItem\",\"position\":7,\"item\":{\"@type\":\"LocalBusiness\",\"name\":\"Bademiya Family Restaurant\",\"image\":\"https:\\/\\/content.jdmagicbox.com\\/comp\\/def_content_category\\/chinese-restaurants\\/chinese-4--chinese-restaurants-1-akcx8.jpg\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Mg Road\",\"addressLocality\":\"dombivli east\",\"addressRegion\":\"Thane\",\"postalCode\":\"421201\",\"addressCountry\":\"IN\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":\"19.21986\",\"longitude\":\"73.08821\"},\"telephone\":\"+(91)-9619129164\",\"priceRange\":\"\\u20b9\\u20b9\",\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"4.0\",\"ratingCount\":1002},\"url\":\"https:\\/\\/www.justdial.com\\/Thane\\/Bademiya-Family-Restaurant-dombivli-east\\/022PXX22-XX22-231228160921-A1M4_BZDET\"}},{\"@type\":\"ListItem\",\"position\":8,\"item\":{\"@type\":\"LocalBusiness\",\"name\":\"Bade Miyan Biryani House\",\"image\":\"https:\\/\\/content.jdmagicbox.com\\/v2\\/comp\\/mumbai\\/d2\\/022pxx22.xx22.170327113947.e2d2\\/catalogue\\/bade-miyan-biryani-house--seven-bunglow-versova-mumbai-biryani-restaurants-tmbdjkotah.jpg\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"J P Road\",\"addressLocality\":\"Seven Bunglow-Versova\",\"addressRegion\":\"Mumbai\",\"postalCode\":\"400061\",\"addressCountry\":\"IN\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":\"19.1287657198\",\"longitude\":\"72.8162911534\"},\"priceRange\":\"\\u20b9\\u20b9\",\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"4.3\",\"ratingCount\":6},\"url\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/Bade-Miyan-Biryani-House-Seven-Bunglow-Versova\\/022PXX22-XX22-170327113947-E2D2_BZDET\"}},{\"@type\":\"ListItem\",\"position\":9,\"item\":{\"@type\":\"LocalBusiness\",\"name\":\"Bade Miyan Kitchen\",\"image\":\"https:\\/\\/content.jdmagicbox.com\\/comp\\/def_content\\/north_indian_restaurants\\/default-north-indian-restaurants-11.jpg\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\" Versova\",\"addressLocality\":\"andheri west\",\"addressRegion\":\"Mumbai\",\"postalCode\":\"400061\",\"addressCountry\":\"IN\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":\"19.13848\",\"longitude\":\"72.8063\"},\"telephone\":\"+(91)-9869389066\",\"priceRange\":\"\\u20b9\\u20b9\",\"url\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/Bade-Miyan-Kitchen-Opposite-Sushila-Apartment-andheri-west\\/022PXX22-XX22-240404200321-K5H2_BZDET\"}},{\"@type\":\"ListItem\",\"position\":10,\"item\":{\"@type\":\"LocalBusiness\",\"name\":\"Bade Miya Beef Shawarma\",\"image\":\"https:\\/\\/content.jdmagicbox.com\\/v2\\/comp\\/mumbai\\/j2\\/022pxx22.xx22.220310144107.a5j2\\/catalogue\\/bade-miya-beef-shawarma-malad-west-mumbai-6xh45r0tze.jpg\",\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Malad West\",\"addressRegion\":\"Mumbai\",\"postalCode\":\"400095\",\"addressCountry\":\"IN\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":\"19.188777777778\",\"longitude\":\"72.819984166667\"},\"url\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/Bade-Miya-Beef-Shawarma-New-Collector-Compound-Gate-No-6-Malwani-Malad-West\\/022PXX22-XX22-220310144107-A5J2_BZDET\"}}]}",
+   "brcrum": "{\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"item\":{\"@id\":\"https:\\/\\/www.justdial.com\\/Mumbai\",\"name\":\"Mumbai\"}},{\"@type\":\"ListItem\",\"position\":2,\"item\":{\"@id\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/bademiya\",\"name\":\"bademiya in Mumbai\"}},{\"@type\":\"ListItem\",\"position\":3,\"item\":{\"@id\":\"https:\\/\\/www.justdial.com\\/Mumbai\\/bademiya-in-Andheri-West\\/nct-\",\"name\":\"bademiya in Andheri West\"}}]}"
+  },
+  "ttlist": 0,
+  "footertab": [],
+  "catessy": {
+   "h2": null,
+   "p": null,
+   "li": null,
+   "span": null,
+   "li2": []
+  },
+  "og_tags": {
+   "type": "company",
+   "site_name": "Justdial",
+   "title": "Bademiya in Andheri West, Mumbai near me - Justdial",
+   "url": "https://www.justdial.com/Mumbai/Fine-Dining-Restaurants-Rs-1000-To-Rs-2000-in-Andheri-West/nct-11399649",
+   "description": "Bademiya in Andheri West, Mumbai. Get Phone Numbers, Address, Latest Reviews & Ratings, Photos, Maps , FAQs for Bademiya, Andheri West, Mumbai on Justdial",
+   "image": "https://akam.cdn.jdmagicbox.com/images/icontent/jd-logo_nw.png",
+   "iosurl": "justdial://Mumbai/Fine-Dining-Restaurants-Rs-1000-To-Rs-2000-in-Andheri-West/nct-11399649",
+   "androidurl": "android-app://com.justdial.search/http/t.justdial.com/Mumbai/Fine-Dining-Restaurants-Rs-1000-To-Rs-2000-in-Andheri-West/nct-11399649"
+  },
+  "canonic": "https://www.justdial.com/Mumbai/Fine-Dining-Restaurants-Rs-1000-To-Rs-2000-in-Andheri-West/nct-11399649",
+  "chainoutlet": 0,
+  "applink": [],
+  "number_mask": 0,
+  "jdgenie_strip": 0,
+  "bddisplayText1": "Get the list of best",
+  "bddisplayText2": "bademiya",
+  "open_abd": 0,
+  "enable_filter": 1,
+  "dpa": "",
+  "bd_data": {},
+  "abd_data": {},
+  "bestDeal": null,
+  "bd_text": "",
+  "bd_text_orig": "",
+  "resultString": "near Andheri West",
+  "bd_msgtype": "",
+  "bd_captiontype": "",
+  "aka": "",
+  "newbddesign": "1",
+  "calltext": "",
+  "bdtextdata": "",
+  "bdtextdatali": "",
+  "paramsText": "&bd7=&magicname=bdgbp",
+  "deal_pos": "",
+  "checkin": "2026-10-28",
+  "checkout": "2026-10-29",
+  "checkpos": "2",
+  "dt_params": {
+   "fromres": "1",
+   "city": "Mumbai",
+   "area": "Andheri West",
+   "pincode": "",
+   "catid": "",
+   "national_catid": "",
+   "catname": "Bademiya"
+  },
+  "bd_params": {
+   "bd": "1",
+   "city": "Mumbai",
+   "area": "Andheri West",
+   "pncdbd": "",
+   "ncatid": "",
+   "search": "bademiya",
+   "case": "sms_email",
+   "frmpg": "lspg"
+  },
+  "cat_pop_revs": {
+   "022PXX22.XX22.210726122229.H2P7": {
+    "name": "Jigar Jain",
+    "rating": "5.0",
+    "review": "Bademiya is located on the same lane besides Shopper`s Stop, just on the corner. They have seating on the first floor, ground floor as well as outdoor seating area\n\nThe ambience is good and the seating is comfy but when it comes to service, the waiter and even the supervisor seemed confused and a steered.\n\nFood range is on a higher side. However food was really good and finally if the wait is worth it, that`s all should matter",
+    "review_date": "2023-02-23 15:03:35",
+    "pop_random": [
+     {
+      "isreview": "2",
+      "hpyreview": "0",
+      "name_enc": "3MnzKsQ8OLsW7BilkM325Q==",
+      "review_date": "2023-02-23 15:03:35",
+      "rating": "5.0",
+      "review": "The best place for non vegetarian freaks but the vegetarian food over here is also mind blowing my all time favorite in vegetarian food is paneer bhurji and veg sheek kabab...highly recommended for rolls as well as they are stuffed with good quantity..",
+      "docid": "022PXX22.XX22.210726122229.H2P7",
+      "reviewer_name": "Jigar Jain"
+     },
+     {
+      "isreview": "2",
+      "hpyreview": "0",
+      "name_enc": "UGZHpRzHuYDchJuNMVxmNg==",
+      "review_date": "2023-02-12 11:53:01",
+      "rating": "5.0",
+      "review": "Bademiya is located on the same lane besides Shopper`s Stop, just on the corner. They have seating on the first floor, ground floor as well as outdoor seating area\n\nThe ambience is good and the seating is comfy but when it comes to service, the waiter and even the supervisor seemed confused and a steered.\n\nFood range is on a higher side. However food was really good and finally if the wait is worth it, that`s all should matter",
+      "docid": "022PXX22.XX22.210726122229.H2P7"
+     }
+    ],
+    "res_idx": 0
+   },
+   "022PJD00936": {
+    "name": "farhan Shakil Shaikh",
+    "rating": "4.0",
+    "review": "When I visit Mumbai I always love to eat non veg then I never forget to visit this restaurant this is street side food I ate there tandoori chicken and sheek kabab fish and rumali roti and also they provide biryani all food is goods and tasty and it`s pocket friendly",
+    "review_date": "2023-02-27 10:53:38",
+    "pop_random": [
+     {
+      "isreview": "2",
+      "hpyreview": "0",
+      "name_enc": "DK5DdYAG37s5W3s6IlxZxLjRR5MeRw5UC+/DjI9eIgU=",
+      "review_date": "2023-02-27 10:53:38",
+      "rating": "4.0",
+      "review": "The king of kababs, barbeque and moglai cuisine. I love to visit this place once a month with my family and friends. This joint has set the standard for great non veg food in mumbai. They are so popular that even foreign vloggers visit this place and try to understand what makes them so great. Do visit them.",
+      "docid": "022PJD00936",
+      "reviewer_name": "farhan Shakil Shaikh"
+     },
+     {
+      "isreview": "2",
+      "hpyreview": "0",
+      "name_enc": "+qygGqjBIy6HvHvyzG27ag==",
+      "review_date": "2023-02-25 17:21:09",
+      "rating": "5.0",
+      "review": "When I visit Mumbai I always love to eat non veg then I never forget to visit this restaurant this is street side food I ate there tandoori chicken and sheek kabab fish and rumali roti and also they provide biryani all food is goods and tasty and it`s pocket friendly",
+      "docid": "022PJD00936"
+     },
+     {
+      "isreview": "2",
+      "hpyreview": "0",
+      "name_enc": "Mn4mP5gwxTAusQr/n8fDtw==",
+      "review_date": "2023-02-25 15:05:32",
+      "rating": "5.0",
+      "review": "This is a popular spot for late-night food cravings. The restaurant is open till late and serves delicious kebabs and grilled food. The ambiance is simple and unpretentious, and the service is quick and efficient. I would recommend the seekh kebabs and the chicken tikka.",
+      "docid": "022PJD00936"
+     }
+    ],
+    "res_idx": 2
+   },
+   "022P7702318": {
+    "name": "Parikshit yadav",
+    "rating": "4.0",
+    "review": "The food is so worth of money  for non veg lovers when I am in mumbai this place is first where I visit it is open till late night 3clock there reshmi kebab and chicken tandoor is so point that the taste bud will be on next level . Chicken kheema masala next level everybody will love this  item . Quality food and staff",
+    "review_date": "2023-02-28 15:59:14",
+    "pop_random": [
+     {
+      "isreview": "2",
+      "hpyreview": "0",
+      "name_enc": "o2QwIWAREsdII2ZllZq17Q==",
+      "review_date": "2023-02-28 15:59:14",
+      "rating": "4.0",
+      "review": "You can actually find one the best kabab paratha  and a variety of chicken  in his shop. I  visited  with my friends on 31st December at night  suddenly we feel hungry and go for dinner there and eat the kabab and chicken Must try it. If you are a seekh Or kabab lover",
+      "docid": "022P7702318",
+      "reviewer_name": "Parikshit yadav"
+     },
+     {
+      "isreview": "2",
+      "hpyreview": "0",
+      "name_enc": "w73rOFKvhl5Q/I0yBatoVg==",
+      "review_date": "2023-02-28 13:01:17",
+      "rating": "4.0",
+      "review": "Bademyaan restaurant located in Apollo Bunder, this place is specially know for there famous seekh kabab its very delicious there are other varieties of food they provide veg and non veg both .the ambience is decent they also serve food directy to your car so you can eat as per your comforts the best thing trey open till midnight around 2 am so whey you are hungry in night you can visit this place best option to get good food at a reasonable price.",
+      "docid": "022P7702318"
+     },
+     {
+      "isreview": "2",
+      "hpyreview": "0",
+      "name_enc": "FAyUiNE97sPxFO4bcr01Ug==",
+      "review_date": "2023-02-27 20:44:11",
+      "rating": "5.0",
+      "review": "The food is so worth of money  for non veg lovers when I am in mumbai this place is first where I visit it is open till late night 3clock there reshmi kebab and chicken tandoor is so point that the taste bud will be on next level . Chicken kheema masala next level everybody will love this  item . Quality food and staff",
+      "docid": "022P7702318"
+     }
+    ],
+    "res_idx": 3
+   }
+  },
+  "data_i_track": [],
+  "common_event_data": {
+   "type": "",
+   "catid": null,
+   "city": "",
+   "nct": null,
+   "vid": "",
+   "wap": true,
+   "pin": "400095",
+   "search_type": "C",
+   "isB2B": "",
+   "bi_lang": ""
+  },
+  "pop_city": {
+   "heading": "Show Results Near You",
+   "heading_subtxt": "Show Results Near You",
+   "pos": 9,
+   "data": [
+    {
+     "city": "Ahmedabad"
+    },
+    {
+     "city": "Bangalore"
+    },
+    {
+     "city": "Chennai"
+    },
+    {
+     "city": "Delhi"
+    },
+    {
+     "city": "Hyderabad"
+    },
+    {
+     "city": "Kolkata"
+    },
+    {
+     "city": "Mumbai"
+    },
+    {
+     "city": "Pune"
+    },
+    {
+     "city": "Jaipur"
+    }
+   ]
+  },
+  "override_bd": 0,
+  "override_bd_arr": [],
+  "lng_arr": {
+   "helpful_txt": "Were our search results helpful?",
+   "yes": "Yes",
+   "no": "No",
+   "rslt_near": "Find Results near you",
+   "dt_loc": "Use Precise Location",
+   "ad_lst": "Additional Listing Information",
+   "lst_rev": "Latest Customer Reviews",
+   "rcd_prod": "Recommended Products For You",
+   "view_prd": "View All Products",
+   "also_srch": "People Also Search For",
+   "job_txt": "Are you looking for job?"
+  },
+  "tbl_hdr": {
+   "cn": "Name",
+   "ad": "Address",
+   "yr": "Year of Establishment",
+   "web": "Website",
+   "am": "Ameneties",
+   "sr": "Services",
+   "rt": "Rating",
+   "rv": "No. of Reviews",
+   "tc": "Listed Categories"
+  },
+  "other": 0,
+  "noarea": 0,
+  "tabs": null,
+  "stringdetail": "Based on,others have rated this,other have rated this,view all,call,message,share,direction,have rated this,your friend,be first among your friends to rate",
+  "stringdetaileng": "Based on,others have rated this,other have rated this,view all,call,message,share,direction,have rated this,your friend,be first among your friends to rate",
+  "core": "&corecat=1",
+  "rhs": 1,
+  "error": {
+   "status": 1,
+   "fallbacksearch": "bademiya",
+   "rstatus": 200,
+   "rurl": "",
+   "inapp": 1
+  },
+  "phpRestime": 1202.39208984375,
+  "search_id": "a4b7d1f4138375d1bf40cc04aff6197bef76c89cf911daa17d4a0216329f85b0",
+  "GPREFETCH": "FALSE"
+ },
+ "bannerData": [],
+ "webLang": "en",
+ "hotky": {},
+ "isFreeTxt": 0,
+ "viaGoogle": 0,
+ "issr": true,
+ "useTabsView": true,
+ "isServerSide": true,
+ "nearmeUrl": 0,
+ "isTablet": false,
+ "viaRfr": "",
+ "query_language": "",
+ "digitalCatalogData": {},
+ "rhsCurated": {}
+}
